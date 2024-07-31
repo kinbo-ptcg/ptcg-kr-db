@@ -1,0 +1,340 @@
+[
+    {
+        "id": "SVD-056",
+        "cardID": "클레초110안력020사이030",
+        "name": "클레스퍼트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "안력",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006037",
+                "debug": "2"
+            },
+            {
+                "number": "056",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-033",
+        "cardID": "클레초120본질글리070",
+        "name": "클레스퍼트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "글리터아이즈",
+                "cost": "(초)(초)",
+                "damage": "70+",
+                "text": "자신의 트래쉬에 「리파」가 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "본질밝히기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "형형색색의 프릴 사이사이로 사이코 파워를 방출하며 시속 200km로 질주한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022033",
+                "debug": "1"
+            },
+            {
+                "number": "073",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022073",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-023",
+        "cardID": "클레풀260테라사이030",
+        "name": "클레스퍼트라 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "사이코볼",
+                "cost": "(초)",
+                "damage": "30+",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "눈부신 시선",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001023",
+                "debug": "1"
+            },
+            {
+                "number": "323",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "takuyoa",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_323.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001323",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVI-026",
+        "cardID": "클레초130사이050",
+        "name": "클레스퍼트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코플래시",
+                "cost": "(초)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_026_P.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-005",
+        "cardID": "클레초110오로030초염060",
+        "name": "클레스퍼트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "오로라게인",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "초염동력",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 프로모 카드   팩  ",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000005",
+                "debug": "3"
+            }
+        ]
+    }
+]

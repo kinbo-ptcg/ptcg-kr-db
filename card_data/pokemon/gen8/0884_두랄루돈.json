@@ -1,0 +1,385 @@
+[
+    {
+        "id": "S1a-058",
+        "cardID": "두랄강130메탈030파워110",
+        "name": "두랄루돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈샤프너",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 (강철) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다."
+            },
+            {
+                "name": "파워빔",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "윤이 나는 금속과도 같은 몸은 가벼우면서도 튼튼하지만 녹슬기 쉽다는 것이 흠이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004058",
+                "debug": "1"
+            },
+            {
+                "number": "135",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kazuma Koda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_135.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016135",
+                "debug": "2"
+            },
+            {
+                "number": "291",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_291.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016291",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SD-028",
+        "cardID": "두랄강220하드개틀010",
+        "name": "두랄루돈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "개틀링슬러그",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하드코트",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SJ-015",
+        "cardID": "두랄강130분노020파워120",
+        "name": "두랄루돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "분노발톱",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "파워블라스트",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "윤이 나는 금속과도 같은 몸은 가벼우면서도 튼튼하지만 녹슬기 쉽다는 것이 흠이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "082",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014082",
+                "debug": "2"
+            },
+            {
+                "number": "015",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-134",
+        "cardID": "두랄드220메탈070와이140",
+        "name": "두랄루돈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(격투)(강철)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "와이드브레이커",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "140",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011048",
+                "debug": "2"
+            },
+            {
+                "number": "325",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_325.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003325",
+                "debug": "2"
+            },
+            {
+                "number": "134",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "드래곤 포켓몬 V GET 챌린지 프로모 카드 팩",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_134.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000134",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-326",
+        "cardID": "두랄드330마천거다220",
+        "name": "두랄루돈 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "거다이분쇄",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "220",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마천루",
+                "text": "이 포켓몬은 특수 에너지가 붙어 있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011049",
+                "debug": "2"
+            },
+            {
+                "number": "326",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_326.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003326",
+                "debug": "1"
+            }
+        ]
+    }
+]

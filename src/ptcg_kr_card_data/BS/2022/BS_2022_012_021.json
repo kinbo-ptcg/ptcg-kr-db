@@ -1,0 +1,770 @@
+[
+    {
+        "id": "SPZ-001",
+        "cardID": "네오물170루미아쿠120",
+        "name": "네오라이트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "네오라이트",
+                "pokedexNumber": 457
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아리턴",
+                "cost": "(물)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "루미너스사인",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "takuyoa",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012001"
+    },
+    {
+        "id": "SPZ-002",
+        "cardID": "메리번070울음000찌릿020",
+        "name": "메리프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메리프",
+                "pokedexNumber": 179
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "솜털이 마찰하여 전기가 모인다. 귀엽다고 맨손으로 만지면 따끔하게 저리고 아프다.",
+        "number": "002",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Miki Tanaka",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012002"
+    },
+    {
+        "id": "SPZ-003",
+        "cardID": "보송번090일렉일렉050",
+        "name": "보송송",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "보송송",
+                "pokedexNumber": 180
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일렉트릭 다이너모",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 (번개) 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "푹신푹신한 털에 전기를 저장한다. 너무 많이 저장해서 여기저기 반질반질하게 털이 빠져 버렸다.",
+        "number": "003",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Pani Kobayashi",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012003"
+    },
+    {
+        "id": "SPZ-004",
+        "cardID": "볼트번120어시030번개130",
+        "name": "볼트로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "볼트로스",
+                "pokedexNumber": 642
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "어시스트 스파크",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "원한다면 자신의 패에서 (번개) 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "넓은 하늘을 날아다니며 여기저기 번개를 떨어뜨려 산불을 내기 때문에 미움받는다.",
+        "number": "004",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012004"
+    },
+    {
+        "id": "SPZ-005",
+        "cardID": "제라번210발톱050썬더190",
+        "name": "제라오라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "제라오라",
+                "pokedexNumber": 807
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "썬더러스볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012005"
+    },
+    {
+        "id": "SPZ-006",
+        "cardID": "제라번320리액060다이240",
+        "name": "제라오라 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "제라오라",
+                "pokedexNumber": 807
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "리액트펄스",
+                "cost": "(번개)(번개)",
+                "damage": "60×",
+                "text": "상대 필드의 특성을 가진 포켓몬의 수 × 60데미지를 준다."
+            },
+            {
+                "name": "다이피스트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "240",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "006",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012006"
+    },
+    {
+        "id": "SPZ-007",
+        "cardID": "제라번270크래190우뢰000",
+        "name": "제라오라 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "제라오라",
+                "pokedexNumber": 807
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "크래시비트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "190",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
+            },
+            {
+                "name": "우뢰스타",
+                "cost": "(번개)(번개)(번개)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 4번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 60데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012007"
+    },
+    {
+        "id": "SPZ-008",
+        "cardID": "찌르번080동료000연속030",
+        "name": "찌르성게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "찌르성게",
+                "pokedexNumber": 871
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "연속 구르기",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "가시 끝에서 전기를 발산한다. 날카로운 이빨로 바위에 붙은 해초를 갉아 먹는다.",
+        "number": "008",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012008"
+    },
+    {
+        "id": "SPZ-009",
+        "cardID": "레벨볼",
+        "name": "레벨볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 HP가 「90」이하인 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012009"
+    },
+    {
+        "id": "SPZ-010",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "010",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012010"
+    },
+    {
+        "id": "SPZ-011",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012011"
+    },
+    {
+        "id": "SPZ-012",
+        "cardID": "구애벨트",
+        "name": "구애벨트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 V」에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "012",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012012"
+    },
+    {
+        "id": "SPZ-013",
+        "cardID": "잎새숨기 판초",
+        "name": "잎새숨기 판초",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「포켓몬 VSTAR・VMAX」는 상대가 패에서 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다."
+        ],
+        "number": "013",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012013"
+    },
+    {
+        "id": "SPZ-014",
+        "cardID": "난천의 패기",
+        "name": "난천의 패기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 8장이 되도록 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012014"
+    },
+    {
+        "id": "SPZ-015",
+        "cardID": "도정",
+        "name": "도정",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬을 2장까지, 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "(포켓몬 또는 기본 에너지 중 어느 한쪽만이라도 좋다.)"
+        ],
+        "number": "015",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012015"
+    },
+    {
+        "id": "SPZ-016",
+        "cardID": "모험가의 발견",
+        "name": "모험가의 발견",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「포켓몬 V」를 3장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Taira Akitsu",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012016"
+    },
+    {
+        "id": "SPZ-017",
+        "cardID": "박사의 연구(마박사)",
+        "name": "박사의 연구(마박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012017"
+    },
+    {
+        "id": "SPZ-018",
+        "cardID": "보스의 지령(태홍)",
+        "name": "보스의 지령(태홍)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012018"
+    },
+    {
+        "id": "SPZ-019",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012019"
+    },
+    {
+        "id": "SPZ-020",
+        "cardID": "용식",
+        "name": "용식",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "020",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012020"
+    },
+    {
+        "id": "SPZ-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SPZ",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPZ.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「제라오라」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPZ_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012021"
+    }
+]

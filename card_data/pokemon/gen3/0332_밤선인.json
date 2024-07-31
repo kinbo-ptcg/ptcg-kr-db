@@ -1,0 +1,386 @@
+[
+    {
+        "id": "bw8v-005",
+        "cardID": "밤선풀090바늘000보복030",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "바늘연사",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "보복",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "상대의 프라이즈의 남은 장수가 1장이라면 60데미지를 추가하고 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "밤이 되면 활동을 시작한다. 사막의 뜨거움에 몹시 지친 먹이를 찾아내어 붙잡는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "Suwama Chiaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy8b-034",
+        "cardID": "밤선악100뒤엎030바늘040",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뒤엎기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40×",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사막의 여행자 뒤를 집단으로 뒤쫓아 가 지쳐 움직이지 못하기를 기다린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "match",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-002",
+        "cardID": "밤선풀110가시030기회000",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가시로 도려내기",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 60데미지를 추가한다."
+            },
+            {
+                "name": "기회노리기",
+                "cost": "(풀)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "밤이 되면 활동을 시작한다. 사막의 뜨거움에 몹시 지친 먹이를 찾아내어 붙잡는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Mina Nakai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-008",
+        "cardID": "밤선풀110뾰족속여000",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "속여때리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. 이 기술의 데미지는 약점, 저항력과 데미지를 받는 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "뾰족뾰족독",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 독으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사막의 여행자 뒤를 집단으로 뒤쫓아 가 지쳐 움직이지 못하기를 기다린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006008",
+                "debug": "1"
+            },
+            {
+                "number": "008",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-011",
+        "cardID": "밤선풀120잡아000가시060",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "잡아끌기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "가시가시펀치",
+                "cost": "(풀)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 (악) 에너지가 붙어 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사막의 여행자 뒤를 집단으로 뒤쫓아 가 지쳐 움직이지 못하기를 기다린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001002",
+                "debug": "2"
+            },
+            {
+                "number": "011",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-002",
+        "cardID": "밤선풀130반격가시110",
+        "name": "밤선인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "밤선인",
+                "pokedexNumber": 332
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가시숏",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반격가시",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사막의 여행자 뒤를 집단으로 쫓아 지쳐 움직이지 못하기를 기다린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "DOM",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006002",
+                "debug": "1"
+            }
+        ]
+    }
+]

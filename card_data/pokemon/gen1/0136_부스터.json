@@ -1,0 +1,882 @@
+[
+    {
+        "id": "bw4-008",
+        "cardID": "부스불090모래020파이060",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "파이어슬래시",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (불꽃) 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "들이마신 숨은 체내에 있는 불꽃 주머니에서 1700도까지 달궈져 불꽃이 된다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Suwama Chiaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8v-007",
+        "cardID": "부스불100복수020히트000",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "복수",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "자신의 트래쉬에 있는 포켓몬의 장수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "히트태클",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "들이마신 공기를 체내의 불꽃 주머니에 보내 1700도의 불꽃으로 내뿜는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-013",
+        "cardID": "부스불090플레히트060",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트브레스",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플레어이펙트",
+                "text": "이 포켓몬이 있는 한 자신의 1진화 포켓몬 전원은 원래 타입에 추가하여 (불꽃) 타입도 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에 불꽃 주머니가 있어 깊이 숨을 들이킨 후 1700도의 불을 내뿜는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_013.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005013",
+                "debug": "1"
+            },
+            {
+                "number": "010",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707010",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp3-006",
+        "cardID": "부스불170타오블레050",
+        "name": "부스터 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "블레이즈볼",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "타오르는 불꽃",
+                "text": "자신의 포켓몬에게 붙어 있는 (불꽃) 에너지 1개를 선택해서 이 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Atsuko Nishida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003006",
+                "debug": "1"
+            },
+            {
+                "number": "007",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "kirisAki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003007",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SMI-001",
+        "cardID": "부스불210히트030홍련190파워020",
+        "name": "부스터 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트스테이지",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "원한다면 자신의 패에 있는 (불꽃) 에너지를 3장까지 자신의 포켓몬에게 원하는 대로 붙인다. "
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "파워버너 GX",
+                "cost": "(불꽃)",
+                "damage": "20x",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지의 장수 × 20데미지를 준다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "095",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+                "artist": "PLANETA Otani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-019",
+        "cardID": "부스불110파워화염090",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워옐",
+                "text": "이 포켓몬이 있는 한, 자신의 필드의 「이브이」에서 진화하는 「포켓몬 GX」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "크게 공기를 들이쉬는 것은 공격 신호다. 1700도의 불꽃이 엄습해 온다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-012",
+        "cardID": "부스불110물기020회오130",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "회오리불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는  (불꽃) 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "크게 공기를 들이쉬는 것은 공격 신호다. 1700도의 불꽃이 엄습해 온다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-018",
+        "cardID": "부스불110작열불꽃100",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃의갈기",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "작열의 각성",
+                "text": "이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 (풀) 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014013",
+                "debug": "2"
+            },
+            {
+                "number": "018",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Eri Yamaki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-052",
+        "cardID": "부스불320다이100",
+        "name": "부스터 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "다이폭발",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "100×",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 에너지의 장수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "004",
+                "prodCode": "SP4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP4.png",
+                "prodName": "소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP4/SP4_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021010001",
+                "debug": "2"
+            },
+            {
+                "number": "052",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-051",
+        "cardID": "부스불210불타020작열120",
+        "name": "부스터 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불타는숨결",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "작열기둥",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007011",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007072",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007073",
+                "debug": "2"
+            },
+            {
+                "number": "051",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-136",
+        "cardID": "부스불130파괴030투지090",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "파괴불",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "투지의맹화",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 ex・V」라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "들이마신 공기를 체내의 불꽃 주머니에 보내 1700도의 불꽃으로 내뿜는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "136",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Ryota Murayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_136.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014136",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-027",
+        "cardID": "부스불110그을000활활120",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "그을리기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "활활",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제2탄",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000027",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs5-08",
+        "cardID": "부스불090불꽃030활활070",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃엄니",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 화상으로 만든다."
+            },
+            {
+                "name": "활활",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "70",
+                "text": "자신의 에너지를 1개 트래쉬한다. 그 뒤 상대의 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에 불꽃 주머니를 가지고 있다. 싸움이 시작되기 직전에는 체온이 900도까지 올라간다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "08",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_8.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005008",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "SV5M-041",
+        "cardID": "무쇠격240리펄060파워200",
+        "name": "무쇠암석 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "무쇠암석",
+                "pokedexNumber": 1022
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리펄서액스",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "파워스탬프",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005041",
+                "debug": "3"
+            },
+            {
+                "number": "087",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005087",
+                "debug": "2"
+            },
+            {
+                "number": "095",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "nagimiso",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005095",
+                "debug": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "SV-P-063",
+        "cardID": "모으초050동료000쥐어020",
+        "name": "모으령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "모으령",
+                "pokedexNumber": 999
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "쥐어박기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "약 1500년 전의 보물 상자 안에서 태어났다. 보물을 훔치려 드는 괘씸한 자의 생기를 흡수한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020020",
+                "debug": "2"
+            },
+            {
+                "number": "063",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2024 코리안리그 시즌1 프로모",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000063",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-021",
+        "cardID": "모으초070연속020",
+        "name": "모으령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "모으령",
+                "pokedexNumber": 999
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "연속 코인 던지기",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "약 1500년 전의 보물 상자 안에서 태어났다. 보물을 훔치려 드는 괘씸한 자의 생기를 흡수한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020021",
+                "debug": "1"
+            },
+            {
+                "number": "068",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Akira Komayama",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020068",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-099",
+        "cardID": "모으초050상자000부딪010",
+        "name": "모으령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "모으령",
+                "pokedexNumber": 999
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "상자에숨기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "약 1500년 전의 보물 상자 안에서 태어났다. 보물을 훔치려 드는 괘씸한 자의 생기를 흡수한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "099",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "OKUBO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001099",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4254 @@
+[
+    {
+        "id": "S10P-001",
+        "cardID": "독침풀210더블040무리000",
+        "name": "독침붕 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "독침붕",
+                "pokedexNumber": 15
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블니들",
+                "cost": "(풀)",
+                "damage": "40×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            },
+            {
+                "name": "무리로찌르기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 필드의 「독침붕 V」의 수 × 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008001"
+    },
+    {
+        "id": "S10P-002",
+        "cardID": "찌리풀050기분000부딪010",
+        "name": "히스이 찌리리공",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "찌리리공",
+                "pokedexNumber": 100,
+                "region": "히스이"
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "기분좋은차지",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "이 기술은 후공 플레이어의 첫 차례에만 사용할 수 있다. 자신의 벤치 포켓몬을 2마리까지 선택해서 덱에서 기본 에너지를 1장씩 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몬스터볼을 닮은 수수께끼의 포켓몬. 흥분하면 배 속에 비축해 둔 전류를 방출하며 크게 웃는다.",
+        "number": "002",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "nagimiso",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008002"
+    },
+    {
+        "id": "S10P-003",
+        "cardID": "붐볼풀090트리000짜증050",
+        "name": "히스이 붐볼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "붐볼",
+                "pokedexNumber": 101,
+                "region": "히스이"
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "트리플드로",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "짜증나는봄",
+                "cost": "(0코)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "신기하게도 표면의 조직이 규토리의 성분과 매우 흡사하다. 화가 났을 때 방출하는 전류는 벼락이 20번 떨어진 것에 필적한다.",
+        "number": "003",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008003"
+    },
+    {
+        "id": "S10P-004",
+        "cardID": "귀뚤풀060걸어010",
+        "name": "귀뚤뚜기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "귀뚤뚜기",
+                "pokedexNumber": 401
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "걸어 넘어뜨리기",
+                "cost": "(풀)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "더듬이가 서로 부딪히면 딩동딩동 실로폰 같은 음색을 연주한다.",
+        "number": "004",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008004"
+    },
+    {
+        "id": "S10P-005",
+        "cardID": "귀뚤풀090넘치베어050",
+        "name": "귀뚤톡크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "귀뚤톡크",
+                "pokedexNumber": 402
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(풀)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "넘치는 선율",
+                "text": "이 포켓몬이 있는 한, 자신의 필드의 (풀) 포켓몬(「귀뚤톡크」는 제외) 전원의 최대 HP는 각각 「40」커진다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "단검과 같은 팔로 소리를 낸다. 멜로디가 개체에 따라 다르기에 취향에 맞는 소리를 찾는 것도 재미있다.",
+        "number": "005",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008005"
+    },
+    {
+        "id": "S10P-006",
+        "cardID": "나몰풀060달려010",
+        "name": "나몰빼미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "달려들기",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "우아한 날개로 소리 없이 난다. 단검에 비견되는 예리한 깃털을 정교하게 날리는 기술을 갖추고 있다.",
+        "number": "006",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "kawayoo",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008006"
+    },
+    {
+        "id": "S10P-007",
+        "cardID": "빼미풀090홰치030날카060",
+        "name": "빼미스로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "빼미스로우",
+                "pokedexNumber": 723
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "날카로운날개",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "햇빛을 받으며 힘을 비축하는 일이 잦다. 냉랭한 기후가 원인인 것으로 추측되나 양 날개에 숨겨진 칼날깃의 예리함에는 변화가 없다.",
+        "number": "007",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "0313",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008007"
+    },
+    {
+        "id": "S10P-008",
+        "cardID": "두루풀050갉기030",
+        "name": "두루지벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "두루지벌레",
+                "pokedexNumber": 824
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "언제나 부지런히 정보를 모으기 때문에 똑똑하다. 단, 힘은 그저 그렇다.",
+        "number": "008",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Asako Ito",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008008"
+    },
+    {
+        "id": "S10P-009",
+        "cardID": "레돔풀080배리030",
+        "name": "레돔벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "레돔벌레",
+                "pokedexNumber": 825
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "배리어어택",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "거의 움직이지 않지만 살아 있다. 식음을 전폐하고 껍질에 은둔하는 동안 초능력에 눈을 뜬 모양이다.",
+        "number": "009",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kyoko Umemoto",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008009"
+    },
+    {
+        "id": "S10P-010",
+        "cardID": "이올풀110재밍미스030",
+        "name": "이올브",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "이올브",
+                "pokedexNumber": 826
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "미스터리 웨이브",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "재밍 어태치",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 트래쉬에서 에너지를 3장까지 선택해서 상대의 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "똑똑한 포켓몬으로 유명하다. 커다란 두뇌는 강력한 사이코 파워를 가졌다는 증거다.",
+        "number": "010",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "yuu",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008010"
+    },
+    {
+        "id": "S10P-011",
+        "cardID": "포니불060불꽃020",
+        "name": "포니타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "포니타",
+                "pokedexNumber": 77
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃 꼬리",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "초원에 무리를 이루며 산다. 갓 태어난 새끼에게는 불로 된 갈기가 없으나 1시간 정도 지나면 갖춰진다.",
+        "number": "011",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Jiro Sasumo",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008011"
+    },
+    {
+        "id": "S10P-012",
+        "cardID": "날쌩불100화염030플레050",
+        "name": "날쌩마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "날쌩마",
+                "pokedexNumber": 78
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "플레임서클",
+                "cost": "(불꽃)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "불타는 갈기를 휘날리며 시속 240km의 속도로 넓은 초원을 달려나간다.",
+        "number": "012",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Ligton",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008012"
+    },
+    {
+        "id": "S10P-013",
+        "cardID": "코터불110밟기030화염130",
+        "name": "코터스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "코터스",
+                "pokedexNumber": 324
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "등껍질 속에서 석탄을 태워 에너지로 사용한다. 위급할 때는 까만 매연을 뿜어낸다.",
+        "number": "013",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008013"
+    },
+    {
+        "id": "S10P-014",
+        "cardID": "히드불220열로030마그090",
+        "name": "히드런 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "히드런",
+                "pokedexNumber": 485
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열로그을리기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "마그마폴",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90+",
+                "text": "필드에 자신의 스타디움이 나와 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "014",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008014"
+    },
+    {
+        "id": "S10P-015",
+        "cardID": "히드불330마그다이180",
+        "name": "히드런 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "히드런",
+                "pokedexNumber": 485
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "다이폭열",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "180",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그마게인",
+                "text": "필드에 자신의 스타디움이 나와 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬의 HP를 「50」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "RRR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008015"
+    },
+    {
+        "id": "S10P-016",
+        "cardID": "고라물060멍때000부딪020",
+        "name": "고라파덕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "고라파덕",
+                "pokedexNumber": 54
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "멍때리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 이 포켓몬의 HP를 「10」회복한다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 두통에 시달린다. 두통이 강해지면 숨겨진 힘이 의사와 상관없이 폭발하기에 두통을 완화할 방법을 모색 중이다.",
+        "number": "016",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "GOSSAN",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008016"
+    },
+    {
+        "id": "S10P-017",
+        "cardID": "골덕물100아쿠050휩쓰000",
+        "name": "골덕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "골덕",
+                "pokedexNumber": 55
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아에지",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "휩쓰는다이브",
+                "cost": "(물)(물)(무색)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬과 붙어 있는 모든 카드를 트래쉬한다. (배틀필드에 다음 포켓몬을 내보내는 것은 자신부터이다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "잔잔히 흐르는 강에 산다. 긴 팔다리로 물을 헤치며 우아하게 헤엄친다.",
+        "number": "017",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "otumami",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008017"
+    },
+    {
+        "id": "S10P-018",
+        "cardID": "사랑물070페어000몸통030",
+        "name": "사랑동이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "사랑동이",
+                "pokedexNumber": 370
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "페어룩",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "서로의 플레이어는 각각의 덱에서 카드를 2장 앞면을 보여주면서 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "따뜻한 바다의 산호초가 서식지다. 코산호의 가지 사이에서 자는 것을 특히 좋아한다.",
+        "number": "018",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008018"
+    },
+    {
+        "id": "S10P-019",
+        "cardID": "레지물130레지000블리100",
+        "name": "레지아이스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지아이스",
+                "pokedexNumber": 378
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "레지게이트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "블리자드 바인드",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 「포켓몬 V」는 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "영하 200도까지 내려가는 냉기를 조종해 다가오는 자를 순식간에 얼려버린다.",
+        "number": "019",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aoki",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008019"
+    },
+    {
+        "id": "S10P-020",
+        "cardID": "깝질물070물뿌010파도030",
+        "name": "깝질무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깝질무",
+                "pokedexNumber": 422
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "파도타기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먹이에 따라 모습이 변한다고도 전해지지만 진실은 아직 밝혀지지 않았다.",
+        "number": "020",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008020"
+    },
+    {
+        "id": "S10P-021",
+        "cardID": "글레물110프로030아이120",
+        "name": "글레이시아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글레이시아",
+                "pokedexNumber": 471
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "프로스트월",
+                "cost": "(물)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬은 진화 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "아이스 블라스트",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체온을 급격히 내릴 수 있는 능력을 가졌다. 대기를 얼려서 보석처럼 반짝이는 세빙이 흩날리는 현상을 일으킨다.",
+        "number": "021",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "saino misaki",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008021"
+    },
+    {
+        "id": "S10P-022",
+        "cardID": "펄기물220영역000하이200",
+        "name": "오리진 펄기아 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "영역지배",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 스타디움을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "하이드로 브레이크",
+                "cost": "(물)(물)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "022",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aky CG Works",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008022"
+    },
+    {
+        "id": "S10P-023",
+        "cardID": "펄기물280스타공간060",
+        "name": "오리진 펄기아 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "공간의너울",
+                "cost": "(물)(물)",
+                "damage": "60+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타포털",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 트래쉬에서 (물) 에너지를 3장까지 선택해서 자신의 (물) 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "023",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aky CG Works",
+        "rarity": "RRR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008023"
+    },
+    {
+        "id": "S10P-024",
+        "cardID": "꽁어물070고드040",
+        "name": "꽁어름",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꽁어름",
+                "pokedexNumber": 712
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "고드름",
+                "cost": "(물)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "만년설에 뒤덮인 산악 지대에 서식한다. 대기 중의 수분을 얼려서 만든 얼음 투구를 써서 몸을 지킨다.",
+        "number": "024",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008024"
+    },
+    {
+        "id": "S10P-025",
+        "cardID": "크레물140두툼빙산100",
+        "name": "히스이 크레베이스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "크레베이스",
+                "pokedexNumber": 713,
+                "region": "히스이"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "빙산바람",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "100+",
+                "text": "필드에 스타디움이 나와 있다면 120데미지를 추가한다. 그 뒤, 그 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "두툼한 얼음",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "아래턱을 감싸고 있는 얼음으로 된 장갑은 강철보다 단단하여 암석을 손쉽게 부서뜨린다. 깊이 쌓인 눈을 가로지르며 험한 산길을 맹진한다.",
+        "number": "025",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008025"
+    },
+    {
+        "id": "S10P-026",
+        "cardID": "토게초050행복구르010",
+        "name": "토게피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "토게피",
+                "pokedexNumber": 175
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "행복터치",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 「10」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "알을 닮아서 산이나 들에서 마주치면 알이 움직인다고 착각하는 이가 많다. 순수한 미소에는 마음을 치유하는 효과가 있다.",
+        "number": "026",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008026"
+    },
+    {
+        "id": "S10P-027",
+        "cardID": "토게초080행복요정030",
+        "name": "토게틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게틱",
+                "pokedexNumber": 176
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "행복보이스",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 「30」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음 착한 사람에게 행복을 가져다주기 위해 모습을 드러낸다고 전해진다.",
+        "number": "027",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Tika Matsuno",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008027"
+    },
+    {
+        "id": "S10P-028",
+        "cardID": "토게초130행복매지120",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "행복샤인",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 「90」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "분쟁이나 다툼이 일어나는 장소에는 모습을 드러내지 않는다. 최근에는 거의 보이지 않는다.",
+        "number": "028",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "sui",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008028"
+    },
+    {
+        "id": "S10P-029",
+        "cardID": "유크초070지혜000사이020",
+        "name": "유크시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "유크시",
+                "pokedexNumber": 480
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "지혜의인도",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사이코숏",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "유크시의 탄생에 의해 사람들의 생활을 풍요롭게 하는 지혜가 생겨났다고 전해진다.",
+        "number": "029",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "sui",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008029"
+    },
+    {
+        "id": "S10P-030",
+        "cardID": "엠라초070의식사념030",
+        "name": "엠라이트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "엠라이트",
+                "pokedexNumber": 481
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사념의박치기",
+                "cost": "(초)(초)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "의식의장막",
+                "text": "자신의 필드에 「유크시」「아그놈」이 있다면 자신의 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "호수의 밑바닥에서 잠자고 있지만 영혼이 빠져나가서 수면을 날아다닌다고 전해진다.",
+        "number": "030",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "zig",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008030"
+    },
+    {
+        "id": "S10P-031",
+        "cardID": "아그초070사이030",
+        "name": "아그놈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "아그놈",
+                "pokedexNumber": 482
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코트립",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "유크시, 엠라이트, 아그놈은 같은 알에서 태어난 포켓몬이라 여겨지고 있다.",
+        "number": "031",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Taira Akitsu",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008031"
+    },
+    {
+        "id": "S10P-032",
+        "cardID": "오케초060변덕030",
+        "name": "오케이징",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "오케이징",
+                "pokedexNumber": 686
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "변덕공격",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.",
+        "number": "032",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "miki kudo",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008032"
+    },
+    {
+        "id": "S10P-033",
+        "cardID": "칼라초110싱크030염동080",
+        "name": "칼라마네로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "칼라마네로",
+                "pokedexNumber": 687
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "싱크로키네시스",
+                "cost": "(초)",
+                "damage": "30+",
+                "text": "서로 패를 보여주고 그 중에 각각 같은 이름의 카드가 있다면 90데미지를 추가한다."
+            },
+            {
+                "name": "염동탄",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "발광체의 빛을 보면 순식간에 최면 상태가 되어 칼라마네로에게 조종당한다.",
+        "number": "033",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008033"
+    },
+    {
+        "id": "S10P-034",
+        "cardID": "마크격080속이020",
+        "name": "마크탕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마크탕",
+                "pokedexNumber": 296
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "속이다",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "강한 마크탕을 키우기 위해 트레이너들이 전통적으로 만드는 전골 요리가 있다고 한다.",
+        "number": "034",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Shigenori Negishi",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008034"
+    },
+    {
+        "id": "S10P-035",
+        "cardID": "하리격140밀어040머슬100",
+        "name": "하리뭉",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "하리뭉",
+                "pokedexNumber": 297
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "밀어뜨리기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "머슬뺨때리기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "뚱뚱하고 큰 하리뭉이 다 강한 것은 아니다. 작지만 몸이 가볍고 기술이 뛰어난 하리뭉도 있다.",
+        "number": "035",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Scav",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008035"
+    },
+    {
+        "id": "S10P-036",
+        "cardID": "레지격130레지000기가140",
+        "name": "레지락",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지락",
+                "pokedexNumber": 377
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "레지게이트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "기가임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "140",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸의 모든 부분이 바위로 되어 있다. 몸이 깎이더라도 스스로 바위를 붙여서 치료한다.",
+        "number": "036",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008036"
+    },
+    {
+        "id": "S10P-037",
+        "cardID": "트리격130HP000지진170",
+        "name": "트리토돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "트리토돈",
+                "pokedexNumber": 423
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "HP회복",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 이 포켓몬의 HP를 모두 회복한다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "170",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹이를 찾아 육지에도 올라온다. 트리토돈이 지나간 자리에는 끈적끈적한 점액이 남아 있다.",
+        "number": "037",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008037"
+    },
+    {
+        "id": "S10P-038",
+        "cardID": "멜리격090득템000파워080",
+        "name": "멜리시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "멜리시",
+                "pokedexNumber": 703
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "득템",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "파워젬",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸에 묻어 있는 보석에서 강한 에너지 빔을 쏘아 덤벼드는 적을 한꺼번에 날려버린다.",
+        "number": "038",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Tika Matsuno",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008038"
+    },
+    {
+        "id": "S10P-039",
+        "cardID": "모크격160파고030다이000",
+        "name": "히스이 모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724,
+                "region": "히스이"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파고드는 갈고리손톱",
+                "cost": "(0코)",
+                "damage": "30×",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "다이렉트애로",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 80데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다.",
+        "number": "039",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008039"
+    },
+    {
+        "id": "S10P-040",
+        "cardID": "사마격210풀베040큰도150",
+        "name": "사마자르 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "큰도끼슬래시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "040",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008040"
+    },
+    {
+        "id": "S10P-041",
+        "cardID": "사마격270브레120램페030",
+        "name": "사마자르 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "브레이크액스",
+                "cost": "(격투)(무색)",
+                "damage": "120",
+                "text": "상대 벤치의 「포켓몬 V」 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "램페이지스타",
+                "cost": "(격투)",
+                "damage": "30×",
+                "text": "자신의 트래쉬에 있는 포켓몬의 장수 × 30데미지를 준다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "041",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008041"
+    },
+    {
+        "id": "S10P-042",
+        "cardID": "포푸악070할퀴010발톱030",
+        "name": "히스이 포푸니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "포푸니",
+                "pokedexNumber": 215,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다.",
+        "number": "042",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008042"
+    },
+    {
+        "id": "S10P-043",
+        "cardID": "포푸악120캐리발톱060",
+        "name": "히스이 포푸니크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "캐리 클라임",
+                "text": "이 포켓몬이 벤치에 있는 한, 자신의 배틀 포켓몬의 후퇴에 필요한 에너지는 2개만큼 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없다. 무리를 이루지 않고 고독함을 즐긴다.",
+        "number": "043",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008043"
+    },
+    {
+        "id": "S10P-044",
+        "cardID": "포푸악190독발000페이080",
+        "name": "히스이 포푸니크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "페이탈클로",
+                "cost": "(악)(무색)",
+                "damage": "80×",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "044",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008044"
+    },
+    {
+        "id": "S10P-045",
+        "cardID": "다크악120악몽030칠흑130",
+        "name": "다크라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "악몽",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "칠흑의칼날",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "달이 없는 밤. 마을 사람 전원이 악몽을 꾼 사건이 있었다. 악몽 속에 나타난 포켓몬이 이 포켓몬이라는 마을 사람들의 증언이 있다.",
+        "number": "045",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Shin Nagasawa",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008045"
+    },
+    {
+        "id": "S10P-046",
+        "cardID": "방패강100단단030진검100",
+        "name": "방패톱스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "방패톱스",
+                "pokedexNumber": 410
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "단단한박치기",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "진검승부",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "태고의 지층에서 화석이 발견되었지만 얼굴 이외의 부분이 발견된 적은 없다.",
+        "number": "046",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Yuka Morii",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008046"
+    },
+    {
+        "id": "S10P-047",
+        "cardID": "바리강160원시아이180",
+        "name": "바리톱스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "바리톱스",
+                "pokedexNumber": 411
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언 태클",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원시의 요새",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 「포켓몬 V」로부터 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "약 1억 년 전의 포켓몬이다. 무섭게 튼튼한 얼굴은 강철 이상의 경도를 가졌다.",
+        "number": "047",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Yuya Oka",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008047"
+    },
+    {
+        "id": "S10P-048",
+        "cardID": "동미강060메탈020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈프레스",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "불가사의한 에너지로 공중에 떠 있다. 등에 각인된 문양은 신성한 것으로 여겨지며 오래된 묘지 등에서 종종 그려지기도 한다.",
+        "number": "048",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008048"
+    },
+    {
+        "id": "S10P-049",
+        "cardID": "동탁강130내열한방100",
+        "name": "동탁군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "동탁군",
+                "pokedexNumber": 437
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "내열",
+                "text": "이 포켓몬은 상대의 (불꽃) 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "비구름을 부르는 신이라 불린다. 화나게 하면 종소리를 닮은 불길한 소리로 위협한다.",
+        "number": "049",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Shinji Kanda",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008049"
+    },
+    {
+        "id": "S10P-050",
+        "cardID": "마기강090기어020기계060",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기어커터",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "기계장치빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 60데미지를 추가하고 상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "약 500년 전 과학자에 의해 만들어졌다. 소울하트라고 불리는 파츠가 본체다.",
+        "number": "050",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Rianti Hidayat",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008050"
+    },
+    {
+        "id": "S10P-051",
+        "cardID": "레지드130용의거대160",
+        "name": "레지드래고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지드래고",
+                "pokedexNumber": 895
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "거대한엄니",
+                "cost": "(풀)(불꽃)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "용의 보배",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 패가 4장이 되도록 덱을 뽑는다. 이 차례에 이미 다른 「용의 비보」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "팔의 형태가 고대 드래곤포켓몬의 머리라는 학설도 있지만 증명된 바는 없다.",
+        "number": "051",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "DOM",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008051"
+    },
+    {
+        "id": "S10P-052",
+        "cardID": "내루무110침침030",
+        "name": "내루미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내루미",
+                "pokedexNumber": 108
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "침",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "끈적끈적한 타액에 접촉한 후 그대로 방치하면 굉장히 가렵고 급기야 멈출 수 없게 된다.",
+        "number": "052",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008052"
+    },
+    {
+        "id": "S10P-053",
+        "cardID": "내룸무140혀로050헤비130",
+        "name": "내룸벨트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "내룸벨트",
+                "pokedexNumber": 463
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "혀로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸의 몇 배의 길이로 늘어나는 신비한 혀를 가졌다. 그 비밀은 아직 밝혀지지 않았다.",
+        "number": "053",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Shibuzoh.",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008053"
+    },
+    {
+        "id": "S10P-054",
+        "cardID": "이브무050공명몸통020",
+        "name": "이브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "공명진화",
+                "text": "자신의 차례에 자신의 다른 「이브이」가 패에서 내보낸 포켓몬으로 진화했다면 1번 사용할 수 있다. 이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택해서 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "주위의 환경에 맞춰서 몸의 구조를 바꿔나가는 능력의 소유자다.",
+        "number": "054",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008054"
+    },
+    {
+        "id": "S10P-055",
+        "cardID": "깜지무070먹이000발톱020",
+        "name": "깜지곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깜지곰",
+                "pokedexNumber": 216
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "먹이줍기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 자신의 트래쉬에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "발톱세우기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "손바닥에 밴 달콤한 꿀을 핥는 버릇이 있다. 세꿀버리가 모은 꿀을 그들의 벌집에서 가로채어 자신의 것으로 삼는 대담함을 자랑한다.",
+        "number": "055",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Nagomi Nijo",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008055"
+    },
+    {
+        "id": "S10P-056",
+        "cardID": "링곰무130연속040괴력100",
+        "name": "링곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "링곰",
+                "pokedexNumber": 217
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "연속뺨때리기",
+                "cost": "(무색)",
+                "damage": "40×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 준다."
+            },
+            {
+                "name": "괴력",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "히스이 땅에 한기가 뒤덮이는 계절이 오면 좋아하는 나무열매를 모으러 산을 배회한다. 공복이라 신경이 예민하여 매우 흉포하다.",
+        "number": "056",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Teeziro",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008056"
+    },
+    {
+        "id": "S10P-057",
+        "cardID": "다투무180피트000거구200",
+        "name": "다투곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "다투곰",
+                "pokedexNumber": 901
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "피트헌트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 원하는 카드를 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "거구돌입",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "히스이 땅에 펼쳐진 습지의 토양 덕분에 튼튼한 몸과 함께, 이탄을 자유롭게 다루는 새로운 재주를 익히게 된 것으로 추측된다.",
+        "number": "057",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "nagimiso",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008057"
+    },
+    {
+        "id": "S10P-058",
+        "cardID": "하랑무210주문사이030",
+        "name": "하랑우탄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "하랑우탄",
+                "pokedexNumber": 765
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "주문하기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「포켓몬의 도구」를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "058",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Uta",
+        "rarity": "RR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008058"
+    },
+    {
+        "id": "S10P-059",
+        "cardID": "자말무100꿈나쓰러060",
+        "name": "자말라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "자말라",
+                "pokedexNumber": 775
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "쓰러지기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "꿈나라",
+                "text": "이 포켓몬이 잠듦이라면 상대의 포켓몬으로부터 기술의 데미지를 받아 기절해도 상대는 프라이즈를 가져갈 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "죽을 때까지 계속 잠들어 있는 이유는 먹이인 잎사귀에 마취 성분이 포함되어 있기 때문이다.",
+        "number": "059",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008059"
+    },
+    {
+        "id": "S10P-060",
+        "cardID": "수수께끼화석",
+        "name": "수수께끼화석",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 HP60의 (무색) 타입 기본 포켓몬으로서 필드에 내보낼 수 있다.",
+            "자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬해도 좋다.",
+            "이 카드는 후퇴할 수 없다."
+        ],
+        "number": "060",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "C",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008060"
+    },
+    {
+        "id": "S10P-061",
+        "cardID": "에너지뽑기",
+        "name": "에너지뽑기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "061",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "ORBITALLINK Inc.",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008061"
+    },
+    {
+        "id": "S10P-062",
+        "cardID": "히스이의 헤비볼",
+        "name": "히스이의 헤비볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "뒷면으로 된 자신의 프라이즈의 앞면을 모두 본다.",
+            "그 중에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 이 「히스이의 헤비볼」과 바꾸어 패로 가져온다.",
+            "보았던 프라이즈나 교체한 카드는 모두 뒷면으로 하여 섞고 프라이즈로 놓는다."
+        ],
+        "number": "062",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008062"
+    },
+    {
+        "id": "S10P-063",
+        "cardID": "굉장한 글라스",
+        "name": "굉장한 글라스",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술의 데미지로 상대 배틀 포켓몬의 약점 계산을 할 때 약점은 「×3」으로 데미지 계산을 한다."
+        ],
+        "number": "063",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008063"
+    },
+    {
+        "id": "S10P-064",
+        "cardID": "경채",
+        "name": "경채",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 앞면으로 해서 서로에게 보여준다.",
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "064",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008064"
+    },
+    {
+        "id": "S10P-065",
+        "cardID": "자크로",
+        "name": "자크로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 (격투) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.",
+            "자신의 차례에 자신의 패(「자크로」는 제외)를 2장 트래쉬한다면 이 「자크로」를 자신의 트래쉬에서 상대에게 보여주고 패로 가져온다.",
+            "(이 효과는 자신의 차례에 사용할 수 있는 서포트의 장수에 포함하지 않는다.)"
+        ],
+        "number": "065",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008065"
+    },
+    {
+        "id": "S10P-066",
+        "cardID": "주혜",
+        "name": "주혜",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (물) 포켓몬과 아이템을 각각 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "066",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "kirisAki",
+        "rarity": "R",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008066"
+    },
+    {
+        "id": "S10P-067",
+        "cardID": "신오신전",
+        "name": "신오신전",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 필드의 포켓몬에게 붙어 있는 특수 에너지의 효과는 모두 없어지고 (무색) 에너지 1개분으로 작용한다."
+        ],
+        "number": "067",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Oswaldo KATO",
+        "rarity": "U",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008067"
+    },
+    {
+        "id": "S10P-068",
+        "cardID": "독침풀210더블040무리000",
+        "name": "독침붕 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "독침붕",
+                "pokedexNumber": 15
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블니들",
+                "cost": "(풀)",
+                "damage": "40×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            },
+            {
+                "name": "무리로찌르기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 필드의 「독침붕 V」의 수 × 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "068",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008068"
+    },
+    {
+        "id": "S10P-069",
+        "cardID": "독침풀210더블040무리000",
+        "name": "독침붕 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "독침붕",
+                "pokedexNumber": 15
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블니들",
+                "cost": "(풀)",
+                "damage": "40×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            },
+            {
+                "name": "무리로찌르기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 필드의 「독침붕 V」의 수 × 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "069",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Narumi Sato",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008069"
+    },
+    {
+        "id": "S10P-070",
+        "cardID": "히드불220열로030마그090",
+        "name": "히드런 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "히드런",
+                "pokedexNumber": 485
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열로그을리기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "마그마폴",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90+",
+                "text": "필드에 자신의 스타디움이 나와 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "070",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008070"
+    },
+    {
+        "id": "S10P-071",
+        "cardID": "펄기물220영역000하이200",
+        "name": "오리진 펄기아 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "영역지배",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 스타디움을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "하이드로 브레이크",
+                "cost": "(물)(물)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "071",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008071"
+    },
+    {
+        "id": "S10P-072",
+        "cardID": "펄기물220영역000하이200",
+        "name": "오리진 펄기아 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "영역지배",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 스타디움을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "하이드로 브레이크",
+                "cost": "(물)(물)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "072",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Oswaldo KATO",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008072"
+    },
+    {
+        "id": "S10P-073",
+        "cardID": "사마격210풀베040큰도150",
+        "name": "사마자르 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "큰도끼슬래시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "073",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008073"
+    },
+    {
+        "id": "S10P-074",
+        "cardID": "포푸악190독발000페이080",
+        "name": "히스이 포푸니크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "페이탈클로",
+                "cost": "(악)(무색)",
+                "damage": "80×",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "074",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008074"
+    },
+    {
+        "id": "S10P-075",
+        "cardID": "포푸악190독발000페이080",
+        "name": "히스이 포푸니크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "페이탈클로",
+                "cost": "(악)(무색)",
+                "damage": "80×",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "075",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "OKACHEKE",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008075"
+    },
+    {
+        "id": "S10P-076",
+        "cardID": "하랑무210주문사이030",
+        "name": "하랑우탄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "하랑우탄",
+                "pokedexNumber": 765
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "주문하기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「포켓몬의 도구」를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "076",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Toyste Beach",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008076"
+    },
+    {
+        "id": "S10P-077",
+        "cardID": "경채",
+        "name": "경채",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 앞면으로 해서 서로에게 보여준다.",
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "077",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008077"
+    },
+    {
+        "id": "S10P-078",
+        "cardID": "자크로",
+        "name": "자크로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 (격투) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.",
+            "자신의 차례에 자신의 패(「자크로」는 제외)를 2장 트래쉬한다면 이 「자크로」를 자신의 트래쉬에서 상대에게 보여주고 패로 가져온다.",
+            "(이 효과는 자신의 차례에 사용할 수 있는 서포트의 장수에 포함하지 않는다.)"
+        ],
+        "number": "078",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008078"
+    },
+    {
+        "id": "S10P-079",
+        "cardID": "주혜",
+        "name": "주혜",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (물) 포켓몬과 아이템을 각각 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "079",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "kirisAki",
+        "rarity": "SR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008079"
+    },
+    {
+        "id": "S10P-080",
+        "cardID": "히드불330마그다이180",
+        "name": "히드런 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "히드런",
+                "pokedexNumber": 485
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "다이폭열",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "180",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그마게인",
+                "text": "필드에 자신의 스타디움이 나와 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬의 HP를 「50」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "080",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008080"
+    },
+    {
+        "id": "S10P-081",
+        "cardID": "펄기물280스타공간060",
+        "name": "오리진 펄기아 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "공간의너울",
+                "cost": "(물)(물)",
+                "damage": "60+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타포털",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 트래쉬에서 (물) 에너지를 3장까지 선택해서 자신의 (물) 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "081",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aky CG Works",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008081"
+    },
+    {
+        "id": "S10P-082",
+        "cardID": "사마격270브레120램페030",
+        "name": "사마자르 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "브레이크액스",
+                "cost": "(격투)(무색)",
+                "damage": "120",
+                "text": "상대 벤치의 「포켓몬 V」 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "램페이지스타",
+                "cost": "(격투)",
+                "damage": "30×",
+                "text": "자신의 트래쉬에 있는 포켓몬의 장수 × 30데미지를 준다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "082",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "5ban Graphics",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_082.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008082"
+    },
+    {
+        "id": "S10P-083",
+        "cardID": "경채",
+        "name": "경채",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 앞면으로 해서 서로에게 보여준다.",
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "083",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_083.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008083"
+    },
+    {
+        "id": "S10P-084",
+        "cardID": "자크로",
+        "name": "자크로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 (격투) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.",
+            "자신의 차례에 자신의 패(「자크로」는 제외)를 2장 트래쉬한다면 이 「자크로」를 자신의 트래쉬에서 상대에게 보여주고 패로 가져온다.",
+            "(이 효과는 자신의 차례에 사용할 수 있는 서포트의 장수에 포함하지 않는다.)"
+        ],
+        "number": "084",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_084.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008084"
+    },
+    {
+        "id": "S10P-085",
+        "cardID": "주혜",
+        "name": "주혜",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (물) 포켓몬과 아이템을 각각 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "085",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "kirisAki",
+        "rarity": "HR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_085.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008085"
+    },
+    {
+        "id": "S10P-086",
+        "cardID": "펄기물280스타공간060",
+        "name": "오리진 펄기아 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "공간의너울",
+                "cost": "(물)(물)",
+                "damage": "60+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타포털",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 트래쉬에서 (물) 에너지를 3장까지 선택해서 자신의 (물) 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "086",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "aky CG Works",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_086.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008086"
+    },
+    {
+        "id": "S10P-087",
+        "cardID": "신오신전",
+        "name": "신오신전",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 필드의 포켓몬에게 붙어 있는 특수 에너지의 효과는 모두 없어지고 (무색) 에너지 1개분으로 작용한다."
+        ],
+        "number": "087",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "artist": "Oswaldo KATO",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_087.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008087"
+    },
+    {
+        "id": "S10P-088",
+        "cardID": "더블 터보 에너지",
+        "name": "더블 터보 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 2개분으로 작용한다.",
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 포켓몬에게 주는 데미지는 「-20」이 된다."
+        ],
+        "number": "088",
+        "prodNumber": "067",
+        "prodCode": "S10P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+        "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+        "rarity": "UR",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_088.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008088"
+    }
+]

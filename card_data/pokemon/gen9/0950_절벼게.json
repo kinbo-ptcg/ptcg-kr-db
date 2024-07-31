@@ -1,0 +1,209 @@
+[
+    {
+        "id": "SVD-067",
+        "cardID": "절벼격130찝기050아드130",
+        "name": "절벼게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "절벼게",
+                "pokedexNumber": 950
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(격투)(격투)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "아드레나해머",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "130",
+                "text": "이 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006048",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Mina Nakai",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006088",
+                "debug": "2"
+            },
+            {
+                "number": "067",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016067",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-031",
+        "cardID": "절벼격120히스030보일080",
+        "name": "절벼게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "절벼게",
+                "pokedexNumber": 950
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "히스테릭시저",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "이 포켓몬이 특수 상태라면 160데미지를 추가한다."
+            },
+            {
+                "name": "보일드프레스",
+                "cost": "(격투)(격투)",
+                "damage": "80",
+                "text": "이 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-013",
+        "cardID": "절벼격220반격폴링100",
+        "name": "절벼게 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "절벼게",
+                "pokedexNumber": 950
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "폴링프레스",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100+",
+                "text": "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반격집게",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 프로모 카드 팩 제1탄",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000013",
+                "debug": "3"
+            }
+        ]
+    }
+]

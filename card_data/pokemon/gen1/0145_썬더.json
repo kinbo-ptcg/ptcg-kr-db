@@ -1,0 +1,956 @@
+[
+    {
+        "id": "ebb-038",
+        "cardID": "썬더번120전자000허리050",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자 스파크",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 50데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "허리케인 썬더",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "Ryo Ueda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001025",
+                "debug": "2"
+            },
+            {
+                "number": "038",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bgb-007",
+        "cardID": "썬더번170고속030파워080",
+        "name": "썬더 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX",
+            "플라스마단"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "고속이동",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "파워볼티지",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 「플라스마 에너지」가 붙어 있다면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "018",
+                "prodCode": "bgb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy6-021",
+        "cardID": "썬더번120회전020낙뢰120",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전부리",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "낙뢰",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 40데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004021",
+                "debug": "1"
+            },
+            {
+                "number": "041",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_041.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004041",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp6-042",
+        "cardID": "썬더번110번개09010170",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(번개)(번개)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "전설의 새포켓몬 중 하나. 날 때 탁탁하고 뭔가 튀는 소리가 난다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "Ken Sugimori",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-043",
+        "cardID": "썬더번110어솔010",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "어솔트썬더",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 70데미지를 추가한다. 이 기술의 데미지는 약점 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "038",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000014",
+                "debug": "2"
+            },
+            {
+                "number": "003",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013003",
+                "debug": "2"
+            },
+            {
+                "number": "043",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-102",
+        "cardID": "파이무300트리210스카000",
+        "name": "파이어&썬더&프리져 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            },
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            },
+            {
+                "name": "프리져",
+                "pokedexNumber": 144
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티번",
+                "cost": "(불꽃)(물)(번개)(무색)",
+                "damage": "210",
+                "text": ""
+            },
+            {
+                "name": "스카이레전드GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. (불꽃) (물) (번개) 에너지가 1개씩 추가로 붙어 있다면 상대의 포켓몬 3마리에게 각각 110데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011035",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011059",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011060",
+                "debug": "2"
+            },
+            {
+                "number": "102",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017102",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-050",
+        "cardID": "썬더번110회전020스나000",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전부리",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스나이프썬더",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 「포켓몬 V・GX」 1마리에게 160데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014035",
+                "debug": "2"
+            },
+            {
+                "number": "050",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-217",
+        "cardID": "썬더격200투쟁천둥170",
+        "name": "가라르 썬더 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145,
+                "region": "가라르"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "천둥차기",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "170",
+                "text": "데미지를 주기 전에 상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "투쟁본능",
+                "text": "상대 필드의 「포켓몬 V」의 수만큼 이 포켓몬이 기술을 사용하기 위한 (무색) 에너지는 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003037",
+                "debug": "2"
+            },
+            {
+                "number": "217",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_217.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003217",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-073",
+        "cardID": "썬더격110건각재퍼070",
+        "name": "가라르 썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145,
+                "region": "가라르"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "재퍼킥",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 그 경우, 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "건각차지",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에서 (격투) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "한 번의 발차기로 덤프트럭을 산산조각 내는 다릿심을 가지고 있다. 시속 300km로 산을 달린다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011019",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001073",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-029",
+        "cardID": "썬더번120일렉라이110",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일렉트릭심볼",
+                "text": "이 포켓몬이 있는 한, 자신의 (번개) 타입의 기본 포켓몬(「썬더」는 제외)이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+10」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "전기를 자유로이 조종한다. 새까만 번개 구름 안에 거처가 있다고 전해지고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-077",
+        "cardID": "썬더번200볼트라이120",
+        "name": "썬더 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝 연속탄",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "120",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 1마리에게도 90데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "볼트 플로트",
+                "text": "이 포켓몬에게 (번개) 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "145",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_145.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014145",
+                "debug": "2"
+            },
+            {
+                "number": "194",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_194.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014194",
+                "debug": "2"
+            },
+            {
+                "number": "204",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Shiburingaru",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_204.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014204",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2024 코리안리그 파이널 프로모",
+                "artist": "takuyoa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000077",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-027",
+        "cardID": "썬더번120전기00010190",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기자석파",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "GOSSAN",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs1-30",
+        "cardID": "썬더번100회전030우뢰050",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전부리",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "우뢰날개",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "30",
+                "prodNumber": "60",
+                "prodCode": "bs1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+                "prodName": "DP 확장팩 모험의 시작",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_30.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001030",
+                "debug": "1"
+            }
+        ]
+    }
+]

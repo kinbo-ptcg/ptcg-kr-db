@@ -1,0 +1,410 @@
+[
+    {
+        "id": "S1H-014",
+        "cardID": "갈가물130바이060물고130",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "바이스바이트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "물고버티기",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003014",
+                "debug": "1"
+            },
+            {
+                "number": "043",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016043",
+                "debug": "2"
+            },
+            {
+                "number": "228",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_228.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016228",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3-026",
+        "cardID": "갈가물210단단파워130",
+        "name": "갈가부기 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파워바이트",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011026",
+                "debug": "1"
+            },
+            {
+                "number": "102",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011102",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3-027",
+        "cardID": "갈가물320단단거다160",
+        "name": "갈가부기 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거다이박치기",
+                "cost": "(물)(물)(무색)",
+                "damage": "160+",
+                "text": "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-026",
+        "cardID": "갈가물140바이080파도140",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "바이스웨이브",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": "이 차례에 패에서 「야청」을 꺼내서 사용했다면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "흉포한 성질을 가졌다. 철봉을 물어뜯어 버릴 정도의 턱 힘으로 먹이를 덥석 물어버린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Taira Akitsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SEK-009",
+        "cardID": "갈가물140딱딱로케130",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "로케트박치기",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "020",
+                "prodCode": "SEK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002009",
+                "debug": "3"
+            },
+            {
+                "number": "121",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_121.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003121",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SH-016",
+        "cardID": "갈가물140하드080",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하드바이트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_004_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013030",
+                "debug": "1"
+            }
+        ]
+    }
+]

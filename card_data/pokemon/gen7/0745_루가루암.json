@@ -1,0 +1,1295 @@
+[
+    {
+        "id": "sm60a-009",
+        "cardID": "루가격200깨물030액셀120갈팽200",
+        "name": "루가루암 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "액셀록",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "갈팽 GX",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002009",
+                "debug": "3"
+            },
+            {
+                "number": "034",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007034",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007054",
+                "debug": "2"
+            },
+            {
+                "number": "056",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013056",
+                "debug": "2"
+            },
+            {
+                "number": "056",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011056",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-057",
+        "cardID": "루가격200블러발톱110데스050",
+        "name": "루가루암 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            },
+            {
+                "name": "데스로그 GX",
+                "cost": "(격투)(무색)",
+                "damage": "50×",
+                "text": "상대의 벤치 포켓몬의 수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "블러디아이",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005027",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005053",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013057",
+                "debug": "1"
+            },
+            {
+                "number": "057",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011057",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002060",
+                "debug": "2"
+            },
+            {
+                "number": "226",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_226.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002226",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-033",
+        "cardID": "루가격110데인030몰아090",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "데인저러스 크루",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 기본 포켓몬이라면 30데미지를 추가한다."
+            },
+            {
+                "name": "몰아붙이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "재빨리 움직여 적을 어지럽힌다. 발톱이나 이빨 외에 갈기의 뾰족한 바위도 무기의 하나다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007033",
+                "debug": "1"
+            },
+            {
+                "number": "033",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007095",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-012",
+        "cardID": "루가격110돌떨030액셀100",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "액셀록",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "재빨리 움직여 적을 어지럽힌다. 발톱이나 이빨 외에 갈기의 뾰족한 바위도 무기의 하나다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-041",
+        "cardID": "루가격120데스020액셀100",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "데스로그",
+                "cost": "(격투)(무색)",
+                "damage": "20+",
+                "text": "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "액셀록",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "석양빛으로 특별하게 진화한\n루가루암. 차분하지만\n격렬한 투지를 숨기고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Megumi Mizutani",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004053",
+                "debug": "2"
+            },
+            {
+                "number": "041",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018041",
+                "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "금단의 빛 발매 기념 프로모 팩",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_105.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000105",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-061",
+        "cardID": "루가격200트와액셀120레이030",
+        "name": "루가루암 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "액셀록",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "레이디얼에지 GX",
+                "cost": "(격투)",
+                "damage": "30×",
+                "text": "상대의 트래쉬에 있는 에너지의 장수 × 30데미지를 준다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "트와일라잇 아이",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002061",
+                "debug": "1"
+            },
+            {
+                "number": "227",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_227.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002227",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12-048",
+        "cardID": "루가격120피오볼티060",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "볼티지크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬에게 특수 에너지가 붙어 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "피오름",
+                "text": "상대의 필드에 「포켓몬 GX・EX」가 있다면 이 포켓몬이 사용하는 기술에 필요한 에너지는 (무색) 에너지 3개만큼 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "마음에 안 드는 명령은 무시한다. 상대의 숨통을 끊기 위해서라면 상처 입는 것도 전혀 개의치 않는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "so-taro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-041",
+        "cardID": "루가격120돌떨040예리070",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "예리한갈기",
+                "cost": "(격투)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무리를 짓지 않고 홀로 지낸다. 자신의 힘을 끌어내 주는 트레이너의 말밖에 듣지 않는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SD-022",
+        "cardID": "루가격120돌떨030슬래150",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "슬래시다운",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 「슬래시다운」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "갈기에 있는 바위는 나이프보다 예리하고 날카롭다. 떨어진 파편은 부적으로써 소중히 여겨진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6H-042",
+        "cardID": "루가격120로그080",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "로그팽",
+                "cost": "(격투)(격투)",
+                "damage": "80+",
+                "text": "자신의 트래쉬에 있는 「일격」의 포켓몬의 장수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무리를 짓지 않고 홀로 지낸다. 자신의 힘을 끌어내 주는 트레이너의 말밖에 듣지 않는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-234",
+        "cardID": "루가격200돌떨040크래200",
+        "name": "루가루암 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "크래시팽",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011024",
+                "debug": "2"
+            },
+            {
+                "number": "234",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_234.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003234",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-235",
+        "cardID": "루가격320헌팅000다이190",
+        "name": "루가루암 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "헌팅크루",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대 필드의 남은 HP가 「60」이하인 포켓몬을 1마리 선택해서 기절시킨다."
+            },
+            {
+                "name": "다이에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "190",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011025",
+                "debug": "2"
+            },
+            {
+                "number": "235",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_235.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003235",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-054",
+        "cardID": "루가격120미드240",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "미드나이트팽",
+                "cost": "(격투)(무색)",
+                "damage": "240-",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 80데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무모한 성질을 지녔다. 자신이 상처 입는 것도 전혀 신경 쓰지 않고 상대를 향해 덤벼든다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "kodama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-050",
+        "cardID": "루가격260돌떨040스케140",
+        "name": "루가루암 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "스케어리팽",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "140",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 10개 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "kawayoo",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010050",
+                "debug": "1"
+            },
+            {
+                "number": "090",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010090",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3-062",
+        "cardID": "루가격130마무090슬래100",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마무리엄니",
+                "cost": "(격투)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있지 않다면 이 기술은 실패한다."
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "바위로 된 갈기로 다가오는 자를 베어 버린다. 트레이너의 지시도 마음에 안 들면 따르지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015062",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVHK-009",
+        "cardID": "루가격120터보050",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "터보에지",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": "자신의 트래쉬에서 「기본 (격투) 에너지」를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날카로운 발톱과 이빨로 먹이를 공격한다. 신뢰하는 트레이너의 지시에는 충실히 따른다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "053",
+                "prodCode": "SVHK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHK.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「고대의 코라이돈 ex」",
+                "artist": "Yoshioka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-029",
+        "cardID": "루가격110물기020발톱080",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 상대를 앞에 둘수록 피가 끓어오른다. 이기기 위해서라면 자신을 돌아보지 않고 공격한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-067",
+        "cardID": "루가격120물기030스톤090",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "스톤에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "석양빛으로 특별하게 진화한 루가루암. 차분하지만 격렬한 투지를 숨기고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 코리안리그2017-2018 WINTER 개최 기념 플러스친구 회원 한정 프로모 카드",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000091",
+                "debug": "1"
+            }
+        ]
+    }
+]

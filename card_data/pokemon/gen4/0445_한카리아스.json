@@ -1,0 +1,1003 @@
+[
+    {
+        "id": "hrk-007",
+        "cardID": "한카드140제트040모래080",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "제트헤드",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "모래지옥",
+                "cost": "(물)(격투)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "고속으로 달려나가면 날개는 공기의 칼날을 만들어내어 주변의 나무는 절단 나게 된다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "015",
+                "prodCode": "hrk",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+                "prodName": "BW 「한카리아스 덱」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "ebb-080",
+        "cardID": "한카드140음속060드래100",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "음속베기",
+                "cost": "(격투)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "드래곤 블레이드",
+                "cost": "(물)(격투)",
+                "damage": "100",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "고속으로 달려나가면 날개는 공기의 칼날을 만들어내어 주변의 나무는 절단 나게 된다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_040.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006040",
+                "debug": "2"
+            },
+            {
+                "number": "080",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_080.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006080",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy9-051",
+        "cardID": "한카격130어솔060씹어080",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "어솔트터보",
+                "cost": "(격투)",
+                "damage": "60",
+                "text": "자신의 트래쉬에서 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다."
+            },
+            {
+                "name": "씹어뜯기",
+                "cost": "(격투)(격투)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "제트기와 맞먹는 스피드로 하늘을 난다. 노린 먹이는 놓치지 않는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_051.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-101",
+        "cardID": "한카드150퀵다000왕의100",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "퀵다이브",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "왕의검",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100+",
+                "text": "이 차례에 패에서  「난천」을 꺼내서 사용했다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "머리에 달린 2개의 돌기는 센서 역할을 한다. 저 멀리 있는 먹이의 모습도 알 수 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "Megumi Mizutani",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002044",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002101",
+                "debug": "1"
+            },
+            {
+                "number": "200",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Shin Nagasawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_200.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002200",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm5plus-028",
+        "cardID": "한카격150퀵다000왕의100",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "퀵다이브",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "왕의검",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100+",
+                "text": "이 차례에 패에서  「난천」을 꺼내서 사용했다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-099",
+        "cardID": "한카드270직격000컬래160GG000",
+        "name": "한카리아스&기라티나 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            },
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "컬래머티에지",
+                "cost": "(초)(격투)(무색)",
+                "damage": "160+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 80데미지를 추가한다."
+            },
+            {
+                "name": "GG엔드GX",
+                "cost": "(초)(초)(격투)(플러스)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리와 붙어 있는 모든 카드를 트래쉬한다. (격투) 에너지 3개가 추가로 붙어 있다면 트래쉬하는 포켓몬의 수는 2마리가 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010032",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010059",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010060",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017099",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-024",
+        "cardID": "한카격150역습오버080",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "오버에지",
+                "cost": "(격투)(무색)",
+                "damage": "80+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다. 그 경우 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "역습의 오라",
+                "text": "자신의 남은 프라이즈 장수가 상대보다 많다면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+80」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "음속으로 날아다니며 먹이를 찾는다. 먹이를 두고 보만다와 공중전을 펼친다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-075",
+        "cardID": "한카드160음속드래160",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤 블레이드",
+                "cost": "(물)(격투)",
+                "damage": "160",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "음속회피",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화산이 있는 산에 서식한다. 제트기에도 지지 않는 속도로 하늘을 날아 먹이를 사냥한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Nurikabe",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9a-054",
+        "cardID": "한카드200드래120소닉000",
+        "name": "한카리아스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤크루",
+                "cost": "(물)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "소닉 스트라이크",
+                "cost": "(물)(격투)(격투)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬하고 상대의 포켓몬 1마리에게 220데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004087",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004124",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Taira Akitsu",
+                "rarity": "CSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004129",
+                "debug": "2"
+            },
+            {
+                "number": "109",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_109.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001109",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-006",
+        "cardID": "한카물320테라하이160소닉000",
+        "name": "한카리아스 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로랜더",
+                "cost": "(격투)",
+                "damage": "160",
+                "text": "자신의 트래쉬에서 「기본 (격투) 에너지」를 3장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "소닉다이브",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020006",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020076",
+                "debug": "2"
+            },
+            {
+                "number": "085",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Oswaldo KATO",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020085",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-140",
+        "cardID": "한카드180찢기030깨물100",
+        "name": "한카리아스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(물)(격투)(격투)(무색)",
+                "damage": "100",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "140",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_140.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001140",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-141",
+        "cardID": "한카드210크림180",
+        "name": "M한카리아스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "크림슨에지",
+                "cost": "(물)(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "141",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_141.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001141",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-35",
+        "cardID": "한카무130레인용의070",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "용의이빨",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "레인보우 스케일",
+                "text": "이 포켓몬이 이 포켓몬의 에너지와 같은 타입의 약점을 가진 배틀 포켓몬에게 기술에 의한 데미지를 줄 때 그 데미지는 모두 「+40」이 된다. 이 포켓바디는 이 포켓몬에게 특수 에너지가 붙어 있다면 작용하지 않는다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(무색)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "몸을 접고 날개를 펼치면 마치 제트기 같다. 음속으로 날 수 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "35",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Kazuyuki Kano",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_35.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-36",
+        "cardID": "한카무140용의소생000",
+        "name": "한카리아스 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 한카리아스에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "소생",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「포켓몬(포켓몬 LV.X는 제외)」을 1장 선택해서 「기본 포켓몬」으로써 벤치로 내보낸다. 그 뒤 원한다면 자신의 트래쉬에 있는 기본 에너지를 3장까지 선택해서 그 포켓몬에게 붙여도 좋다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "용의파동",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 포켓몬을 레벨업시켰을 때 한 번 사용할 수 있다. 동전을 세 번 던져서 앞면이 나온 수만큼의 데미지 카운터를 상대의 벤치 포켓몬 전원에게 각각 올린다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(무색)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "36",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Ryo Ueda",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_36.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007036",
+                "debug": "1"
+            }
+        ]
+    }
+]

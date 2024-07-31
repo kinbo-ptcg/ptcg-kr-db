@@ -1,0 +1,514 @@
+[
+    {
+        "id": "xy1y-033",
+        "cardID": "거대격160락블050암석130",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "락블레스트",
+                "cost": "(격투)",
+                "damage": "50×",
+                "text": "이 포켓몬에게 붙어 있는 (격투) 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "암석포",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 약점 저항력 계산을 하지 않는다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "손바닥의 구멍에서 꼬마돌을 발사한다. 전신의 프로텍터는 화산의 분화도 견뎌낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "Naoki Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501033",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-031",
+        "cardID": "거대격150암석000스톤080",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "암석퍼뜨리기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 20데미지를 상대의 포켓몬 전원에게 각각 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스톤에지",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "바위를 손바닥의 구멍에 채워서 근육의 힘으로 발사한다. 드물게 꼬마돌을 날린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-032",
+        "cardID": "거대격160【Ω암해100",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "암해머",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Ω배리어】",
+                "text": "이 포켓몬은 상대가 사용하는 트레이너스의 효과를 받지 않는다. (포켓몬의 도구 스타디움은 제외한다.)",
+                "type": "고대능력"
+            },
+            {
+                "name": "록월",
+                "text": "이 포켓몬이 있는 한 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-10」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "바위를 손바닥의 구멍에 채워서 근육의 힘으로 발사한다. 드물게 꼬마돌을 날린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-029",
+        "cardID": "거대격160산바암석170",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "암석포",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "170",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "산바람",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 덱을 위에서부터 3장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "손바닥의 구멍에서 꼬마돌을 발사한다. 전신의 프로텍터는 화산의 분화도 견뎌낸다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10-050",
+        "cardID": "거대격170쿵쾅090그라160",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "쿵쾅캐논",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은  기본 포켓몬은 기술을 사용할 수 없다."
+            },
+            {
+                "name": "그라운드 브레이크",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "손바닥의 구멍에서 꼬마돌을 발사한다. 전신의 프로텍터는 화산의 분화도 견뎌낸다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "kawayoo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-030",
+        "cardID": "거대격190암석090암반120",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "암석떨구기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "암반셰이크",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120",
+                "text": "데미지 카운터가 올려져 있는 서로의 벤치 포켓몬 전원에게도 각각 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "프로텍터로 공격을 튕겨내고 상대가 풀이 죽으면 특징적인 드릴로 관통한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Satoshi Shirai",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-049",
+        "cardID": "거대격230드릴080헤비210",
+        "name": "거대코뿌리 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "드릴라이너",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "헤비록캐논",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 「헤비록캐논」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011049",
+                "debug": "1"
+            },
+            {
+                "number": "104",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011104",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9a-039",
+        "cardID": "거대격190토석050암석180",
+        "name": "거대코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "거대코뿌리",
+                "pokedexNumber": 464
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "토석포",
+                "cost": "(격투)",
+                "damage": "50+",
+                "text": "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 에너지라면 100데미지를 추가한다. 그 뒤, 트래쉬한 에너지를 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "암석태클",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "손에 난 구멍에 바위나 단굴을 끼운 뒤 발사한다. 장전할 수 있는 수는 한쪽 팔당 3개씩이다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004064",
+                "debug": "1"
+            },
+            {
+                "number": "039",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_039_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004065",
+                "debug": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "id": "sma-025",
+        "cardID": "모래격080모래000모래030",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래모으기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (격투) 에너지를 1장을 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "모래지옥",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "입안에 손을 넣은 자를 조종한다. 모래언덕의 몸집을 크게 만들기 위해서다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001025",
+                "debug": "3"
+            },
+            {
+                "number": "033",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Akira Komayama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002033",
+                "debug": "2"
+            },
+            {
+                "number": "034",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003034",
+                "debug": "2"
+            },
+            {
+                "number": "034",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003087",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013059",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011059",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-025",
+        "cardID": "모래초080생명010",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "생명흡수",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "객사한 자의 원통함이 아이가 만든 모래언덕에 깃들어 탄생했다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-049",
+        "cardID": "모래격080놀래010걸기020",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "놀래키기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "걸기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리의 삽을 마음에 들어한다. 되찾으러 온 아이와 싸우다가 열을 올리면서 치고 받고 싸운다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "Yukiko Baba",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-042",
+        "cardID": "모래초080살짝000",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "살짝올리기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 데미지 카운터를 1개 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "모래장난으로 만든 모래산은 돌아갈 때 부수지 않으면 영혼이 깃들어서 모래꿍이 될지도 모른다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Yuka Morii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-195",
+        "cardID": "모래초080진동010홀로030",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "진동",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(초)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "모래장난으로 만든 모래산은 돌아갈 때 부수지 않으면 영혼이 깃들어서 모래꿍이 될지도 모른다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007042",
+                "debug": "2"
+            },
+            {
+                "number": "195",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_195.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003195",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-063",
+        "cardID": "모래격080몰아010",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "몰아붙이기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "모래산에 죽은 자의 원념이 깃들어 포켓몬이 되었다. 머리의 삽을 마음에 들어 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "063",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014063",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-029",
+        "cardID": "모래초090중얼020머드040",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "중얼거리기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "머드샷",
+                "cost": "(초)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "삽을 잃어버리면 나뭇가지 등을 대신 꽂고 다니며 새로운 삽을 찾을 때까지 마음을 달랜다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Shin Nagasawa",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012029",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Teeziro",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6-053",
+        "cardID": "모래초090모래010홀로030",
+        "name": "모래꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "모래꿍",
+                "pokedexNumber": 769
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "모래로 먹잇감의 눈을 멀게 하고 그 틈에 접근하려 하지만 움직임이 느려서 놓치고 만다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Asako Ito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008053",
+                "debug": "1"
+            }
+        ]
+    }
+]

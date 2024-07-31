@@ -1,0 +1,185 @@
+[
+    {
+        "id": "SVD-107",
+        "cardID": "시비무070동료000공중060",
+        "name": "시비꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "시비꼬",
+                "pokedexNumber": 931
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "공중날기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "녹색 깃털의 시비꼬가 가장 세력이 크다. 먹이를 찾는 아침과 밤에는 매우 시끄럽다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Oswaldo KATO",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007067",
+                "debug": "2"
+            },
+            {
+                "number": "107",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Oswaldo KATO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016107",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-154",
+        "cardID": "시비무160시비기합020",
+        "name": "시비꼬 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "시비꼬",
+                "pokedexNumber": 931
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기합넣기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "시비 테이크",
+                "text": "자신의 첫 번째 차례에만 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다. 이 차례에 이미 다른 「시비 테이크」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011065",
+                "debug": "2"
+            },
+            {
+                "number": "089",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011089",
+                "debug": "2"
+            },
+            {
+                "number": "094",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Amelicart",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011094",
+                "debug": "2"
+            },
+            {
+                "number": "154",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_154.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001154",
+                "debug": "3"
+            },
+            {
+                "number": "337",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_337.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001337",
+                "debug": "2"
+            }
+        ]
+    }
+]

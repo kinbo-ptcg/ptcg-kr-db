@@ -1,0 +1,519 @@
+[
+    {
+        "id": "sm2k-007",
+        "cardID": "갑주풀130장갑각오080",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "각오의발톱",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 GX ･ EX」라면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "장갑",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날카롭고 거대한 발톱으로 공격한다. 공기나 해수마저 두 동강 낼 정도의 실력이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004007",
+                "debug": "1"
+            },
+            {
+                "number": "036",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000042",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-007",
+        "cardID": "갑주풀210만나030아머100참크150",
+        "name": "갑주무사 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "만나자마자",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 90데미지를 추가한다."
+            },
+            {
+                "name": "아머프레스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "참크로스 GX",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009007",
+                "debug": "1"
+            },
+            {
+                "number": "052",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009052",
+                "debug": "2"
+            },
+            {
+                "number": "008",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002008",
+                "debug": "2"
+            },
+            {
+                "number": "208",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_208.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002208",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11-021",
+        "cardID": "갑주물140위기만나120",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "만나자마자",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "120+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위기회피",
+                "text": "이 포켓몬에게 붙어 있는 에너지가 2개 이하라면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸을 덮고 있는 두꺼운 껍질은 다이아몬드 정도의 강도다. 이기기 위해서는 수단을 가리지 않는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-005",
+        "cardID": "갑주풀130역경030스매070",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "역경베기",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대 필드의 「포켓몬 V・GX」의 수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "스매시턴",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "이기기 위해서는 수단을 가리지 않는다. 상대의 빈틈을 찌른 뒤 앞발의 작은 발톱으로 마무리한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010010",
+                "debug": "2"
+            },
+            {
+                "number": "005",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-026",
+        "cardID": "갑주물130만나020베어100",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "만나자마자",
+                "cost": "(물)",
+                "damage": "20+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 90데미지를 추가한다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "이기기 위해서는 수단을 가리지 않는다. 상대의 빈틈을 찌른 뒤 앞발의 작은 발톱으로 마무리한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "otumami",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010026",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-010",
+        "cardID": "갑주물140파워020폭포130",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파워크로스",
+                "cost": "(물)",
+                "damage": "20×",
+                "text": "상대의 패의 장수 × 20데미지를 준다."
+            },
+            {
+                "name": "폭포오르기",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "해저의 굴이나 침몰선이 거처다. 케오퍼스와 싸워서 진 쪽이 먹이가 된다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-022",
+        "cardID": "갑주물270아쿠070일도170",
+        "name": "갑주무사 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아 블레이드",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "일도이탈",
+                "cost": "(물)(무색)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021022",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021081",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Oku",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021088",
+                "debug": "2"
+            }
+        ]
+    }
+]

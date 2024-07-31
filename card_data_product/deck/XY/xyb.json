@@ -1,0 +1,672 @@
+[
+    {
+        "id": "xyb-000",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_E.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004019"
+    },
+    {
+        "id": "xyb-001",
+        "cardID": "무장강100베어030아이090",
+        "name": "무장조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "무장조",
+                "pokedexNumber": 227
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "아이언윙",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "가시나무 안에 둥지를 만든다. 가시에 상처를 입어가며 자라난 새끼들의 날개는 단단해진다.",
+        "number": "001",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004001"
+    },
+    {
+        "id": "xyb-002",
+        "cardID": "동미강050몸통010",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "동미러의 등 모양에는 신비한 힘이 깃들어 있다고 옛날 사람들은 믿고 있었다.",
+        "number": "002",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004002"
+    },
+    {
+        "id": "xyb-003",
+        "cardID": "동탁강090메탈한방060",
+        "name": "동탁군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "동탁군",
+                "pokedexNumber": 437
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈체인",
+                "text": "자신의 트래쉬에서 (강철) 에너지를 1장 선택해서 자신의 벤치 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "비구름을 부르는 포켓몬으로 아주 옛날부터 떠받들어졌다. 가끔 땅에 묻혀 있다.",
+        "number": "003",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004003"
+    },
+    {
+        "id": "xyb-004",
+        "cardID": "디아강180크로060풀메150",
+        "name": "디아루가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "크로노와인드",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 「포켓몬 EX」는 기술을 사용할 수 없다."
+            },
+            {
+                "name": "풀메탈임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004004"
+    },
+    {
+        "id": "xyb-005",
+        "cardID": "킬가강170마이슬래040",
+        "name": "킬가르도 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "킬가르도",
+                "pokedexNumber": 681
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "슬래시블라스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마이티실드",
+                "text": "이 포켓몬은 특수 에너지가 붙어있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004005"
+    },
+    {
+        "id": "xyb-006",
+        "cardID": "클레강070동료000칙칙020",
+        "name": "클레피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "클레피",
+                "pokedexNumber": 707
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "칙칙한 빛",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "열쇠를 모으는 습성이 있다. 적에게 습격당하면 열쇠로 짤랑짤랑 소리를 내어 위협한다.",
+        "number": "006",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004006"
+    },
+    {
+        "id": "xyb-007",
+        "cardID": "트리무090노려020예리050",
+        "name": "트리미앙",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "트리미앙",
+                "pokedexNumber": 676
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "노려보고물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "예리한이빨",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "복슬복슬한 털을 깎고 다듬으면 모습이 아름다워질 뿐만 아니라 몸의 움직임도 좋아진다.",
+        "number": "007",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004007"
+    },
+    {
+        "id": "xyb-008",
+        "cardID": "레드카드",
+        "name": "레드카드",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대는 상대 자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 상대는 덱을 4장 뽑는다."
+        ],
+        "number": "008",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004008"
+    },
+    {
+        "id": "xyb-009",
+        "cardID": "롤러스케이트",
+        "name": "롤러스케이트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱을 3장 뽑는다."
+        ],
+        "number": "009",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004009"
+    },
+    {
+        "id": "xyb-010",
+        "cardID": "배틀서처",
+        "name": "배틀서처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "010",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004010"
+    },
+    {
+        "id": "xyb-011",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "011",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004011"
+    },
+    {
+        "id": "xyb-012",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "012",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004012"
+    },
+    {
+        "id": "xyb-013",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004013"
+    },
+    {
+        "id": "xyb-014",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 덱을 5장 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004014"
+    },
+    {
+        "id": "xyb-015",
+        "cardID": "티에르노",
+        "name": "티에르노",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004015"
+    },
+    {
+        "id": "xyb-016",
+        "cardID": "플라타느박사",
+        "name": "플라타느박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004016"
+    },
+    {
+        "id": "xyb-017",
+        "cardID": "스틸셸터",
+        "name": "스틸셸터",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 강철포켓몬 전원은 특수 상태가 되지 않는다.",
+            "(받고 있는 특수 상태는 모두 회복한다.)"
+        ],
+        "number": "017",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004017"
+    },
+    {
+        "id": "xyb-018",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "018",
+        "prodNumber": "018",
+        "prodCode": "xyb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+        "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004018"
+    }
+]

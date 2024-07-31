@@ -1,0 +1,194 @@
+[
+    {
+        "id": "sm2l-028",
+        "cardID": "메테격070스피020코스190",
+        "name": "메테노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메테노",
+                "pokedexNumber": 774
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대 배틀 포켓몬에게 걸려 있는 효과를 계산 하지 않는다."
+            },
+            {
+                "name": "코스모플로전",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "190",
+                "text": "이 포켓몬을 기절시킨다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "대기 중의 먼지를 먹고 있다. 먹은 먼지의 성분에 따라 코어의 색조가 정해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Naoki Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7-051",
+        "cardID": "메테격090별내스피030",
+        "name": "메테노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메테노",
+                "pokedexNumber": 774
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "별내림",
+                "text": "자신의 차례에 이 카드가 패에 있고 자신의 벤치에 빈자리가 있다면 1번 사용할 수 있다. 이 카드를 패에서 직접 배틀필드에 내보낸다. 그 경우, 배틀 포켓몬은 벤치로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강한 충격을 받으면 껍데기는 떨어져 나간다. 나노입자가 돌연변이하여 태어난 포켓몬이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-030",
+        "cardID": "메테격070메테중력020",
+        "name": "메테노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메테노",
+                "pokedexNumber": 774
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "중력태클",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메테오 날리기",
+                "text": "자신의 차례에 이 포켓몬이 벤치에 있다면 자신의 패에서 에너지를 이 포켓몬에게 붙일 때마다 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "겉껍질이 벗겨진 모습. 코어의 색이 다른 이유는 먹은 먹이의 성분이 다르기 때문이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "OKUBO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020030",
+                "debug": "3"
+            },
+            {
+                "number": "070",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "0313",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020070",
+                "debug": "2"
+            }
+        ]
+    }
+]

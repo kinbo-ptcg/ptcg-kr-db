@@ -1,0 +1,312 @@
+[
+    {
+        "id": "SP1-000",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006008"
+    },
+    {
+        "id": "SP1-001",
+        "cardID": "나옹강060진화할퀴020",
+        "name": "가라르 나옹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹",
+                "pokedexNumber": 52,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "진화의 부르짖기",
+                "text": "자신의 차례에 자신의 패를 2장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱에서 「가라르 나이킹」을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "전투적인 해양 민족과 지내는 동안 단련되어 몸 여기저기가 강철로 변화했다.",
+        "number": "001",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006001"
+    },
+    {
+        "id": "SP1-002",
+        "cardID": "나이강120베어050네일080",
+        "name": "가라르 나이킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "나이킹",
+                "pokedexNumber": 863,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "네일대거",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "80×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리의 털이 단단해져서 철로 된 헬멧처럼 되었다. 매우 호전적인 성질을 가졌다.",
+        "number": "002",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006002"
+    },
+    {
+        "id": "SP1-003",
+        "cardID": "자시강130깨물060메탈190",
+        "name": "자시안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자시안",
+                "pokedexNumber": 888
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "메탈블레이드",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "과거의 무기로 무장했다. 거다이맥스 포켓몬도 단칼에 베어 버린다.",
+        "number": "003",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006003"
+    },
+    {
+        "id": "SP1-004",
+        "cardID": "자마강130강건헤드130",
+        "name": "자마젠타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "헤드뱅",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "강건한 방패",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.",
+        "number": "004",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006004"
+    },
+    {
+        "id": "SP1-005",
+        "cardID": "메탈소서",
+        "name": "메탈소서",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 (강철) 에너지를 1장 선택해서 벤치의 (강철) 포켓몬에게 붙인다."
+        ],
+        "number": "005",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006005"
+    },
+    {
+        "id": "SP1-006",
+        "cardID": "포켓몬놀이",
+        "name": "포켓몬놀이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "006",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006006"
+    },
+    {
+        "id": "SP1-007",
+        "cardID": "호브",
+        "name": "호브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "007",
+        "prodNumber": "007",
+        "prodCode": "SP1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+        "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006007"
+    }
+]

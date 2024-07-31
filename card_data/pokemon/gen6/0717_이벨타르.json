@@ -1,0 +1,882 @@
+[
+    {
+        "id": "xy1y-037",
+        "cardID": "이벨악170이블020사이090",
+        "name": "이벨타르 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "이블볼",
+                "cost": "(악)(무색)",
+                "damage": "20+",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "사이클론Y",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501037",
+                "debug": "3"
+            },
+            {
+                "number": "063",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_063.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501063",
+                "debug": "2"
+            },
+            {
+                "number": "079",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_079.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004079",
+                "debug": "2"
+            },
+            {
+                "number": "079",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707079",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-042",
+        "cardID": "이벨악130플라칠흑060",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "칠흑의창",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 벤치에 있는 「포켓몬 EX」를 1마리 선택해서 그 포켓몬에게도 60데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라이트 나이트",
+                "text": "이 포켓몬이 배틀필드에 있는 한 서로의 필드에 있는 「포켓몬의 도구」의 효과는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007042",
+                "debug": "1"
+            },
+            {
+                "number": "078",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_078.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004078",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smxy-078",
+        "cardID": "이벨악130데스030어둠100",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "데스윙",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 (악) 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "어둠의 칼날",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Saya Tsuruta",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003018",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Hajime Kusajima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007033",
+                "debug": "2"
+            },
+            {
+                "number": "025",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008025",
+                "debug": "2"
+            },
+            {
+                "number": "078",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Hajime Kusajima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11h-034",
+        "cardID": "이벨악150재난120",
+        "name": "이벨타르 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 이벨타르가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "재난의밤",
+                "cost": "(악)(악)(악)",
+                "damage": "120",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-055",
+        "cardID": "이벨악120뒤집030데스090",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "데스윙",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": "자신의 트래쉬에서 (악) 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "날개와 꼬리를 펼치고 빨갛게 빛날 때 살아 있는 생명을 빨아들이는 전설의 포켓몬.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-046",
+        "cardID": "이벨악180생기020이블100데스000",
+        "name": "이벨타르 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "생기흡수",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "이블소닉",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "데스카운트 GX",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 4개 올려져 있다면 그 포켓몬을 기절시킨다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004055",
+                "debug": "2"
+            },
+            {
+                "number": "097",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004097",
+                "debug": "2"
+            },
+            {
+                "number": "046",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-080",
+        "cardID": "이벨악110뒤엎030꽉쥐060",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뒤엎기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "꽉쥐기",
+                "cost": "(악)(악)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Misa Tsutsui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013030",
+                "debug": "2"
+            },
+            {
+                "number": "080",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017080",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-061",
+        "cardID": "이벨악130불어020섀도120",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "불어지나가기",
+                "cost": "(악)",
+                "damage": "20+",
+                "text": "필드에 스타디움이 나와 있다면 20데미지를 추가한다."
+            },
+            {
+                "name": "섀도임팩트",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "자신의 포켓몬 1마리에게 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "날개와 꼬리를 펼치고 빨갛게 빛날 때 살아 있는 생명을 빨아들이는 전설의 포켓몬.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "sui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-117",
+        "cardID": "이벨악110어메000",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어메이징데스",
+                "cost": "(불꽃)(초)(악)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 기절시킨다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "117",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hasuno",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_117.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016117",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-285",
+        "cardID": "이벨악130다크050일격110",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크커터",
+                "cost": "(악)(악)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "일격의날개",
+                "cost": "(악)(악)(악)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "019",
+                "prodCode": "SGG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+                "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008006",
+                "debug": "2"
+            },
+            {
+                "number": "285",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_285.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003285",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8a-013",
+        "cardID": "이벨악120파괴000다크100",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "파괴의외침",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 특수 에너지를 3장까지 선택해서 트래쉬한다."
+            },
+            {
+                "name": "다크페더",
+                "cost": "(악)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-039",
+        "cardID": "이벨악130내리030다크120",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "내리치기",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 60데미지를 추가한다."
+            },
+            {
+                "name": "다크에지",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020039",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Masako Tomii",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020071",
+                "debug": "2"
+            }
+        ]
+    }
+]

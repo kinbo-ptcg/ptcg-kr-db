@@ -1,0 +1,720 @@
+[
+    {
+        "id": "bw8s-005",
+        "cardID": "나무풀130시저030에너080",
+        "name": "나무킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 40데미지를 추가한다."
+            },
+            {
+                "name": "에너지블룸",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80",
+                "text": "에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 각각 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "팔에 자란 잎사귀는 큰 나무도 싹둑 베어 넘어뜨리는 정도다. 밀림의 싸움에서는 무적이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-005",
+        "cardID": "나무풀130그로정글070",
+        "name": "나무킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "정글에지",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "그로우힐링",
+                "text": "자신의 패에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그 뒤 붙인 포켓몬의 HP를 「30」회복한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "정글을 가볍게 뛰어 팔에 자란 예리하며 잘 드는 잎날로 먹이를 꼼짝 못하게 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Hajime Kusajima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-006",
+        "cardID": "나무풀140【Ω리프030파워120",
+        "name": "나무킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프블레이드",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "파워포이즌",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬하고 상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Ω배리어】",
+                "text": "이 포켓몬은 상대가 사용하는 트레이너스의 효과를 받지 않는다. (포켓몬의 도구 스타디움은 제외한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "정글을 가볍게 뛰어 팔에 자란 예리하며 잘 드는 잎날로 먹이를 꼼짝 못하게 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "hatachu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-007",
+        "cardID": "나무풀170졸음010어새060",
+        "name": "나무킹 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "졸음독",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독과 잠듦으로 만든다."
+            },
+            {
+                "name": "어새신클로",
+                "cost": "(풀)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005007",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_082.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005082",
+                "debug": "2"
+            },
+            {
+                "number": "006",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004006",
+                "debug": "2"
+            },
+            {
+                "number": "006",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707006",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy7-008",
+        "cardID": "나무풀220【θ재기100",
+        "name": "M나무킹 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "재기드세이버",
+                "cost": "(풀)(무색)",
+                "damage": "100",
+                "text": "원한다면 자신의 패에서 (풀) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙여도 좋다. 그 뒤 붙인 포켓몬의 HP를 모두 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【θ스톱】",
+                "text": "이 포켓몬은 상대 포켓몬으로부터의 특성의 효과를 받지 않는다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005008",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_083.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp4-007",
+        "cardID": "나무풀220【Θ재기100",
+        "name": "M나무킹 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "[M진화]포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "재기드세이버",
+                "cost": "(풀)(무색)",
+                "damage": "100",
+                "text": "원한다면 자신의 패에서 (풀) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙여도 좋다. 그 뒤, 붙인 포켓몬의 HP를 모두 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Θ스톱】",
+                "text": "이 포켓몬은 상대 포켓몬으로부터의 특성의 효과를 받지 않는다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-007",
+        "cardID": "나무풀220고대재기100",
+        "name": "M나무킹 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "재기드세이버",
+                "cost": "(풀)(무색)",
+                "damage": "100",
+                "text": "원한다면 자신의 패에서 (풀) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙여도 좋다. 그 뒤 붙인 포켓몬의 HP를 모두 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고대능력【θ스톱】",
+                "text": "이 포켓몬은 상대 포켓몬으로부터의 특성의 효과를 받지 않는다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7-004",
+        "cardID": "나무풀140네이파워020",
+        "name": "나무킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "파워풀스톰",
+                "cost": "(풀)",
+                "damage": "20×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "네이처파워",
+                "text": "이 포켓몬이 있는 한, (풀) 에너지가 붙어 있는 자신의 포켓몬 전원은 상대의 「울트라비스트」 로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "정글을 가볍게 뛰어 팔에 자란 예리하며 잘 드는 잎날로 먹이를 꼼짝 못하게 한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007004",
+                "debug": "1"
+            },
+            {
+                "number": "103",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "강화 확장팩 「창공의 카리스마」 발매 기념 토너먼트 참가상",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_144.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000144",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-010",
+        "cardID": "나무풀230음속060리프130정글000",
+        "name": "나무킹 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "음속베기",
+                "cost": "(풀)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "리프사이클론",
+                "cost": "(풀)(풀)",
+                "damage": "130",
+                "text": "이 포켓몬에 붙어 있는 (풀) 에너지를 1개 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "정글힐GX",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "(풀) 에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 모두 회복한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009005",
+                "debug": "2"
+            },
+            {
+                "number": "051",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009051",
+                "debug": "2"
+            },
+            {
+                "number": "010",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-134",
+        "cardID": "나무풀170고속020스트130",
+        "name": "나무킹 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "나무킹",
+                "pokedexNumber": 254
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "고속이동",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "스트롱슬래시",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 「스트롱슬래시」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "134",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_134.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001134",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "id": "SV4M-012",
+        "cardID": "무쇠불130서멀열선120",
+        "name": "무쇠독나방",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "무쇠독나방",
+                "pokedexNumber": 994
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열선",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「열선」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "서멀 리액터",
+                "text": "자신의 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 (불꽃) 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "포획된 사례는 없으며 데이터도 부족하다. 오래된 서적에 기록된 물체와 특징이 일치한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022012",
+                "debug": "3"
+            },
+            {
+                "number": "069",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Takeshi Nakamura",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022069",
+                "debug": "2"
+            }
+        ]
+    }
+]

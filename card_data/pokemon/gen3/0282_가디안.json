@@ -1,0 +1,1380 @@
+[
+    {
+        "id": "bw3h-028",
+        "cardID": "가디초110사이마인060",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "마인드쇼크",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "60",
+                "text": "이 기술의 데미지는 약점 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사이코 미라주",
+                "text": "이 포켓몬이 있는 한 자신의 (초) 포켓몬에게 붙어 있는 「기본 (초) 에너지」는 각각 (초) 에너지 2개분으로 작용한다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "Mizue",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_028.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sc-010",
+        "cardID": "가디초120환상000이터000",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "환상빔",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "이터널 브라이트",
+                "cost": "(초)(초)",
+                "damage": "",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터를 모두 상대의 배틀 포켓몬에게 올린다. 자신의 다음 차례에 이 포켓몬은 「이터널 브라이트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "025",
+                "prodCode": "sc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+                "prodName": "BW 확장팩 「샤이니 컬렉션」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004010",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-050",
+        "cardID": "가디페170라이020빛나100",
+        "name": "가디안 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "라이프리프",
+                "cost": "(페어리)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "빛나는바람",
+                "cost": "(페어리)(페어리)(페어리)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬의 약점은 없어진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_050.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002050",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_075.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002075",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Mizue",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003019",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-051",
+        "cardID": "가디페210브릴030",
+        "name": "M가디안 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "브릴리언트 애로",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (페어리) 에너지를 합한 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_051.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002051",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_076.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002076",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Megumi Mizutani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003020",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy7-054",
+        "cardID": "가디페130브라텔레000",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "텔레키네시스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리를 선택해서 50데미지를 준다. 이 기술의 데미지는 약점 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "브라이트힐",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「20」회복한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "미래를 예지하는 힘을 가진다. 트레이너를 지킬 때 최대 파워를 발휘한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_054.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-091",
+        "cardID": "가디페170링크030빛의120",
+        "name": "가디안 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "링크블라스트",
+                "cost": "(페어리)(무색)",
+                "damage": "30＋",
+                "text": "이 포켓몬과 상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수가 같으면 70데미지를 추가한다."
+            },
+            {
+                "name": "빛의칼날",
+                "cost": "(페어리)(페어리)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007038",
+                "debug": "2"
+            },
+            {
+                "number": "056",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_056.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007056",
+                "debug": "2"
+            },
+            {
+                "number": "091",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707091",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-092",
+        "cardID": "가디페초210디스110",
+        "name": "M가디안 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)(초)",
+        "attacks": [
+            {
+                "name": "디스페어레이",
+                "cost": "(페어리)(무색)",
+                "damage": "110＋",
+                "text": "자신의 벤치 포켓몬을 원하는 만큼 트래쉬하고 트래쉬한 벤치 포켓몬의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_039.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007039",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_057.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007057",
+                "debug": "2"
+            },
+            {
+                "number": "092",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707092",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-038",
+        "cardID": "가디페230비밀인피030트와000",
+        "name": "가디안 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "인피니트포스",
+                "cost": "(페어리)",
+                "damage": "30×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다."
+            },
+            {
+                "name": "트와일라잇 GX",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 원하는 카드를 10장, 상대에게 보여주고 덱으로 되돌리고 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "비밀의 샘",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 (페어리) 에너지를 1장 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009038",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009055",
+                "debug": "2"
+            },
+            {
+                "number": "092",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002092",
+                "debug": "2"
+            },
+            {
+                "number": "237",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_237.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002237",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-030",
+        "cardID": "가디페130브릴000센싱070",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "브릴리언트 서치",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 3장까지 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "센싱레이",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "70+",
+                "text": "이 차례에 패에서 서포트를 꺼내서 사용했다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "미래를 예지하는 힘을 가진다. 트레이너를 지킬 때 최대 파워를 발휘한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Ryota Murayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-031",
+        "cardID": "가디페260요정000칼레150미라200",
+        "name": "가디안&님피아 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            },
+            {
+                "name": "님피아",
+                "pokedexNumber": 700
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "요정의노래",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (페어리) 에너지를 2장까지 자신의 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "칼레이도스톰",
+                "cost": "(페어리)(페어리)(무색)",
+                "damage": "150",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "미라클매지컬 GX",
+                "cost": "(페어리)(페어리)(페어리)(플러스)",
+                "damage": "200",
+                "text": "(페어리) 에너지 3개가 추가로 붙어 있다면 상대의 패를 모두 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003031",
+                "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003060",
+                "debug": "2"
+            },
+            {
+                "number": "061",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Atsuko Nishida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003061",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-030",
+        "cardID": "가디초210매지030넘치120",
+        "name": "가디안 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(초)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "넘치는파동",
+                "cost": "(초)(초)(무색)",
+                "damage": "120+",
+                "text": "이 차례에 이 포켓몬이 HP를 회복했다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010030",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010074",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-031",
+        "cardID": "가디초320다이180",
+        "name": "가디안 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다이큐어",
+                "cost": "(초)(초)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬의 HP를 「50」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-177",
+        "cardID": "가디초140아르브레060",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "브레인웨이브",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아르카나 샤인",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 2장 보고 그 중에서 기본 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004035",
+                "debug": "2"
+            },
+            {
+                "number": "177",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_177.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003177",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-027",
+        "cardID": "가디초130자애사이070",
+        "name": "찬란한 가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "찬란한"
+        ],
+        "rules": [
+            "찬란한 포켓몬은 덱에 1장만 넣을 수 있다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "자애의 베일",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 「포켓몬 V」로부터 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "미래를 예지하는 힘을 가졌다. 트레이너를 지킬 때 최대 파워를 발휘한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Ryuta Fuse",
+                "rarity": "K",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011047",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "K",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001055",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S11a-038",
+        "cardID": "가디초150리파매지120",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(초)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "리파인",
+                "text": "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 2장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "미래를 예지하는 힘을 가졌다. 트레이너를 지킬 때 최대 파워를 발휘한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016038",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016072",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-082",
+        "cardID": "가디초310사이미라190",
+        "name": "가디안 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미라클포스",
+                "cost": "(초)(초)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬의 특수 상태를 모두 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사이코 임브레이스",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 트래쉬에서 「기본 (초) 에너지」를 1장 선택해서 자신의 (초) 포켓몬에게 붙인다. 그 뒤, 붙인 포켓몬에게 데미지 카운터를 2개 올린다. (기절하는 포켓몬에게 이 특성은 사용할 수 없다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006028",
+                "debug": "2"
+            },
+            {
+                "number": "092",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006092",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Jiro Sasumo",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006101",
+                "debug": "2"
+            },
+            {
+                "number": "082",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001082",
+                "debug": "1"
+            },
+            {
+                "number": "328",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_328.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001328",
+                "debug": "2"
+            },
+            {
+                "number": "348",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "Kuroimori",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_348.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001348",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs7-23",
+        "cardID": "가디초110텔레사이060",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코록",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 상대 플레이어는 포켓파워를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "텔레패스",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 상대의 트래쉬에 있는 「서포터」를 1장 선택해서 그 카드의 효과를 이 파워의 효과로써 사용한다(선택한 카드는 트래쉬에 둔 채 사용한다). 이 포켓몬이 특수 상태라면 혹은 이 차례에 이미 다른 「텔레패스」를 사용했다면 이 포켓파워는 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "목숨을 걸고 신뢰하는 트레이너를 지키려고 한다. 미래를 예지하는 힘을 가지고 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "23",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Atsuko Nishida",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_23.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-24",
+        "cardID": "가디초130텔레꼼짝000",
+        "name": "가디안 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 가디안에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "꼼짝못하게 하기",
+                "cost": "(초)(초)",
+                "damage": "",
+                "text": "자신을 제외한 서로의 포켓몬 전원 중에서 남은 HP가 가장 적은 포켓몬 중 1마리를 선택해서 기절시킨다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "텔레포테이션",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 배틀 포켓몬 또는 자신의 벤치 포켓몬을 1마리 선택해서 이 포켓몬과 교체한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "24",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Ryo Ueda",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_24.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007024",
+                "debug": "1"
+            }
+        ]
+    }
+]

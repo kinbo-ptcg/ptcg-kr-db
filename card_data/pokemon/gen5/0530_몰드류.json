@@ -1,0 +1,701 @@
+[
+    {
+        "id": "bw1b-032",
+        "cardID": "몰드격110메탈030드릴080",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "드릴라이너",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw4-041",
+        "cardID": "몰드격120터널000파내050",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "터널홀",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파내기어택",
+                "cost": "(격투)(격투)",
+                "damage": "50",
+                "text": "자신의 트래쉬에서 원하는 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_041.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "ebb-066",
+        "cardID": "몰드격180딕아040그라120",
+        "name": "몰드류 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "딕아웃",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 기본 에너지라면 자신의 포켓몬에게 붙인다."
+            },
+            {
+                "name": "그라운드 브레이크",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_066.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006066",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-048",
+        "cardID": "몰드강100드릴020스트060",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "드릴라이너",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "스트레이트 클로",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_048.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-049",
+        "cardID": "몰드강110【Ω캐내000마하050",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "캐내기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "마하크루",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Ω연타】",
+                "text": "이 포켓몬은 기술을 2번 연속으로 사용할 수 있다. (1번째에 상대의 배틀 포켓몬이 기절했다면 다음 포켓몬이 나온 후 2번째 기술을 사용한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-050",
+        "cardID": "몰드격120일구000베어090",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "일구기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 원하는 카드를 4장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-031",
+        "cardID": "몰드격140막판030드릴120",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "막판태클",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "자신의 덱의 남은 장수가 3장 이하라면 150데미지를 추가한다."
+            },
+            {
+                "name": "드릴바주카",
+                "cost": "(격투)",
+                "damage": "120",
+                "text": "자신의 덱을 위에서부터 4장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015031",
+                "debug": "1"
+            },
+            {
+                "number": "059",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015059",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4-077",
+        "cardID": "몰드강130드릴030슬래130",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "드릴라이너",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "자연적으로 생긴 동굴로 보이지만 사실은 몰드류가 파낸 흔적인 경우는 흔히 있는 일이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "077",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014077",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-304",
+        "cardID": "몰드강130메탈050암석120",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "암석봉인",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Lee HyunJung",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018067",
+                "debug": "2"
+            },
+            {
+                "number": "304",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Lee HyunJung",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_304.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003304",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-082",
+        "cardID": "몰드강120궤찌060",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(강철)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "082",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016082",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-040",
+        "cardID": "몰드격130머드020와일180",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "머드샷",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "와일드태클",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자연적으로 생긴 동굴로 보이지만 사실은 몰드류가 파낸 흔적인 경우는 흔히 있는 일이다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Bun Toujo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005040",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Saboteri",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005079",
+                "debug": "2"
+            }
+        ]
+    }
+]

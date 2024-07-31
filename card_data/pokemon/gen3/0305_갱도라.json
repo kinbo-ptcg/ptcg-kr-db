@@ -1,0 +1,614 @@
+[
+    {
+        "id": "bw5t-036",
+        "cardID": "갱도강090메탈030마구060",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "마구 난동부리기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "60",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수만큼 상대의 덱을 위에서부터 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "철광석을 파내어 먹는다. 강철의 몸을 서로 부딪치며 영역 싸움을 하는 습성이 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-049",
+        "cardID": "갱도강090메탈020아이050",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "아이언헤드",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "영역싸움 때문에 갱도라가 강철의 몸을 서로 부딪치면 말 그대로 불꽃이 튄다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005049",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "cp1-013",
+        "cardID": "갱도격090갉기030돌진060",
+        "name": "마그마단의 갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "돌진",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "갱도라의 단단한 몸으로 주는 돌진 공격은 콘크리트도 파괴한다고!",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_013.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-033",
+        "cardID": "갱도강100메탈020한방080",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "철광석을 매우 좋아한다. 강철의 몸을 서로 부딪치며 영역 싸움을 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9b-033",
+        "cardID": "갱도강090경직000박치070",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "경직",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "철광석을 매우 좋아한다. 강철의 몸을 서로 부딪치며 영역 싸움을 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Suwama Chiaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-052",
+        "cardID": "갱도강100띄워030넘어050",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "넘어뜨리기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철의 갑옷을 바위에 부딪쳤을 때 튀는 불꽃의 크기로 강함을 어필하는 습성이 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-297",
+        "cardID": "갱도강100몸통050메탈090",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철의 갑옷을 바위에 부딪쳤을 때 튀는 불꽃의 크기로 강함을 어필하는 습성이 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004049",
+                "debug": "2"
+            },
+            {
+                "number": "297",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_297.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003297",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-066",
+        "cardID": "갱도강090진검040마구080",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "진검승부",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "마구 난동부리기",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 덱을 위에서부터 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "갱도라가 사는 산은 샘물과 철광석이 풍부하여 사람과 다투는 일도 잦았다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Mina Nakai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017066",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-074",
+        "cardID": "갱도강110강철040메탈060",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철태클",
+                "cost": "(강철)",
+                "damage": "40",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            },
+            {
+                "name": "메탈클로",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "갱도라가 사는 산은 샘물과 철광석이 풍부하여 사람과 다투는 일도 잦았다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "074",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "takashi shiraishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008074",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-31",
+        "cardID": "갱도강080자기000진검050",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "자기복원",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (강철) 에너지를 1장 자신에게 붙인다. 그 뒤 자신의 데미지 카운터를 2개 제거한다."
+            },
+            {
+                "name": "진검승부",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "철광석을 파내어 먹는다. 강철의 몸을 서로 부딪치며 영역 싸움을 하는 습성이 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "31",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_31.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008031",
+                "debug": "1"
+            }
+        ]
+    }
+]

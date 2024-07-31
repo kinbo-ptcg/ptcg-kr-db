@@ -1,0 +1,687 @@
+[
+    {
+        "id": "bw7-058",
+        "cardID": "토게무140브라은혜030",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "은혜갚기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "자신의 패가 6장이 되도록 덱을 뽑는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "브라이트베일",
+                "text": "이 포켓몬이 배틀필드에 있는 한 상대가 패에서 「아이템」을 꺼내서 사용했을 때 자신의 포켓몬 전원은 그 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로 존재를 인정하고 쓸데없는 분쟁을 하지 않는 사람을 위해 다양한 은총을 나누어 준다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_058.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-038",
+        "cardID": "토게페140파워050파동070",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "파워풀뺨치기",
+                "cost": "(무색)",
+                "damage": "50×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "파동탄",
+                "cost": "(페어리)(페어리)(무색)",
+                "damage": "70",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "서로 존재를 인정하고 쓸데없는 분쟁을 하지 않는 사람을 위해 다양한 은총을 나누어 준다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-039",
+        "cardID": "토게페130【Δ요정060",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Δ진화】",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            },
+            {
+                "name": "하늘의은총",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 덱을 위에서부터 8장 보고 그 중에서 기본 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 덱으로 되돌리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로 존재를 인정하고 쓸데없는 분쟁을 하지 않는 사람을 위해 다양한 은총을 나누어 준다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_039.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xye-010",
+        "cardID": "토게페170힘의020허리050",
+        "name": "토게키스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "힘의바람",
+                "cost": "(페어리)",
+                "damage": "20",
+                "text": "원한다면 자신의 패에서 에너지를 1장 선택해서 자신의 벤치 포켓몬에게 붙여도 좋다."
+            },
+            {
+                "name": "허리케인윙",
+                "cost": "(페어리)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "022",
+                "prodCode": "xye",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xye.png",
+                "prodName": "XY 30장 덱 대전 세트 「염무왕 EX vs 토게키스 EX」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYE/XYE_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015002010",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "cp4-085",
+        "cardID": "토게페130하늘요정060",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하늘의은총",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 덱을 위에서부터 8장 보고 그 중에서 기본 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 덱으로 되돌리고 덱을 섞는다.",
+                "type": "특성"
+            },
+            {
+                "name": "[Δ진화]",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로 존재를 인정하고 쓸데없는 분쟁을 하지 않는 사람을 위해 다양한 은총을 나누어 준다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "085",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_085.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004085",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-036",
+        "cardID": "토게페140요정매지070",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(페어리)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "요정의 연회",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 (페어리) 포켓몬 전원의 HP를 각각 「30」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "다툼이 없는 평화로운 땅에 토게키스가 나타나 여러 가지 은총을 나눠줬다고 전해진다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-058",
+        "cardID": "토게무200하얀020스피130",
+        "name": "토게키스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "하얀바람",
+                "cost": "(무색)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 70데미지를 추가한다."
+            },
+            {
+                "name": "스피드윙",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012058",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012082",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3a-059",
+        "cardID": "토게무310다이120",
+        "name": "토게키스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "다이글라이드",
+                "cost": "(무색)(무색)",
+                "damage": "120",
+                "text": "원한다면 자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012059",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10P-028",
+        "cardID": "토게초130행복매지120",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "행복샤인",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 「90」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "분쟁이나 다툼이 일어나는 장소에는 모습을 드러내지 않는다. 최근에는 거의 보이지 않는다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "sui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-045",
+        "cardID": "토게초150프레파워110",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "파워사이클론",
+                "cost": "(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프레셔스 기프트",
+                "text": "자신의 차례의 마지막에 1번 사용할 수 있다. 자신의 패가 8장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "은총을 베푸는 존재로 전해지고 있으며 먼 옛날부터 길조로 묘사되어 왔다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Cona Nitanda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-33",
+        "cardID": "토게무120하늘에어040",
+        "name": "토게키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "토게키스",
+                "pokedexNumber": 468
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에어스크롤",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다. 뒷면이 나오면 자신의 데미지 카운터를 3개 제거한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하늘의은총",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 포켓몬을 진화시켰을 때 한 번 사용할 수 있다. 자신의 덱의 카드를 위에서부터 10장 보고 그 중에서 기본 에너지를 원하는 만큼 선택하여 자신의 포켓몬에게 원하는 대로 붙인다. 그 뒤 남은 카드를 덱으로 되돌리고 덱을 섞는다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "다툼이 일어나는 장소에는 절대 나타나지 않는다. 최근에는 모습을 보기 어려워졌다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "33",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Kent Kanetsuna",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_33.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009033",
+                "debug": "1"
+            }
+        ]
+    }
+]

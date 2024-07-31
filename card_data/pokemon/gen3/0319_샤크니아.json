@@ -1,0 +1,877 @@
+[
+    {
+        "id": "bgw-004",
+        "cardID": "샤크물090까칠하드040",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하드바이트",
+                "cost": "(물)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "까칠한피부",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "철판도 물어 찢는 이빨을 가지며 헤엄치는 속도는 시속 120km다. 별명은 바다의 건달이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "018",
+                "prodCode": "bgw",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgw.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 화이트큐레무 EX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGW/bgw_004.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013003004",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-044",
+        "cardID": "샤크악170기회000삐죽100",
+        "name": "샤크니아 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "기회노리기",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "삐죽삐죽팽",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_044.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002044",
+                "debug": "1"
+            },
+            {
+                "number": "070",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707070",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-074",
+        "cardID": "샤크악180기회000삐죽100",
+        "name": "샤크니아 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "기회노리기",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "삐죽삐죽팽",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "074",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_074.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002074",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp1-021",
+        "cardID": "샤크악090아쿠예리070",
+        "name": "아쿠아단의 샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(악)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아쿠아서치",
+                "text": "자신의 덱에서 「아쿠아단」의 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "자랑하는 어금니는 일격필살의 위력! 방심한 적을 확실하게 꼼짝못하게 한다고!",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm1m-039",
+        "cardID": "샤크악110까칠아쿠060",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "아쿠아임팩트",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "까칠한피부",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "한때 등지느러미가 귀한 식재료로 여겨져 남획된 슬픈 과거를 갖고 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Yumi",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm60a-004",
+        "cardID": "샤크물090제트070",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "제트헤드",
+                "cost": "(물)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "시속 120km로 먹이를 쫓아 철도 부수는 어금니로 잡는다. 통칭 바다의 건달.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-071",
+        "cardID": "샤크악210토피120",
+        "name": "M샤크니아 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "토피도다이브",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 후퇴에 필요한 에너지의 개수× 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "071",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707071",
+                "debug": "1"
+            },
+            {
+                "number": "178",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_178.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707178",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-027",
+        "cardID": "샤크악110탐욕배드060",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "배드팽",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "탐욕진화",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 보고 그 중에 있는 (악) 에너지를 원하는 만큼 이 포켓몬에게 붙인다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "빠진 이빨을 지니고 있으면 바다에서 사고를 당하지 않는다고 믿어 액세서리 등으로 가공된다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003027",
+                "debug": "1"
+            },
+            {
+                "number": "027",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SD-010",
+        "cardID": "샤크물110아쿠050",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아제트",
+                "cost": "(물)",
+                "damage": "50",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "엉덩이의 구멍으로 들이마신 바닷물을 뿜어내서 헤엄친다. 피 냄새에는 매우 민감하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-097",
+        "cardID": "샤크물120도발000제트120",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "도발",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "제트바이트",
+                "cost": "(물)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "엉덩이의 구멍으로 들이마신 바닷물을 뿜어내서 헤엄친다. 피 냄새에는 매우 민감하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Kazuma Koda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003015",
+                "debug": "2"
+            },
+            {
+                "number": "097",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Kazuma Koda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003097",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-033",
+        "cardID": "샤크악100예리070",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "엉덩이의 구멍으로 들이마신 바닷물을 뿜어내서 헤엄친다. 피 냄새에는 매우 민감하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_009_D.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-022",
+        "cardID": "샤크물120아쿠010제트060",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아임팩트",
+                "cost": "(물)",
+                "damage": "10+",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "제트헤드",
+                "cost": "(물)(물)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바다의 건달로 불리며 서식하는 해역에 들어간 배는 모조리 공격당한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Tonji Matsuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-017",
+        "cardID": "샤크물120깨물050제트100",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "깨물어버리기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "동전을 3번 던져서 앞면이 나온 수만큼 상대의 패에서 앞면을 보지 않고 선택해서 트래쉬한다."
+            },
+            {
+                "name": "제트헤드",
+                "cost": "(물)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹이의 냄새를 맡으면 엉덩이로 바닷물을 내뿜어서 시속 120km의 속도로 습격한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Shinji Kanda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs5-31",
+        "cardID": "샤크악080까칠상처060",
+        "name": "샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "상처쑤시기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60+",
+                "text": "데미지를 줄 때 이미 상대에게 데미지 카운터가 2개 이상 올려져 있다면 20데미지를 추가한다. 이 기술은 상대의 약점 저항력 모든 효과에 관계없이 데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "까칠한피부",
+                "text": "이 포켓몬이 배틀필드에서 상대의 기술에 의한 데미지를 받았을 때(이 포켓몬의 HP가 없어져도) 그 기술을 사용한 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "철판도 물어 찢는 이빨을 가지며 헤엄치는 속도는 시속 120km다. 별명은 바다의 건달이다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "31",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Ken Sugimori",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_31.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005031",
+                "debug": "1"
+            }
+        ]
+    }
+]

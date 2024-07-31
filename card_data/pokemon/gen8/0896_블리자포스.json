@@ -1,0 +1,62 @@
+[
+    {
+        "id": "S11-034",
+        "cardID": "블리물130프리040와일130",
+        "name": "블리자포스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "블리자포스",
+                "pokedexNumber": 896
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "프리즈다운",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 기술을 받은 기본 포켓몬은 기술을 사용할 수 없다."
+            },
+            {
+                "name": "와일드태클",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "발굽에서 강력한 냉기를 발산한다. 원하는 것은 무엇이든 힘으로 빼앗는 폭군.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Jiro Sasumo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014034",
+                "debug": "3"
+            }
+        ]
+    }
+]

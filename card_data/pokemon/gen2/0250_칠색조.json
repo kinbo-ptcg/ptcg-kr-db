@@ -1,0 +1,721 @@
+[
+    {
+        "id": "bw5e-009",
+        "cardID": "칠색불160불사레인020",
+        "name": "칠색조 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "레인보우번",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지의 타입의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불사조",
+                "text": "이 특성은 이 카드가 트래쉬에 있다면 자신의 차례에 한 번 사용할 수 있다. 동전을 한 번 던져서 앞면이 나오면 자신의 트래쉬에서 각각 다른 타입의 기본 에너지 3장을 이 카드에 붙여서 벤치로 내보낸다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006009",
+                "debug": "1"
+            },
+            {
+                "number": "051",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_051.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006051",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy9-068",
+        "cardID": "칠색무180정화엘리130",
+        "name": "칠색조 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "엘리멘탈페더",
+                "cost": "(풀)(물)(번개)",
+                "damage": "130",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "정화의 불꽃",
+                "text": "이 특성은 이 포켓몬에게 기본 (불꽃) 에너지가 붙어 있다면 자신의 차례에 한 번 사용할 수 있다. 이 포켓몬의 HP를 「50」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_068.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001068",
+                "debug": "1"
+            },
+            {
+                "number": "088",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_088.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001088",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-013",
+        "cardID": "칠색불190성스000피닉180이터000",
+        "name": "칠색조 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "성스러운불꽃",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "피닉스번",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 「피닉스번」을 사용할 수 없다."
+            },
+            {
+                "name": "이터널라이트 GX",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (불꽃) 타입 「포켓몬 GX ･ EX」를 3장 벤치로 내보낸다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008012",
+                "debug": "2"
+            },
+            {
+                "number": "013",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013013",
+                "debug": "1"
+            },
+            {
+                "number": "013",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011013",
+                "debug": "2"
+            },
+            {
+                "number": "112",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SM-P_152.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000152",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-053",
+        "cardID": "칠색불190성스000피닉000이터180",
+        "name": "칠색조 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "성스러운불꽃",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "피닉스번",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "",
+                "text": "자신의 다음 차례에 이 포켓몬은 「피닉스번」을 사용할 수 없다."
+            },
+            {
+                "name": "이터널라이트 GX",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "180",
+                "text": "자신의 트래쉬에 있는 (불꽃) 타입 「포켓몬 GX ･ EX」를 3장 벤치로 내보낸다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008053",
+                "debug": "1"
+            },
+            {
+                "number": "210",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_210.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002210",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-048",
+        "cardID": "칠색무130레인030",
+        "name": "칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "레인보우번",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지의 타입의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "마음이 올바른 트레이너의 앞에 무지개색의 날개를 빛내며 모습을 드러낸다고 전해진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Aya Kusube",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006048",
+                "debug": "1"
+            },
+            {
+                "number": "048",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Aya Kusube",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006110",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8a-004",
+        "cardID": "칠색불130성스000불대120",
+        "name": "칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "성스러운불꽃",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "마음이 올바른 트레이너의 앞에 무지개색의 날개를 빛내며 모습을 드러낸다고 전해진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-055",
+        "cardID": "칠색무230부활레인100",
+        "name": "칠색조 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "레인보우번",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지의 타입의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "부활의 불꽃",
+                "text": "이 카드가 트래쉬에 있다면 자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 이 카드를 벤치로 내보낸다. 그 뒤, 자신의 트래쉬에서 기본 에너지를 4장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016055",
+                "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016080",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "DP-P-2",
+        "cardID": "칠색불100화염020성스000",
+        "name": "칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "성스러운불꽃",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬 1마리에게 80데미지를 준다. 이 기술의 데미지는 약점 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸은 일곱 빛으로 빛나고 날아간 자리에는 무지개가 생긴다는 신화 속에 남아 있는 포켓몬이다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "2",
+                "prodNumber": "DP-P",
+                "prodCode": "DP-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "DP 프로모 카드",
+                "artist": "Takashi Yamaguchi",
+                "rarity": "P",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/PROMO/pr_kr_2.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2010001002",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs7-08",
+        "cardID": "칠색불090피닉레인020",
+        "name": "칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "레인보우 윙",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "20×",
+                "text": "자신에게 붙어 있는 기본 에너지의 타입의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "피닉스 턴",
+                "text": "상대의 차례에 기술에 의한 데미지로 이 포켓몬의 남은 HP가 없어졌을 때 한 번 사용할 수 있다. 동전을 한 번 던져서 앞면이 나오면 이 포켓몬의 데미지 카운터를 모두 제거하고 에너지 이외에 붙어 있는 카드를 모두 트래쉬한다. 이 포켓몬은 트래쉬되지 않지만 한 번 기절한 것이 되어 상대 플레이어는 프라이즈를 1장 가져간다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "무지개색 날개를 가지고 있다. 칠색조를 본 사람은 영원한 행복이 약속된다고 한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "08",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Kazuyuki Kano",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_8.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-051",
+        "cardID": "칠색불130금빛불대110",
+        "name": "빛나는 칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "금빛 날갯짓",
+                "text": "이 포켓몬이 배틀필드에서 상대의 기술의 데미지를 받아 기절했을 때 이 포켓몬에게 붙어 있는 기본 에너지를 2장까지 자신의 벤치 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸은 일곱 빛으로 빛나고 날아간 자리에는 무지개가 생긴다는 신화 속에 남아 있는 포켓몬이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 극장판 포켓몬스터: 너로 정했다! 관람객 선물",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000073",
+                "debug": "1"
+            }
+        ]
+    }
+]

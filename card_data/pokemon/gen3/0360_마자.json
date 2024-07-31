@@ -1,0 +1,115 @@
+[
+    {
+        "id": "SM11-033",
+        "cardID": "마자초060기분없음000",
+        "name": "마자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마자",
+                "pokedexNumber": 360
+            }
+        ],
+        "type": "(초)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "기분 좋은 픽",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 동전을 1번 던져서 앞면이 나오면 상대의 패에서 앞면을 보지 않고 1장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "무리를 지어 행동하는 습성이 있다. 잠들 때는 동굴 안에서 동료들과 서로 몸을 붙인다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-19",
+        "cardID": "마자초040베이놀래000",
+        "name": "마자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "마자",
+                "pokedexNumber": 360
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "놀래키기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 카드를 1장 선택한다. 그 뒤 그 카드를 보고나서 상대의 덱으로 되돌리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「마자용」을 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동료들과 밀어내기 놀이를 하면서 인내심이 강한 성격으로 자란다. 달콤한 과일을 매우 좋아한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "19",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_19.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007019",
+                "debug": "3"
+            }
+        ]
+    }
+]

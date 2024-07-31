@@ -1,0 +1,2955 @@
+[
+    {
+        "id": "S8b-001",
+        "cardID": "뿔충풀040궤찌020",
+        "name": "뿔충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "뿔충이",
+                "pokedexNumber": 13
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독침이 매우 강력하다. 눈에 띄는 몸의 색깔은 상대방을 경계시키기 위해서다.",
+        "number": "001",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001001"
+    },
+    {
+        "id": "S8b-002",
+        "cardID": "딱충풀080딱딱000",
+        "name": "딱충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "딱충이",
+                "pokedexNumber": 14
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "딱딱해지기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-40」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "천적에게 발견되지 않도록 잎사귀 뒷면이나 가지의 틈새에 숨어서 진화할 때를 기다린다.",
+        "number": "002",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001002"
+    },
+    {
+        "id": "S8b-003",
+        "cardID": "독침풀130외골000제트110",
+        "name": "독침붕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "독침붕",
+                "pokedexNumber": 15
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "외골수",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬에게 특수 에너지가 붙어 있다면 그 포켓몬을 기절시킨다."
+            },
+            {
+                "name": "제트스피어",
+                "cost": "(풀)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "집단으로 나타나기도 한다. 맹렬한 스피드로 날아 엉덩이의 독침으로 마구 찌른다.",
+        "number": "003",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001003"
+    },
+    {
+        "id": "S8b-004",
+        "cardID": "귀뚤풀180익사시저080",
+        "name": "귀뚤톡크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "귀뚤톡크",
+                "pokedexNumber": 402
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "익사이팅 스테이지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 3장이 되도록 덱을 뽑는다. 이 포켓몬이 배틀필드에 있다면 4장이 되도록 뽑는다. 이 차례에 이미 다른 「익사이팅 스테이지」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Satoshi Shirai",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001004"
+    },
+    {
+        "id": "S8b-005",
+        "cardID": "체리풀040발랄나뭇020",
+        "name": "체리버",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "체리버",
+                "pokedexNumber": 420
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "발랄과일",
+                "text": "이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸이 빨간 체리버일수록 영양이 많고 구슬의 맛도 달고 맛있다.",
+        "number": "005",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001005"
+    },
+    {
+        "id": "S8b-006",
+        "cardID": "체리풀080완연씨폭070",
+        "name": "체리꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "체리꼬",
+                "pokedexNumber": 421
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "완연한 봄",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬(「룰을 가진 포켓몬」은 제외)에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "만개한 꽃잎에서 감도는 희미한 향기가 벌레포켓몬을 끌어모은다.",
+        "number": "006",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001006"
+    },
+    {
+        "id": "S8b-007",
+        "cardID": "눈쓰풀080때려060",
+        "name": "눈쓰개",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "눈쓰개",
+                "pokedexNumber": 459
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "때려눕히기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배에 열리는 아이스크림 같은 나무열매는 가라르에 사는 달막화들이 매우 좋아한다.",
+        "number": "007",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001007"
+    },
+    {
+        "id": "S8b-008",
+        "cardID": "눈설풀140터프메가090",
+        "name": "눈설왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "눈설왕",
+                "pokedexNumber": 460
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메가톤펀치",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "터프니스 업",
+                "text": "이 포켓몬이 있는 한, 자신의 필드의 「일격」의 포켓몬(「눈설왕」은 제외) 전원의 최대 HP는 각각 「50」커진다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "블리자드를 일으키는 포켓몬이다. 커다란 몸을 흔들면 부근 일대는 금세 새하얗게 된다.",
+        "number": "008",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001008"
+    },
+    {
+        "id": "S8b-009",
+        "cardID": "두루풀050밟기010",
+        "name": "두루지벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "두루지벌레",
+                "pokedexNumber": 824
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "밭에서 자주 보이는 포켓몬이다. 몸에 난 털로 주위에서 일어나는 일을 감지한다.",
+        "number": "009",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001009"
+    },
+    {
+        "id": "S8b-010",
+        "cardID": "이올풀180뒤집020미스050",
+        "name": "이올브 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "이올브",
+                "pokedexNumber": 826
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "미스터리 웨이브",
+                "cost": "(풀)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "010",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001010"
+    },
+    {
+        "id": "S8b-011",
+        "cardID": "이올풀310괴광거다050",
+        "name": "이올브 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "이올브",
+                "pokedexNumber": 826
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "거다이웨이브",
+                "cost": "(풀)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "괴광선",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 전원에게 각각 데미지 카운터를 1개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "011",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001011"
+    },
+    {
+        "id": "S8b-012",
+        "cardID": "과사풀040껍질000",
+        "name": "과사삭벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "과사삭벌레",
+                "pokedexNumber": 840
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "껍질에숨기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "평생을 사과 속에서 지내며 천적인 새포켓몬과 마주치면 사과인 척을 해서 몸을 지킨다.",
+        "number": "012",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001012"
+    },
+    {
+        "id": "S8b-013",
+        "cardID": "애프풀080애플애시060",
+        "name": "애프룡",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "애프룡",
+                "pokedexNumber": 841
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "애시드봄",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "애플드롭",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "새콤한 사과를 먹고 진화했다. 화상을 입을 정도로 강한 산성을 띠는 액체를 볼주머니에 저장하고 있다.",
+        "number": "013",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001013"
+    },
+    {
+        "id": "S8b-014",
+        "cardID": "자루풀130무리000반복060",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "무리부름의 노래",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 후공 플레이어의 첫 차례라면 패로 가져올 수 있는 (풀) 포켓몬의 장수는 3장까지이다."
+            },
+            {
+                "name": "반복채찍",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+        "number": "014",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001014"
+    },
+    {
+        "id": "S8b-015",
+        "cardID": "파이불070가져000불꽃030",
+        "name": "파이리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파이리",
+                "pokedexNumber": 4
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.",
+        "number": "015",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "MAHOU",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001015"
+    },
+    {
+        "id": "S8b-016",
+        "cardID": "리자불090베어020산불060",
+        "name": "리자드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "리자드",
+                "pokedexNumber": 5
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "산불",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "60",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불타는 꼬리를 휘두르며 날카로운 발톱으로 상대를 베어 가르는 몹시 거친 성격이다.",
+        "number": "016",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "SATOSHI NAKAI",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001016"
+    },
+    {
+        "id": "S8b-017",
+        "cardID": "리자불170배틀킹블100",
+        "name": "리자몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "킹블레이즈",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "100+",
+                "text": "자신의 트래쉬에 있는 「단델」의 장수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "배틀센스",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 3장 보고 그 중에서 카드를 1장 선택해서 패로 가져온다. 남은 카드는 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "암석도 태워버릴 정도로 작열하는 화염을 뿜어 산불을 일으킬 때가 있다.",
+        "number": "017",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "NC Empire",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001017"
+    },
+    {
+        "id": "S8b-018",
+        "cardID": "부스불110작열불꽃100",
+        "name": "부스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃의갈기",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "작열의 각성",
+                "text": "이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 (풀) 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.",
+        "number": "018",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Eri Yamaki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001018"
+    },
+    {
+        "id": "S8b-019",
+        "cardID": "번치불210무릎050회오210",
+        "name": "번치코 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "번치코",
+                "pokedexNumber": 257
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "무릎차기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "회오리불꽃",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "019",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001019"
+    },
+    {
+        "id": "S8b-020",
+        "cardID": "번치불320꽉쥐060다이130",
+        "name": "번치코 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "번치코",
+                "pokedexNumber": 257
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "꽉쥐기",
+                "cost": "(불꽃)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "다이블레이즈",
+                "cost": "(무색)(무색)",
+                "damage": "130",
+                "text": "자신의 벤치의 「연격」의 포켓몬을 2마리까지 선택해서 자신의 트래쉬에서 에너지를 1장씩 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "020",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001020"
+    },
+    {
+        "id": "S8b-021",
+        "cardID": "캐스불070날씨고기150",
+        "name": "캐스퐁 태양의 모습",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "캐스퐁",
+                "pokedexNumber": 351
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "고기압 블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "150",
+                "text": "필드에 나와 있는 「스타디움」을 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "날씨 읽기",
+                "text": "자신의 트래쉬에 「스타디움」이 8장 이상 있다면 이 포켓몬이 기술을 사용하기 위한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "뜨거운 햇볕을 받고 있으면 이 모습으로 변한다. 화끈한 몸을 만지면 건조해진다.",
+        "number": "021",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001021"
+    },
+    {
+        "id": "S8b-022",
+        "cardID": "다태불210열방020버닝180",
+        "name": "다태우지네 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "다태우지네",
+                "pokedexNumber": 851
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열방사",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 경우, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "버닝트레인",
+                "cost": "(불꽃)(불꽃)(불꽃)(불꽃)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "022",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001022"
+    },
+    {
+        "id": "S8b-023",
+        "cardID": "다태불320거다040",
+        "name": "다태우지네 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "다태우지네",
+                "pokedexNumber": 851
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "거다이백화",
+                "cost": "(무색)(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수 × 40데미지를 추가한다. 원한다면 데미지를 준 후, 자신의 트래쉬에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "023",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001023"
+    },
+    {
+        "id": "S8b-024",
+        "cardID": "쏘드물060연막010",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "연막",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "산호의 그늘에 거처를 만든다. 위험을 느끼면 입에서 새까만 먹물을 내뿜고 도망간다.",
+        "number": "024",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001024"
+    },
+    {
+        "id": "S8b-025",
+        "cardID": "시드물090물대040",
+        "name": "시드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "시드라",
+                "pokedexNumber": 117
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개와 꼬리를 재빠르게 움직여 앞을 향한 채 뒤로 헤엄칠 수 있는 포켓몬이다.",
+        "number": "025",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "0313",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001025"
+    },
+    {
+        "id": "S8b-026",
+        "cardID": "킹드물150해저아쿠040",
+        "name": "킹드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "킹드라",
+                "pokedexNumber": 230
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아버스트",
+                "cost": "(물)",
+                "damage": "40×",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "해저의 주인",
+                "text": "자신의 배틀 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절할 때마다 1번 사용할 수 있다. 기절한 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 생물도 접근할 수 없는 깊은 해저에서 자면서 힘을 비축하고 있다고 한다.",
+        "number": "026",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001026"
+    },
+    {
+        "id": "S8b-027",
+        "cardID": "마임물080막치010찾아000",
+        "name": "가라르 마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "찾아맞추기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발바닥에서 냉기를 내뿜는다. 얼린 바닥 위에서 온종일 탭 댄스에 열중한다.",
+        "number": "027",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001027"
+    },
+    {
+        "id": "S8b-028",
+        "cardID": "마임물110볼저010프로080",
+        "name": "가라르 마임꽁꽁",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마임꽁꽁",
+                "pokedexNumber": 866,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "볼저글링",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 패에서 카드 이름에 「볼」이 적힌 아이템을 원하는 만큼 트래쉬하고 그 장수 × 40데미지를 추가한다."
+            },
+            {
+                "name": "프로스트 스매시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "유머러스한 움직임으로 모두에게 인기가 높다. 배의 무늬에서 사이코 파워를 방출한다.",
+        "number": "028",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001028"
+    },
+    {
+        "id": "S8b-029",
+        "cardID": "샤미물110급류오로070",
+        "name": "샤미드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "샤미드",
+                "pokedexNumber": 134
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "오로라빔",
+                "cost": "(물)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "급류의 각성",
+                "text": "이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 (불꽃) 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샤미드의 모든 지느러미가 조금씩 떨리기 시작했다면 몇 시간 뒤에 비가 내린다는 표시다.",
+        "number": "029",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001029"
+    },
+    {
+        "id": "S8b-030",
+        "cardID": "총어물060물대010날카020",
+        "name": "총어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "총어",
+                "pokedexNumber": 223
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "날카로운 지느러미",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빨판처럼 변화한 등지느러미로 만타인에게 달라붙어 먹다 남은 것을 얻어먹고 있다.",
+        "number": "030",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001030"
+    },
+    {
+        "id": "S8b-031",
+        "cardID": "대포물110연격폭포050",
+        "name": "대포무노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "대포무노",
+                "pokedexNumber": 224
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "폭포오르기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "연격서치",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「연격」의 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「연격서치」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리가 돌처럼 단단하다. 빨판이 붙어 있는 다리를 휘감아 끊임없이 머리로 세게 때린다.",
+        "number": "031",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001031"
+    },
+    {
+        "id": "S8b-032",
+        "cardID": "캐스물070날씨레인000",
+        "name": "캐스퐁 빗방울의 모습",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "캐스퐁",
+                "pokedexNumber": 351
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "레인샤워",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "날씨 읽기",
+                "text": "자신의 트래쉬에 「스타디움」이 8장 이상 있다면 이 포켓몬이 기술을 사용하기 위한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "비를 맞은 캐스퐁의 모습. 샤워기로 물을 뿌린 실험에서는 이 모습으로 변화하지 않았다.",
+        "number": "032",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001032"
+    },
+    {
+        "id": "S8b-033",
+        "cardID": "캐스물070날씨프로120",
+        "name": "캐스퐁 설운의 모습",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "캐스퐁",
+                "pokedexNumber": 351
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "프로스트 타이푼",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「프로스트 타이푼」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "날씨 읽기",
+                "text": "자신의 트래쉬에 「스타디움」이 8장 이상 있다면 이 포켓몬이 기술을 사용하기 위한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "싸라기눈을 맞으면 이 모습으로 변화한다. 전신이 차갑고 피부는 조금 얼어 있다.",
+        "number": "033",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "miki kudo",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001033"
+    },
+    {
+        "id": "S8b-034",
+        "cardID": "눈꼬물060얼음000스노020",
+        "name": "눈꼬마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "눈꼬마",
+                "pokedexNumber": 361
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "얼음숨",
+                "cost": "(물)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "스노아이스",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "추운 땅에서만 살 수 있다. 영하 100도의 환경에서도 건강하게 뛰어다닌다.",
+        "number": "034",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001034"
+    },
+    {
+        "id": "S8b-035",
+        "cardID": "눈여물090서리크리090",
+        "name": "눈여아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "눈여아",
+                "pokedexNumber": 478
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "크리스털 브레스",
+                "cost": "(물)(무색)",
+                "damage": "90",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "서리 퍼뜨리기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 트래쉬에서 (물) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마이너스 50도의 냉기를 뿜어 먹이를 얼린 뒤 거처로 가져가서 가지런히 나열한다.",
+        "number": "035",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001035"
+    },
+    {
+        "id": "S8b-036",
+        "cardID": "울머물060계속000더블020",
+        "name": "울머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "울머기",
+                "pokedexNumber": 816
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "계속부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「연격」의 기본 포켓몬을 3장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "더블스핀",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "젖으면 피부색이 변한다. 위장한 것처럼 모습이 보이지 않게 된다.",
+        "number": "036",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001036"
+    },
+    {
+        "id": "S8b-037",
+        "cardID": "누겔물090뛰어040",
+        "name": "누겔레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "누겔레온",
+                "pokedexNumber": 817
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "뛰어오르다",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리가 좋지만 귀찮음이 많다. 영역에 적이 다가오지 못하게 여기저기에 함정을 만들어 놓는다.",
+        "number": "037",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001037"
+    },
+    {
+        "id": "S8b-038",
+        "cardID": "인텔물150퀵슈폭포070",
+        "name": "인텔리레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "폭포오르기",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퀵슈터",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손가락 끝에서 마하3의 스피드로 물대포를 쏜다. 눈의 얇은 막으로 급소를 간파해 꿰뚫어버린다.",
+        "number": "038",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001038"
+    },
+    {
+        "id": "S8b-039",
+        "cardID": "누니물050부딪010",
+        "name": "누니머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "누니머기",
+                "pokedexNumber": 872
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "땅에 쌓인 눈을 먹는다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자란다.",
+        "number": "039",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Mina Nakai",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001039"
+    },
+    {
+        "id": "S8b-040",
+        "cardID": "모스물090빙설오로030",
+        "name": "모스노우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "모스노우",
+                "pokedexNumber": 873
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "오로라빔",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빙설의 춤",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (물) 에너지를 1장 선택해서 벤치의 (물) 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "산과 들을 황폐하게 만들면 용서하지 않는다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징한다.",
+        "number": "040",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001040"
+    },
+    {
+        "id": "S8b-041",
+        "cardID": "빙큐물110블록000고드100",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "블록슬라이더",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 필드의 포켓몬에게 붙어 있는 「퓨전 에너지」의 수 × 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "고드름미사일",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리털은 뇌의 표면과 이어져 있다. 생각을 하면 냉기가 발생한다.",
+        "number": "041",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001041"
+    },
+    {
+        "id": "S8b-042",
+        "cardID": "우라물140슬래040연속030",
+        "name": "연격 우라오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "연속탄러시",
+                "cost": "(물)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 「연격」의 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "많은 타격으로 반드시 쓰러뜨리는 것이 신조다. 물 흐르듯 끊임없이 타격 기술을 상대에게 날린다.",
+        "number": "042",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001042"
+    },
+    {
+        "id": "S8b-043",
+        "cardID": "버드물210궤찌040블리200",
+        "name": "백마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(물)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "블리자드랜스",
+                "cost": "(물)(물)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "043",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "D.A.G Inc.",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001043"
+    },
+    {
+        "id": "S8b-044",
+        "cardID": "버드물320엠페010다이010",
+        "name": "백마 버드렉스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "엠페러라이드",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "다이랜스",
+                "cost": "(물)(물)",
+                "damage": "10+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 2장까지 선택해서 트래쉬한다. 그 경우, 트래쉬한 장수 × 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "044",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001044"
+    },
+    {
+        "id": "S8b-045",
+        "cardID": "피카번190충전00010200",
+        "name": "피카츄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "충전",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 덱에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "045",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Saki Hayashiro",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001045"
+    },
+    {
+        "id": "S8b-046",
+        "cardID": "피카번310거다120",
+        "name": "피카츄 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "거다이볼트태클",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "120+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 그 경우, 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "046",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "aky CG Works",
+        "rarity": "RRR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001046"
+    },
+    {
+        "id": "S8b-047",
+        "cardID": "찌리번060일렉040",
+        "name": "찌리리공",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "찌리리공",
+                "pokedexNumber": 100
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(번개)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발전소 등에서 나타난다. 몬스터볼과 헷갈려서 만지고 마비되는 사람이 많다.",
+        "number": "047",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Sekio",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001047"
+    },
+    {
+        "id": "S8b-048",
+        "cardID": "붐볼번090에너라이100",
+        "name": "붐볼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "붐볼",
+                "pokedexNumber": 101
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "에너지발전",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있으며, 사용하면 이 포켓몬을 기절시킨다. 자신의 덱에서 (번개) 에너지를 2장까지 선택해서 자신의 (번개) 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "넘칠 정도의 전기 에너지를 체내에 모으고 있기 때문에 약간의 자극만으로도 폭발한다.",
+        "number": "048",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001048"
+    },
+    {
+        "id": "S8b-049",
+        "cardID": "쥬피번100신뢰라이090",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "신뢰의 각성",
+                "text": "이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 (물) 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화가 나거나 놀라면 전신의 털이 바늘처럼 곤두서서 상대를 꿰뚫는다.",
+        "number": "049",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001049"
+    },
+    {
+        "id": "S8b-050",
+        "cardID": "썬더번110회전020스나000",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전부리",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스나이프썬더",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 「포켓몬 V・GX」 1마리에게 160데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "number": "050",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001050"
+    },
+    {
+        "id": "S8b-051",
+        "cardID": "메리번070울음000찌릿020",
+        "name": "메리프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메리프",
+                "pokedexNumber": 179
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "솜털이 마찰하여 전기가 모인다. 귀엽다고 맨손으로 만지면 따끔하게 저리고 아프다.",
+        "number": "051",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Miki Tanaka",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001051"
+    },
+    {
+        "id": "S8b-052",
+        "cardID": "보송번090일렉일렉050",
+        "name": "보송송",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "보송송",
+                "pokedexNumber": 180
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일렉트릭 다이너모",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 (번개) 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "푹신푹신한 털에 전기를 저장한다. 너무 많이 저장해서 여기저기 반질반질하게 털이 빠져 버렸다.",
+        "number": "052",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Pani Kobayashi",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001052"
+    },
+    {
+        "id": "S8b-053",
+        "cardID": "제크번130베어030와일130",
+        "name": "제크로무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "제크로무",
+                "pokedexNumber": 644
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "와일드쇼크",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게도 60데미지를 준다. 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "꼬리 내부가 모터처럼 회전하면 여러 갈래의 번개가 발생하여 주위를 관통한다.",
+        "number": "053",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "hatachu",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001053"
+    },
+    {
+        "id": "S8b-054",
+        "cardID": "제라번210크로100",
+        "name": "제라오라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "제라오라",
+                "pokedexNumber": 807
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "크로스피스트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 이전 차례에 이 포켓몬 이외의 「연격」의 포켓몬이 기술을 사용했다면 상대의 벤치 포켓몬 1마리에게도 160데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "054",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "chibi",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001054"
+    },
+    {
+        "id": "S8b-055",
+        "cardID": "펄스번200송전000라이010",
+        "name": "펄스멍 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "송전",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 덱에서 (번개) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "라이트닝스톰",
+                "cost": "(번개)(무색)",
+                "damage": "10+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "055",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "aky CG Works",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001055"
+    },
+    {
+        "id": "S8b-056",
+        "cardID": "모르번310유니000마음000버스100라이160",
+        "name": "모르페코 V-UNION",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V-UNION"
+        ],
+        "rules": [
+            "포켓몬 [V-UNION]이 기절한 경우 상대는 프라이즈를 3장 가져간다.",
+            "대전 중에 1번 자신의 차례에 자신의 트래쉬에 있는 4종류의 모르페코 [V-UNION]을 조합하여 벤치로 내보낸다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "유니온게인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "마음껏먹기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 패가 10장이 되도록 덱을 뽑는다."
+            },
+            {
+                "name": "버스트휠",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "100×",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 그 장수 × 100데미지를 준다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "056",
+        "prodNumber": "184",
+        "prodCode": "S8b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+        "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001056"
+    }
+]

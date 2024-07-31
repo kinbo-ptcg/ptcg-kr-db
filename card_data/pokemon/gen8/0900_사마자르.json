@@ -1,0 +1,285 @@
+[
+    {
+        "id": "S9a-046",
+        "cardID": "사마격140거목000난동120",
+        "name": "사마자르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "거목베기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 기절시킨다."
+            },
+            {
+                "name": "난동태클",
+                "cost": "(격투)(격투)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘긴다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004075",
+                "debug": "3"
+            },
+            {
+                "number": "071",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004116",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SLL-009",
+        "cardID": "사마격140차서010암석150",
+        "name": "사마자르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "차서흩뜨리기",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "암석태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘긴다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "021",
+                "prodCode": "SLL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10P-040",
+        "cardID": "사마격210풀베040큰도150",
+        "name": "사마자르 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "큰도끼슬래시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008040",
+                "debug": "1"
+            },
+            {
+                "number": "073",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008073",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10P-041",
+        "cardID": "사마격270브레120램페030",
+        "name": "사마자르 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "브레이크액스",
+                "cost": "(격투)(무색)",
+                "damage": "120",
+                "text": "상대 벤치의 「포켓몬 V」 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "램페이지스타",
+                "cost": "(격투)",
+                "damage": "30×",
+                "text": "자신의 트래쉬에 있는 포켓몬의 장수 × 30데미지를 준다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008041",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008082",
+                "debug": "2"
+            }
+        ]
+    }
+]

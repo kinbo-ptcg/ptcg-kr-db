@@ -1,0 +1,580 @@
+[
+    {
+        "id": "sma-011",
+        "cardID": "어흥불250허슬010타이080번슬200",
+        "name": "어흥염 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "허슬블로",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "자신의 벤치의 (불꽃) 포켓몬의 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "타이거스윙",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "번슬램 GX",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "200",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001011",
+                "debug": "3"
+            },
+            {
+                "number": "009",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003009",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003053",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-018",
+        "cardID": "어흥불170황당050플레180",
+        "name": "어흥염",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "황당펀치",
+                "cost": "(불꽃)(무색)",
+                "damage": "50+",
+                "text": "자신의 벤치 포켓몬에게 데미지 카운터가 올려져 있다면 80데미지를 추가한다."
+            },
+            {
+                "name": "플레어드라이브",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "거칠고 제멋대로인 성격이다. 기분이 내키지 않으면 트레이너의 명령도 아무렇지 않게 무시한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Emi Ando",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-082",
+        "cardID": "어흥악250스카크래130DD010",
+        "name": "어흥염 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "크래시펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "DD토네이도GX",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 50데미지를 추가한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스카차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 이 포켓몬에게 데미지 카운터를 3개 올린다. 그 뒤, 자신의 덱에 있는 (악) 에너지를 3장까지 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013032",
+                "debug": "2"
+            },
+            {
+                "number": "055",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013055",
+                "debug": "2"
+            },
+            {
+                "number": "082",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017082",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-025",
+        "cardID": "어흥불160스트화염090",
+        "name": "어흥염",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스트롱옐",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "거칠고 제멋대로지만 약한 상대를 괴롭히는 것은 재미없어서 싫어한다. 강한 상대에게 의욕을 보인다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007016",
+                "debug": "2"
+            },
+            {
+                "number": "025",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SD-006",
+        "cardID": "어흥불220그랜090플레220",
+        "name": "어흥염 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "그랜드플레임",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90",
+                "text": "자신의 트래쉬에서 (불꽃) 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "플레어 드라이버",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-017",
+        "cardID": "어흥불170숨겨000플레180",
+        "name": "어흥염",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "숨겨진기술",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "이 포켓몬이 진화 전에 가지고 있던 기술을 1개 선택해서 이 기술로써 사용한다."
+            },
+            {
+                "name": "플레어슛",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "투쟁심에 불이 붙으면 허리 주변에 있는 불꽃도 한층 격렬하게 타오른다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-022",
+        "cardID": "어흥불320허슬블레240",
+        "name": "어흥염 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "블레이즈봄",
+                "cost": "(불꽃)(무색)(무색)(무색)(무색)",
+                "damage": "240",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "허슬 플레이",
+                "text": "상대의 벤치 포켓몬의 수만큼 이 포켓몬이 기술을 사용하기 위한 (무색) 에너지는 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005022",
+                "debug": "1"
+            },
+            {
+                "number": "085",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005085",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-020",
+        "cardID": "어흥불160불꽃030DD100",
+        "name": "어흥염",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃엄니",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "DD래리어트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거칠고 제멋대로인 성격이다. 기분이 내키지 않으면 트레이너의 명령도 아무렇지 않게 무시한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000020",
+                "debug": "1"
+            }
+        ]
+    }
+]

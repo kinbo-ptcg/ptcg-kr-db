@@ -1,0 +1,927 @@
+[
+    {
+        "id": "bcv-001",
+        "cardID": "비크불070V제100",
+        "name": "비크티니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "V제너레이트",
+                "cost": "(불꽃)(무색)",
+                "damage": "100",
+                "text": "자신의 벤치 포켓몬이 5마리가 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "승리를 부르는 포켓몬이다. 비크티니와 함께 하는 트레이너는 그 어떤 승부에서도 승리한다고 한다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007001"
+    },
+    {
+        "id": "bcv-002",
+        "cardID": "바오불070때리010덤벼060",
+        "name": "바오프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "바오프",
+                "pokedexNumber": 513
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "덤벼들기",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "화산 동굴에서 산다. 머리의 송아리 속이 불타고 있어 300도나 되는 높은 온도가 된다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007002"
+    },
+    {
+        "id": "bcv-003",
+        "cardID": "바오불090할퀴020더블080",
+        "name": "바오키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "바오키",
+                "pokedexNumber": 514
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "더블파이어",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸속에서 태운 불꽃을 머리나 꼬리로 흩뿌려서 상대를 태운다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007003"
+    },
+    {
+        "id": "bcv-004",
+        "cardID": "활화불080돌진030",
+        "name": "활화르바",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "활화르바",
+                "pokedexNumber": 636
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "돌진",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "화산 기슭에 서식한다. 5개의 뿔에서 불꽃이 나와 달려드는 상대를 격퇴한다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007004"
+    },
+    {
+        "id": "bcv-005",
+        "cardID": "줄뮤번060고속010",
+        "name": "줄뮤마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "줄뮤마",
+                "pokedexNumber": 522
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "고속이동",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "번개 구름이 하늘을 뒤덮으면 나타난다. 갈기로 번개를 붙잡아 전기를 모은다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007005"
+    },
+    {
+        "id": "bcv-006",
+        "cardID": "에몽번070일렉010",
+        "name": "에몽가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "에몽가",
+                "pokedexNumber": 587
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭 체인",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "자신의 벤치에 (번개) 포켓몬이 있다면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "숲의 나무 위에 산다. 망토 같은 막의 안쪽을 방전시키며 활공한다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007006"
+    },
+    {
+        "id": "bcv-007",
+        "cardID": "저리번030몸통010",
+        "name": "저리어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "저리어",
+                "pokedexNumber": 602
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "한 마리의 전력은 적지만 많은 저리어가 연결되면 번개와 같은 위력이 된다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007007"
+    },
+    {
+        "id": "bcv-008",
+        "cardID": "메더번090머드020번개060",
+        "name": "메더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메더",
+                "pokedexNumber": 618
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "머드숏",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "피부가 단단해서 씨름꾼에게 밟혀도 아무렇지 않다. 전기를 흘려보낼 때 웃는 얼굴이 된다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007008"
+    },
+    {
+        "id": "bcv-009",
+        "cardID": "비크초060V블120",
+        "name": "비크티니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "V블라스트",
+                "cost": "(초)",
+                "damage": "120",
+                "text": "동전을 두 번 던져서 한 번이라도 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에서 무한한 에너지를 만들어 낸다. 접촉한 상대에게 에너지를 나누어 준다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007009"
+    },
+    {
+        "id": "bcv-010",
+        "cardID": "데스초060덮치010",
+        "name": "데스마스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데스마스",
+                "pokedexNumber": 562
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "덮치기",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "고대의 무덤에 매장된 사람의 영혼에서 태어났다. 예전의 기억이 남아 있다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007010"
+    },
+    {
+        "id": "bcv-011",
+        "cardID": "데스초090썩지덮치040",
+        "name": "데스니칸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "데스니칸",
+                "pokedexNumber": 563
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "덮치기",
+                "cost": "(초)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "썩지않는몸",
+                "text": "이 포켓몬이 기술의 데미지를 받아 기절할 때 동전을 한 번 던진다. 앞면이 나오면 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "잘 만들어진 관인 척하며 도굴꾼을 기다렸다가 벌한다. 몸체는 순금으로 덮여 있다.",
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007011"
+    },
+    {
+        "id": "bcv-012",
+        "cardID": "리그초060콘택000박치020",
+        "name": "리그레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "리그레",
+                "pokedexNumber": 605
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "콘택트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "강력한 사이코 파워를 다룬다. 사이코 파워로 상대의 뇌를 조여서 두통을 일으킨다.",
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007012"
+    },
+    {
+        "id": "bcv-013",
+        "cardID": "불켜초050텔레010",
+        "name": "불켜미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "불켜미",
+                "pokedexNumber": 607
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "텔레포트 브레이크",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빛을 밝혀 길 안내를 하는 것처럼 가장하여 생명력을 빨아들이고 있다.",
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007013"
+    },
+    {
+        "id": "bcv-014",
+        "cardID": "다부무090친구010",
+        "name": "다부니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "다부니",
+                "pokedexNumber": 531
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "친구사이",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "자신의 벤치 포켓몬의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "귀의 더듬이가 상대에게 닿으면 심장 소리를 듣고 몸 상태나 기분을 알 수 있다.",
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007014"
+    },
+    {
+        "id": "bcv-015",
+        "cardID": "기력의조각",
+        "name": "기력의조각",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007015"
+    },
+    {
+        "id": "bcv-016",
+        "cardID": "수퍼볼",
+        "name": "수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져와도 좋다.",
+            "남은 카드는 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007016"
+    },
+    {
+        "id": "bcv-017",
+        "cardID": "크래시 해머",
+        "name": "크래시 해머",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007017"
+    },
+    {
+        "id": "bcv-018",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007018"
+    },
+    {
+        "id": "bcv-019",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007019"
+    },
+    {
+        "id": "bcv-020",
+        "cardID": "벨",
+        "name": "벨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_020.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007020"
+    },
+    {
+        "id": "bcv-021",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_021.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007021"
+    },
+    {
+        "id": "bcv-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_en_02.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007022"
+    },
+    {
+        "id": "bcv-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_en_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007023"
+    },
+    {
+        "id": "bcv-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bcv",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bcv.png",
+        "prodName": "BW 「배틀 체인지덱 비크티니 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_victini_en_05.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011007024"
+    }
+]

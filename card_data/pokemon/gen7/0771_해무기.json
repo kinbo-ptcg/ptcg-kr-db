@@ -1,0 +1,302 @@
+[
+    {
+        "id": "sm1plus-019",
+        "cardID": "해무물060내용연속030",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "연속 구르기",
+                "cost": "(물)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "내용물분출",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때, 기술을 사용한 포켓몬에게 데미지 카운터를 6개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해변 등 얕은 바다에 산다. 몸에서 체내기관을 꺼내서 먹이를 잡거나 적과 싸운다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "You Iribi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001020",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003019",
+                "debug": "3"
+            },
+            {
+                "number": "019",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003074",
+                "debug": "2"
+            },
+            {
+                "number": "025",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013025",
+                "debug": "2"
+            },
+            {
+                "number": "025",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011025",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-020",
+        "cardID": "해무물070동료000깜짝060",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "깜짝주먹",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대 플레이어와 가위바위보를 해서 자신이 이기면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해무기던지기라는 문화는 육지로 밀려온 해무기를 바다로 던져 돌려보내는 습관에서 시작되었다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Asako Ito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005013",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Asako Ito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smL-017",
+        "cardID": "해무물080가져000물뿌030",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "물뿌리기",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해무기던지기라는 문화는 육지로 밀려온 해무기를 바다로 던져 돌려보내는 습관에서 시작되었다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「뮤츠 GX 덱」",
+                "artist": "OOYAMA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-027",
+        "cardID": "해무물080해무꿀밤050",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "꿀밤",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "해무기던지기",
+                "text": "이 카드가 패에 있다면 자신의 차례에 1번 사용할 수 있다. 이 카드를 덱의 아래로 되돌린다. 그 뒤, 자신의 덱을 1장 뽑는다. 이 차례에 이미 다른 「해무기던지기」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "보습 효과가 뛰어난 점액이 피부를 감싸고 있어 며칠을 육지에 있어도 마르지 않는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018027",
+                "debug": "1"
+            }
+        ]
+    }
+]

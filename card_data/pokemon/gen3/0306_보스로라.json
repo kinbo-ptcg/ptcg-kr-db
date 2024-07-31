@@ -1,0 +1,885 @@
+[
+    {
+        "id": "bw5t-037",
+        "cardID": "보스강140산바기가090",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기가호른",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "90",
+                "text": "동전을 두 번 던져서 모두 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "산바람",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 상대의 덱을 위에서부터 3장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "강철의 뿔로 단단한 암반을 무너뜨리며 식량이 되는 철을 찾아서 터널을 판다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-050",
+        "cardID": "보스강140힘껏050대지080",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "힘껏후려치기",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "대지의파동",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "서로의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "산을 통째로 영역으로 한다. 상처가 많은 보스로라일수록 많이 싸웠다는 것이므로 얕볼 수 없다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_050.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005050",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-045",
+        "cardID": "보스강180강철050레이060",
+        "name": "보스로라 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철박치기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "레이징해머",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001045",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_075.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-046",
+        "cardID": "보스강240메가120",
+        "name": "M보스로라 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메가톤슬램",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "120+",
+                "text": "원한다면 동전을 한 번 던져도 좋다. 앞면이 나오면 120데미지를 추가한다. 뒷면이 나오면 자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_046.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001046",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_076.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001076",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp1-014",
+        "cardID": "보스격140록스040암석120",
+        "name": "마그마단의 보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "록스탬프",
+                "cost": "(격투)(무색)",
+                "damage": "40×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (격투) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 (격투) 에너지의 장수 × 40데미지를 준다."
+            },
+            {
+                "name": "암석바람",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "보스로라의 강철 뿔은 어떤 두꺼운 방벽이라도 뚫어버릴 수 있어!",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_014.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-034",
+        "cardID": "보스강170리벤010버스120",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "리벤지포",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "버스터스윙",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "120",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "산을 통째로 영역으로 한다. 상처가 많은 보스로라일수록 많이 싸웠다는 것이므로 얕볼 수 없다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9b-034",
+        "cardID": "보스강170타이080기가160",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "타이트프레스",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "기가임팩트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "산을 통째로 영역으로 한다. 상처가 많은 보스로라일수록 많이 싸웠다는 것이므로 얕볼 수 없다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Satoshi Shirai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-053",
+        "cardID": "보스강160옹골기가160",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기가톤스톰프",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "옹골참",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있지 않은 상태에서 이 포켓몬이 기술의 데미지를 받아 기절할 때 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철의 뿔로 단단한 암반을 무너뜨리며 식량이 되는 철을 찾아서 터널을 판다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-298",
+        "cardID": "보스강180가드100지구240",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "지구쪼개기",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "240",
+                "text": "자신의 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "강철의 뿔로 단단한 암반을 무너뜨리며 식량이 되는 철을 찾아서 터널을 판다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Teeziro",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004050",
+                "debug": "2"
+            },
+            {
+                "number": "298",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Teeziro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_298.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003298",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-299",
+        "cardID": "보스강230스톤090무자150",
+        "name": "보스로라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "스톤샤워",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "무자비한일격",
+                "cost": "(강철)(무색)(무색)(무색)(무색)",
+                "damage": "150+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "299",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_299.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003299",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-300",
+        "cardID": "보스강330크랙150다이270",
+        "name": "보스로라 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "크랙스톰프",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "150",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            },
+            {
+                "name": "다이돌진",
+                "cost": "(강철)(강철)(무색)(무색)(무색)",
+                "damage": "270",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "300",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_300.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003300",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-067",
+        "cardID": "보스강180카운090헤비180",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "카운터프레스",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 받은 데미지만큼의 데미지 카운터를 기술을 사용한 포켓몬에게 올린다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "두꺼운 철판을 꿰뚫을 정도로 예리한 뿔을 몸통박치기와 함께 찔러넣어 상대를 처리한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "GOSSAN",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017067",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-075",
+        "cardID": "보스강180앵그050가드120",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "앵그리슬램",
+                "cost": "(강철)",
+                "damage": "50×",
+                "text": "자신의 필드의 데미지 카운터가 올려져 있는 포켓몬의 수 × 50데미지를 준다."
+            },
+            {
+                "name": "가드크루",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-50」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "두꺼운 철판을 꿰뚫을 정도로 예리한 뿔을 몸통박치기와 함께 찔러넣어 상대를 처리한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Dsuke",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-32",
+        "cardID": "보스강130가득040하드060",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가득 담기",
+                "cost": "(무색)(무색)",
+                "damage": "40+",
+                "text": "자신의 트래쉬에 있는 에너지를 모두 상대 플레이어에게 보여준다. 그 중에 (강철)  특수 에너지가 있다면 30데미지를 추가한다. 보여준 에너지는 모두 자신의 덱으로 되돌리고 덱을 섞는다."
+            },
+            {
+                "name": "하드메탈",
+                "cost": "(강철)(강철)(강철)(강철)",
+                "damage": "60+",
+                "text": "원한다면 40데미지를 추가해도 좋다. 그 경우 자신에게도 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "40"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "강철의 뿔로 단단한 암반을 무너뜨리며 식량이 되는 철을 찾아서 터널을 판다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "32",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_32.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008032",
+                "debug": "1"
+            }
+        ]
+    }
+]

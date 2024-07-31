@@ -1,0 +1,504 @@
+[
+    {
+        "id": "fsb-013",
+        "cardID": "대검물140롱스030파도080",
+        "name": "대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "롱스피어",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "앞다리의 갑옷 일부분이 커다란 칼로 되어 있다. 울부짖기만 해도 상대를 위압한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "034",
+                "prodCode": "fsb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+                "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_013.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003013",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "ebb-031",
+        "cardID": "대검물140조가하이070",
+        "name": "대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "조가비갑옷",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "앞다리의 갑옷 일부분이 커다란 칼로 되어 있다. 울부짖기만 해도 상대를 위압한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "053",
+                "prodCode": "bw1w",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1w.png",
+                "prodName": "BW 확장팩 제1탄 「화이트 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_white_013.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011002013",
+                "debug": "2"
+            },
+            {
+                "number": "031",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-017",
+        "cardID": "대검물140궁극040롱스090",
+        "name": "대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "궁극의칼날",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "이 기술의 데미지로 상대의 배틀 포켓몬의 남은 HP가 「60」이하가 되면 그 포켓몬을 기절시킨다."
+            },
+            {
+                "name": "롱스피어",
+                "cost": "(물)(물)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "갑옷에 내장된 검으로 한칼에 상대를 제압한다. 눈빛만으로 상대를 침묵시킨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "Naoyo Kimura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-022",
+        "cardID": "대검물160조가아쿠120",
+        "name": "대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아워셔",
+                "cost": "(물)(무색)(무색)",
+                "damage": "120",
+                "text": "원한다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 2개 선택해서 상대의 패로 되돌린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "조가비갑옷",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "갑옷에 내장된 검으로 한칼에 상대를 제압한다. 눈빛만으로 상대를 침묵시킨다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9a-052",
+        "cardID": "대검악220소쿠000섀도180",
+        "name": "히스이 대검귀 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "소쿠리떨구기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 「포켓몬의 도구」를 2장까지 선택해서 트래쉬한다."
+            },
+            {
+                "name": "섀도슬래시",
+                "cost": "(악)(악)(악)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Shin Nagasawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004085",
+                "debug": "1"
+            },
+            {
+                "number": "078",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004123",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001086",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9a-053",
+        "cardID": "대검악270참월무자110",
+        "name": "히스이 대검귀 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "무자비한칼날",
+                "cost": "(악)(악)",
+                "damage": "110+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 110데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "참월스타",
+                "text": "자신의 차례에 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 4개 올린다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004086",
+                "debug": "1"
+            },
+            {
+                "number": "087",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004132",
+                "debug": "2"
+            },
+            {
+                "number": "091",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004136",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001087",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10D-041",
+        "cardID": "대검악170술책어둠060",
+        "name": "히스이 대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠의정수",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "술책가의 자세",
+                "text": "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도 같은 연격은 천 겹의 파도와도 같다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007041",
+                "debug": "1"
+            }
+        ]
+    }
+]

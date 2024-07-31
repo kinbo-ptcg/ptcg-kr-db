@@ -1,0 +1,908 @@
+[
+    {
+        "id": "SA_L-009",
+        "cardID": "모르번090상처010",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "상처때리기",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 배가 고프다. 호주머니같이 생긴 주머니에 넣어둔 씨앗을 먹어서 전기를 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "024",
+                "prodCode": "SA_L",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_L.png",
+                "prodName": "소드&실드 스타터 세트 V 번개",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001081",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SP2-003",
+        "cardID": "모르번300다이180",
+        "name": "모르페코 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "다이방전",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "180",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003020",
+                "debug": "2"
+            },
+            {
+                "number": "003",
+                "prodNumber": "004",
+                "prodCode": "SP2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP2.png",
+                "prodName": "소드&실드 「VMAX 스페셜 세트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP2/SP2_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020015003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-019",
+        "cardID": "모르번170스파020일렉150",
+        "name": "모르페코 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스파크",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "일렉트릭휠",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003019",
+                "debug": "1"
+            },
+            {
+                "number": "062",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003062",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-038",
+        "cardID": "모르번080트집020스파050",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "트집",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다."
+            },
+            {
+                "name": "스파크",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 배가 고프다. 호주머니같이 생긴 주머니에 넣어둔 씨앗을 먹어서 전기를 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005038",
+                "debug": "1"
+            },
+            {
+                "number": "062",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016062",
+                "debug": "2"
+            },
+            {
+                "number": "243",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Akira Komayama",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_243.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016243",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-289",
+        "cardID": "모르악080먹이000꼬르020",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "먹이줍기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "꼬르륵태클",
+                "cost": "(악)",
+                "damage": "20+",
+                "text": "자신의 패가 1장도 없다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공복 호르몬으로 성질이 변한다. 배가 채워질 때까지 온갖 못된 짓을 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "NC Empire",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001047",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019009",
+                "debug": "2"
+            },
+            {
+                "number": "289",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_289.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003289",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SGG-007",
+        "cardID": "모르악050불만030",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "불만폭발",
+                "cost": "(악)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공복 호르몬으로 성질이 변한다. 배가 채워질 때까지 온갖 못된 짓을 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "019",
+                "prodCode": "SGG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+                "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+                "artist": "Teeziro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-159",
+        "cardID": "모르번080노려000",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "노려서스파크",
+                "cost": "(번개)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "아무리 먹어도 금방 배가 고프다. 전기로 구운 씨앗을 소중히 갖고 다닌다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_012_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013038",
+                "debug": "2"
+            },
+            {
+                "number": "159",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_159.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003159",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-056",
+        "cardID": "모르번310유니000마음000버스100라이160",
+        "name": "모르페코 V-UNION",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V-UNION"
+        ],
+        "rules": [
+            "포켓몬 [V-UNION]이 기절한 경우 상대는 프라이즈를 3장 가져간다.",
+            "대전 중에 1번 자신의 차례에 자신의 트래쉬에 있는 4종류의 모르페코 [V-UNION]을 조합하여 벤치로 내보낸다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "유니온게인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "마음껏먹기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 패가 10장이 되도록 덱을 뽑는다."
+            },
+            {
+                "name": "버스트휠",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "100×",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 그 장수 × 100데미지를 준다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-290",
+        "cardID": "모르악190갉고030꼬르120",
+        "name": "모르페코 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "갉고 도망가기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "꼬르륵 스파이크",
+                "cost": "(악)(악)(무색)",
+                "damage": "120+",
+                "text": "이 차례에 패에서 「마리의 프라이드」를 꺼내서 사용했다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "290",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_290.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003290",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-062",
+        "cardID": "모르악060꼬륵000",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "꼬륵봄버",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "이 기술은 자신의 이전 차례에 「데덴네」가 「데데쇼트」를 사용하지 않았다면 사용할 수 없다. 상대의 포켓몬 전원에게 각각 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼주머니의 전기가 악타입의 에너지로 변화했다. 너무 배가 고파서 매우 흉포하다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "nagimiso",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017062",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-051",
+        "cardID": "모르악070배고에너070",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "에너지차륜",
+                "cost": "(악)(악)",
+                "damage": "70",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지를 2개 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "배고픈 대시",
+                "text": "이 포켓몬에게 에너지가 붙어 있지 않다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공복 호르몬으로 성질이 변한다. 배가 채워질 때까지 온갖 못된 짓을 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Cona Nitanda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021051",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Yuu Nishida",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021076",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-030",
+        "cardID": "모르번070간식주워000",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "주워붙이기",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "간식 찾기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 1장 보고 원래대로 되돌린다. 원한다면 그 카드를 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "kodama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-025",
+        "cardID": "모르번080꼬륵000전기040",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "꼬륵꼬륵",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "40",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 배가 고프다. 호주머니같이 생긴 주머니에 넣어둔 씨앗을 먹어서 전기를 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "픽셀 포켓몬 1권 부록 ",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000025",
+                "debug": "3"
+            },
+            {
+                "number": "098",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 팝업스토어 in 스타필드 코엑스몰점 구입특전",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000098",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 팝업스토어 in 스타필드 코엑스몰점 구입특전",
+                "artist": "Saya Tsuruta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000099",
+                "debug": "2"
+            },
+            {
+                "number": "100",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 팝업스토어 in 스타필드 코엑스몰점 구입특전",
+                "artist": "Atsushi Furusawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000100",
+                "debug": "2"
+            }
+        ]
+    }
+]

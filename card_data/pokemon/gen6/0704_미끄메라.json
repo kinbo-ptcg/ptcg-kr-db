@@ -1,0 +1,458 @@
+[
+    {
+        "id": "XY-P-024",
+        "cardID": "미끄드050미끈000몸통020",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "미끈미끈",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(물)(페어리)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가장 약한 드래곤포켓몬이다. 미끌미끌한 몸이 마르지 않도록 축축한 그늘에서 산다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_058.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002058",
+                "debug": "2"
+            },
+            {
+                "number": "024",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001024",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy7-058",
+        "cardID": "미끄드040물타밟기010",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(페어리)(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "물타기",
+                "text": "이 특성은 자신의 패에서 (물) 에너지를 이 포켓몬에게 붙일 때마다 한 번 사용할 수 있다. 자신의 덱에서 「미끄메라」를 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "미끌미끌한 점막으로 덮여 있는 몸은 적의 펀치나 킥을 매끄럽게 미끄러뜨린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_058.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2l-038",
+        "cardID": "미끄드050거품000몸통020",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "거품",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(물)(페어리)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "가장 약한 드래곤포켓몬. 피부가 마르면 숨을 쉴 수 없어서 그늘에서 가만히 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Asako Ito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-065",
+        "cardID": "미끄드040끈적부딪010",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(페어리)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "끈적한 점막",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 포켓몬이 사용하는 기술에 필요한 에너지는 (무색) 에너지 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "미끌미끌한 점막으로 몸을 지킨다.\n점막은 세균투성이이므로\n만지면 반드시 손을 씻자.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-066",
+        "cardID": "미끄드050물뿌010바둥010",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "바둥바둥",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "미끌미끌한 점막으로 몸을 지킨다.\n점막은 세균투성이이므로\n만지면 반드시 손을 씻자.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004066",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-076",
+        "cardID": "미끄드050몸통010녹이020",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "녹이기",
+                "cost": "(물)(초)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "뿔은 뛰어난 감각 기관이다. 적의 기척을 느끼면 바로 숨어들어 살아남아 왔다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "076",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Miki Tanaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018076",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-053",
+        "cardID": "미끄드060몸통010녹이030",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "녹이기",
+                "cost": "(물)(강철)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "습도가 높은 나무 그늘에 몸을 숨기고 있다. 몸을 뒤덮고 있는 미끈한 액체가 마르면 금세 생기를 잃어버린다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Oswaldo KATO",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011090",
+                "debug": "1"
+            },
+            {
+                "number": "053",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Oswaldo KATO",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_053_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011091",
+                "debug": "2"
+            },
+            {
+                "number": "112",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_112.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001112",
+                "debug": "2"
+            }
+        ]
+    }
+]

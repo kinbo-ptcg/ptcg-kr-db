@@ -1,0 +1,221 @@
+[
+    {
+        "id": "S1a-011",
+        "cardID": "단지풀090맛있솔라070",
+        "name": "단지래플",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "단지래플",
+                "pokedexNumber": 842
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "맛있는 향기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 벤치에 있는 기본 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "달콤한 사과를 먹고 진화했다. 몸에서 달콤한 향기를 내보내서 먹이인 벌레포켓몬을 유인한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004011",
+                "debug": "1"
+            },
+            {
+                "number": "019",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016019",
+                "debug": "2"
+            },
+            {
+                "number": "213",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_213.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016213",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S7R-051",
+        "cardID": "단지드090끈끈070투지080",
+        "name": "단지래플",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "단지래플",
+                "pokedexNumber": 842
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "끈끈점액",
+                "cost": "(무색)",
+                "damage": "70×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 특수 에너지의 장수 × 70데미지를 준다."
+            },
+            {
+                "name": "투지의태클",
+                "cost": "(풀)(불꽃)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "달콤한 꿀로 몸이 둘러싸여 있다. 등의 껍질은 특히 더 달콤해서 옛날에는 어린이 간식이었다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-042",
+        "cardID": "단지풀210박치030스위100",
+        "name": "단지래플 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "단지래플",
+                "pokedexNumber": 842
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "스위트임팩트",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_005_R.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013005",
+                "debug": "2"
+            },
+            {
+                "number": "042",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003042",
+                "debug": "3"
+            }
+        ]
+    }
+]

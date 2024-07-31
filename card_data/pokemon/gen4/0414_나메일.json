@@ -1,0 +1,188 @@
+[
+    {
+        "id": "xy10-004",
+        "cardID": "나메풀090도롱바람060",
+        "name": "나메일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "나메일",
+                "pokedexNumber": 414
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "도롱마담 배려하기",
+                "text": "자신의 「도롱마담」에게 올려져 있는 데미지 카운터를 1개 선택해서 자신의 다른 포켓몬에게 올린다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "한밤중에 활발하게 날아다니며 잠든 세꿀버리의 둥지에서 꿀을 훔쳐 달아난다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "MAHOU",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-011",
+        "cardID": "나메풀110습격030바람080",
+        "name": "나메일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "나메일",
+                "pokedexNumber": 414
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "습격",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 「도롱충이」에서 진화했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "한밤중에 활발하게 날아다니며 잠든 세꿀버리의 둥지에서 꿀을 훔쳐 달아난다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002011",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs7-07",
+        "cardID": "나메풀080교란힘빌030퀵터040",
+        "name": "나메일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "나메일",
+                "pokedexNumber": 414
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "힘 빌리기",
+                "cost": "(풀)",
+                "damage": "30×",
+                "text": "자신의 벤치에 있는 「도롱마담」의 타입의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "퀵터치",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": "원한다면 자신을 자신의 벤치 포켓몬과 교체해도 좋다. 그 경우 자신의 에너지를 원하는 만큼 선택해서 새로 나온 배틀 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "교란인분",
+                "text": "자신의 포켓몬 전원의 기술은 상대 배틀 포켓몬의 저항력에 관계없이 데미지를 준다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "07",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_7.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007007",
+                "debug": "1"
+            }
+        ]
+    }
+]

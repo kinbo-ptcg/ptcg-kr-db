@@ -1,0 +1,200 @@
+[
+    {
+        "id": "S1a-050",
+        "cardID": "메롱악070때리010밟기020",
+        "name": "메롱꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메롱꿍",
+                "pokedexNumber": 859
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "밟기",
+                "cost": "(악)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 포켓몬이 싫어하는 감정을 가질 때 발생시키는 마이너스 에너지를 코로 빨아들여서 건강해진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004050",
+                "debug": "1"
+            },
+            {
+                "number": "121",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_121.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016121",
+                "debug": "2"
+            },
+            {
+                "number": "282",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_282.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016282",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S6a-052",
+        "cardID": "메롱악070치근010",
+        "name": "메롱꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "메롱꿍",
+                "pokedexNumber": 859
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "치근거리기",
+                "cost": "(악)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "민가에 숨어들어 도둑질을 하고 속상해하는 사람의 마이너스 에너지도 얻는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-286",
+        "cardID": "메롱악060동료000물기030",
+        "name": "메롱꿍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "메롱꿍",
+                "pokedexNumber": 859
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 포켓몬이 싫어하는 감정을 가질 때 발생시키는 마이너스 에너지를 코로 빨아들여서 건강해진다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "286",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Rianti Hidayat",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_286.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003286",
+                "debug": "3"
+            }
+        ]
+    }
+]

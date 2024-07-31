@@ -1,0 +1,976 @@
+[
+    {
+        "id": "ebb-020",
+        "cardID": "레시불130역린020푸른120",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "푸른불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "신화에 등장하는 포켓몬이다. 꼬리에서 불꽃을 뿜어 올려 모든 것을 불태운다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_013.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001013",
+                "debug": "2"
+            },
+            {
+                "number": "055",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001055",
+                "debug": "2"
+            },
+            {
+                "number": "022",
+                "prodNumber": "025",
+                "prodCode": "sc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+                "prodName": "BW 확장팩 「샤이니 컬렉션」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004022",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Aya Kusube",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_020.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bgr-004",
+        "cardID": "레시불180빛나050브레150",
+        "name": "레시라무 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "빛나는발톱",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "브레이브 파이어",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "018",
+                "prodCode": "bgr",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgr.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 레시라무 EX」",
+                "artist": "shizurow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_bgr_004.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012001004",
+                "debug": "3"
+            },
+            {
+                "number": "021",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Shizurow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006021",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bw8v-008",
+        "cardID": "레시불130미라000크로080",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "미라클히트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 특수 상태를 모두 회복한다."
+            },
+            {
+                "name": "크로스플레임",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치에 「제크로무」가 있다면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃으로 세상을 태워버릴 수 있는 전설의 포켓몬. 진실의 세계를 구축하는 사람을 도와준다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-051",
+        "cardID": "레시드130터보홍련110",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "홍련의날개",
+                "cost": "(불꽃)(불꽃)(번개)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "터보블레이즈",
+                "text": "자신의 패에서 (불꽃) 에너지를 1장 선택해서 자신의 (드래곤) 포켓몬에게 붙인다. 이 특성은 이 포켓몬이 배틀필드에 있다면 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "레시라무의 꼬리가 불타면 열에너지로 대기가 움직여서 세계의 날씨가 변화된다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_051.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp2-002",
+        "cardID": "레시불120베어020화염090",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "화염연속탄",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "90＋",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "레시라무의 꼬리가 불타면 열에너지로 대기가 움직여서 세계의 날씨가 변화된다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-015",
+        "cardID": "레시불130역린020작열130",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "작열하는숨결",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "불꽃으로 세상을 태워버릴 수 있는 전설의 포켓몬. 진실의 세계를 구축하는 사람을 도와준다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010015",
+                "debug": "1"
+            },
+            {
+                "number": "003",
+                "prodNumber": "095",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000003",
+                "debug": "2"
+            },
+            {
+                "number": "017",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002017",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-018",
+        "cardID": "레시불180니트000작열110버밀180",
+        "name": "레시라무 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "니트로차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "\n자신의 덱에 있는 (불꽃) 에너지를 2장까지 이 포켓몬에게 붙인다. 그리고 덱을 섞는다. "
+            },
+            {
+                "name": "작열기둥",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "110",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "버밀리언 GX",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "180",
+                "text": "원한다면 자신의 패에 있는 (불꽃) 에너지를 5장까지 자신의 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "PLANETA Otani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005008",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005054",
+                "debug": "2"
+            },
+            {
+                "number": "018",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "PLANETA Otani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002018",
+                "debug": "1"
+            },
+            {
+                "number": "211",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_211.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002211",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-016",
+        "cardID": "레시불270역린030플레230더블200",
+        "name": "레시라무&리자몽 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            },
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(불꽃)(무색)",
+                "damage": "30+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "플레어 스트라이크",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 「플레어 스트라이크」를 사용할 수 없다."
+            },
+            {
+                "name": "더블블레이즈GX",
+                "cost": "(불꽃)(불꽃)(불꽃)(플러스)",
+                "damage": "200+",
+                "text": "(불꽃) 에너지 3개가 추가로 붙어 있다면 100데미지를 추가한다. 그 경우, 이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007007",
+                "debug": "2"
+            },
+            {
+                "number": "096",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007096",
+                "debug": "2"
+            },
+            {
+                "number": "097",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Ryota Murayama",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007097",
+                "debug": "2"
+            },
+            {
+                "number": "016",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-036",
+        "cardID": "레시드270페이090크로000",
+        "name": "레시라무&제크로무 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            },
+            {
+                "name": "제크로무",
+                "pokedexNumber": 644
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "페이블드 플레어볼트",
+                "cost": "(불꽃)(번개)",
+                "damage": "90×",
+                "text": "자신의 벤치 포켓몬에게 붙어 있는 (불꽃) 과 (번개) 타입의 기본 에너지를 3장까지 트래쉬하고 그 장수 × 90데미지를 준다."
+            },
+            {
+                "name": "크로스 브레이크GX",
+                "cost": "(불꽃)(불꽃)(번개)(번개)(플러스)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 170데미지를 준다. 추가로 이 차례에 패에서 「N의 각오」를 꺼내서 사용했었다면 상대의 다른 벤치 포켓몬 1마리에게도 170데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Naoki Saito",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015036",
+                "debug": "1"
+            },
+            {
+                "number": "064",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Naoki Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4a-021",
+        "cardID": "레시불120어메270",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "어메이징블레이즈",
+                "cost": "(불꽃)(번개)(악)",
+                "damage": "270",
+                "text": "이 포켓몬에게도 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "레시라무의 꼬리가 불타면 열에너지로 대기가 움직여서 세계의 날씨가 변화된다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8a-010",
+        "cardID": "레시불130작열000블랙080",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "작열하는바람",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "블랙플레임",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치에 「제크로무」가 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "레시라무의 꼬리가 불타면 열에너지로 대기가 움직여서 세계의 날씨가 변화된다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Aya Kusube",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-015",
+        "cardID": "레시불220반짝000화이200",
+        "name": "레시라무 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "반짝이는날개",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "화이트 블레이즈",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "200",
+                "text": "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016015",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016076",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVI-009",
+        "cardID": "레시불130히트090",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃으로 세상을 태워버릴 수 있는 전설의 포켓몬. 진실의 세계를 구축하는 사람을 도와준다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "Iwamoto05",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_009_N.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006009",
+                "debug": "1"
+            }
+        ]
+    }
+]

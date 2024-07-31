@@ -1,0 +1,3041 @@
+[
+    {
+        "id": "sm9b-001",
+        "cardID": "페로풀260제트030엘레190비스050",
+        "name": "페로코체&매시붕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "페로코체",
+                "pokedexNumber": 795
+            },
+            {
+                "name": "매시붕",
+                "pokedexNumber": 794
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "제트펀치",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "엘레강트솔",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬의 「엘레강트솔」의 데미지는 「60」이 된다."
+            },
+            {
+                "name": "비스트게임 GX",
+                "cost": "(풀)(플러스)",
+                "damage": "50",
+                "text": "이 기술의 데미지로 상대의 포켓몬이 기절했다면 프라이즈를 1장 더 가져온다. 에너지 7개가 추가로 붙어 있다면 더 가져오는 장수는 3장이 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005001"
+    },
+    {
+        "id": "sm9b-002",
+        "cardID": "캐터풀040용화걸기010",
+        "name": "캐터피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "캐터피",
+                "pokedexNumber": 10
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "걸기",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "용화",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택해서 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빨리 성장하고 싶어서인지 식욕이 왕성하여 하루에 100장의 잎사귀를 먹는다.",
+        "number": "002",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Shibuzoh.",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005002"
+    },
+    {
+        "id": "sm9b-003",
+        "cardID": "단데풀070우화벌레030",
+        "name": "단데기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "단데기",
+                "pokedexNumber": 11
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "벌레먹음",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "우화",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택해서 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "껍질 안은 걸쭉한 액체다. 진화를 대비하여 몸 전체의 세포를 재구성하고 있다.",
+        "number": "003",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Shigenori Negishi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005003"
+    },
+    {
+        "id": "sm9b-004",
+        "cardID": "버터풀130트리000솔라070",
+        "name": "버터플",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "버터플",
+                "pokedexNumber": 12
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "트리플차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 에너지를 3장까지 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개를 감싼 인분은 맹독이다. 캐터피를 노리는 새포켓몬을 발견하면 흩뿌려 내쫓는다.",
+        "number": "004",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Midori Harada",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005004"
+    },
+    {
+        "id": "sm9b-005",
+        "cardID": "덩쿠풀080감아000세게030",
+        "name": "덩쿠리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "덩쿠리",
+                "pokedexNumber": 114
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "감아서 잡아끌기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "세게때리기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "수많은 움직이는 덩굴에 둘러싸여 정체불명이다. 파란 덩굴은 평생 자란다.",
+        "number": "005",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005005"
+    },
+    {
+        "id": "sm9b-006",
+        "cardID": "덩쿠풀130붙들030클로090",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "클로로휩",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 (풀) 에너지가 2개 붙어 있다면 이 포켓몬의 HP를 「60」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.",
+        "number": "006",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "kodama",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005006"
+    },
+    {
+        "id": "sm9b-007",
+        "cardID": "종이풀070크게010칼등000",
+        "name": "종이신도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "종이신도",
+                "pokedexNumber": 798
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "크게베기",
+                "cost": "(풀)",
+                "damage": "10+",
+                "text": "자신의 남은 프라이즈 장수가 4장이라면 120데미지를 추가한다."
+            },
+            {
+                "name": "칼등치기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬의 남은 HP가 「10」이 되도록 데미지 카운터를 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "종이와 같은 얇은 몸에서 연마한 칼 같은 예리함이 느껴지는 울트라비스트다.",
+        "number": "007",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Shin Nagasawa",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005007"
+    },
+    {
+        "id": "sm9b-008",
+        "cardID": "꼬부물060거품010",
+        "name": "꼬부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬부기",
+                "pokedexNumber": 7
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거품",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "등껍질에 숨어 몸을 보호한다. 상대의 빈틈을 놓치지 않고 물을 뿜어내어 반격한다.",
+        "number": "008",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005008"
+    },
+    {
+        "id": "sm9b-009",
+        "cardID": "어니물070단단아쿠060",
+        "name": "어니부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "어니부기",
+                "pokedexNumber": 8
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아슬래시",
+                "cost": "(물)(물)",
+                "damage": "60",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "딱 하고 머리를 맞을 때 등껍질로 숨어서 피한다. 하지만 꼬리가 살짝 삐져나와 있다.",
+        "number": "009",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Hiroki Asanuma",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005009"
+    },
+    {
+        "id": "sm9b-010",
+        "cardID": "거북물240단단로켓060대방000",
+        "name": "거북왕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "거북왕",
+                "pokedexNumber": 9
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "로켓스플래시",
+                "cost": "(물)(물)",
+                "damage": "60×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 덱으로 되돌리고 그 장수 × 60데미지를 준다. 그 경우, 덱을 섞는다."
+            },
+            {
+                "name": "대방출 GX",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 패에 있는 (물) 에너지를 원하는 만큼 자신의 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "010",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "sadaji",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005010"
+    },
+    {
+        "id": "sm9b-011",
+        "cardID": "야돈물070울음000꼬리020",
+        "name": "야돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "야돈",
+                "pokedexNumber": 79
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하품을 하면 비가 온다는 구전 때문에 야돈을 받들어 모시는 지역도 있다고 한다.",
+        "number": "011",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005011"
+    },
+    {
+        "id": "sm9b-012",
+        "cardID": "야도물120하품000쓰리100",
+        "name": "야도란",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "야도란",
+                "pokedexNumber": 80
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하품",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "쓰리 스트라이크",
+                "cost": "(물)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 100데미지를 준다. 모두 뒷면이 나오면 이 대전은 자신의 패가 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "기본적으로 멍하니 있다. 꼬리가 끊겨 셀러가 떨어지면 야돈으로 돌아간다.",
+        "number": "012",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ken Sugimori",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005012"
+    },
+    {
+        "id": "sm9b-013",
+        "cardID": "해무물070동료000깜짝060",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "깜짝주먹",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대 플레이어와 가위바위보를 해서 자신이 이기면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해무기던지기라는 문화는 육지로 밀려온 해무기를 바다로 던져 돌려보내는 습관에서 시작되었다.",
+        "number": "013",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Asako Ito",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005013"
+    },
+    {
+        "id": "sm9b-014",
+        "cardID": "아보초070뱀눈000꼬리020",
+        "name": "아보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "아보",
+                "pokedexNumber": 23
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "뱀눈초리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "꼬리로때리기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "턱을 빼 자신보다 큰 먹이를 통째로 삼킨다. 식후에는 몸을 둥글게 하고 쉰다.",
+        "number": "014",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Yumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005014"
+    },
+    {
+        "id": "sm9b-015",
+        "cardID": "아보초120김밥030헤비050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "김밥말이",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "헤비초크",
+                "cost": "(초)(무색)",
+                "damage": "50+",
+                "text": "자신의 이전 차례에 이 포켓몬이 「김밥말이」를 사용했다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "최근 연구에서 배 모양은 20종류 이상의 패턴이 있다고 판명되었다.",
+        "number": "015",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Yukiko Baba",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005015"
+    },
+    {
+        "id": "sm9b-016",
+        "cardID": "주뱃초050물기010베놈020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "베놈쇼크",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬이 독이라면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈이 없어서 보지 못한다. 입으로 초음파를 발산하여 주변의 상황을 파악한다.",
+        "number": "016",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005016"
+    },
+    {
+        "id": "sm9b-017",
+        "cardID": "골뱃초080물기020흡혈040",
+        "name": "골뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "골뱃",
+                "pokedexNumber": 42
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "흡혈",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "배가 고픈 나머지 강철포켓몬을 물어 버리는 바람에 이빨이 빠진 골뱃을 가끔 볼 수 있다.",
+        "number": "017",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Shin Nagasawa",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005017"
+    },
+    {
+        "id": "sm9b-018",
+        "cardID": "크로초130소리배드060",
+        "name": "크로뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "크로뱃",
+                "pokedexNumber": 169
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "배드포이즌",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 4개가 된다. "
+            }
+        ],
+        "abilities": [
+            {
+                "name": "소리감추기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "이빨이 예리해서 어둠 속에서 물려 피를 빨려도 통증이 없기 때문에 금세 알아차리지 못한다.",
+        "number": "018",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005018"
+    },
+    {
+        "id": "sm9b-019",
+        "cardID": "슬리초070최면000사이030",
+        "name": "슬리프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "슬리프",
+                "pokedexNumber": 96
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "사이코펀치",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "레저 시설 근처에서 볼 수 있다.  그날 밤 아이가 꾸는 즐거운 꿈을 노리고 있다.",
+        "number": "019",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Miki Tanaka",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005019"
+    },
+    {
+        "id": "sm9b-020",
+        "cardID": "슬리초110유인머릿030",
+        "name": "슬리퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "슬리퍼",
+                "pokedexNumber": 97
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "머릿속휘젓기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 패의 장수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "유인하는 추",
+                "text": "이 포켓몬이 있는 한, 상대의 배틀 포켓몬이 기절했을 때 자신은 동전을 1번 던진다. 앞면이 나오면 다음 배틀필드로 내보낼 상대의 벤치 포켓몬은 이 포켓몬의 주인이 선택한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "알로라에서 사는 슬리퍼의 타깃은 주로 자말라다. 사람은 그다지 피해를 입지 않는다.",
+        "number": "020",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005020"
+    },
+    {
+        "id": "sm9b-021",
+        "cardID": "모래격070가져000구르030",
+        "name": "모래두지",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "모래두지",
+                "pokedexNumber": 27
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "비가 적은 토지에 살고 있다. 위험한 상황이 되면 몸을 웅크려 부드러운 배를 지킨다.",
+        "number": "021",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005021"
+    },
+    {
+        "id": "sm9b-022",
+        "cardID": "고지격110연속030모래090",
+        "name": "고지",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "고지",
+                "pokedexNumber": 28
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "연속할퀴기",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "모래지옥",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발톱과 뿔이 잘 부러진다. 부러진 발톱과 뿔은 땅을 일구는 도구로 만들어진다.",
+        "number": "022",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Shigenori Negishi",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005022"
+    },
+    {
+        "id": "sm9b-023",
+        "cardID": "꼬마격070웅크000돌떨040",
+        "name": "꼬마돌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬마돌",
+                "pokedexNumber": 74
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "웅크리기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "돌떨구기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래 산 꼬마돌은 모가 없이 동그랗다. 성격도 매우 차분하고 온화하다.",
+        "number": "023",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005023"
+    },
+    {
+        "id": "sm9b-024",
+        "cardID": "데구격110바위050이판090",
+        "name": "데구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "데구리",
+                "pokedexNumber": 75
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "바위구르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "이판사판태클",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "정상을 목표로 절벽을 오른다. 정상에 도착하면 곧바로 올라온 산길을 굴러 내려간다.",
+        "number": "024",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005024"
+    },
+    {
+        "id": "sm9b-025",
+        "cardID": "딱구격180하드100헤비180",
+        "name": "딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "딱구리",
+                "pokedexNumber": 76
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "하드롤러",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "헤비봄버",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "180-",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "나이가 들면 탈피를 하지 않는다. 긴 세월을 산 딱구리의 껍질은 이끼가 끼어 초록색이다.",
+        "number": "025",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Kyoko Umemoto",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005025"
+    },
+    {
+        "id": "sm9b-026",
+        "cardID": "카포격090피니000회전050",
+        "name": "카포에라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "카포에라",
+                "pokedexNumber": 237
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "피니시콤보",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "이 기술은 자신의 이전 차례에 「시라소몬」이 「스페셜콤보」를 사용하지 않았다면 사용할 수 없다. 상대의 포켓몬 전원에게 각각 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "회전어택",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "팽이처럼 회전하면서 싸운다. 원심력의 파워로 파괴력은 10배다.",
+        "number": "026",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005026"
+    },
+    {
+        "id": "sm9b-027",
+        "cardID": "리오격070페인010",
+        "name": "리오르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "리오르",
+                "pokedexNumber": 447
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "페인트",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "파동이라고 불리는 파를 보면 사람과 포켓몬의 마음을 알 수 있다. 위험한 상대에게는 다가가지 않는다.",
+        "number": "027",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005027"
+    },
+    {
+        "id": "sm9b-028",
+        "cardID": "차곡격120스톤산떨110",
+        "name": "차곡차곡",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "차곡차곡",
+                "pokedexNumber": 805
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "산떨구기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "110",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 덱을 위에서부터 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스톤펜스",
+                "text": "상대의 남은 프라이즈 장수가 3장 이하라면 이 포켓몬의 최대 HP는 「200」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "울트라홀에서 출현했다. 여러 개의 생명이 쌓여 1마리를 형성하고 있는 듯하다.",
+        "number": "028",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "nagimiso",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005028"
+    },
+    {
+        "id": "sm9b-029",
+        "cardID": "루카강260강철050헤비150풀메000",
+        "name": "루카리오&멜메탈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            },
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철주먹",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 덱에 있는 (강철) 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            },
+            {
+                "name": "풀메탈월 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 대전이 종료될 때까지 자신의 (강철) 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 모두「-30」이 된다. 에너지 1개가 추가로 붙어 있다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "029",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005029"
+    },
+    {
+        "id": "sm9b-030",
+        "cardID": "디그강050부딪010",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "용암질의 지면도 거침없이 파며 나아갈 정도로 파워풀하지만 모습을 잘 드러내지 않는다.",
+        "number": "030",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005030"
+    },
+    {
+        "id": "sm9b-031",
+        "cardID": "닥트강080헤어한방040",
+        "name": "알로라닥트리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "닥트리오",
+                "pokedexNumber": 51,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "헤어월",
+                "text": "이 포켓몬이 있는 한, 자신의 (강철) 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-10」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금속질의 수염이 무거워서 스피드는 별로지만 딱딱한 암반도 깊이 파낼 정도의 파워를 가졌다.",
+        "number": "031",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "SATOSHI NAKAI",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005031"
+    },
+    {
+        "id": "sm9b-032",
+        "cardID": "가보강060경직000메탈020",
+        "name": "가보리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "가보리",
+                "pokedexNumber": 304
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "경직",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "평소에는 산속에서 살고 있지만 배가 고프면 산기슭에 나타나 선로나 차를 먹어 버린다.",
+        "number": "032",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005032"
+    },
+    {
+        "id": "sm9b-033",
+        "cardID": "갱도강090경직000박치070",
+        "name": "갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "경직",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "철광석을 매우 좋아한다. 강철의 몸을 서로 부딪치며 영역 싸움을 한다.",
+        "number": "033",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Suwama Chiaki",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005033"
+    },
+    {
+        "id": "sm9b-034",
+        "cardID": "보스강170타이080기가160",
+        "name": "보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "타이트프레스",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "기가임팩트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "산을 통째로 영역으로 한다. 상처가 많은 보스로라일수록 많이 싸웠다는 것이므로 얕볼 수 없다.",
+        "number": "034",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Satoshi Shirai",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005034"
+    },
+    {
+        "id": "sm9b-035",
+        "cardID": "루카강130로킥040러시060",
+        "name": "루카리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "로킥",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "러시업",
+                "cost": "(강철)(강철)",
+                "damage": "60+",
+                "text": "이 차례에 패에서 이 포켓몬에게 「포켓몬의 도구」를 붙였다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "정신을 집중하고 발산하는 파동이라고 불리는 신비한 파는 큰 바위도 산산이 부숴 버린다.",
+        "number": "035",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Midori Harada",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005035"
+    },
+    {
+        "id": "sm9b-036",
+        "cardID": "게노강130고속스플030",
+        "name": "게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "스플릿빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고속비행 형태",
+                "text": "상대의 필드에 「포켓몬 GX・EX」가 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "플라스마단에게 개조당한 고대의 벌레포켓몬이다. 등에 있는 대포의 파워가 올라갔다.",
+        "number": "036",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005036"
+    },
+    {
+        "id": "sm9b-037",
+        "cardID": "멜탄강070강철010",
+        "name": "멜탄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멜탄",
+                "pokedexNumber": 808
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철녹이기",
+                "cost": "(강철)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 (강철) 포켓몬이라면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "걸쭉하게 녹은 강철의 몸을 가졌다. 땅속의 철분이나 금속을 녹여서 흡수한다.",
+        "number": "037",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005037"
+    },
+    {
+        "id": "sm9b-038",
+        "cardID": "멜메강150메탈헤비130",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈이터",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 (강철) 포켓몬을 1장 트래쉬한다. 그 뒤, 이 포켓몬의 HP를 「100」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.",
+        "number": "038",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005038"
+    },
+    {
+        "id": "sm9b-039",
+        "cardID": "깨비무060활공010스피020",
+        "name": "깨비참",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "깨비참",
+                "pokedexNumber": 21
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "활공",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "스피드비행",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신의 영역을 지키기 위해서라면 상대가 큰 포켓몬이라도 덤벼드는 무모한 성질을 가졌다.",
+        "number": "039",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005039"
+    },
+    {
+        "id": "sm9b-040",
+        "cardID": "깨비무100드릴070",
+        "name": "깨비드릴조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "깨비드릴조",
+                "pokedexNumber": 22
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "드릴라이너 더블",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "깨비드릴조 영역에서 음식을 갖고 다니는 것은 위험하다. 순식간에 빼앗긴다.",
+        "number": "040",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "kawayoo",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005040"
+    },
+    {
+        "id": "sm9b-041",
+        "cardID": "나옹무060고양000뿅뿅000",
+        "name": "나옹마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹마",
+                "pokedexNumber": 431
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "고양이일상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다. 그 뒤, 이 포켓몬을 잠듦으로 만든다. "
+            },
+            {
+                "name": "뿅뿅테일",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 「포켓몬 GX・EX」 1마리에게 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 안 들면 발톱을 세우지만 가끔 울음소리로 응석을 부리는 성격이 일부에게 매우 인기가 있다.",
+        "number": "041",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005041"
+    },
+    {
+        "id": "sm9b-042",
+        "cardID": "몬냥무120도둑030넘어080",
+        "name": "몬냥이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몬냥이",
+                "pokedexNumber": 432
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "도둑고양이 대시",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 트래쉬한다. 이 차례에 이 포켓몬이 「나옹마」에서 진화했다면 1장 더 트래쉬한다."
+            },
+            {
+                "name": "넘어뜨리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "다른 포켓몬의 거처라 할지라도 편안하면 눌러앉아 자신의 거처로 삼아버린다.",
+        "number": "042",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005042"
+    },
+    {
+        "id": "sm9b-043",
+        "cardID": "철화무200포스파워110디스000",
+        "name": "철화구야 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "철화구야",
+                "pokedexNumber": 797
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "파워사이클론",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "디스커버리 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 프라이즈를 센 후 모두 패로 가져온다. 그 뒤, 가져온 장수만큼 덱 위에서부터 카드를 프라이즈로 놓는다. 가져온 장수만큼의 프라이즈를 둘 수 없다면 이 기술은 실패한다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "포스캔슬러",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 GX기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "043",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "PLANETA Igarashi",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005043"
+    },
+    {
+        "id": "sm9b-044",
+        "cardID": "퇴화 스프레이Z",
+        "name": "퇴화 스프레이Z",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 진화한 포켓몬을 1마리 선택해서 그 포켓몬의 위에서부터 「진화카드」를 원하는 만큼 떼어내서 퇴화시킨다.",
+            "떼어낸 카드는 덱으로 되돌리고 섞는다.",
+            "(퇴화한 포켓몬은 그 차례에 진화할 수 없다.)"
+        ],
+        "number": "044",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005044"
+    },
+    {
+        "id": "sm9b-045",
+        "cardID": "메탈코어 배리어",
+        "name": "메탈코어 배리어",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "포켓몬에게 붙어 있는 이 카드는 상대의 다음 차례 마지막에 트래쉬한다.",
+            "이 카드를 붙이고 있는 (강철) 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-70」이 된다."
+        ],
+        "number": "045",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005045"
+    },
+    {
+        "id": "sm9b-046",
+        "cardID": "비스트브링거",
+        "name": "비스트브링거",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 남은 프라이즈 장수가 6장일 때 이 카드를 붙이고 있는 「울트라비스트」의 기술의 데미지로 상대의 배틀필드의 「포켓몬 GX・EX」가 기절했다면 프라이즈를 1장 더 가져온다."
+        ],
+        "number": "046",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005046"
+    },
+    {
+        "id": "sm9b-047",
+        "cardID": "멀레인",
+        "name": "멀레인",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패에 있는 (강철) 에너지를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 트래쉬에 있는 트레이너스를 1장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "047",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005047"
+    },
+    {
+        "id": "sm9b-048",
+        "cardID": "블루의 탐색",
+        "name": "블루의 탐색",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 필드에 특성을 가진 포켓몬이 있다면 사용할 수 없다.",
+            "자신의 덱에 있는 트레이너스를 2장까지 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "048",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Naoki Saito",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005048"
+    },
+    {
+        "id": "sm9b-049",
+        "cardID": "울트라포레스트 종이 전문가",
+        "name": "울트라포레스트 종이 전문가",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 「울트라비스트」가 사용하는 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+        ],
+        "number": "049",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005049"
+    },
+    {
+        "id": "sm9b-050",
+        "cardID": "무인발전소",
+        "name": "무인발전소",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 필드의 「포켓몬 GX・EX」의 특성은 모두 없어진다."
+        ],
+        "number": "050",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "aky CG Works",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005050"
+    },
+    {
+        "id": "sm9b-051",
+        "cardID": "비스트링",
+        "name": "비스트링",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 상대의 남은 프라이즈 장수가 4장 또는 3장이 아니라면 사용할 수 없다.",
+            "자신의 덱에 있는 기본 에너지를 2장까지 자신의 「울트라비스트」 1마리에게 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "051",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "5ban Graphics",
+        "rarity": "TR",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005051"
+    },
+    {
+        "id": "sm9b-052",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "052",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ryo Ueda",
+        "rarity": "TR",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005052"
+    },
+    {
+        "id": "sm9b-053",
+        "cardID": "강철 프라이팬",
+        "name": "강철 프라이팬",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 (강철) 포켓몬은 상대의 포켓몬으로부터 받는 기술의 데미지가 「-30」이 되고 약점도 없어진다."
+        ],
+        "number": "053",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Ryo Ueda",
+        "rarity": "TR",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005053"
+    },
+    {
+        "id": "sm9b-054",
+        "cardID": "아세로라",
+        "name": "아세로라",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "데미지 카운터가 올려져 있는 자신의 포켓몬 1마리와 붙어 있는 모든 카드를 패로 되돌린다."
+        ],
+        "number": "054",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "TR",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005054"
+    },
+    {
+        "id": "sm9b-055",
+        "cardID": "페로풀260제트030엘레190비스050",
+        "name": "페로코체&매시붕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "페로코체",
+                "pokedexNumber": 795
+            },
+            {
+                "name": "매시붕",
+                "pokedexNumber": 794
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "제트펀치",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "엘레강트솔",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬의 「엘레강트솔」의 데미지는 「60」이 된다."
+            },
+            {
+                "name": "비스트게임 GX",
+                "cost": "(풀)(플러스)",
+                "damage": "50",
+                "text": "이 기술의 데미지로 상대의 포켓몬이 기절했다면 프라이즈를 1장 더 가져온다. 에너지 7개가 추가로 붙어 있다면 더 가져오는 장수는 3장이 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "055",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005055"
+    },
+    {
+        "id": "sm9b-056",
+        "cardID": "페로풀260제트030엘레190비스050",
+        "name": "페로코체&매시붕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "페로코체",
+                "pokedexNumber": 795
+            },
+            {
+                "name": "매시붕",
+                "pokedexNumber": 794
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "제트펀치",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "엘레강트솔",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬의 「엘레강트솔」의 데미지는 「60」이 된다."
+            },
+            {
+                "name": "비스트게임 GX",
+                "cost": "(풀)(플러스)",
+                "damage": "50",
+                "text": "이 기술의 데미지로 상대의 포켓몬이 기절했다면 프라이즈를 1장 더 가져온다. 에너지 7개가 추가로 붙어 있다면 더 가져오는 장수는 3장이 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "056",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "kirisAki",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005056"
+    },
+    {
+        "id": "sm9b-057",
+        "cardID": "거북물240단단로켓060대방000",
+        "name": "거북왕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "거북왕",
+                "pokedexNumber": 9
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "로켓스플래시",
+                "cost": "(물)(물)",
+                "damage": "60×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 덱으로 되돌리고 그 장수 × 60데미지를 준다. 그 경우, 덱을 섞는다."
+            },
+            {
+                "name": "대방출 GX",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 패에 있는 (물) 에너지를 원하는 만큼 자신의 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "057",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "sadaji",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005057"
+    },
+    {
+        "id": "sm9b-058",
+        "cardID": "루카강260강철050헤비150풀메000",
+        "name": "루카리오&멜메탈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            },
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철주먹",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 덱에 있는 (강철) 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            },
+            {
+                "name": "풀메탈월 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 대전이 종료될 때까지 자신의 (강철) 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 모두「-30」이 된다. 에너지 1개가 추가로 붙어 있다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "058",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005058"
+    },
+    {
+        "id": "sm9b-059",
+        "cardID": "루카강260강철050헤비150풀메000",
+        "name": "루카리오&멜메탈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            },
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철주먹",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 덱에 있는 (강철) 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            },
+            {
+                "name": "풀메탈월 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 대전이 종료될 때까지 자신의 (강철) 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 모두「-30」이 된다. 에너지 1개가 추가로 붙어 있다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "059",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "nagimiso",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005059"
+    },
+    {
+        "id": "sm9b-060",
+        "cardID": "철화무200포스파워110디스000",
+        "name": "철화구야 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "철화구야",
+                "pokedexNumber": 797
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "파워사이클론",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "디스커버리 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 프라이즈를 센 후 모두 패로 가져온다. 그 뒤, 가져온 장수만큼 덱 위에서부터 카드를 프라이즈로 놓는다. 가져온 장수만큼의 프라이즈를 둘 수 없다면 이 기술은 실패한다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "포스캔슬러",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 GX기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "060",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005060"
+    },
+    {
+        "id": "sm9b-061",
+        "cardID": "멀레인",
+        "name": "멀레인",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패에 있는 (강철) 에너지를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 트래쉬에 있는 트레이너스를 1장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "061",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005061"
+    },
+    {
+        "id": "sm9b-062",
+        "cardID": "블루의 탐색",
+        "name": "블루의 탐색",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 필드에 특성을 가진 포켓몬이 있다면 사용할 수 없다.",
+            "자신의 덱에 있는 트레이너스를 2장까지 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "062",
+        "prodNumber": "054",
+        "prodCode": "sm9b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+        "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+        "artist": "Naoki Saito",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005062"
+    }
+]

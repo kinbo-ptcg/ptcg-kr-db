@@ -1,0 +1,810 @@
+[
+    {
+        "id": "xy5g-035",
+        "cardID": "요가격100순수000풍차060",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "순수한힘",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "풍차킥",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001035",
+                "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707060",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-036",
+        "cardID": "요가격090【Ω명상000요가030",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "명상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "요가킥",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 약점 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Ω연타】",
+                "text": "이 포켓몬은 기술을 2번 연속으로 사용할 수 있다. (1번째에 상대의 배틀 포켓몬이 기절했다면 다음 포켓몬이 나온 후 2번째 기술을 사용한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp4-071",
+        "cardID": "요가격090[Ω명상000요가030",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "명상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "요가킥",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Ω연타]",
+                "text": "이 포켓몬은 기술을 2번 연속으로 사용할 수 있다. (1번째에 상대의 배틀 포켓몬이 기절했다면, 다음 포켓몬이 나온 후, 2번째 기술을 사용한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "071",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_071.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004071",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7-046",
+        "cardID": "요가격090번뇌010스피090",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "번뇌의일격",
+                "cost": "(격투)(격투)",
+                "damage": "10+",
+                "text": "이 포켓몬의 남은 HP가 「30」이하라면 160데미지를 추가한다."
+            },
+            {
+                "name": "스피닝킥",
+                "cost": "(격투)(격투)",
+                "damage": "90",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-021",
+        "cardID": "요가격110순수000달인060",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "순수한힘",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "달인의일격",
+                "cost": "(격투)(격투)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 「검은띠」가 붙어 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "춤추는 듯한 우아한 움직임으로 공격을 피하며 상대에게 강력한 일격을 선사한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Shigenori Negishi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-053",
+        "cardID": "요가격110요가040사이060",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "요가킥",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. "
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Suwama Chiaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-221",
+        "cardID": "요가격210요가000스매100",
+        "name": "요가램 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "요가루프",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 이 기술로 상대의 포켓몬이 기절했다면 이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. 자신의 이전 차례에 자신의 포켓몬이 「요가루프」를 사용했다면 이 기술은 사용할 수 없다."
+            },
+            {
+                "name": "스매시어퍼",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Satoshi Shirai",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012036",
+                "debug": "2"
+            },
+            {
+                "number": "221",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Satoshi Shirai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_221.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003221",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SLL-003",
+        "cardID": "요가격110배틀050",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "배틀스텝",
+                "cost": "(격투)",
+                "damage": "50",
+                "text": "자신의 덱에서 (격투) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "021",
+                "prodCode": "SLL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-038",
+        "cardID": "요가초120차크의욕080",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "의욕킥",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 필드에 「포켓몬 VMAX」가 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "차크라의 각성",
+                "text": "자신의 패의 장수가 4장이라면 이 포켓몬이 기술을 사용하기 위한 에너지는 (무색) 에너지 3개만큼 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Aya Kusube",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017038",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-039",
+        "cardID": "요가격090경혈030한방090",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "경혈노리기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다."
+            },
+            {
+                "name": "한방차기",
+                "cost": "(격투)",
+                "damage": "90",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Jerky",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-038",
+        "cardID": "요가격120로킥040무릎110",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "로킥",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "무릎차기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "춤추는 듯한 우아한 움직임으로 공격을 피하며 상대에게 강력한 일격을 선사한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Masako Tomii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVI-030",
+        "cardID": "요가격110더블040",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "더블스매시",
+                "cost": "(격투)",
+                "damage": "40×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "춤추는 듯한 우아한 움직임으로 공격을 피하며 상대에게 강력한 일격을 선사한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "Fujimoto Gold",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_030_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs5-28",
+        "cardID": "요가격090발경000스피080",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "발경",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 데미지 카운터와 같은 수의 데미지 카운터를 상대의 포켓몬 1마리에게 올린다."
+            },
+            {
+                "name": "스피닝킥",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80",
+                "text": "자신에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "요가 수행에 의해 육감이 발달했다. 우아하게 춤추는 듯이 몸을 움직인다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "28",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_28.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005028",
+                "debug": "1"
+            }
+        ]
+    }
+]

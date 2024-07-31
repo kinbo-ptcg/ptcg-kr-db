@@ -1,0 +1,479 @@
+[
+    {
+        "id": "ebb-069",
+        "cardID": "랜드격110풍작000가이080",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "풍작",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "가이아해머",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80",
+                "text": "서로의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_047.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003047",
+                "debug": "2"
+            },
+            {
+                "number": "069",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_069.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006069",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw6f-040",
+        "cardID": "랜드격180해머030대지080",
+        "name": "랜드로스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "해머헤드",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "대지의심판",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (격투) 에너지를 모두 트래쉬해도 좋다. 그 경우 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_040.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008040",
+                "debug": "1"
+            },
+            {
+                "number": "061",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_061.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008061",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy3-056",
+        "cardID": "랜드격120힘의020스카090",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "힘의외침",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "스카이래리엇",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_056.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-064",
+        "cardID": "랜드격120스카020",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스카이래리엇",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 기본 포켓몬 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-069",
+        "cardID": "랜드격120직격000파워060",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파워사이클론",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개, 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007052",
+                "debug": "2"
+            },
+            {
+                "number": "069",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017069",
+                "debug": "1"
+            },
+            {
+                "number": "039",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018039",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-232",
+        "cardID": "랜드격120뒤집020대지120",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "대지의울림",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 벤치 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람이나 번개를 거둬들여 바꾼 에너지가 흙에 영양을 주어 대지를 풍족하게 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "NC Empire",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012039",
+                "debug": "2"
+            },
+            {
+                "number": "232",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_232.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003232",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SLL-006",
+        "cardID": "랜드격120뺨때020스매130",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뺨때리기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스매시에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람이나 번개를 거둬들여 바꾼 에너지가 흙에 영양을 주어 대지를 풍족하게 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "021",
+                "prodCode": "SLL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005006",
+                "debug": "1"
+            }
+        ]
+    }
+]

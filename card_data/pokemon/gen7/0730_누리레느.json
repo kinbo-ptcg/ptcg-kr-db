@@ -1,0 +1,216 @@
+[
+    {
+        "id": "sma-014",
+        "cardID": "누리물250버블010해명120그랜000",
+        "name": "누리레느 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "누리레느",
+                "pokedexNumber": 730
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "버블비트",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "해명",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "그랜드에코 GX",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001014",
+                "debug": "3"
+            },
+            {
+                "number": "016",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003016",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003054",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-024",
+        "cardID": "누리물150하모히프080",
+        "name": "누리레느",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "누리레느",
+                "pokedexNumber": 730
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "히프노 스플래시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하모닉스",
+                "text": "이 포켓몬이 있는 한, 패에서 자신의 포켓몬에게 에너지를 붙일 때 동시에 2장까지 붙일 수 있다. (기술・「하모닉스」이외의 특성・트레이너스로 붙이는 경우는 제외한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "노랫소리를 활용하여 싸운다. 매일 목 상태 관리는 트레이너의 중요한 역할이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-021",
+        "cardID": "누리물150차밍030물거100",
+        "name": "누리레느",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "누리레느",
+                "pokedexNumber": 730
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "차밍보이스",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "물거품아리아",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "물의 풍선을 노래로 컨트롤한다. 그 멜로디는 동료에게 배우며 대대로 무리에 전해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000021",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,910 @@
+[
+    {
+        "id": "dc-010",
+        "cardID": "라티드100스카020스피060",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "스카이 블레이드",
+                "cost": "(물)(무색)",
+                "damage": "20+",
+                "text": "자신의 벤치에 「라티아스」가 있다면 20데미지를 추가한다."
+            },
+            {
+                "name": "스피드윙",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "020",
+                "prodCode": "dc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dc.png",
+                "prodName": "BW 확장팩 「드래곤 컬렉션」",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/DC/dc_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012004010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8s-039",
+        "cardID": "라티드170음속040라스150",
+        "name": "라티오스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "음속비행",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "라스트버지",
+                "cost": "(물)(초)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "Ryo Ueda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_039.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002039",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_054.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002054",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy6-048",
+        "cardID": "라티드170패스040빛의110",
+        "name": "라티오스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "패스트레이드",
+                "cost": "(초)",
+                "damage": "40",
+                "text": "이 기술은 선공 플레이어의 첫 차례라도 사용할 수 있다."
+            },
+            {
+                "name": "빛의파동",
+                "cost": "(물)(초)(초)(무색)",
+                "damage": "110",
+                "text": "상대의 다음 차례에 이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_048.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004048",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_082.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004082",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008033",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy6-049",
+        "cardID": "라티드220소닉000",
+        "name": "M라티오스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "소닉에이스",
+                "cost": "(물)(초)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004049",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_083.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp2-019",
+        "cardID": "라티드100활공020스카070",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "활공",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스카이 블레이드",
+                "cost": "(물)(초)(무색)(무색)",
+                "damage": "70＋",
+                "text": "자신의 벤치에「라티아스」가 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_019.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sme-002",
+        "cardID": "라티초110브레030라군070",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "브레이크스루",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라군플라이트",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010042",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "021",
+                "prodCode": "sme",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+                "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005002",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm7-067",
+        "cardID": "라티드140드래050",
+        "name": "라티오스 ◇",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "프리즘스타"
+        ],
+        "rules": [
+            "같은 이름의 (프리즘스타) (프리즘스타)의 카드는 덱에 1장만 넣을 수 있다. 트래쉬가 아닌 로스트존에 둔다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤플리트",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 (드래곤) 타입의 진화 포켓몬의 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007067",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9-060",
+        "cardID": "라티드250버스240에어000",
+        "name": "라티아스&라티오스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "라티아스",
+                "pokedexNumber": 380
+            },
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "버스터퍼지",
+                "cost": "(물)(초)(초)(무색)",
+                "damage": "240",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            },
+            {
+                "name": "에어로유닛 GX",
+                "cost": "(초)(플러스)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 5장 자신의 포켓몬에게 원하는 대로 붙인다. 에너지 1개가 추가로 붙어 있다면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001060",
+                "debug": "1"
+            },
+            {
+                "number": "104",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001104",
+                "debug": "2"
+            },
+            {
+                "number": "105",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_105.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001105",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11-034",
+        "cardID": "라티초170파워태그120클리000",
+        "name": "라티오스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "태그퍼지",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 포켓몬은 「TAG TEAM」의 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "클리어비전GX",
+                "cost": "(초)",
+                "damage": "",
+                "text": "이 대전이 종료될 때까지 상대의 포켓몬은 GX기술을 사용할 수 없다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워바인드",
+                "text": "자신의 필드의 포켓몬의 수가 4마리 이하라면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013034",
+                "debug": "1"
+            },
+            {
+                "number": "099",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "ConceptLab",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013099",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12a-106",
+        "cardID": "라티드130블루라스210",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "라스트버지",
+                "cost": "(물)(물)(초)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "블루어시스트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 (초) 에너지를 1장 선택해서 자신의 「라티아스」에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "hatachu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018075",
+                "debug": "2"
+            },
+            {
+                "number": "106",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "hatachu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_106.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001106",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-027",
+        "cardID": "라티초110활공020러스180",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "활공",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "러스터퍼지",
+                "cost": "(초)(초)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "chibi",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs2-35",
+        "cardID": "라티무090에너010라스120",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에너지 드로",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 자신의 덱에 있는 기본 에너지를 1장 자신에게 붙인다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "라스트버지",
+                "cost": "(풀)(번개)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 에너지를 3개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(무색)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "35",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Daisuke Ito",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_35.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-132",
+        "cardID": "라티드120에너020라스140",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "에너지 드로",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 덱에 있는 기본 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "라스트버지",
+                "cost": "(물)(초)(무색)(무색)",
+                "damage": "140",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "132",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 6탄",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SM-P_169.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000169",
+                "debug": "1"
+            }
+        ]
+    }
+]

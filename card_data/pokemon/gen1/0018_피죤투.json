@@ -1,0 +1,597 @@
+[
+    {
+        "id": "xy2-063",
+        "cardID": "피죤무130꽉쥐040스트060",
+        "name": "피죤투",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꽉쥐기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "스트롱브리즈",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「스트롱브리즈」의 데미지는 「+60」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹이를 찾을 때 수면을 아슬아슬하게 미끄러지듯 날아 잉어킹 등을 움켜잡는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "063",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "kawayoo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_063.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002063",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "cp6-064",
+        "cardID": "피죤무170따라000페더080",
+        "name": "피죤투 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "따라하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 이전 차례에 이 포켓몬이 기술의 데미지를 받았다면 그 데미지와 같은 데미지를 상대의 배틀 포켓몬에게 준다."
+            },
+            {
+                "name": "페더랜스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_064.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009064",
+                "debug": "1"
+            },
+            {
+                "number": "109",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_109.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009109",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp6-065",
+        "cardID": "피죤무220마하130",
+        "name": "M피죤투 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "[M진화] 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마하사이클론",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "원한다면 상대의 배틀 포켓몬을 벤치 포켓몬과 교체해도 좋다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_065.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009065",
+                "debug": "1"
+            },
+            {
+                "number": "110",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_110.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009110",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9-070",
+        "cardID": "피죤무130날려060선풍000",
+        "name": "피죤투",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "날려버리기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "선풍",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "먹이를 찾을 때 수면을 아슬아슬하게 미끄러지듯 날아 잉어킹 등을 움켜잡는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "070",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001070",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-082",
+        "cardID": "피죤무210사라플라080",
+        "name": "피죤투 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "플라이트서핑",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "필드에 자신의 스타디움이 나와 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사라지는 날개",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "082",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Saki Hayashiro",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014082",
+                "debug": "1"
+            },
+            {
+                "number": "112",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Saki Hayashiro",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_112.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014111",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-018",
+        "cardID": "피죤무130홰치040공중150",
+        "name": "피죤투",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "공중날기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "아름다운 날개를 펼쳐 상대를 위협한다. 마하2로 하늘을 날아다닌다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Oswaldo KATO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVHK-015",
+        "cardID": "피죤무280마하몰아120",
+        "name": "피죤투 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몰아치기",
+                "cost": "(무색)(무색)",
+                "damage": "120",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마하 서치",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「마하 서치」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "089",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015089",
+                "debug": "2"
+            },
+            {
+                "number": "128",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_128.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015128",
+                "debug": "2"
+            },
+            {
+                "number": "136",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Jerky",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_136.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015136",
+                "debug": "2"
+            },
+            {
+                "number": "139",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_139.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001139",
+                "debug": "2"
+            },
+            {
+                "number": "335",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "takuyoa",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_335.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001335",
+                "debug": "2"
+            },
+            {
+                "number": "015",
+                "prodNumber": "053",
+                "prodCode": "SVHK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHK.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「고대의 코라이돈 ex」",
+                "artist": "takuyoa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002015",
+                "debug": "1"
+            },
+            {
+                "number": "014",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "takuyoa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003014",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs2-25",
+        "cardID": "피죤무120따라000날려050",
+        "name": "피죤투",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "피죤투",
+                "pokedexNumber": 18
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "따라하기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 이전 차례에 자신이 기술에 의한 데미지를 받았다면 그 데미지와 같은 데미지를 상대에게 준다."
+            },
+            {
+                "name": "날려버리기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "피죤투가 힘껏 날개를 치면 큰 나무도 휠 정도의 강풍을 일으킨다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "25",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_25.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002025",
+                "debug": "1"
+            }
+        ]
+    }
+]

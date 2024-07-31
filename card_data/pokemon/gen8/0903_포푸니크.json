@@ -1,0 +1,215 @@
+[
+    {
+        "id": "S10P-043",
+        "cardID": "포푸악120캐리발톱060",
+        "name": "히스이 포푸니크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "캐리 클라임",
+                "text": "이 포켓몬이 벤치에 있는 한, 자신의 배틀 포켓몬의 후퇴에 필요한 에너지는 2개만큼 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없다. 무리를 이루지 않고 고독함을 즐긴다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008043",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S10P-044",
+        "cardID": "포푸악190독발000페이080",
+        "name": "히스이 포푸니크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "페이탈클로",
+                "cost": "(악)(무색)",
+                "damage": "80×",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008044",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008074",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "OKACHEKE",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10a-049",
+        "cardID": "포푸악130포이독찌090",
+        "name": "찬란한 히스이 포푸니크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "찬란한"
+        ],
+        "rules": [
+            "찬란한 포켓몬은 덱에 1장만 넣을 수 있다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "포푸니크",
+                "pokedexNumber": 903,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독찌르기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "포이즌피크",
+                "text": "이 포켓몬이 있는 한, 상대의 배틀 포켓몬은 독으로 올리는 데미지 카운터의 수가 2개 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없다. 무리를 이루지 않고 고독함을 즐긴다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Akira Komayama",
+                "rarity": "K",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011084",
+                "debug": "1"
+            }
+        ]
+    }
+]

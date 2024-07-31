@@ -1,0 +1,386 @@
+[
+    {
+        "id": "cp1-022",
+        "cardID": "쟝고무090동료000팀플020",
+        "name": "마그마단의 쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「마그마단」의 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "팀플레이",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치에 있는 「마그마단」의 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "두려움을 모르는 쟝고들의 포메이션 공격을 과연 끝까지 지켜볼 수 있겠어?",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-061",
+        "cardID": "쟝고무100쥐어010잔혹020",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "쥐어박기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "잔혹한 칼날",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몇 대에 걸쳐서 세비퍼와 싸워왔다. 날카로운 발톱이 최대의 무기다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "tetsuya koizumi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014047",
+                "debug": "2"
+            },
+            {
+                "number": "061",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "tetsuya koizumi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5a-056",
+        "cardID": "쟝고무110질풍050",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "질풍크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "이 차례에 패에서 「연격」의 서포트를 꺼내서 사용했다면 상대의 벤치 포켓몬 2마리에게도 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세비퍼의 냄새를 맡는 것만으로도 전신의 털이 곤두선다. 예리한 손톱으로 적을 베어 가른다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-093",
+        "cardID": "쟝고무090베어040",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "세비퍼와는 사연이 깊은 사이. 만나면 곧바로 앞발의 발톱을 펼쳐 위협한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "023",
+                "prodCode": "SVAW",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAW.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」",
+                "artist": "Yuya Oka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAW_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023004008",
+                "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Yuya Oka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016093",
+                "debug": "3"
+            },
+            {
+                "number": "024",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Yuya Oka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023024",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-062",
+        "cardID": "쟝고무110끌어000슬래080",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세비퍼와는 사연이 깊은 사이. 만나면 곧바로 앞발의 발톱을 펼쳐 위협한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "aoki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006062",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-34",
+        "cardID": "쟝고무070베어020커팅040",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "커팅크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "상대의 필드에 「세비퍼」가 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몇 대에 걸쳐서 세비퍼와 싸워왔다. 날카로운 발톱이 최대의 무기다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "34",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_34.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009034",
+                "debug": "1"
+            }
+        ]
+    }
+]

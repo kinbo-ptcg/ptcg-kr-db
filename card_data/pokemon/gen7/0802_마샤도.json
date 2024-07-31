@@ -1,0 +1,524 @@
+[
+    {
+        "id": "sm3n-033",
+        "cardID": "마샤격150섀도정권120백열050",
+        "name": "마샤도 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "정권찌르기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "백열무쌍 GX",
+                "cost": "(격투)",
+                "damage": "50×",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지의 개수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "섀도헌트",
+                "text": "이 포켓몬은 자신의 트래쉬에 있는 기본 포켓몬이 가지고 있는 기술을 모두 사용할 수 있다. (기술을 사용하기 위한 에너지는 필요하다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009033",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009054",
+                "debug": "2"
+            },
+            {
+                "number": "064",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-046",
+        "cardID": "마샤초070피장섀도030",
+        "name": "마샤도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도펀치",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "피장파장",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 4장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "그림자 안에 숨어 들을 수 있어 사람들 앞에 모습을 보이지 않아 그 존재는 환상이었다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Emi Ando",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010046",
+                "debug": "3"
+            },
+            {
+                "number": "050",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Emi Ando",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002050",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-064",
+        "cardID": "마샤초080리셋레드010",
+        "name": "마샤도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "레드너클",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「울트라비스트」라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "리셋홀",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 필드에 나와 있는 스타디움을 트래쉬한다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "상대 그림자에 숨어들어 움직임이나 능력을 흉내 낸다. 그러다가 진짜보다 강해진다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "chibi",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003020",
+                "debug": "2"
+            },
+            {
+                "number": "064",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "chibi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-067",
+        "cardID": "마샤격270리벤030백열160진정200",
+        "name": "마샤도&괴력몬 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            },
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(격투)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "백열임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "160",
+                "text": ""
+            },
+            {
+                "name": "진정한호걸GX",
+                "cost": "(격투)(격투)(무색)(플러스)",
+                "damage": "200",
+                "text": "에너지 1개가 추가로 붙어 있다면 상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받아 기절할 때 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007042",
+                "debug": "2"
+            },
+            {
+                "number": "100",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007100",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "You Iribi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007101",
+                "debug": "2"
+            },
+            {
+                "number": "067",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017067",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-030",
+        "cardID": "마샤초060그림000",
+        "name": "마샤도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자흉내",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술(GX기술 제외)을 1개 선택해서 이 기술로써 사용한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "상대 그림자에 숨어들어 움직임이나 능력을 흉내 낸다. 그러다가 진짜보다 강해진다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "0313",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-044",
+        "cardID": "마샤초080래피000섀도010",
+        "name": "마샤도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "래피드헌트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「연격」의 카드를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "섀도플리커",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "자신의 다음 차례에 이 기술을 받은 포켓몬이 기절했을 때 프라이즈를 1장 더 가져온다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 포켓몬의 그림자 속에 숨는다. 숨은 상대의 마음을 이해하고 능력을 복사한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-078",
+        "cardID": "마샤초070피장섀도010",
+        "name": "마샤도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "피장파장",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 4장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "그림자 안에 숨어 들을 수 있어 사람들 앞에 모습을 보이지 않아 그 존재는 환상이었다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "078",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "금단의 빛 발매 기념 프로모 팩",
+                "artist": "Emi Ando",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000103",
+                "debug": "1"
+            }
+        ]
+    }
+]

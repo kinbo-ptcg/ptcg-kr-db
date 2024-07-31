@@ -1,0 +1,401 @@
+[
+    {
+        "id": "xy5g-055",
+        "cardID": "지그무060모래000박치020",
+        "name": "지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "호기심이 왕성한 포켓몬. 무엇이든지 흥미를 가지므로 항상 지그재그로 걷고 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-033",
+        "cardID": "지그악070울화허찌030",
+        "name": "가라르 지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "허찌르기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울화통헤드",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 1개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "이 모습이 가장 오래된 지그제구리의 모습인 듯하다. 지그재그로 움직이며 주변을 엉망으로 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "kirisAki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003033",
+                "debug": "1"
+            },
+            {
+                "number": "110",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016110",
+                "debug": "2"
+            },
+            {
+                "number": "277",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_277.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016277",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3-054",
+        "cardID": "지그악070바늘010",
+        "name": "가라르 지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "바늘미사일",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "정신없이 뛰어다닌다. 다른 포켓몬을 발견하면 일부러 부딪혀서 싸움을 건다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-264",
+        "cardID": "지그악060핥기010",
+        "name": "가라르 지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "핥기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "이 모습이 가장 오래된 지그제구리의 모습인 듯하다. 지그재그로 움직이며 주변을 엉망으로 만든다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Eri Yamaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018059",
+                "debug": "2"
+            },
+            {
+                "number": "264",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Eri Yamaki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_264.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003264",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVG-022",
+        "cardID": "지그무070머리010발톱020",
+        "name": "지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "호기심이 왕성한 포켓몬. 무엇이든지 흥미를 가지므로 항상 지그재그로 걷고 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "092",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015092",
+                "debug": "2"
+            },
+            {
+                "number": "022",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "st1-42",
+        "cardID": "지그무050줍기000두번010",
+        "name": "지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "줍기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 카드를 1장 상대 플레이어에게 보여주고 자신의 덱 위로 되돌린다."
+            },
+            {
+                "name": "두번 찌르기",
+                "cost": "(무색)",
+                "damage": "10x",
+                "text": "동전을 두 번 던져서 앞면 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지그재그로 걸어서 풀숲이나 땅에 묻혀 있는 보물을 찾아내는 것이 특기인 포켓몬이다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "42",
+                "prodNumber": "55",
+                "prodCode": "st1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
+                "prodName": "DP 랜덤 구축덱",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_42.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001042",
+                "debug": "3"
+            }
+        ]
+    }
+]

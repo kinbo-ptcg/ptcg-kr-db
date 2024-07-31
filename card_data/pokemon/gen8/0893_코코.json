@@ -1,0 +1,62 @@
+[
+    {
+        "id": "S-P-118",
+        "cardID": "코코풀090숲의000타잔120",
+        "name": "코코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "코코",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "숲의부름소리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "타잔킥",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 뒷면이 나오면 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "자루도에게 키워진 소년. 정글의 포켓몬들이 따르고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "118",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "「극장판 포켓몬스터 : 정글의 아이 코코」 극장선물",
+                "artist": "Tetsuo Yajima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_118.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000118",
+                "debug": "3"
+            }
+        ]
+    }
+]

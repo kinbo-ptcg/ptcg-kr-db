@@ -1,0 +1,428 @@
+[
+    {
+        "id": "fsb-021",
+        "cardID": "휠구초090독침020구르050",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "구르기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 껍질로 보호되고 있다. 타이어처럼 회전하여 상대에게 격렬히 몸통박치기를 날린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "034",
+                "prodCode": "fsb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+                "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003021",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw1w-022",
+        "cardID": "휠구초090베놈010하드040",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "베놈쇼크",
+                "cost": "(초)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 독이라면 60데미지를 추가한다."
+            },
+            {
+                "name": "하드롤러",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "평소에는 움직이지 않지만 공격당하면 고속 회전하여 뛰어다니다가 몸통박치기로 반격한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "053",
+                "prodCode": "bw1w",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1w.png",
+                "prodName": "BW 확장팩 제1탄 「화이트 컬렉션」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_white_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011002022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw6f-031",
+        "cardID": "휠구초100독가회전050",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "회전어택",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "독가시",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 독으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "가만히 진화 에너지를 모으고 있으나 상대가 가까이 오면 독가시를 찌르기 위해 움직인다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy1y-025",
+        "cardID": "휠구초090연속030",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "연속 구르기",
+                "cost": "(초)(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "단단한 껍질로 보호되고 있다. 타이어처럼 회전하여 상대에게 격렬히 몸통박치기를 날린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-023",
+        "cardID": "휠구초090스핀030구르060",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "스핀턴",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "구르기",
+                "cost": "(초)(초)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "단단한 껍질로 보호되고 있다. 타이어처럼 회전하여 상대에게 격렬히 몸통박치기를 날린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-275",
+        "cardID": "휠구악090독침020구르050",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(악)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "평소에는 움직이지 않지만 공격당하면 고속 회전하여 뛰어다니다가 몸통박치기로 반격한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "hatachu",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003051",
+                "debug": "2"
+            },
+            {
+                "number": "275",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "hatachu",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_275.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003275",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-069",
+        "cardID": "휠구악100포이000회전060",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌서클",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "고속으로 회전해 상대에게 돌격한다. 최고 시속은 약 100km에 달한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "069",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Krgc",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008069",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "id": "SA_G-008",
+        "cardID": "고릴풀190드럼090드럼180",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "드럼치기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "드럼어택",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 「드럼어택」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "023",
+                "prodCode": "SA_G",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+                "prodName": "소드&실드 스타터 세트 V 풀",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-007",
+        "cardID": "고릴풀170볼티한방140",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "볼티지비트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 (풀) 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002007",
+                "debug": "1"
+            },
+            {
+                "number": "008",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016008",
+                "debug": "2"
+            },
+            {
+                "number": "205",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Ryuta Fuse",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_205.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016205",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-008",
+        "cardID": "고릴풀220숲의000우드220",
+        "name": "고릴타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "숲의연회",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 타입의 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "우드해머",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004008",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004071",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016009",
+                "debug": "2"
+            },
+            {
+                "number": "304",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_304.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016304",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-009",
+        "cardID": "고릴풀330할퀴050다이130",
+        "name": "고릴타 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "다이연타",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "130+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (풀) 에너지를 3장까지 선택해서 트래쉬한다. 그 경우, 트래쉬한 장수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004009",
+                "debug": "1"
+            },
+            {
+                "number": "010",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016010",
+                "debug": "2"
+            },
+            {
+                "number": "305",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_305.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016305",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-096",
+        "cardID": "고릴풀220드레060드럼160",
+        "name": "고릴타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "드레인펀치",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "드럼러시",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "096",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 카드 박스 세트 「연격」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000096",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S-P-097",
+        "cardID": "고릴풀330거다180",
+        "name": "고릴타 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "거다이난타",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "097",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 카드 박스 세트 「연격」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000097",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-037",
+        "cardID": "고릴풀180우드060노도120",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "우드드레인",
+                "cost": "(풀)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "노도연타",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 트래쉬하고 그 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "드럼 테크닉이 가장 뛰어난 자가 보스가 된다. 천성이 온화해서 그룹의 조화를 중히 여긴다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005008",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-087",
+        "cardID": "고릴풀180드럼060우드180",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "드럼어택",
+                "cost": "(풀)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지가 각각 (무색) 에너지 1개만큼 많아진다."
+            },
+            {
+                "name": "우드해머",
+                "cost": "(풀)(풀)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "toriyufu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008010",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "확장팩 「변환의 가면」 프로모션 박스",
+                "artist": "toriyufu",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000087",
+                "debug": "1"
+            }
+        ]
+    }
+]

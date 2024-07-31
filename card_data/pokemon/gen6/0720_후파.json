@@ -1,0 +1,979 @@
+[
+    {
+        "id": "xy7-036",
+        "cardID": "후파초170밴디다른000",
+        "name": "후파 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다른차원러시",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 100데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "밴디트링",
+                "text": "이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 덱에서 「포켓몬 EX」(「후파 EX」는 제외)를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Ryota Murayama",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005036",
+                "debug": "1"
+            },
+            {
+                "number": "087",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_087.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005087",
+                "debug": "2"
+            },
+            {
+                "number": "064",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_064.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004064",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_020.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008020",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707058",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp2-012",
+        "cardID": "후파초140다른000원더100",
+        "name": "후파 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다른차원링",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "원더트릭",
+                "cost": "(초)(초)(초)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-057",
+        "cardID": "후파초130다른000싱크130",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다른차원펀치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 2마리 선택해서 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "싱크홀",
+                "cost": "(초)(초)(초)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 「싱크홀」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "6개의 링과 6개의 거대한 팔로 수많은 것들을 빼앗는다고 전해진다. 힘이 봉인되어 작은 모습으로 변했다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_023.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007023",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-056",
+        "cardID": "후파악120밴디초염080",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "초염동력",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "밴디트가드",
+                "text": "이 포켓몬은 상대의 「포켓몬 GX ･ EX」로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "진정한 모습일 때는 거대한 힘을 가지고 있다. 원하는 재물을 손에 넣기 위해 그것이 숨겨진 성을 통째로 빼돌려 사라졌다는 전설이 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010056",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002074",
+                "debug": "2"
+            },
+            {
+                "number": "016",
+                "prodNumber": "031",
+                "prodCode": "SMM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+                "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012016",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm6-040",
+        "cardID": "후파초080다른000염동010",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다른차원링",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에 있는 아이템을 2장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "염동력",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 든 것을 링을 사용해\n비밀의 거처에 모으고 있다.\n링을 통해 순간이동한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Aya Kusube",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-031",
+        "cardID": "후파악190로그000다크160데빌000",
+        "name": "후파 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "로그링",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 패로 가져온다. 그리고 덱을 섞는다. "
+            },
+            {
+                "name": "다크 스트라이크",
+                "cost": "(악)(악)(악)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 「다크 스트라이크」를 사용할 수 없다."
+            },
+            {
+                "name": "데빌핸드 GX",
+                "cost": "(악)(악)(악)",
+                "damage": "",
+                "text": "상대의 「포켓몬 GX・EX」를 6번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 30데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013031",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013054",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-081",
+        "cardID": "후파악130악의010마인080",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "악의굴레",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "상대 필드의 특성을 가진 포켓몬의 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "마인드쇼크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. "
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "공간을 뒤트는 링으로 모든 것을 멀리 떨어진 곳으로 날려버리고 마는 트러블메이커다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010029",
+                "debug": "2"
+            },
+            {
+                "number": "081",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017081",
+                "debug": "1"
+            },
+            {
+                "number": "047",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018047",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-053",
+        "cardID": "후파악120어솔090",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어솔트게이트",
+                "cost": "(악)",
+                "damage": "90",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나오지 않았다면 이 기술은 실패한다. 이 기술의 데미지는 약점 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "마음에 든 것을 링을 사용해 비밀의 거처에 모으고 있다. 링을 통해 순간이동한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "so-taro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011061",
+                "debug": "2"
+            },
+            {
+                "number": "118",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "so-taro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_118.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016118",
+                "debug": "2"
+            },
+            {
+                "number": "006",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019006",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "무한존 프로모션팩",
+                "artist": "so-taro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000053",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8-066",
+        "cardID": "후파악220더블섀도170",
+        "name": "후파 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "섀도임팩트",
+                "cost": "(악)(악)(무색)",
+                "damage": "170",
+                "text": "자신의 포켓몬 1마리에게 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블페이스",
+                "text": "이 포켓몬은 필드에 있는 한, (초) 와 (악) 의 2가지 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018066",
+                "debug": "1"
+            },
+            {
+                "number": "107",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018107",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SLD-010",
+        "cardID": "후파악120마신000타이100",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "마신의손",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 (악) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "타이런트홀",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 든 것을 링을 사용해 비밀의 거처에 모으고 있다. 링을 통해 순간이동한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "020",
+                "prodCode": "SLD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-029",
+        "cardID": "후파격220테라에너050밴디200",
+        "name": "후파 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "에너지크래시",
+                "cost": "(악)(악)",
+                "damage": "50×",
+                "text": "상대의 포켓몬 전원에게 붙어 있는 에너지의 개수 × 50데미지를 준다."
+            },
+            {
+                "name": "밴디트피스트",
+                "cost": "(악)(악)(악)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 「밴디트피스트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020029",
+                "debug": "1"
+            },
+            {
+                "number": "078",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020078",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-089",
+        "cardID": "후파초070링의000더블030",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "링의소환드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 벤치에「피카츄」가 있다면 자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "더블스핀",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 든 것을 링을 사용해 비밀의 거처에 모으고 있다. 링을 통해 순간이동한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "089",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Masakazu\nFukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001089",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-102",
+        "cardID": "후파초070링의030",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "링의소환",
+                "cost": "(초)(초)",
+                "damage": "30×",
+                "text": "자신의 벤치 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 든 것을 링을 사용해 비밀의 거처에 모으고 있다. 링을 통해 순간이동한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "102",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001102",
+                "debug": "1"
+            }
+        ]
+    }
+]

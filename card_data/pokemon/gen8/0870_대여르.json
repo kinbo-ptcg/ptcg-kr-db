@@ -1,0 +1,486 @@
+[
+    {
+        "id": "S1a-047",
+        "cardID": "대여격090동료000팀어030",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "팀어택",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 벤치의 카드 이름에 「대여르」가 적힌 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "리더라고 불리는 1마리와 멤버라고 불리는 5마리로 이루어져 있다. 리더의 명령은 절대적이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Misa Tsutsui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004047",
+                "debug": "1"
+            },
+            {
+                "number": "101",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016101",
+                "debug": "2"
+            },
+            {
+                "number": "273",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_273.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016273",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-061",
+        "cardID": "대여격160철벽기가210",
+        "name": "대여르 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "기가임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "철벽의 진",
+                "text": "이 포켓몬이 있는 한, 자신의 필드의 카드 이름에 「대여르」가 적힌 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005061",
+                "debug": "1"
+            },
+            {
+                "number": "102",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005102",
+                "debug": "2"
+            },
+            {
+                "number": "102",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016102",
+                "debug": "2"
+            },
+            {
+                "number": "319",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_319.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016319",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-245",
+        "cardID": "대여격110연격020",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "연격의진",
+                "cost": "(격투)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드의 「연격」의 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002049",
+                "debug": "2"
+            },
+            {
+                "number": "245",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_245.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003245",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-030",
+        "cardID": "대여격090공격030",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "공격해나가기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_006_D.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-058",
+        "cardID": "대여격090박치030벼랑060",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "벼랑끝의진",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 160데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SLL-008",
+        "cardID": "대여격100투지010제트080",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "투지의박치기",
+                "cost": "(격투)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 50데미지를 추가한다. 이 기술의 데미지는 약점 계산을 하지 않는다."
+            },
+            {
+                "name": "제트헤드",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "리더라고 불리는 1마리와 멤버라고 불리는 5마리로 이루어져 있다. 리더의 명령은 절대적이다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "021",
+                "prodCode": "SLL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+                "artist": "sowsow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005008",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-051",
+        "cardID": "대여격110박치020다같070",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "다같이돌격",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70+",
+                "text": "자신의 벤치에 「대여르」가 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "선두에 서서 지시를 내리는 리더는 6마리 중에서 가장 강하고 똑똑하다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "kurumitsu",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010051",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,981 @@
+[
+    {
+        "id": "bw3p-027",
+        "cardID": "질뻐초110엉겨020맹독060",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "엉겨붙기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "맹독액",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 포켓몬 체크 때 이 독으로 올리는 데미지 카운터의 수는 2개가 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸에서 맹독의 체액이 배어 나오고 있다. 그 액에 스친 초목은 순식간에 시든다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "match",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8v-024",
+        "cardID": "질뻐초100포이000오물000",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "포이즌석션",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬이 독이라면 이 포켓몬의 HP를 「60」회복한다."
+            },
+            {
+                "name": "오물크래시",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에게 붙어 있는 에너지를 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "냄새가 지독하다! 몸의 성분은 맹독으로 질뻐기가 지나가면 어떤 초목이라도 시든다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003024",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "cp1-008",
+        "cardID": "질뻐초110오물추격060",
+        "name": "아쿠아단의 질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "추격",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "오물잔치",
+                "text": "이 포켓몬이 있는 한 서로의 포켓몬 전원(「아쿠아단」은 제외)의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "독을 두른 거대한 체구로 적을 감싸 움직일 수 없게 만들지. 너도 뭉개버려 주겠어!",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-035",
+        "cardID": "질뻐초120과학깨물090",
+        "name": "알로라질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "90",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "과학의힘",
+                "text": "이 포켓몬이 있는 한, 서로의 필드 ･ 패 ･ 트래쉬에 있는 기본 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "의외로 얌전히 따르지만 먹이인 쓰레기를 꾸준히 주지 않으면 집안 가구를 부수고 먹어버린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002023",
+                "debug": "2"
+            },
+            {
+                "number": "035",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013035",
+                "debug": "1"
+            },
+            {
+                "number": "035",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011035",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-033",
+        "cardID": "질뻐악220케미010깨물120트라000",
+        "name": "알로라질뻐기 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "케미컬브레스",
+                "cost": "(악)(무색)(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 70데미지를 추가한다."
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(악)(악)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "트라이해저드 GX",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬을 독과 화상과 마비로 만든다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008033",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008054",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-019",
+        "cardID": "질뻐악120특이더스080",
+        "name": "알로라질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "더스트슈트",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "특이한 식성",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 덱을 위에서부터 6장 보고 그 중에 있는 아이템을 원하는 만큼 트래쉬한다. 남은 카드는 덱으로 되돌리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "의외로 얌전히 따르지만 먹이인 쓰레기를 꾸준히 주지 않으면 집안 가구를 부수고 먹어버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013019",
+                "debug": "1"
+            },
+            {
+                "number": "019",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013074",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9-048",
+        "cardID": "질뻐초130독주맹독040",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "맹독액",
+                "cost": "(초)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 2개가 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "독주머니",
+                "text": "이 포켓몬이 있는 한, 상대의 독 포켓몬은 진화・퇴화해도 독을 회복하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "먹이가 줄어들어 개체 수가 격감했다. 멸종을 방지하기 위해  인공 진흙 연못을 만들기 시작했다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10-029",
+        "cardID": "질뻐초270배드000독빨120끈적000",
+        "name": "질뻐기&알로라질뻐기 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            },
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "배드포이즌",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 8개가 된다."
+            },
+            {
+                "name": "독빨기",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬이 독이라면 이 포켓몬의 HP를 「100」 회복한다."
+            },
+            {
+                "name": "끈적끈적믹스 GX",
+                "cost": "(0코)(플러스)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독과 마비로 만든다. 에너지 4개가 추가로 붙어 있다면 이 독으로 올리는 데미지 카운터의 수는 15개가 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007029",
+                "debug": "1"
+            },
+            {
+                "number": "029",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007029",
+                "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007098",
+                "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007098",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007099",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007099",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-042",
+        "cardID": "질뻐악140패닉020오물110",
+        "name": "알로라질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "패닉독",
+                "cost": "(악)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독과 화상과 혼란으로 만든다."
+            },
+            {
+                "name": "오물폭탄",
+                "cost": "(악)(악)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "체내에 있는 독은 100종류 이상이다. 독과 독의 화학 반응이 생명의 근원이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "MAHOU",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-047",
+        "cardID": "질뻐악140트리000오물120",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "트리플포이즌",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 3개가 된다."
+            },
+            {
+                "name": "오물회오리",
+                "cost": "(악)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "병원균을 흩뿌리기 때문에 제거를 거듭한 결과 수가 급격히 줄어들었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010047",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-061",
+        "cardID": "질뻐악130오물절규090",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "절규포이즌",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 독과 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "오물로드",
+                "text": "이 포켓몬이 있는 한, 상대의 독 포켓몬의 후퇴에 필요한 에너지는 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "병원균을 흩뿌리기 때문에 제거를 거듭한 결과 수가 급격히 줄어들었다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Scav",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-052",
+        "cardID": "질뻐악140독주포이100",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌어택",
+                "cost": "(악)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "독주머니",
+                "text": "이 포켓몬이 있는 한, 상대의 독 포켓몬은 진화・퇴화해도 독을 회복하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "더러운 오물이 온몸에 달라붙었다. 지나간 자리를 건드리기만 해도 독이 퍼져 버린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Haru Akasaka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-089",
+        "cardID": "질뻐악150끈적030오물180",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "끈적끈적제일",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지가 각각 (무색) 에너지 1개만큼 많아진다."
+            },
+            {
+                "name": "오물폭탄",
+                "cost": "(악)(악)(악)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "더러운 오물이 온몸에 달라붙었다. 지나간 자리를 건드리기만 해도 독이 퍼져 버린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "089",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Nisota Niso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014089",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs6-32",
+        "cardID": "질뻐초080독성패닉050",
+        "name": "질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "패닉용액",
+                "cost": "(초)(초)(무색)",
+                "damage": "50",
+                "text": "상대를 혼란으로 만든다. 상대의 다음 차례에 이 기술을 받은 상대는 후퇴를 할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "독성오물",
+                "text": "각각의 차례의 마지막에 [풀]에너지가 붙어 있는 상대의 배틀 포켓몬은 독이 된다. 이미 독이 된 포켓몬에게는 이 포켓바디가 작용하지 않는다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에서 맹독의 체액이 배어 나오고 있다. 그 액에 스친 초목은 순식간에 시든다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "32",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Daisuke Ito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_32.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006032",
+                "debug": "1"
+            }
+        ]
+    }
+]

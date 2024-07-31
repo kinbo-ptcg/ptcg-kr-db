@@ -1,0 +1,885 @@
+[
+    {
+        "id": "bw3p-023",
+        "cardID": "렌트번140플래060깨물080",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "플래시임팩트",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": "자신의 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "벽 저편이라도 볼 수 있는 힘으로 도망친 먹이를 쫓는 것 이외에도 미아가 된 아이를 찾기도 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_023.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy2-029",
+        "cardID": "렌트번140스나040와일120",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스나이프팽",
+                "cost": "(번개)(무색)",
+                "damage": "40",
+                "text": "상대의 패를 보고 그 중에서 트레이너스를 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "와일드볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈동자가 금색으로 빛날 때 벽의 저편에 숨어 있는 먹이를 찾아낼 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_029.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5m-020",
+        "cardID": "렌트번150위협볼티000",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "볼티지애로",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 150데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위협엄니",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬이 사용하는 기술의 데미지는 모두 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-035",
+        "cardID": "렌트번160습격060헤드120",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "습격",
+                "cost": "(번개)",
+                "damage": "60+",
+                "text": "이 차례에 이 포켓몬이 「럭시오」에서 진화했다면 100데미지를 추가한다."
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-142",
+        "cardID": "렌트번150일렉000스카100",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭스텝",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. 이 포켓몬을 벤치 포켓몬과 교체한다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스카비트",
+                "cost": "(번개)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Kazuma Koda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002032",
+                "debug": "2"
+            },
+            {
+                "number": "142",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_142.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003142",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-022",
+        "cardID": "렌트번160썬더090",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더크루",
+                "cost": "(번개)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Atsushi Furusawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_010_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-039",
+        "cardID": "렌트번150에너050플래110",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "에너지크래시",
+                "cost": "(번개)",
+                "damage": "50×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 준다."
+            },
+            {
+                "name": "플래시임팩트",
+                "cost": "(번개)",
+                "damage": "110",
+                "text": "자신의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "투시 능력을 가진 포켓몬. 두꺼운 벽 반대편에 숨어 있는 먹이를 순식간에 찾아낸다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10D-021",
+        "cardID": "렌트번210스나030레디120",
+        "name": "렌트라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스나이프팽",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 패를 보고 그 중에서 트레이너스를 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "레디에이트 펄스",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007021",
+                "debug": "1"
+            },
+            {
+                "number": "070",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "MUGENUP",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007070",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12-028",
+        "cardID": "렌트번160순발시크050",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "시크팽",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": "자신의 덱에서 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "순발력",
+                "text": "대전 준비에서 포켓몬을 배틀필드에 내보낼 때 이 카드가 패에 있다면 뒷면으로 해서 배틀필드에 내보내도 좋다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "투시 능력을 가진 포켓몬. 두꺼운 벽 반대편에 숨어 있는 먹이를 순식간에 찾아낸다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Ryota Murayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-061",
+        "cardID": "렌트번150넘치와일180",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "와일드볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "넘치는 섬광",
+                "text": "자신의 차례에 이 카드가 패에 있고 자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많다면 1번 사용할 수 있다. 이 카드를 벤치로 내보낸다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "벽 저편까지 볼 수 있는 힘으로 도망친 먹이를 쫓는 것 이외에도 미아가 된 아이를 찾기도 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "aoki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012021",
+                "debug": "2"
+            },
+            {
+                "number": "061",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "aoki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001061",
+                "debug": "1"
+            },
+            {
+                "number": "242",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "kantaro",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_242.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001242",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6-041",
+        "cardID": "렌트번310궤찌120볼트250",
+        "name": "렌트라 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "궤찌르는안광",
+                "cost": "(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 패를 보고 그 중에서 카드를 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "볼트 스트라이크",
+                "cost": "(번개)(번개)",
+                "damage": "250",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "PLANETA Yamashita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-093",
+        "cardID": "렌트번140물기050바크100",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "바크아웃",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "093",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001093",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-094",
+        "cardID": "렌트번170와일130",
+        "name": "렌트라 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "와일드러시",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "130+",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001094",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs4-18",
+        "cardID": "렌트번120위협번개120",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신에게도 40데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위협엄니",
+                "text": "이 포켓몬이 배틀필드에 있는 한 상대의 기술의 데미지는 모두 「-10」이 된다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "모든 것을 투시해 버리는 눈을 가지고 있다. 보이지 않는 곳에 숨은 먹이를 찾아서 잡는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "18",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Ken Sugimori",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_18.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004018",
+                "debug": "1"
+            }
+        ]
+    }
+]

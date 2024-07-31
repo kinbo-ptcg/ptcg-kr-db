@@ -1,0 +1,614 @@
+[
+    {
+        "id": "hrk-005",
+        "cardID": "딥상드060모래000띄워010",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "띄워날리기",
+                "cost": "(물)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "큰 입으로 하는 공격은 위력이 충분하지만 아직은 잘 싸우지 못해서 자신도 상처를 입는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "015",
+                "prodCode": "hrk",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+                "prodName": "BW 「한카리아스 덱」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "ebb-078",
+        "cardID": "딥상드050몸통010갉기020",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "갉기",
+                "cost": "(물)(격투)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "큰 입으로 하는 공격은 위력이 충분하지만 아직은 잘 싸우지 못해서 자신도 상처를 입는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006038",
+                "debug": "2"
+            },
+            {
+                "number": "078",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_078.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy9-049",
+        "cardID": "딥상격060탐내000",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "탐내기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 패를 1장 선택해서 트래쉬한다. 그 뒤, 자신의 덱을 2장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동굴의 조그만 구멍을 보금자리로 쓴다. 먹이가 다가오면 재빠르게 뛰쳐나가 붙잡는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Naoyo Kimura",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-099",
+        "cardID": "딥상드050각성000",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "각성",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택하여 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "구멍에 숨어서 먹이나 적이 지나가면 뛰쳐나가 문다. 기세가 대단해 이가 빠질 때도 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002041",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002099",
+                "debug": "1"
+            },
+            {
+                "number": "198",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Saya Tsuruta",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_198.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002198",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm5m-042",
+        "cardID": "딥상드060바위갉기020",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "바위숨기",
+                "text": "이 포켓몬에게 (격투) 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "구멍에 숨어서 먹이나 적이 지나가면 뛰쳐나가 문다. 기세가 대단해 이가 빠질 때도 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5plus-026",
+        "cardID": "딥상격050각성000",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "각성",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택하여 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003026",
+                "debug": "1"
+            },
+            {
+                "number": "026",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003089",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-022",
+        "cardID": "딥상격060밟기010머리030",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "머리박치기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "움직이는 것에 반응하여 달려들어 덥석 문다. 자신이 상처를 입어도 별로 신경 쓰지 않는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Asako Ito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-073",
+        "cardID": "딥상드070갉기030",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(물)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지열로 데워진 동굴의 좁은 구멍을 좋아한다. 밖에 눈보라가 쳐도 얼어붙지 않고 견딜 수 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002073",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-027",
+        "cardID": "딥상격070물기020",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "구멍에 숨어서 먹이나 적이 지나가면 뛰쳐나가 문다. 기세가 대단해 이가 빠질 때도 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "saino misaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-33",
+        "cardID": "딥상무050들이010",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "들이밀치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(무색)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동굴의 조그만 구멍을 보금자리로 쓴다. 먹이가 다가오면 재빠르게 뛰쳐나가 붙잡는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "33",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Hiroki Fuchino",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_33.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007033",
+                "debug": "1"
+            }
+        ]
+    }
+]

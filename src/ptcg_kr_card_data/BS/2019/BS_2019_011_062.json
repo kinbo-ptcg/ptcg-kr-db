@@ -1,0 +1,3012 @@
+[
+    {
+        "id": "sm10b-001",
+        "cardID": "나몰풀270수퍼000평온150트로200",
+        "name": "나몰빼미&알로라나시 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722,
+                "region": "알로라"
+            },
+            {
+                "name": "나시",
+                "pokedexNumber": 103,
+                "region": "알로라"
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "수퍼그로우",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 필드의 (풀) 포켓몬 1마리에서 진화하는 카드를 자신의 덱에서 1장 선택해서 그 포켓몬에게 올려서 진화시킨다. 진화 후가 1진화라면 계속해서 2진화를 1장 선택해서 진화시킨다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "평온한 허리케인",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "트로피컬아워 GX",
+                "cost": "(풀)(풀)(풀)(플러스)",
+                "damage": "200",
+                "text": "에너지 3개가 추가로 붙어 있다면 상대 필드의 포켓몬에게 붙어 있는 에너지를 모두 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011001"
+    },
+    {
+        "id": "sm10b-002",
+        "cardID": "돌살풀070발톱010",
+        "name": "돌살이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "돌살이",
+                "pokedexNumber": 557
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "발톱세우기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "적당한 돌을 찾아 구멍을 뚫어 살 곳을 만든다. 부서지면 대신할 돌을 찾을 때까지 불안해한다.",
+        "number": "002",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "kawayoo",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011002"
+    },
+    {
+        "id": "sm10b-003",
+        "cardID": "암팰풀120조가연속050",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "연속자르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 3번 던진다. 앞면이 1번 나오면 40데미지를 추가한다. 앞면이 2번 나오면 80데미지를 추가한다. 모두 앞면이 나오면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "조가비갑옷",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "무거운 바위를 등에 지고 며칠이고 건조한 땅을 이동할 수 있는 다릿심을 가지고 있다.",
+        "number": "003",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011003"
+    },
+    {
+        "id": "sm10b-004",
+        "cardID": "짜랑풀070달콤000나뭇010",
+        "name": "짜랑랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "짜랑랑",
+                "pokedexNumber": 753
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "달콤한향기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬 1마리의 HP를 「30」회복한다."
+            },
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해가 뜨면 4장의 잎을 펼치고 일광욕한다. 머리끝에서 좋은 냄새가 난다.",
+        "number": "004",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Yuka Morii",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011004"
+    },
+    {
+        "id": "sm10b-005",
+        "cardID": "라란풀110꽃보000솔슬050",
+        "name": "라란티스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "꽃보라",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "솔슬래시",
+                "cost": "(풀)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 (불꽃) 에너지가 붙어 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "벌레포켓몬인 척하는 것은 몸을 지키기 위해서다. 양팔의 꽃잎은 예리해서 잘 자른다.",
+        "number": "005",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011005"
+    },
+    {
+        "id": "sm10b-006",
+        "cardID": "달콤풀060튀어010회전020",
+        "name": "달콤아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "달콤아",
+                "pokedexNumber": 761
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "튀어오르기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "회전어택",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "달고 맛있는 냄새 때문에 새포켓몬이 타깃으로 삼지만 영리하지 않아 신경 쓰지 않는다.",
+        "number": "006",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011006"
+    },
+    {
+        "id": "sm10b-007",
+        "cardID": "달무풀090연속030리프060",
+        "name": "달무리나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "달무리나",
+                "pokedexNumber": 762
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "연속뺨치기",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "리프스텝",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "딱딱한 꼭지로 보호되기 때문에 새포켓몬과도 문제없이 논다. 쪼여도 신경 쓰지 않는다.",
+        "number": "007",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011007"
+    },
+    {
+        "id": "sm10b-008",
+        "cardID": "달코풀140여왕무릎090",
+        "name": "달코퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "달코퀸",
+                "pokedexNumber": 763
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "무릎차기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "여왕의 포상",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에 있는 (풀) 에너지를 1장 배틀 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "아름다운 발차기의 전문가다. 킥복싱의 챔피언도 일격으로 녹아웃시킨다.",
+        "number": "008",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "kirisAki",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011008"
+    },
+    {
+        "id": "sm10b-009",
+        "cardID": "둔타불090몸통010화염080",
+        "name": "둔타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "둔타",
+                "pokedexNumber": 322
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "이글거리는 마그마를 등의 혹에 모으고 있다. 비를 맞으면 마그마가 식어 움직임이 둔해진다.",
+        "number": "009",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Motofumi Fujiwara",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011009"
+    },
+    {
+        "id": "sm10b-010",
+        "cardID": "폭타불140몸통050스트150",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스트롱플레어",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등의 혹 모양 화산은 10년마다 대분화하나 심하게 화가 나도 분화한다.",
+        "number": "010",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011010"
+    },
+    {
+        "id": "sm10b-011",
+        "cardID": "비크불070빅토000불꽃020",
+        "name": "비크티니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "빅토리사인",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "자신의 덱에서 각각 다른 타입의 기본 에너지를 2장까지 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "승리를 부르는 포켓몬이다. 비크티니와 함께하는 트레이너는 그 어떤 승부에서도 승리한다고 한다.",
+        "number": "011",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mizue",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011011"
+    },
+    {
+        "id": "sm10b-012",
+        "cardID": "불화불080니트020",
+        "name": "불화살빈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "불화살빈",
+                "pokedexNumber": 662
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "니트로차지",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "자신의 덱에 있는 (불꽃) 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "풀숲에 불꽃을 흩뿌린다. 불꽃에 놀라 뛰쳐나온 벌레포켓몬을 덥석 먹어 치운다.",
+        "number": "012",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mina Nakai",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011012"
+    },
+    {
+        "id": "sm10b-013",
+        "cardID": "파이불130열풍040플레100",
+        "name": "파이어로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "파이어로",
+                "pokedexNumber": 663
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열풍",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "플레어블리츠",
+                "cost": "(불꽃)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬하고 상대의 벤치 포켓몬 1마리에게도 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "날개는 불이 붙지 않고 튼튼하다. 옛날에는 소방관들의 옷을 파이어로의 날개로 만들었다.",
+        "number": "013",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "SATOSHI NAKAI",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011013"
+    },
+    {
+        "id": "sm10b-014",
+        "cardID": "눈꼬물050고드020",
+        "name": "눈꼬마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "눈꼬마",
+                "pokedexNumber": 361
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "고드름",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈과 얼음이 주요 먹이다. 따듯한 알로라에서는 한정된 장소에서만 살 수 있다.",
+        "number": "014",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011014"
+    },
+    {
+        "id": "sm10b-015",
+        "cardID": "눈여물080원한020얼다040",
+        "name": "눈여아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "눈여아",
+                "pokedexNumber": 478
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "원한의한숨",
+                "cost": "(물)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 데미지 카운터를 7개까지 올리고 올린 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "얼다바람",
+                "cost": "(물)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "설산에 등산 온 남자를 얼려버려 집으로 가지고 간다. 미남만 노린다.",
+        "number": "015",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mizue",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011015"
+    },
+    {
+        "id": "sm10b-016",
+        "cardID": "눈쓰물090눈싸010",
+        "name": "눈쓰개",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "눈쓰개",
+                "pokedexNumber": 459
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈싸라기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "추운 계절에는 산기슭까지 내려오지만 봄이 되면 눈이 남아 있는 산 정상으로 돌아간다.",
+        "number": "016",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "otumami",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011016"
+    },
+    {
+        "id": "sm10b-017",
+        "cardID": "눈설물140급속070와일140",
+        "name": "눈설왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "눈설왕",
+                "pokedexNumber": 460
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "급속냉동",
+                "cost": "(물)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬에게 (물) 에너지가 붙어 있다면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "와일드태클",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "140",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "블리자드를 발생시켜 주변 일대를 새하얗게 만든다. 별명은 아이스 몬스터다.",
+        "number": "017",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011017"
+    },
+    {
+        "id": "sm10b-018",
+        "cardID": "프리물090프로010",
+        "name": "프리지오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "프리지오",
+                "pokedexNumber": 615
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "프로즌록",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈구름 속에서 태어났다. 얼음 결정으로 만들어진 사슬로 먹이를 잡는다.",
+        "number": "018",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011018"
+    },
+    {
+        "id": "sm10b-019",
+        "cardID": "케르물170홀리소닉110각오050",
+        "name": "케르디오 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "케르디오",
+                "pokedexNumber": 647
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "소닉에지",
+                "cost": "(물)(물)(무색)",
+                "damage": "110",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "각오의칼 GX",
+                "cost": "(물)(물)(무색)",
+                "damage": "50×",
+                "text": "상대의 벤치 포켓몬의 수 × 50데미지를 준다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "홀리하트",
+                "text": "이 포켓몬은 상대의 「포켓몬 GX ・ EX」로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "019",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011019"
+    },
+    {
+        "id": "sm10b-020",
+        "cardID": "카푸물120지느020네이100",
+        "name": "카푸느지느",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "카푸느지느",
+                "pokedexNumber": 788
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "지느러미 커터",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "네이처웨이브",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": "이 기술은 상대의 필드에 「울트라비스트」가 있다면 (무색) 에너지 1개로 사용할 수 있다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "짙은 안개 속에 살고 있다고 두려움과 존경을 받아 왔다. 물을 조종하는 포니의 수호신이다.",
+        "number": "020",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Hasuno",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011020"
+    },
+    {
+        "id": "sm10b-021",
+        "cardID": "코일번060초음000",
+        "name": "코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코일",
+                "pokedexNumber": 81
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "초음파",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "종종 정전의 원인이 되기 때문에 코일이 싫어하는 전파를 내보내는 발전소도 있을 정도다.",
+        "number": "021",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011021"
+    },
+    {
+        "id": "sm10b-022",
+        "cardID": "레어번090번쩍020트라040",
+        "name": "레어코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레어코일",
+                "pokedexNumber": 82
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번쩍구슬",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "트라이어택",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "정체 모를 전파를 발신하기 때문에 레어코일이 사는 곳에는 정밀 기기가 고장 난다.",
+        "number": "022",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Yumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011022"
+    },
+    {
+        "id": "sm10b-023",
+        "cardID": "자포번160더블마그120",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 트레이너스를 1장 상대에게 보여주고 패로 가져온다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블타입",
+                "text": "이 포켓몬은 필드에 있는 한, (번개) 와 (강철) 의 2가지 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "자신의 영토를 레이더로 감시하고 있다. 침입자는 파괴광선으로 즉시 처분한다.",
+        "number": "023",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011023"
+    },
+    {
+        "id": "sm10b-024",
+        "cardID": "전수번120쓰리030시그050",
+        "name": "전수목",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "전수목",
+                "pokedexNumber": 796
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "쓰리미러즈",
+                "cost": "(번개)",
+                "damage": "30+",
+                "text": "상대의 남은 프라이즈 장수가 3장이라면 90데미지를 추가한다."
+            },
+            {
+                "name": "시그널빔",
+                "cost": "(번개)(번개)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "이 세계와는 성질이 다르고_x000D_ 위험하지만 원래 살던 세계에서는_x000D_ 흔히 볼 수 있는 생물인 듯하다.",
+        "number": "024",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Satoshi Shirai",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011024"
+    },
+    {
+        "id": "sm10b-025",
+        "cardID": "아보초060꼬리030",
+        "name": "아보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "아보",
+                "pokedexNumber": 23
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "턱을 빼 자신보다 큰 먹이를 통째로 삼킨다. 식후에는 몸을 둥글게 하고 쉰다.",
+        "number": "025",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011025"
+    },
+    {
+        "id": "sm10b-026",
+        "cardID": "아보초120최후로켓050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "로켓테일",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "자신의 트래쉬에 「로사와 로이」가 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "최후의 무늬",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 상대의 패에서 앞면을 보지 않고 2장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "최근 연구에서 배 모양은 20종류 이상의 패턴이 있다고 판명되었다.",
+        "number": "026",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "kirisAki",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011026"
+    },
+    {
+        "id": "sm10b-027",
+        "cardID": "또가초060몸통020",
+        "name": "또가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "또가스",
+                "pokedexNumber": 109
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "얇고 풍선 같은 몸에 맹독 가스가 차있다. 가까이 오면 역겨운 냄새가 난다.",
+        "number": "027",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011027"
+    },
+    {
+        "id": "sm10b-028",
+        "cardID": "또도초120화이몸통040",
+        "name": "또도가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "또도가스",
+                "pokedexNumber": 110
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "화이트홀",
+                "text": "자신의 차례에 이 카드가 「로사와 로이」의 효과로 트래쉬되면 1번 사용할 수 있다. 상대는 상대 자신의 패를 1장 트래쉬한다. (트래쉬를 하는 것은 「로사와 로이」의 효과 후.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "한쪽이 부풀어 오르면 다른 한쪽은 오그라드는 쌍둥이 또가스. 항상 체내의 독가스를 섞고 있다.",
+        "number": "028",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011028"
+    },
+    {
+        "id": "sm10b-029",
+        "cardID": "유크초070비밀사이030",
+        "name": "유크시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "유크시",
+                "pokedexNumber": 480
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코숏",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "비밀의 테리터리",
+                "text": "자신의 필드에 「엠라이트」「아그놈」이 있다면 서로의 포켓몬 전원의 약점은 모두 「×4」로 데미지 계산을 한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지식의 신이라 불리고 있다. 눈을 마주친 사람의 기억을 지워 버리는 힘을 가지고 있다고 한다.",
+        "number": "029",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "kodama",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011029"
+    },
+    {
+        "id": "sm10b-030",
+        "cardID": "엠라초060콘택000중얼020",
+        "name": "엠라이트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "엠라이트",
+                "pokedexNumber": 481
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "콘택트",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 3장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "중얼거리기",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "슬픔의 괴로움과 즐거움의 소중함을 사람들에게 가르쳐 주었다. 감정의 신이라 불리고 있다.",
+        "number": "030",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011030"
+    },
+    {
+        "id": "sm10b-031",
+        "cardID": "아그초070사이000",
+        "name": "아그놈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "아그놈",
+                "pokedexNumber": 482
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코파워",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "데미지 카운터 3개를 상대의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "의지의 신이라 불리고 있다. 호수의 밑바닥에서 계속 잠을 자며 세계의 균형을 지키고 있다.",
+        "number": "031",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011031"
+    },
+    {
+        "id": "sm10b-032",
+        "cardID": "베베초070날리010라스050",
+        "name": "베베놈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "베베놈",
+                "pokedexNumber": 803
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "날리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "라스트신",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "서로의 남은 프라이즈 장수가 각각 1장이라면 130데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 세계에서는 여행_x000D_ 파트너로 삼을 정도로_x000D_ 친근한 울트라비스트다.",
+        "number": "032",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011032"
+    },
+    {
+        "id": "sm10b-033",
+        "cardID": "크리드120끌어000드래100",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "드래곤테일",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "빨간 얼굴의 피부는 바위보다 딱딱하다. 좁은 동굴 안에서 적을 향해 얼굴로 돌격한다.",
+        "number": "033",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "hatachu",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011033"
+    },
+    {
+        "id": "sm10b-034",
+        "cardID": "아고드210울트베놈000인젝000",
+        "name": "아고용 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "아고용",
+                "pokedexNumber": 804
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "베놈슈트",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 170데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "인젝션 GX",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 트래쉬에서 원하는 카드를 1장 상대에게 보여주고 뒷면으로 하여 상대의 프라이즈로 놓는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울트라변환",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 「울트라비스트」를 1장 트래쉬한다. 그 뒤, 덱을 3장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "034",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011034"
+    },
+    {
+        "id": "sm10b-035",
+        "cardID": "파이무300트리210스카000",
+        "name": "파이어&썬더&프리져 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            },
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            },
+            {
+                "name": "프리져",
+                "pokedexNumber": 144
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티번",
+                "cost": "(불꽃)(물)(번개)(무색)",
+                "damage": "210",
+                "text": ""
+            },
+            {
+                "name": "스카이레전드 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. (불꽃) (물) (번개) 에너지가 1개씩 추가로 붙어 있다면 상대의 포켓몬 3마리에게 각각 110데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "035",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011035"
+    },
+    {
+        "id": "sm10b-036",
+        "cardID": "내루무100헤비000혀로040",
+        "name": "내루미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "내루미",
+                "pokedexNumber": 108
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "헤비드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 필드의 후퇴에 필요한 에너지가 4개인 포켓몬의 수만큼 덱을 뽑는다."
+            },
+            {
+                "name": "혀로 막치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "긴 혀를 내밀어 몇 번이고 핥아 확인한다. 핥은 부분을 방치하면 염증이 생긴다.",
+        "number": "036",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011036"
+    },
+    {
+        "id": "sm10b-037",
+        "cardID": "내룸무130구르040낼름090",
+        "name": "내룸벨트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "내룸벨트",
+                "pokedexNumber": 463
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "낼름낼름난무",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 트래쉬한다. 상대의 덱을 위에서부터 1장 트래쉬하고 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "혀가 어디까지 늘어나는지 콘테스트가 열린다. 현재 최고 기록은 25m다.",
+        "number": "037",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Suwama Chiaki",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011037"
+    },
+    {
+        "id": "sm10b-038",
+        "cardID": "부우무060에어030",
+        "name": "부우부",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "부우부",
+                "pokedexNumber": 163
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에어슬래시",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "매일 정해진 리듬에 맞춰 목을 기울인다. 옛날 사람들은 시계 대용으로 길렀다.",
+        "number": "038",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Misa Tsutsui",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011038"
+    },
+    {
+        "id": "sm10b-039",
+        "cardID": "야부무090암습000슬래060",
+        "name": "야부엉",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "야부엉",
+                "pokedexNumber": 164
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "암습",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터가 올려져 있는 상대의 포켓몬 1마리에게 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "어둠 속에서도 뚜렷이 볼 수 있는 눈을 갖고 있어 먹이를 놓치지 않는다. 어둠의 제왕이라고도 불린다.",
+        "number": "039",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011039"
+    },
+    {
+        "id": "sm10b-040",
+        "cardID": "다부무090히어드레030",
+        "name": "다부니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "다부니",
+                "pokedexNumber": 531
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "드레인 뺨치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "히어링",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "귀의 더듬이로 상대의 컨디션이나 알에서 포켓몬이 언제 나올지도 알 수 있다.",
+        "number": "040",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011040"
+    },
+    {
+        "id": "sm10b-041",
+        "cardID": "화살무060홰치010",
+        "name": "화살꼬빈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "화살꼬빈",
+                "pokedexNumber": 661
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람을 잘 따르는 포켓몬이지만, 억지로 만지면 몸을 단숨에 발열시켜 화상을 입는다.",
+        "number": "041",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011041"
+    },
+    {
+        "id": "sm10b-042",
+        "cardID": "타입무100걷어020퀵어030",
+        "name": "타입:널",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "타입:널",
+                "pokedexNumber": 772
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "걷어차기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "퀵어택",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특정 임무를 위해 개발된 포켓몬 병기다. 실험 중에 폭주해서 중단되었다.",
+        "number": "042",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011042"
+    },
+    {
+        "id": "sm10b-043",
+        "cardID": "실버무130어벤030에어120",
+        "name": "실버디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어벤지하트",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 상대가 가져간 프라이즈 장수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "에어슬래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "각성으로 진화한 모습이다. 무거운 마스크에서 벗어나 스피드가 크게 올라갔다.",
+        "number": "043",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Eske Yoshinob",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011043"
+    },
+    {
+        "id": "sm10b-044",
+        "cardID": "노말Z 몸통박치기",
+        "name": "노말Z 몸통박치기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 기술 「몸통박치기」를 가진 포켓몬은 이 카드에 적혀 있는 GX기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "attack": {
+            "name": "대시어택GX",
+            "cost": "(무색)(무색)(무색)(무색)",
+            "damage": "200+",
+            "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 x 40데미지를 추가한다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)"
+        },
+        "number": "044",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011044"
+    },
+    {
+        "id": "sm10b-045",
+        "cardID": "비행Z 에어슬래시",
+        "name": "비행Z 에어슬래시",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 기술 「에어슬래시」를 가진 포켓몬은 이 카드에 적혀 있는 GX기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "attack": {
+            "name": "다이브클래시GX",
+            "cost": "(무색)(무색)(무색)(무색)",
+            "damage": "180",
+            "text": "상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)"
+        },
+        "number": "045",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "aky CG Works",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011045"
+    },
+    {
+        "id": "sm10b-046",
+        "cardID": "U턴 보드",
+        "name": "U턴 보드",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬은 후퇴에 필요한 에너지가 1개만큼 적어진다.",
+            "이 카드는 필드에서 트래쉬할 때 트래쉬하지 않고 패로 되돌린다."
+        ],
+        "number": "046",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "sadaji",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011046"
+    },
+    {
+        "id": "sm10b-047",
+        "cardID": "로사와 로이",
+        "name": "로사와 로이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 2장 트래쉬한다.",
+            "(트래쉬는 상대부터 한다.",
+            "패가 없는 플레이어는 트래쉬하지 않는다.)"
+        ],
+        "number": "047",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Megumi Mizutani",
+        "rarity": "R",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011047"
+    },
+    {
+        "id": "sm10b-048",
+        "cardID": "포켓몬 매니아",
+        "name": "포켓몬 매니아",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 후퇴에 필요한 에너지가 4개인 포켓몬을 3장까지 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "048",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011048"
+    },
+    {
+        "id": "sm10b-049",
+        "cardID": "블리자드타운",
+        "name": "블리자드타운",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 필드의 남은 HP가 「40」이하인 포켓몬은 기술을 사용할 수 없다."
+        ],
+        "number": "049",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011049"
+    },
+    {
+        "id": "sm10b-050",
+        "cardID": "리사이클 에너지",
+        "name": "리사이클 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 1개분으로 작용한다.",
+            "이 카드는 필드에서 트래쉬할 때 트래쉬하지 않고 패로 되돌린다."
+        ],
+        "number": "050",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "rarity": "U",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011050"
+    },
+    {
+        "id": "sm10b-051",
+        "cardID": "넷트볼",
+        "name": "넷트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 (풀) 타입의 기본 포켓몬 또는 (풀) 에너지를 1장 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "051",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Ryo Ueda",
+        "rarity": "TR",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011051"
+    },
+    {
+        "id": "sm10b-052",
+        "cardID": "글라디오",
+        "name": "글라디오",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "뒷면으로 된 자신의 프라이즈의 앞면을 모두 보고 그 중에 있는 카드 1장을 이 「글라디오」와 바꾸어 패로 가져온다.",
+            "그 뒤, 이 「글라디오」와 남은 프라이즈를 모두 뒷면으로 하여 섞고 프라이즈에 놓는다."
+        ],
+        "number": "052",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mana Ibe",
+        "rarity": "TR",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011052"
+    },
+    {
+        "id": "sm10b-053",
+        "cardID": "루자미네",
+        "name": "루자미네",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에 있는 서포트와 스타디움을 합계 2장 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "053",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mana Ibe",
+        "rarity": "TR",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011053"
+    },
+    {
+        "id": "sm10b-054",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "054",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Mana Ibe",
+        "rarity": "TR",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011054"
+    },
+    {
+        "id": "sm10b-055",
+        "cardID": "나몰풀270수퍼000평온150트로200",
+        "name": "나몰빼미&알로라나시 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722,
+                "region": "알로라"
+            },
+            {
+                "name": "나시",
+                "pokedexNumber": 103,
+                "region": "알로라"
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "수퍼그로우",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 필드의 (풀) 포켓몬 1마리에서 진화하는 카드를 자신의 덱에서 1장 선택해서 그 포켓몬에게 올려서 진화시킨다. 진화 후가 1진화라면 계속해서 2진화를 1장 선택해서 진화시킨다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "평온한 허리케인",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "트로피컬아워 GX",
+                "cost": "(풀)(풀)(풀)(플러스)",
+                "damage": "200",
+                "text": "에너지 3개가 추가로 붙어 있다면 상대 필드의 포켓몬에게 붙어 있는 에너지를 모두 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "055",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "ConceptLab",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011055"
+    },
+    {
+        "id": "sm10b-056",
+        "cardID": "나몰풀270수퍼000평온150트로200",
+        "name": "나몰빼미&알로라나시 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722,
+                "region": "알로라"
+            },
+            {
+                "name": "나시",
+                "pokedexNumber": 103,
+                "region": "알로라"
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "수퍼그로우",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 필드의 (풀) 포켓몬 1마리에서 진화하는 카드를 자신의 덱에서 1장 선택해서 그 포켓몬에게 올려서 진화시킨다. 진화 후가 1진화라면 계속해서 2진화를 1장 선택해서 진화시킨다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "평온한 허리케인",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "트로피컬아워 GX",
+                "cost": "(풀)(풀)(풀)(플러스)",
+                "damage": "200",
+                "text": "에너지 3개가 추가로 붙어 있다면 상대 필드의 포켓몬에게 붙어 있는 에너지를 모두 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "056",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Naoyo Kimura",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011056"
+    },
+    {
+        "id": "sm10b-057",
+        "cardID": "케르물170홀리소닉110각오050",
+        "name": "케르디오 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "케르디오",
+                "pokedexNumber": 647
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "소닉에지",
+                "cost": "(물)(물)(무색)",
+                "damage": "110",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "각오의칼 GX",
+                "cost": "(물)(물)(무색)",
+                "damage": "50×",
+                "text": "상대의 벤치 포켓몬의 수 × 50데미지를 준다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "홀리하트",
+                "text": "이 포켓몬은 상대의 「포켓몬 GX ・ EX」로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "057",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "ConceptLab",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011057"
+    },
+    {
+        "id": "sm10b-058",
+        "cardID": "아고드210울트베놈000인젝000",
+        "name": "아고용 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "아고용",
+                "pokedexNumber": 804
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "베놈슈트",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 170데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "인젝션 GX",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 트래쉬에서 원하는 카드를 1장 상대에게 보여주고 뒷면으로 하여 상대의 프라이즈로 놓는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울트라변환",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 「울트라비스트」를 1장 트래쉬한다. 그 뒤, 덱을 3장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "058",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "ConceptLab",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011058"
+    },
+    {
+        "id": "sm10b-059",
+        "cardID": "파이무300트리210스카000",
+        "name": "파이어&썬더&프리져 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            },
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            },
+            {
+                "name": "프리져",
+                "pokedexNumber": 144
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티번",
+                "cost": "(불꽃)(물)(번개)(무색)",
+                "damage": "210",
+                "text": ""
+            },
+            {
+                "name": "스카이레전드 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. (불꽃) (물) (번개) 에너지가 1개씩 추가로 붙어 있다면 상대의 포켓몬 3마리에게 각각 110데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "059",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011059"
+    },
+    {
+        "id": "sm10b-060",
+        "cardID": "파이무300트리210스카000",
+        "name": "파이어&썬더&프리져 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            },
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            },
+            {
+                "name": "프리져",
+                "pokedexNumber": 144
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티번",
+                "cost": "(불꽃)(물)(번개)(무색)",
+                "damage": "210",
+                "text": ""
+            },
+            {
+                "name": "스카이레전드 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. (불꽃) (물) (번개) 에너지가 1개씩 추가로 붙어 있다면 상대의 포켓몬 3마리에게 각각 110데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "060",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011060"
+    },
+    {
+        "id": "sm10b-061",
+        "cardID": "로사와 로이",
+        "name": "로사와 로이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 2장 트래쉬한다.",
+            "(트래쉬는 상대부터 한다.",
+            "패가 없는 플레이어는 트래쉬하지 않는다.)"
+        ],
+        "number": "061",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Megumi Mizutani",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011061"
+    },
+    {
+        "id": "sm10b-062",
+        "cardID": "포켓몬 매니아",
+        "name": "포켓몬 매니아",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 후퇴에 필요한 에너지가 4개인 포켓몬을 3장까지 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "062",
+        "prodNumber": "054",
+        "prodCode": "sm10b",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+        "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "SR",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011062"
+    }
+]

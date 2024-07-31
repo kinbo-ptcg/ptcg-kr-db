@@ -1,0 +1,212 @@
+[
+    {
+        "id": "SV4M-038",
+        "cardID": "무쇠초220타키레이200",
+        "name": "무쇠무인 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "무쇠무인",
+                "pokedexNumber": 1006
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "레이저 블레이드",
+                "cost": "(초)(초)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "타키온 비트",
+                "text": "자신의 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022038",
+                "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022080",
+                "debug": "2"
+            },
+            {
+                "number": "089",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022089",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVHM-010",
+        "cardID": "무쇠초130제미020사념120",
+        "name": "무쇠무인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "무쇠무인",
+                "pokedexNumber": 1006
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "제미니레이저",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "사념의 칼날",
+                "cost": "(초)(초)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「사념의 칼날」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "어느 탐험기에서 \"무쇠무인\"이라는 이름으로 기록된 물체일 가능성이 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "takuyoa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003010",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-035",
+        "cardID": "무쇠초130연산000마제100",
+        "name": "무쇠무인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "무쇠무인",
+                "pokedexNumber": 1006
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "연산",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 4장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "마제스티소드",
+                "cost": "(초)(초)(무색)",
+                "damage": "100+",
+                "text": "이 차례에 패에서 「미래」의 서포트를 꺼내서 사용했다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "어느 탐험기에서 \"무쇠무인\"이라는 이름으로 기록된 물체일 가능성이 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "chibi",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005035",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "sm2k-037",
+        "cardID": "큐아페070플라천사030",
+        "name": "큐아링",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "큐아링",
+                "pokedexNumber": 764
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "천사의키스",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": "상대는 덱을 1장 뽑는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라워가드",
+                "text": "이 포켓몬이 있는 한, (페어리) 에너지가 붙어있는 자신의 포켓몬 전원은 특수 상태가 되지 않으며 받고 있는 특수 상태는 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "영양 만점의 줄기에 꽃을 붙인다. 꽃이 활성화해서 향기로운 아로마가 풍긴다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-049",
+        "cardID": "큐아초070꽃고회전030",
+        "name": "큐아링",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "큐아링",
+                "pokedexNumber": 764
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "회전어택",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "꽃고르기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 2장 보고 그 중 1장을 선택해서 패로 가져온다. 남은 카드는 로스트존에 둔다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "덩굴을 사용해 꽃을 따서 자신을 꾸민다. 몸에 붙은 꽃은 무슨 이유에서인지 시들지 않는다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Aya Kusube",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014049",
+                "debug": "3"
+            },
+            {
+                "number": "064",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Teeziro",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001064",
+                "debug": "2"
+            }
+        ]
+    }
+]

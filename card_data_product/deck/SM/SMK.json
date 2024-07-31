@@ -1,0 +1,1224 @@
+[
+    {
+        "id": "SMK-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "WAT",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_W.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004032"
+    },
+    {
+        "id": "SMK-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIG",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_F.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004033"
+    },
+    {
+        "id": "SMK-001",
+        "cardID": "고라물060두통010",
+        "name": "고라파덕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "고라파덕",
+                "pokedexNumber": 54
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "두통",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 상대는 패에서 트레이너스를 꺼내서 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "염동력을 사용하면 두통이 생겨서 평소에는 아무것도 하지 않고 가능한 멍하니 지낸다.",
+        "number": "001",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004001"
+    },
+    {
+        "id": "SMK-002",
+        "cardID": "쏘드물060워터000",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "워터애로",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대 포켓몬 1마리에게 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수면에서 힘차게 먹물을 발사해서 날고 있는 벌레를 맞춰서 떨어뜨릴 때가 있다고 한다.",
+        "number": "002",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004002"
+    },
+    {
+        "id": "SMK-003",
+        "cardID": "별가물060회전010",
+        "name": "별가사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "별가사리",
+                "pokedexNumber": 120
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "회전어택",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해변에 많이 서식한다. 밤이 되면 몸의 중심이 이상하고 빨갛게 빛을 낸다.",
+        "number": "003",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Yukiko Baba",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004003"
+    },
+    {
+        "id": "SMK-004",
+        "cardID": "아쿠물190스타040회전100하이040",
+        "name": "아쿠스타 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "아쿠스타",
+                "pokedexNumber": 121
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스타스트림",
+                "cost": "(물)",
+                "damage": "40",
+                "text": "자신의 트래쉬에 있는 (물) 에너지를 2장 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "하이드로펌프 GX",
+                "cost": "(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 40데미지를 추가한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004004"
+    },
+    {
+        "id": "SMK-005",
+        "cardID": "잉어물030물보010",
+        "name": "잉어킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "잉어킹",
+                "pokedexNumber": 129
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물보라",
+                "cost": "(물)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무턱대고 튀어 올라서 바로 공격당하지만 잉어킹 덕분에 많은 포켓몬이 살아남을 수 있다고 한다.",
+        "number": "005",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Sekio",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004005"
+    },
+    {
+        "id": "SMK-006",
+        "cardID": "갸라물160난장와일160",
+        "name": "갸라도스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "갸라도스",
+                "pokedexNumber": 130
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "와일드테일",
+                "cost": "(물)(물)(무색)",
+                "damage": "160",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "난장판",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 자신의 벤치 포켓몬 전원에게 각각 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "갸라도스가 나타난 장소는 파괴될 운명이라고 믿고 있는 사람도 있다.",
+        "number": "006",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004006"
+    },
+    {
+        "id": "SMK-007",
+        "cardID": "라프물130이상000하이010",
+        "name": "라프라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "이상한빛",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "사람을 태우고 헤엄치는 것을 좋아한다. 알로라지방에서는 소중한 수상 교통수단이다.",
+        "number": "007",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004007"
+    },
+    {
+        "id": "SMK-008",
+        "cardID": "꼬마격070몸통010",
+        "name": "꼬마돌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬마돌",
+                "pokedexNumber": 74
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래 산 꼬마돌은 모가 없이 동그랗다. 성격도 매우 차분하고 온화하다.",
+        "number": "008",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004008"
+    },
+    {
+        "id": "SMK-009",
+        "cardID": "데구격100몸통030토석000",
+        "name": "데구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "데구리",
+                "pokedexNumber": 75
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "토석류",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (격투) 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 80데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "정상을 목표로 절벽을 오른다. 정상에 도착하면 곧바로 올라온 산길을 굴러 내려간다.",
+        "number": "009",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004009"
+    },
+    {
+        "id": "SMK-010",
+        "cardID": "딱구격170스톤060랜드140",
+        "name": "딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "딱구리",
+                "pokedexNumber": 76
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤샤워",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 벤치 포켓몬 3마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "랜드크래시",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "나이가 들면 탈피를 하지 않는다. 긴 세월을 산 딱구리의 껍질은 이끼가 끼어 초록색이다.",
+        "number": "010",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004010"
+    },
+    {
+        "id": "SMK-011",
+        "cardID": "롱스격200조이030헤비150애벌200",
+        "name": "롱스톤 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "롱스톤",
+                "pokedexNumber": 95
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "조이기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(격투)(무색)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            },
+            {
+                "name": "애벌랜치록 GX",
+                "cost": "(격투)(무색)(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-100」이 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "011",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "PLANETA Igarashi",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004011"
+    },
+    {
+        "id": "SMK-012",
+        "cardID": "탕구격060무거040",
+        "name": "탕구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "탕구리",
+                "pokedexNumber": 104
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "무거운뼈다귀",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리에 뒤집어쓴 두개골은 죽은 어미의 것. 죽음의 슬픔을 뛰어넘었을 때 진화한다고 전해진다.",
+        "number": "012",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004012"
+    },
+    {
+        "id": "SMK-013",
+        "cardID": "뿔카격080넘어020뿔드060",
+        "name": "뿔카노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "뿔카노",
+                "pokedexNumber": 111
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "넘어뜨리기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "뿔드릴",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "머리는 나쁘지만 힘이 세서 고층 빌딩도 몸통박치기로 산산조각 낸다.",
+        "number": "013",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "miki kudo",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004013"
+    },
+    {
+        "id": "SMK-014",
+        "cardID": "코뿌격110암석080메가120",
+        "name": "코뿌리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "코뿌리",
+                "pokedexNumber": 112
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "암석떨구기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "메가폰",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "전신을 갑옷 같은 피부로 보호하고 있다. 2000도의 마그마 속에서도 살 수 있다.",
+        "number": "014",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004014"
+    },
+    {
+        "id": "SMK-015",
+        "cardID": "꼬지격110세게020",
+        "name": "꼬지모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "꼬지모",
+                "pokedexNumber": 185
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "세게되돌리기",
+                "cost": "(격투)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 이 포켓몬이 배틀필드에서 기술의 데미지를 받았다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "노인을 중심으로 인기다. 초록색 부분이 클수록 마니아의 평가가 높아지는 듯하다.",
+        "number": "015",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004015"
+    },
+    {
+        "id": "SMK-016",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004016"
+    },
+    {
+        "id": "SMK-017",
+        "cardID": "더트자전거",
+        "name": "더트자전거",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 2장 보고 그 중 1장을 패로 가져온다.",
+            "남은 카드는 트래쉬한다."
+        ],
+        "number": "017",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004017"
+    },
+    {
+        "id": "SMK-018",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004018"
+    },
+    {
+        "id": "SMK-019",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "019",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004019"
+    },
+    {
+        "id": "SMK-020",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "020",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004020"
+    },
+    {
+        "id": "SMK-021",
+        "cardID": "난천",
+        "name": "난천",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 6장 뽑는다."
+        ],
+        "number": "021",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004021"
+    },
+    {
+        "id": "SMK-022",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "022",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004022"
+    },
+    {
+        "id": "SMK-023",
+        "cardID": "웅의 근성",
+        "name": "웅의 근성",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에 있는 포켓몬과 기본 에너지를 합계 6장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "023",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004023"
+    },
+    {
+        "id": "SMK-024",
+        "cardID": "웅의 트레이닝",
+        "name": "웅의 트레이닝",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에 있는 에너지를 1장 자신의 「꼬마돌」「데구리」「딱구리」「롱스톤 GX」「탕구리」「뿔카노」「코뿌리」「꼬지모」중에서 1마리에게 붙인다."
+        ],
+        "number": "024",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004024"
+    },
+    {
+        "id": "SMK-025",
+        "cardID": "이슬의 물 다루기",
+        "name": "이슬의 물 다루기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 선택해서 자신의 「고라파덕」「쏘드라」「별가사리」「아쿠스타 GX」「잉어킹」「갸라도스」「라프라스」에게 원하는 대로 붙인다."
+        ],
+        "number": "025",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004025"
+    },
+    {
+        "id": "SMK-026",
+        "cardID": "이슬의 의욕",
+        "name": "이슬의 의욕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 트래쉬한다.",
+            "그 뒤, 자신의 덱을 위에서부터 8장 보고 그 중에 있는 원하는 카드를 1장 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "026",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004026"
+    },
+    {
+        "id": "SMK-027",
+        "cardID": "포켓몬센터 직원",
+        "name": "포켓몬센터 직원",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 「60」회복하고 특수 상태도 모두 회복한다."
+        ],
+        "number": "027",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004027"
+    },
+    {
+        "id": "SMK-028",
+        "cardID": "하우",
+        "name": "하우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "028",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004028"
+    },
+    {
+        "id": "SMK-029",
+        "cardID": "웅의 회색시티 체육관",
+        "name": "웅의 회색시티 체육관",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 「롱스톤 GX」가 상대의 포켓몬으로부터 받는 기술의 데미지는 「-40」이 된다."
+        ],
+        "number": "029",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004029"
+    },
+    {
+        "id": "SMK-030",
+        "cardID": "이슬의 블루시티 체육관",
+        "name": "이슬의 블루시티 체육관",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 「아쿠스타 GX」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+40」이 된다."
+        ],
+        "number": "030",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 물 「아쿠스타 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004030"
+    },
+    {
+        "id": "SMK-031",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "031",
+        "prodNumber": "031",
+        "prodCode": "SMK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMK.png",
+        "prodName": "썬&문 스타터 세트 격투 「롱스톤 GX」",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMK/SMK_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019004031"
+    }
+]

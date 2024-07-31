@@ -1,0 +1,826 @@
+[
+    {
+        "id": "xya-001",
+        "cardID": "리자불180날개060화염150",
+        "name": "리자몽 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "날개치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "화염폭",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 「화염폭」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "PLANETA",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_01.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003001"
+    },
+    {
+        "id": "xya-002",
+        "cardID": "리자불220그렌300",
+        "name": "M리자몽 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "그렌다이브",
+                "cost": "(불꽃)(불꽃)(무색)(무색)(무색)",
+                "damage": "300",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_02.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003002"
+    },
+    {
+        "id": "xya-003",
+        "cardID": "코터불100불씨020화염080",
+        "name": "코터스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "코터스",
+                "pokedexNumber": 324
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불씨",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사용할 수 없게 된 탄광에는 많은 코터스가 살며 석탄을 부지런히 캐고 있다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_03.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003003"
+    },
+    {
+        "id": "xya-004",
+        "cardID": "불화불080불내020",
+        "name": "불화살빈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "불화살빈",
+                "pokedexNumber": 662
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불내뿜기",
+                "cost": "(불꽃)",
+                "damage": "20＋",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "부리에서 불꽃을 뿜어 풀숲을 태우고 놀라서 뛰쳐나온 사냥감을 잡는다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003004"
+    },
+    {
+        "id": "xya-005",
+        "cardID": "레오불060불꽃030",
+        "name": "레오꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "레오꼬",
+                "pokedexNumber": 667
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃의갈기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강한 상대에게 맞설 때일수록 갈기의 온도가 높아지고 전신에 힘이 넘쳐난다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_05.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003005"
+    },
+    {
+        "id": "xya-006",
+        "cardID": "스컹악060가져000분비030",
+        "name": "스컹뿡",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "스컹뿡",
+                "pokedexNumber": 434
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "분비액뿜기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "엉덩이에서 뿜어지는 역한 분비액의 냄새는 범위 2km까지 멀리 퍼져 주변의 포켓몬이 자리를 뜨게 한다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_06.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003006"
+    },
+    {
+        "id": "xya-007",
+        "cardID": "곤율악060꼬리020",
+        "name": "곤율랭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "곤율랭",
+                "pokedexNumber": 559
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "꼬리로 뺨치기",
+                "cost": "(악)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "가죽을 목까지 늘려서 방어 자세를 취한다. 고무 같은 탄력을 이용해 데미지를 줄인다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_07.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003007"
+    },
+    {
+        "id": "xya-008",
+        "cardID": "곤율악100몰아030제트080",
+        "name": "곤율거니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "곤율거니",
+                "pokedexNumber": 560
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "몰아붙이기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "제트헤드",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "탈피한 가죽을 끌어 올려 데미지를 줄이면서 킥! 볏이 클수록 거만하다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_08.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003008"
+    },
+    {
+        "id": "xya-009",
+        "cardID": "화살무050전광010",
+        "name": "화살꼬빈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "화살꼬빈",
+                "pokedexNumber": 661
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10＋",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람을 잘 따르는 성격이다. 아름다운 지저귐과 꽁지를 흔드는 움직임으로 동료에게 신호를 보낸다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_09.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003009"
+    },
+    {
+        "id": "xya-010",
+        "cardID": "트리무090노려020예리050",
+        "name": "트리미앙",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "트리미앙",
+                "pokedexNumber": 676
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "노려보고물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "예리한이빨",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "복슬복슬한 털을 깎고 다듬으면 모습이 아름다워질 뿐만 아니라 몸의 움직임도 좋아진다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_10.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003010"
+    },
+    {
+        "id": "xya-011",
+        "cardID": "레드카드",
+        "name": "레드카드",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대는 상대 자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 상대는 덱을 4장 뽑는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_11.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003011"
+    },
+    {
+        "id": "xya-012",
+        "cardID": "롤러스케이트",
+        "name": "롤러스케이트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱을 3장 뽑는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_12.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003012"
+    },
+    {
+        "id": "xya-013",
+        "cardID": "친구수첩",
+        "name": "친구수첩",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 서포트를 2장 선택해서 상대에게 보여주고 덱으로 되돌린다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "PLANETA",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_13.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003013"
+    },
+    {
+        "id": "xya-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_14.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003014"
+    },
+    {
+        "id": "xya-015",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_15.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003015"
+    },
+    {
+        "id": "xya-016",
+        "cardID": "대장장이",
+        "name": "대장장이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 (불꽃) 에너지를 2장 선택해서 자신의 (불꽃) 포켓몬 1마리에게 붙인다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_16.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003016"
+    },
+    {
+        "id": "xya-017",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 덱을 5장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_17.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003017"
+    },
+    {
+        "id": "xya-018",
+        "cardID": "티에르노",
+        "name": "티에르노",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_18.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003018"
+    },
+    {
+        "id": "xya-019",
+        "cardID": "플라드리",
+        "name": "플라드리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_19.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003019"
+    },
+    {
+        "id": "xya-020",
+        "cardID": "플라타느박사",
+        "name": "플라타느박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_20.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003020"
+    },
+    {
+        "id": "xya-021",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_21.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003021"
+    },
+    {
+        "id": "xya-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "rarity": "U",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_EN_01.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003022"
+    },
+    {
+        "id": "xya-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "xya",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xya.png",
+        "prodName": "XY 메가 배틀 60장덱 「M리자몽 EX」",
+        "rarity": "U",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYA/XY60_EN_02.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014003023"
+    }
+]

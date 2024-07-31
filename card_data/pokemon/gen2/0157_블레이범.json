@@ -1,0 +1,408 @@
+[
+    {
+        "id": "xy8b-011",
+        "cardID": "블레불150대분080플레130",
+        "name": "블레이범",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "대분화",
+                "cost": "(불꽃)",
+                "damage": "80×",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중의 에너지의 장수 × 80데미지를 준다."
+            },
+            {
+                "name": "플레어 디스트로이",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "활활 타오르는 털을 문질러 폭풍을 일으켜서 공격하는 큰 기술을 감추어 놓고 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "Megumi Mizutani",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8-019",
+        "cardID": "블레불160블레로스120",
+        "name": "블레이범",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "로스트플레임",
+                "cost": "(불꽃)(불꽃)(불꽃)(불꽃)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 2개 로스트존에 둔다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "블레이징 에너지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 이 차례가 끝날 때까지 자신의 필드의 포켓몬에게 붙어 있는 에너지는 모두 (불꽃) 에너지로 다룬다. (새로 필드에 내보낸 카드도 포함.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "활활 타오르는 털을 문질러 폭풍을 일으켜서 공격하는 큰 기술을 감추어 놓고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-204",
+        "cardID": "블레초210그을000전율120",
+        "name": "히스이 블레이범 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157,
+                "region": "히스이"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그을리기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "전율의불꽃",
+                "cost": "(초)(초)(무색)",
+                "damage": "120",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Shin Nagasawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004047",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004121",
+                "debug": "2"
+            },
+            {
+                "number": "204",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2023 코리안리그 시즌1 프로모",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_204.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000204",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S9a-029",
+        "cardID": "블레초260할로180아지000",
+        "name": "히스이 블레이범 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157,
+                "region": "히스이"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "할로우플레임",
+                "cost": "(초)(초)(무색)",
+                "damage": "180",
+                "text": "데미지 카운터 3개를 상대의 벤치 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "아지랑이스타",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터가 4개라면 그 포켓몬을 기절시킨다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004048",
+                "debug": "1"
+            },
+            {
+                "number": "085",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004130",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10D-023",
+        "cardID": "블레초150괴이그림090",
+        "name": "히스이 블레이범",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157,
+                "region": "히스이"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "괴이구슬",
+                "text": "자신의 차례에 자신의 패에서 (초) 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 상대의 배틀 포켓몬을 화상과 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs6-11",
+        "cardID": "블레불110불피기화060",
+        "name": "블레이범",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "블레이범",
+                "pokedexNumber": 157
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "기화열",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "60",
+                "text": "상대의 [물]에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불피우기",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 트래쉬에 있는 [불꽃]에너지를 1장 자신의 벤치 포켓몬에게 붙인다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃 폭풍으로 공격한다. 작열하는 불꽃으로 아지랑이를 만들어 내어 모습을 감춘다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "11",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Kazuyuki Kano",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_11.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006011",
+                "debug": "1"
+            }
+        ]
+    }
+]

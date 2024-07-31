@@ -1,0 +1,943 @@
+[
+    {
+        "id": "SN-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009025"
+    },
+    {
+        "id": "SN-001",
+        "cardID": "피카번200피카200",
+        "name": "피카츄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "피카드라이브",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "You Iribi",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009001"
+    },
+    {
+        "id": "SN-002",
+        "cardID": "에몽번070전기030",
+        "name": "에몽가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "에몽가",
+                "pokedexNumber": 587
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "전기를 흩뿌리면서 날기 때문에 새포켓몬들이 다가오지 않는다. 덕분에 먹이를 독차지할 수 있다.",
+        "number": "002",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Nagomi Nijo",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009002"
+    },
+    {
+        "id": "SN-003",
+        "cardID": "제라번120와일070",
+        "name": "제라오라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "제라오라",
+                "pokedexNumber": 807
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "와일드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "번개가 떨어지는 것과 같은 스피드로 적에게 접근한다. 날카로운 발톱으로 갈가리 찢는다.",
+        "number": "003",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Teeziro",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009003"
+    },
+    {
+        "id": "SN-004",
+        "cardID": "멍파번060볼찾돌아020",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "돌아다니며 뛰기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "볼찾기",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 트래쉬에서 「몬스터볼」과 「수퍼볼」을 각각 1장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "간식에 끌려 사람의 일을 돕는 먹보다. 탁탁 튀는 전기를 두르고 계속 달린다.",
+        "number": "004",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009004"
+    },
+    {
+        "id": "SN-005",
+        "cardID": "펄스번130몰아030오기130",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "몰아붙이기",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "오기스파크",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": "이 기술은 이 포켓몬에게 데미지 카운터가 올려져 있다면 (번개) 에너지 1개로 사용할 수 있다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전기의 힘으로 다릿심을 강하게 키운다. 최고 속도는 시속 90km를 가볍게 넘긴다.",
+        "number": "005",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "chibi",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009005"
+    },
+    {
+        "id": "SN-006",
+        "cardID": "캥카무120막치030연계060",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "연계 패밀리펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 1번 던져서 앞면이 나오면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주머니를 빠져나와 놀고 있는 새끼에게는 다가가선 안 된다. 어딘가에서 어미가 지켜보고 있다.",
+        "number": "006",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009006"
+    },
+    {
+        "id": "SN-007",
+        "cardID": "이브무200몸통030브이080",
+        "name": "이브이 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "브이브레이브",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "You Iribi",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009007"
+    },
+    {
+        "id": "SN-008",
+        "cardID": "잠만무160헤비080",
+        "name": "잠만보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "잠만보",
+                "pokedexNumber": 143
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "위장이 튼튼해서 곰팡이가 피거나 썩은 것을 먹어도 배탈이 나지 않는다.",
+        "number": "008",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Oswaldo KATO",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009008"
+    },
+    {
+        "id": "SN-009",
+        "cardID": "트리무090친구000퍼어090",
+        "name": "트리미앙",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "트리미앙",
+                "pokedexNumber": 676
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "퍼어택",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "가만히 두면 털이 점점 자라지만 신뢰하는 자가 아니면 커트를 허락하지 않는다.",
+        "number": "009",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009009"
+    },
+    {
+        "id": "SN-010",
+        "cardID": "루차무070어필000내리030",
+        "name": "루차불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "루차불",
+                "pokedexNumber": 701
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어필포즈",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "내리치기",
+                "cost": "(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "경쾌한 몸놀림을 활용한 전법으로 상대의 체력을 빼앗은 뒤 화려한 큰 기술을 먹인다.",
+        "number": "010",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Miki Tanaka",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009010"
+    },
+    {
+        "id": "SN-011",
+        "cardID": "우르무070데굴030",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데굴데굴 구르기",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.",
+        "number": "011",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "OKACHEKE",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009011"
+    },
+    {
+        "id": "SN-012",
+        "cardID": "배우무120뒤로040데굴060",
+        "name": "배우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "배우르",
+                "pokedexNumber": 832
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤로던지기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "자신의 벤치 포켓몬 1마리에게도 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "데굴데굴대시",
+                "cost": "(무색)(무색)",
+                "damage": "60+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "탄력 있는 털로 짜낸 카펫은 트램펄린 같아서 올라가면 통통 튀어 오르게 된다.",
+        "number": "012",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009012"
+    },
+    {
+        "id": "SN-013",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009013"
+    },
+    {
+        "id": "SN-014",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "014",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009014"
+    },
+    {
+        "id": "SN-015",
+        "cardID": "수퍼볼",
+        "name": "수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009015"
+    },
+    {
+        "id": "SN-016",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009016"
+    },
+    {
+        "id": "SN-017",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "017",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009017"
+    },
+    {
+        "id": "SN-018",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009018"
+    },
+    {
+        "id": "SN-019",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "019",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009019"
+    },
+    {
+        "id": "SN-020",
+        "cardID": "박사의 연구(마박사)",
+        "name": "박사의 연구(마박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009020"
+    },
+    {
+        "id": "SN-021",
+        "cardID": "보스의 지령(태홍)",
+        "name": "보스의 지령(태홍)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "021",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009021"
+    },
+    {
+        "id": "SN-022",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "022",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009022"
+    },
+    {
+        "id": "SN-023",
+        "cardID": "용식",
+        "name": "용식",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "023",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009023"
+    },
+    {
+        "id": "SN-024",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "024",
+        "prodNumber": "024",
+        "prodCode": "SN",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+        "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009024"
+    }
+]

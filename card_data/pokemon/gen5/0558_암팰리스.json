@@ -1,0 +1,446 @@
+[
+    {
+        "id": "bw2-002",
+        "cardID": "암팰풀100시저020돌격080",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 50데미지를 추가한다."
+            },
+            {
+                "name": "돌격",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "영역을 빼앗기 위해 암팰리스끼리 격렬히 싸운다. 바위가 부서진 쪽이 패배다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Naoyo Kimura",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bgz-004",
+        "cardID": "암팰풀110풀베030헤비070",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "헤비불릿",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "무거운 바위를 등에 지고 며칠이고 건조한 땅을 이동할 수 있는 다릿심을 가지고 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "018",
+                "prodCode": "bgz",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_004.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw6c-038",
+        "cardID": "암팰격100옹골스톤070",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "70+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "옹골참",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있지 않은 상태에서 기술의 데미지를 받아 기절할 경우 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "영역 다툼을 할 때 짊어진 바위가 부숴지면 불안을 느껴 약해진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "059",
+                "prodCode": "bw6c",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6c.png",
+                "prodName": "BW 확장팩 제6탄 「콜드플레어」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_coldflare_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012009038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "MG-007",
+        "cardID": "암팰풀100하드030한방070",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "하드프레스",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "영역 다툼을 할 때 짊어진 바위가 부숴지면 불안을 느껴 약해진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "016",
+                "prodCode": "MG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/MG.png",
+                "prodName": "포켓몬 카드 게임 BW 「30장 덱 대전 set 뮤츠VS게노세크트」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/MG/MG_G_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013006024",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-003",
+        "cardID": "암팰풀120조가연속050",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "연속자르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 3번 던진다. 앞면이 1번 나오면 40데미지를 추가한다. 앞면이 2번 나오면 80데미지를 추가한다. 모두 앞면이 나오면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "조가비갑옷",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "무거운 바위를 등에 지고 며칠이고 건조한 땅을 이동할 수 있는 다릿심을 가지고 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-024",
+        "cardID": "암팰풀130시저030한방130",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "두꺼운 발톱이 최고의 무기다. 거대코뿌리의 프로텍터조차 금이 갈 정도로 딱딱하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004004",
+                "debug": "2"
+            },
+            {
+                "number": "024",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "sowsow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-005",
+        "cardID": "암팰풀130진검050암벽100",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "진검승부",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "암벽배시",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬이 진화 포켓몬으로부터 받는 기술의 데미지는 「-100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "두꺼운 발톱이 최고의 무기다. 거대코뿌리의 프로텍터조차 금이 갈 정도로 딱딱하다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Shin Nagasawa",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021005",
+                "debug": "1"
+            },
+            {
+                "number": "067",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "OKUBO",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021067",
+                "debug": "2"
+            }
+        ]
+    }
+]

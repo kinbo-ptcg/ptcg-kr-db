@@ -1,0 +1,378 @@
+[
+    {
+        "id": "sm1s-050",
+        "cardID": "형사무210가택머리100형사010",
+        "name": "형사구스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "형사찬스 GX",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "가택수사",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 패를 본다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001050",
+                "debug": "1"
+            },
+            {
+                "number": "064",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-016",
+        "cardID": "형사무100몸통020연속050",
+        "name": "형사구스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "연속박치기",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹이의 흔적을 찾으면 끈질기게 그 자리에 잠복하지만 날이 저물면 꾸벅꾸벅 존다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004016",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm5m-051",
+        "cardID": "형사무110알아020때려070",
+        "name": "형사구스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "알아내기",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 패를 보고 그 중에 포켓몬이 있다면 80데미지를 추가한다."
+            },
+            {
+                "name": "때려눕히기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "꼬렛과 레트라를 좋아하지만 주행성이라 마주치지 못한다. 강한 인내력이 자랑인 포켓몬이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "nagimiso",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-078",
+        "cardID": "형사무100얼럿090",
+        "name": "형사구스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "얼럿헤드",
+                "cost": "(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 GX ・ EX」라면 이 기술의 데미지는 「30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "원래 알로라에 없었지만, 옛날 꼬렛이 대량으로 발생했을 때 데려왔다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "078",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-087",
+        "cardID": "형사무120잠복030넘어060",
+        "name": "형사구스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "잠복헤드",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 상대의 배틀 포켓몬이 벤치에서 배틀필드로 나왔다면 120데미지를 추가한다."
+            },
+            {
+                "name": "넘어뜨리기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "매우 인내심이 강한 성질이지만 좋아하는 꼬렛을 발견하면 이성을 잃고 덤벼든다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "087",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017087",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-063",
+        "cardID": "형사무120헤드030깨물060",
+        "name": "형사구스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "형사구스",
+                "pokedexNumber": 735
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "헤드뱅",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먹잇감의 흔적을 발견하면 해가 떨어질 때까지 그 자리에 머물며 끈질기게 잠복한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "063",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010063",
+                "debug": "1"
+            }
+        ]
+    }
+]

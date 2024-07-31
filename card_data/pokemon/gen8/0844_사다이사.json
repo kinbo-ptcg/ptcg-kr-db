@@ -1,0 +1,515 @@
+[
+    {
+        "id": "SA_F-009",
+        "cardID": "사다격130모래파워060",
+        "name": "사다이사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파워프레스",
+                "cost": "(격투)(격투)",
+                "damage": "60+",
+                "text": "이 기술을 사용하기 위한 에너지보다 1개 많은  (격투) 에너지가 붙어 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "모래주머니",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "온몸을 수축시킨 뒤 100kg의 모래를 콧구멍으로 내뿜는다. 모래가 없으면 무기력해진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "024",
+                "prodCode": "SA_F",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_F.png",
+                "prodName": "소드&실드 스타터 세트 V 격투",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_F_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001106",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-032",
+        "cardID": "사다격140똬리010로케100",
+        "name": "사다이사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "똬리틀기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+120」이 된다."
+            },
+            {
+                "name": "로케트박치기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "독특한 똬리 형태는 모래주머니의 모래를 더 효율적으로 분사하기 위함이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003032",
+                "debug": "1"
+            },
+            {
+                "number": "098",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016098",
+                "debug": "2"
+            },
+            {
+                "number": "270",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_270.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016270",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-046",
+        "cardID": "사다격220모래030샌드220",
+        "name": "사다이사 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래삼키기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 (격투) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "샌드브레스",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004046",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S5R-048",
+        "cardID": "사다격130모래060로케120",
+        "name": "사다이사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래대포",
+                "cost": "(격투)",
+                "damage": "60×",
+                "text": "자신의 덱을 위에서부터 6장 트래쉬하고 그 중에 있는 (격투) 에너지의 장수 × 60데미지를 준다."
+            },
+            {
+                "name": "로케트박치기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "독특한 똬리 형태는 모래주머니의 모래를 더 효율적으로 분사하기 위함이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "hatachu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-102",
+        "cardID": "사다격220모래랜드140",
+        "name": "사다이사 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "랜드크래시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "모래방벽",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004043",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004076",
+                "debug": "2"
+            },
+            {
+                "number": "241",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_241.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003241",
+                "debug": "2"
+            },
+            {
+                "number": "102",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 카드 게임 카드샵 구입 특전",
+                "artist": "Narumi Sato",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000102",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-242",
+        "cardID": "사다격320샌드060거다180",
+        "name": "사다이사 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "샌드임펄스",
+                "cost": "(격투)",
+                "damage": "60",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "거다이사이클론",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004044",
+                "debug": "2"
+            },
+            {
+                "number": "242",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_242.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003242",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-047",
+        "cardID": "사다격140로켓120모래000",
+        "name": "사다이사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "로켓박치기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "모래먼지분사",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸을 있는 힘껏 신축시켜서 덤프트럭도 밀어 버릴 정도의 기세로 모래를 분사한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006047",
+                "debug": "1"
+            }
+        ]
+    }
+]

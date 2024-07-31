@@ -1,0 +1,312 @@
+[
+    {
+        "id": "sm4plus-033",
+        "cardID": "전수번180플래럼블100라이000",
+        "name": "전수목 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "전수목",
+                "pokedexNumber": 796
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "럼블와이어",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            },
+            {
+                "name": "라이트닝 GX",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 패를 보고 그 중에 있는 카드를 1장 뒷면으로 하여 상대의 프라이즈로 놓는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플래시헤드",
+                "text": "이 포켓몬은 특수 에너지가 붙어 있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013033",
+                "debug": "3"
+            },
+            {
+                "number": "116",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_116.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013116",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011033",
+                "debug": "2"
+            },
+            {
+                "number": "116",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_116.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011116",
+                "debug": "2"
+            },
+            {
+                "number": "039",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002039",
+                "debug": "2"
+            },
+            {
+                "number": "218",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_218.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002218",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-038",
+        "cardID": "전수번120섬광020케이100",
+        "name": "전수목",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "전수목",
+                "pokedexNumber": 796
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "섬광탄",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "케이블그램",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": "자신의 남은 프라이즈 장수가 3장이라면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "울트라홀에서 출현했다. 발전소를 습격한 것으로 보아 전기가 에너지원인 것으로 여겨진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003016",
+                "debug": "2"
+            },
+            {
+                "number": "016",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003080",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "022",
+                "prodCode": "sm60b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60b.png",
+                "prodName": "썬&문 전격 스타터 세트 「라이코 GX」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60B/SM60B_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018008009",
+                "debug": "2"
+            },
+            {
+                "number": "038",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002038",
+                "debug": "1"
+            },
+            {
+                "number": "174",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Naoki Saito",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_174.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002174",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "컬렉터즈 프로모 팩 5",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000097",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-024",
+        "cardID": "전수번120쓰리030시그050",
+        "name": "전수목",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "전수목",
+                "pokedexNumber": 796
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "쓰리미러즈",
+                "cost": "(번개)",
+                "damage": "30+",
+                "text": "상대의 남은 프라이즈 장수가 3장이라면 90데미지를 추가한다."
+            },
+            {
+                "name": "시그널빔",
+                "cost": "(번개)(번개)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "이 세계와는 성질이 다르고_x000D_ 위험하지만 원래 살던 세계에서는_x000D_ 흔히 볼 수 있는 생물인 듯하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Satoshi Shirai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011024",
+                "debug": "1"
+            }
+        ]
+    }
+]

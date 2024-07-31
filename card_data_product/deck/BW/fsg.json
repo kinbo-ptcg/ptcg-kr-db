@@ -1,0 +1,593 @@
+[
+    {
+        "id": "fsg-001",
+        "cardID": "주리풀060몸통010덩굴020",
+        "name": "주리비얀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "주리비얀",
+                "pokedexNumber": 495
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 태양의 빛을 받아 광합성 한다. 기운이 빠지면 꼬리가 축 늘어진다.",
+        "number": "001",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/none.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001001"
+    },
+    {
+        "id": "fsg-002",
+        "cardID": "샤비풀080김밥020몸통030",
+        "name": "샤비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "샤비",
+                "pokedexNumber": 496
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "김밥말이",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "무성한 초목의 그림자를 헤쳐나가며 공격을 피한다. 채찍으로 능숙하게 반격한다.",
+        "number": "002",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001002"
+    },
+    {
+        "id": "fsg-003",
+        "cardID": "샤로풀130덩굴040리프060",
+        "name": "샤로다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샤로다",
+                "pokedexNumber": 497
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "리프스톰",
+                "cost": "(풀)(풀)",
+                "damage": "60",
+                "text": "자신의 (풀) 포켓몬 전원의 HP를 각각 「20」씩 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "머리를 높이 치켜들어 상대를 위압한다. 강한 상대와 싸울 때만 진정한 실력을 발휘한다.",
+        "number": "003",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001003"
+    },
+    {
+        "id": "fsg-005",
+        "cardID": "마라풀080메가020바늘020",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메가드레인",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "템포가 빠른 춤과 소리로 꽃씨를 노리는 천적인 새포켓몬을 쫓아버린다.",
+        "number": "005",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001005"
+    },
+    {
+        "id": "fsg-014",
+        "cardID": "앗차물070가져000할퀴020",
+        "name": "앗차프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "앗차프",
+                "pokedexNumber": 515
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "건조한 환경에 약하다. 머리의 송아리에 모은 물을 꼬리로 뿌려 주위를 적신다.",
+        "number": "014",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001014"
+    },
+    {
+        "id": "fsg-022",
+        "cardID": "으랏격060막치030",
+        "name": "으랏차",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "으랏차",
+                "pokedexNumber": 532
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "각목을 휘두르며 싸운다. 무거운 각목도 어렵지 않게 들 수 있으면 곧 진화한다는 뜻이다.",
+        "number": "022",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_022.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001022"
+    },
+    {
+        "id": "fsg-023",
+        "cardID": "깜눈격070물기020",
+        "name": "깜눈크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깜눈크",
+                "pokedexNumber": 551
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사막의 모래 속에서 생활한다. 태양 때문에 따뜻해진 모래가 체온 저하를 막아준다.",
+        "number": "023",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_023.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001023"
+    },
+    {
+        "id": "fsg-024",
+        "cardID": "악비격090물기020깨물040",
+        "name": "악비르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "악비르",
+                "pokedexNumber": 552
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "여러 마리가 무리를 짓는다. 안구를 감싼 막이 모래 폭풍으로부터 눈을 지켜준다.",
+        "number": "024",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_024.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001024"
+    },
+    {
+        "id": "fsg-025",
+        "cardID": "보르무050몸통010물기020",
+        "name": "보르쥐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "보르쥐",
+                "pokedexNumber": 504
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼의 주머니에 먹이를 모아두고 며칠이고 망보기를 계속한다. 꼬리로 동료에게 신호한다.",
+        "number": "025",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_025.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001025"
+    },
+    {
+        "id": "fsg-028",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "028",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Yuri Umemura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_028.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001028"
+    },
+    {
+        "id": "fsg-029",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 「30」회복한다."
+        ],
+        "number": "029",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_029.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001029"
+    },
+    {
+        "id": "fsg-030",
+        "cardID": "수퍼 포켓몬 회수",
+        "name": "수퍼 포켓몬 회수",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 포켓몬 1마리와 붙어 있는 모든 카드를 패로 되돌린다."
+        ],
+        "number": "030",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Daisuke Iwamoto",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_030.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001030"
+    },
+    {
+        "id": "fsg-033",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "033",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_033.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001033"
+    },
+    {
+        "id": "fsg-034",
+        "cardID": "포켓몬 도감",
+        "name": "포켓몬 도감",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 5장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+        ],
+        "number": "034",
+        "prodNumber": "034",
+        "prodCode": "fsg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+        "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+        "artist": "Noriko Hotta",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_034.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001034"
+    }
+]

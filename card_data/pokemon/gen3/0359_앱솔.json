@@ -1,0 +1,865 @@
+[
+    {
+        "id": "bw8s-033",
+        "cardID": "앱솔악100마인020섀도060",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "마인드잭",
+                "cost": "(악)(무색)",
+                "damage": "20+",
+                "text": "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "섀도피어",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 패를 본다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "뿔이 감지한 불행을 사람에게 알리려고 산속에서 모습을 드러낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-034",
+        "cardID": "앱솔악100커스마하030",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "마하크루",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "커스아이즈",
+                "text": "이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 상대의 포켓몬 1마리에게 올려져 있는 데미지 카운터를 3개 선택해서 상대의 다른 포켓몬 1마리에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "재해의 징조를 느끼면 모습을 보이기 때문에 재앙을 부르는 포켓몬으로 오해받고 있었다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004034",
+                "debug": "1"
+            },
+            {
+                "number": "077",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_077.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-038",
+        "cardID": "앱솔악100미래000파멸000",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "미래예지",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신 또는 상대의 덱을 위에서부터 4장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "파멸의알림",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 패로 되돌린다. 상대의 다음 차례 마지막에 이 기술을 받은 포켓몬은 기절한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹이의 맛과 신선도에 까다로운 미식가 포켓몬. 레트라가 사는 레스토랑은 진짜 맛집이라고 전해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003038",
+                "debug": "1"
+            },
+            {
+                "number": "038",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003091",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-075",
+        "cardID": "앱솔악100악의섀도030",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "섀도시커",
+                "cost": "(악)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "악의 패기",
+                "text": "이 포켓몬이 있는 한, 상대의 배틀필드의 기본 포켓몬의 후퇴에 필요한 에너지는 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "재앙을 가져온다고 전해지지만 실제로는 온화한 성질이다._x000D_ 재해의 위기를 사람들에게 알린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013023",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-043",
+        "cardID": "앱솔악100불길000더티070",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "불길한알림",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "더티스로우",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": "자신의 패를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "비록 겉모습은 불길하지만 논밭을 지키거나 이변을 사람에게 알려 주는 고마운 존재다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SC_D-001",
+        "cardID": "앱솔악100다크070",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크커터",
+                "cost": "(악)(악)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "노인들은 재난포켓몬이라고 부르며 미워하지만 재해를 예지하는 능력에 관심이 높아지고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "020",
+                "prodCode": "SC_D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SC_D.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 오롱털",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SC/SCD_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2020002001",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-267",
+        "cardID": "앱솔악100끌어000베어080",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "노인들은 재난포켓몬이라고 부르며 미워하지만 재해를 예지하는 능력에 관심이 높아지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011027",
+                "debug": "2"
+            },
+            {
+                "number": "004",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "Eri Yamaki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019004",
+                "debug": "2"
+            },
+            {
+                "number": "267",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Eri Yamaki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_267.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003267",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9a-051",
+        "cardID": "앱솔악100소용000손톱050",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "소용돌이재앙",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "손톱으로 도려내기",
+                "cost": "(악)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람처럼 산과 들을 달려나간다. 초승달 모양의 뿔은 자연재해의 징조를 민감하게 감지한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004084",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3-073",
+        "cardID": "앱솔악210미래000커스100",
+        "name": "앱솔 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "미래예지",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신 또는 상대의 덱을 위에서부터 3장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "커스슬러그",
+                "cost": "(악)(악)(무색)",
+                "damage": "100+",
+                "text": "상대의 패가 3장 이하라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Nisota Niso",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015073",
+                "debug": "1"
+            },
+            {
+                "number": "126",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_126.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015126",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-036",
+        "cardID": "앱솔악100드로000강화020",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "드로센스",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패가 5장이 되도록 덱을 뽑는다. 원한다면 덱을 뽑기 전에 자신의 패를 원하는 만큼 트래쉬한다."
+            },
+            {
+                "name": "강화슬래시",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험을 감지하는 능력이 있어 사람들로부터 재앙을 불러오는 포켓몬이라는 오해를 샀다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Shinji Kanda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-052",
+        "cardID": "앱솔악170암흑020다크100",
+        "name": "앱솔 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "암흑엄니",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "다크에지",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-053",
+        "cardID": "앱솔악210디재080",
+        "name": "M앱솔 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "디재스터윙",
+                "cost": "(악)(악)",
+                "damage": "80+",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬하고, 그 카드가 트레이너스라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-26",
+        "cardID": "앱솔악070재난000습격010",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "재난의 바람",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 카드를 1장 선택하여 트래쉬한다. 트래쉬한 카드가 「트레이너」「서포터」「스타디움」이라면 1장 더 트래쉬한다."
+            },
+            {
+                "name": "습격",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "이 기술의 데미지는 이 「앱솔」을 패에서 필드로 내보낸 차례에만 「40」이 된다. (대전 시작 때 내보낸 경우에는 그대로이다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "재해의 위험을 감지한다. 위험을 알리는 때에만 사람 앞에 나타난다고 한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "26",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Ken Sugimori",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_26.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009026",
+                "debug": "1"
+            }
+        ]
+    }
+]

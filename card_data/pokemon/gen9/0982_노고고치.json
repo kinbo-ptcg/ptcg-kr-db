@@ -1,0 +1,134 @@
+[
+    {
+        "id": "SV2P-057",
+        "cardID": "노고무140진흙030파고100",
+        "name": "노고고치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "노고고치",
+                "pokedexNumber": 982
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "진흙뿌리기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "파고 도망 플래시",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 마비로 만든다. 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "단단한 꼬리로 땅속 깊은 곳에 있는 암반을 뚫어서 보금자리를 만든다. 굴의 깊이는 무려 10km에 이른다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Mina Nakai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011057",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Saya Tsuruta",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-057",
+        "cardID": "노고무140도주랜드090",
+        "name": "노고고치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "노고고치",
+                "pokedexNumber": 982
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "랜드크래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "도주 드로",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "단단한 꼬리로 땅속 깊은 곳에 있는 암반을 뚫어서 보금자리를 만든다. 굴의 깊이는 무려 10km에 이른다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004057",
+                "debug": "3"
+            }
+        ]
+    }
+]

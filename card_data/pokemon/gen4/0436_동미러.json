@@ -1,0 +1,782 @@
+[
+    {
+        "id": "bw3h-039",
+        "cardID": "동미강070띄워010회전040",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(강철)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "오랜 옛날의 동미러는 거울처럼 반사하고 있었다고 생각하는 연구자도 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "Naoki Saito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_039.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xyb-002",
+        "cardID": "동미강050몸통010",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "동미러의 등 모양에는 신비한 힘이 깃들어 있다고 옛날 사람들은 믿고 있었다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "018",
+                "prodCode": "xyb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyb.png",
+                "prodName": "XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYB/XYB_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014004002",
+                "debug": "3"
+            },
+            {
+                "number": "080",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_080.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004080",
+                "debug": "2"
+            },
+            {
+                "number": "081",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707081",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-043",
+        "cardID": "동미강060보복010",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "보복",
+                "cost": "(무색)(무색)",
+                "damage": "10＋",
+                "text": "상대의 프라이즈의 남은 장수가 1장이라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "고대 무덤에서 동미러와 똑 닮은 도구가 발굴되었지만 관계는 알 수 없다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_043.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-156",
+        "cardID": "동미강060철벽000한방020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "철벽",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "고대 무덤에서 동미러와 똑 닮은 도구가 발굴되었지만 관계는 알 수 없다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "Hajime Kusajima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020047",
+                "debug": "2"
+            },
+            {
+                "number": "156",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Hajime Kusajima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_156.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001156",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5s-040",
+        "cardID": "동미강060최면000회전020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "고대 무덤에서 동미러와 똑 닮은 도구가 발굴되었지만 관계는 알 수 없다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-035",
+        "cardID": "동미강050앞지몸통020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "앞지른 진화",
+                "text": "이 포켓몬은 후공 플레이어의 첫 차례라면 내보냈을 때라도 진화할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "고대 무덤에서 동미러와 똑 닮은 도구가 발굴되었지만 관계는 알 수 없다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013035",
+                "debug": "1"
+            },
+            {
+                "number": "035",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-053",
+        "cardID": "동미강060부딪010스피020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "스피드비행",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "오래된 유적에 나타난다. 몸의 무늬는 가라르에 없는 낯선 문화의 것이라 수수께끼이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-302",
+        "cardID": "동미강060부딪030",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "닦으면 빛이 나며 진실을 비춘다고 전해지지만 동미러는 닦이는 걸 매우 싫어한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001049",
+                "debug": "2"
+            },
+            {
+                "number": "302",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_302.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003302",
+                "debug": "1"
+            },
+            {
+                "number": "098",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001098",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10P-048",
+        "cardID": "동미강060메탈020",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈프레스",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "불가사의한 에너지로 공중에 떠 있다. 등에 각인된 문양은 신성한 것으로 여겨지며 오래된 묘지 등에서 종종 그려지기도 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-051",
+        "cardID": "동미강070회전010",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "회전어택",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래된 유적에 나타난다. 몸의 무늬는 가라르에 없는 낯선 문화의 것이라 수수께끼이다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011086",
+                "debug": "1"
+            },
+            {
+                "number": "051",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_051_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011087",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-050",
+        "cardID": "동미강070미러000스피030",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "미러드로",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 패가 상대의 패와 같은 장수가 되도록 덱을 뽑는다."
+            },
+            {
+                "name": "스피드비행",
+                "cost": "(강철)(강철)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "옛날 사람들은 동미러의 등 무늬에 신비한 힘이 깃들어 있다고 믿었다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Shinji Kanda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-028",
+        "cardID": "동미초080미러010",
+        "name": "동미러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "동미러",
+                "pokedexNumber": 436
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미러어택",
+                "cost": "(초)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 (초) 포켓몬이라면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "옛날 사람들은 동미러의 등 무늬에 신비한 힘이 깃들어 있다고 믿었다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Kedamahadaitai Yawarakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004028",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "sowsow",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004074",
+                "debug": "2"
+            }
+        ]
+    }
+]

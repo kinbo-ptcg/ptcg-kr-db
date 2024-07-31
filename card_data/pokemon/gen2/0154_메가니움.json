@@ -1,0 +1,182 @@
+[
+    {
+        "id": "xy9-003",
+        "cardID": "메가풀150심록그린050",
+        "name": "메가니움",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "메가니움",
+                "pokedexNumber": 154
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "그린포스",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "심록",
+                "text": "이 포켓몬의 남은 HP가 「50」이하라면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+70」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "메가니움이 뿜어내는 숨결에는 말라 죽은 풀과 나무를 살려내는 힘이 담겨 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8-005",
+        "cardID": "메가풀150퀵라솔라110",
+        "name": "메가니움",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "메가니움",
+                "pokedexNumber": 154
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퀵라이페닝 허브",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 2진화 포켓몬을 1장 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려서 진화시킨다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "메가니움이 뿜어내는 숨결에는 말라 죽은 풀과 나무를 살려내는 힘이 담겨 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs6-03",
+        "cardID": "메가풀130울트020불꽃060",
+        "name": "메가니움",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "메가니움",
+                "pokedexNumber": 154
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "울트라파우더",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "동전을 세 번 던진다. 첫 번째가 앞면이 나오면 상대를 독으로 만든다. 두 번째가 앞면이 나오면 상대를 화상으로 만든다. 세 번째가 앞면이 나오면 상대를 마비로 만든다."
+            },
+            {
+                "name": "불꽃속의 일격",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "60+",
+                "text": "상대의 필드에 [불꽃]포켓몬이 있다면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "메가니움이 뿜어내는 호흡에는 시든 화초를 되살리는 이상한 힘이 숨어 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "03",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Daisuke Ito",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_3.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006003",
+                "debug": "3"
+            }
+        ]
+    }
+]

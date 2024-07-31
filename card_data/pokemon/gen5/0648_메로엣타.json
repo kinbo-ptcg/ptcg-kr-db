@@ -1,0 +1,527 @@
+[
+    {
+        "id": "ebb-062",
+        "cardID": "메로초080사이010에코050",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "에코보이스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「에코보이스」의 데미지는 「+50」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "메로엣타가 연주하는 선율에는 주위 포켓몬을 기쁘게 하거나 슬프게 할 정도의 힘이 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008033",
+                "debug": "2"
+            },
+            {
+                "number": "062",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_062.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006062",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sc-011",
+        "cardID": "메로초110샤이000돌림000",
+        "name": "메로엣타 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "샤이니보이스",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "돌림노래",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "기술 「돌림노래」를 가진 자신의 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "025",
+                "prodCode": "sc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+                "prodName": "BW 확장팩 「샤이니 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004011",
+                "debug": "1"
+            },
+            {
+                "number": "025",
+                "prodNumber": "025",
+                "prodCode": "sc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+                "prodName": "BW 확장팩 「샤이니 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004025",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "ebb-070",
+        "cardID": "메로격090매지000유성040",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "매지컬댄스",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬 전원의 HP를 각각 「30」회복한다."
+            },
+            {
+                "name": "유성스텝",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "40+",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "메로엣타가 연주하는 선율에는 주위 포켓몬을 기쁘게 하거나 슬프게 할 정도의 힘이 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "070",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_070.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006070",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8b-033",
+        "cardID": "메로격090액셀000프리060",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "액셀스핀",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (격투) 에너지를 2장 선택해서 이 포켓몬에게 붙인다. 그 뒤 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "프리마론도",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60＋",
+                "text": "이 포켓몬에게 (초) 에너지가 붙어 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "kirisAki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp5-018",
+        "cardID": "메로초080소프000트랜030",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "소프라노 웨이브",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 10데미지를 상대의 포켓몬 전원에게 각각 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "트랜스멜로디",
+                "cost": "(초)(초)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Hasuno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_018.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008018",
+                "debug": "1"
+            },
+            {
+                "number": "019",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Megumi Mizutani",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_019.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008019",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-024",
+        "cardID": "메로초080노래000미라000",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "노래하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "미라클하모니",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "자신의 필드에 있는 기술 「노래하기」를 가진 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 10데미지를 상대의 포켓몬 전원에게 각각 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009024",
+                "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-027",
+        "cardID": "메로격090태그000유성030",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "태그옐",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에 있는 에너지를 1장 자신의 「TAG TEAM」 포켓몬에게 붙인다."
+            },
+            {
+                "name": "유성스텝",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "메로엣타가 연주하는 선율에는 주위 포켓몬을 기쁘게 하거나 슬프게 할 정도의 힘이 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-048",
+        "cardID": "메로초090멜로070",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "멜로디어스 에코",
+                "cost": "(초)(무색)",
+                "damage": "70×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 「퓨전 에너지」의 수 × 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018048",
+                "debug": "1"
+            }
+        ]
+    }
+]

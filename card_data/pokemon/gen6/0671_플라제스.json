@@ -1,0 +1,564 @@
+[
+    {
+        "id": "xy2-053",
+        "cardID": "플라페110브릴000꽃보000",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "브릴리언트 서치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 3장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "꽃보라",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "멋진 화원이 영역이다. 화초가 내보내는 에너지를 쬐어 자신의 파워로 삼는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_053.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy4-060",
+        "cardID": "플라페160인도000브라020",
+        "name": "플라제스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "인도하기",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "브라이트가든",
+                "cost": "(페어리)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드에 있는 풀포켓몬과 페어리포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_060.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004060",
+                "debug": "3"
+            },
+            {
+                "number": "092",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_092.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004092",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_086.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004086",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8b-042",
+        "cardID": "플라페110편온원더070",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "원더샤인",
+                "cost": "(페어리)(페어리)(페어리)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "편온해지는 향기",
+                "text": "이 포켓몬이 있는 한 자신의 포켓몬이 사용하는 기술에 필요한 에너지는 각각 (페어리) 에너지 1개씩 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "옛 성의 주인은 정원을 꾸미기 위해 플라제스를 불러들여 화원을 만들게 했다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "Hajime Kusajima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8b-043",
+        "cardID": "플라페140플라없음000",
+        "name": "플라제스 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 플라제스가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "플라워브리즈",
+                "text": "자신의 배틀 포켓몬의 HP를 「30」회복하고 특수 상태도 1가지 회복한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_043.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-060",
+        "cardID": "플라페120원더미스070",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "미스트가드",
+                "cost": "(페어리)(페어리)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬은 (드래곤) 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원더기프트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 자신의 트래쉬에 있는 아이템을 1장 상대에게 보여주고 덱의 위로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "옛 성의 주인은\n정원을 꾸미기 위해 플라제스를\n불러들여 화원을 만들게 했다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Satoshi Shirai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004060",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-061",
+        "cardID": "플라페130꽃따꽃잎060",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "꽃잎댄스",
+                "cost": "(페어리)(무색)",
+                "damage": "60×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 60데미지를 준다. 이 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "꽃따기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 패에서 앞면을 보지 않고 2장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "기른 꽃들을 조종한다. 플라제스가 발산하는 꽃보라는 아름다움도 파워도 압도적이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-039",
+        "cardID": "플라초130연격원더110",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "원더샤인",
+                "cost": "(초)(무색)(무색)",
+                "damage": "110",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "연격커넥션",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 자신의 다른 「연격」의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "수백 년의 수명을 가졌다. 정원을 지키는 일에 일생을 바친다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-044",
+        "cardID": "플라초140블룸문포120",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "문포스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "블룸 가든",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "플라제스가 만든 화원은 몸과 마음을 치유하는 힘이 끊임없이 나온다고 전해진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Haru Akasaka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-038",
+        "cardID": "플라초140매혹매지120",
+        "name": "플라제스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "플라제스",
+                "pokedexNumber": 671
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(초)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "매혹의 유인",
+                "text": "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬을 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Ligton",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007038",
+                "debug": "1"
+            }
+        ]
+    }
+]

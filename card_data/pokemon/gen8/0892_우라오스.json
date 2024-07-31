@@ -1,0 +1,592 @@
+[
+    {
+        "id": "SI-247",
+        "cardID": "우라격220예민000임팩180",
+        "name": "일격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "예민해지기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 덱에서 (격투) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "임팩트블로",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 「임팩트블로」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001036",
+                "debug": "2"
+            },
+            {
+                "number": "074",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001074",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "kawayoo",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001075",
+                "debug": "2"
+            },
+            {
+                "number": "247",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_247.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003247",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-248",
+        "cardID": "우라격220뒤집030백열150",
+        "name": "연격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "백열러시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002050",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002076",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Ryota Murayama",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002077",
+                "debug": "2"
+            },
+            {
+                "number": "248",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_248.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003248",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5R-051",
+        "cardID": "우라격330질풍030거다000",
+        "name": "연격 우라오스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "질풍찌르기",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 120데미지를 추가한다."
+            },
+            {
+                "name": "거다이연격",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 포켓몬 2마리에게 각각 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5I-037",
+        "cardID": "우라격330정권100거다270",
+        "name": "일격 우라오스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "정권찌르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "거다이일격",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "270",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-042",
+        "cardID": "우라물140슬래040연속030",
+        "name": "연격 우라오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "연속탄러시",
+                "cost": "(물)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 「연격」의 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "많은 타격으로 반드시 쓰러뜨리는 것이 신조다. 물 흐르듯 끊임없이 타격 기술을 상대에게 날린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Naoki Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003019",
+                "debug": "2"
+            },
+            {
+                "number": "042",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5a-055",
+        "cardID": "우라악140필드050수라100",
+        "name": "일격 우라오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "필드크래시",
+                "cost": "(악)(무색)",
+                "damage": "50",
+                "text": "필드에 나와 있는 상대의 스타디움을 트래쉬한다."
+            },
+            {
+                "name": "수라의주먹",
+                "cost": "(악)(악)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먼 지방의 산악지대에 산다. 낭떠러지 절벽을 달리며 하체를 단련하고 기술을 연마한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-092",
+        "cardID": "우라격220안다030완강180",
+        "name": "일격 우라오스V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "안다리걸기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "완강너클",
+                "cost": "(격투)(격투)(격투)(격투)",
+                "damage": "180",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "092",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 스페셜 점보 카드 세트 「일격마스터」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000092",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S-P-093",
+        "cardID": "우라격220회전040음속090",
+        "name": "연격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "회전차기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "음속연각",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "093",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 스페셜 점보 카드 세트 「연격마스터」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000093",
+                "debug": "1"
+            }
+        ]
+    }
+]

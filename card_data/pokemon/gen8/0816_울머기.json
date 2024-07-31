@@ -1,0 +1,225 @@
+[
+    {
+        "id": "SA_W-007",
+        "cardID": "울머물070막치010물대020",
+        "name": "울머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "울머기",
+                "pokedexNumber": 816
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물대포",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겁을 먹으면 양파 100개와 맞먹는 최루 성분의 눈물을 흘려서 상대도 덩달아 울게 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "023",
+                "prodCode": "SA_W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_W.png",
+                "prodName": "소드&실드 스타터 세트 V 물",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_W_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-017",
+        "cardID": "울머물060물대020",
+        "name": "울머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "울머기",
+                "pokedexNumber": 816
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겁을 먹으면 양파 100개와 맞먹는 최루 성분의 눈물을 흘려서 상대도 덩달아 울게 만든다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002017",
+                "debug": "1"
+            },
+            {
+                "number": "039",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016039",
+                "debug": "2"
+            },
+            {
+                "number": "224",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Saya Tsuruta",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_224.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016224",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-116",
+        "cardID": "울머물060계속000더블020",
+        "name": "울머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "울머기",
+                "pokedexNumber": 816
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "계속부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「연격」의 기본 포켓몬을 3장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "더블스핀",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "젖으면 피부색이 변한다. 위장한 것처럼 모습이 보이지 않게 된다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Yuu Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003016",
+                "debug": "2"
+            },
+            {
+                "number": "036",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001036",
+                "debug": "2"
+            },
+            {
+                "number": "116",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_116.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003116",
+                "debug": "3"
+            }
+        ]
+    }
+]

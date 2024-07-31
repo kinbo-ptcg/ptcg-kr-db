@@ -1,0 +1,560 @@
+[
+    {
+        "id": "xy10-036",
+        "cardID": "데기격080난동020",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "난동부리기",
+                "cost": "(무색)",
+                "damage": "20＋",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "암반 같은 단단한 껍질로 둘러싸여 있지만 힘이 강해서 난동을 부리면 산도 무너져버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-036",
+        "cardID": "데기격080로케020모래000",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "로케트박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "모래바람",
+                "cost": "(격투)(격투)",
+                "damage": "",
+                "text": "서로의 포켓몬((격투) 포켓몬은 제외) 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "암반 같은 단단한 껍질로 둘러싸여 있지만 힘이 강해서 난동을 부리면 산도 무너져버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Hironobu Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006036",
+                "debug": "1"
+            },
+            {
+                "number": "036",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Hironobu Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006103",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8-055",
+        "cardID": "데기격070탄환한방030",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "탄환진화",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "암반 같은 단단한 껍질로 둘러싸여 있지만 힘이 강해서 난동을 부리면 산도 무너져버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Yuka Morii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-016",
+        "cardID": "데기격080보복030",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "보복",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "암반 같은 단단한 껍질로 둘러싸여 있지만 힘이 강해서 난동을 부리면 산도 무너져버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013016",
+                "debug": "1"
+            },
+            {
+                "number": "016",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-041",
+        "cardID": "데기격080모래020로켓040",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래보라",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "로켓진화",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": "이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택해서 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "껍질에 덮여 있지만 자유로이 뛰어다닌다. 단단함과 스피드를 지니고 있어서 파괴력이 대단하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-038",
+        "cardID": "데기격090크래020몸통070",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "크래시불릿",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "서로의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "껍질에 덮여 있지만 자유로이 뛰어다닌다. 단단함과 스피드를 지니고 있어서 파괴력이 대단하다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-037",
+        "cardID": "데기격090머리050",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에서 압축한 가스를 기세 좋게 분출시켜 날며 난동을 피우는 번데기.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-046",
+        "cardID": "데기격080돌떨020분사060",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "분사태클",
+                "cost": "(격투)(격투)",
+                "damage": "60",
+                "text": "자신의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에서 압축한 가스를 기세 좋게 분출시켜 날며 난동을 피우는 번데기.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015056",
+                "debug": "2"
+            },
+            {
+                "number": "046",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 프로모 카드 팩 제3탄",
+                "artist": "Shiburingaru",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000046",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs3-25",
+        "cardID": "데기격070압축000로켓050",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "압축가스",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다."
+            },
+            {
+                "name": "로켓태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "50",
+                "text": "자신에게도 10데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술에 의한 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "암반 같은 단단한 몸이다. 압축한 가스를 분사해서 마치 로켓같이 날아간다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "25",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_25.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003025",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "id": "xy2-049",
+        "cardID": "쏘콘강100가시아이020",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언폴",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 x 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "가시소나기",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 상대의 포켓몬 전원에게 데미지 카운터를 각각 1개씩 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철 껍질이 몸을 보호하고 있다. 틈새에서 엿보고 있는 눈이 있지만 내용물의 정체는 수수께끼다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002049",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm8-060",
+        "cardID": "쏘콘강110뾰족000로스190",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "뾰족뾰족분사",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 상대의 포켓몬 전원에게 각각 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "로스트봄버",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 로스트존에 둔다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "나무에 붙어 있는 채로 안 움직인다. 단단한 껍질 파편을 흩뿌려서 다가오는 자를 쫓아버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "tetsuya koizumi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010060",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-045",
+        "cardID": "쏘콘강120돌진120무승000",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "돌진",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            },
+            {
+                "name": "무승부봄버",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬을 기절시킨다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹이를 삼키는 순간에는 껍질 안의 모습이 나타나지만 그 모습을 본 자는 아직 없다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-080",
+        "cardID": "쏘콘강120연속050셸롤090",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "연속스핀",
+                "cost": "(강철)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "셸롤링",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-50」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철 같은 단단한 껍질로 전신을 싸고 있다. 내용물의 정체는 수수께끼다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Lee HyunJung",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007057",
+                "debug": "2"
+            },
+            {
+                "number": "080",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Lee HyunJung",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016080",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-009",
+        "cardID": "쏘콘풀270테라가드120",
+        "name": "쏘콘 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(풀)(풀)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "폭발 에너지",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 이 포켓몬을 기절시킨다. 자신의 덱에서 「기본 (풀) 에너지」를 5장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012005",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012084",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001009",
+                "debug": "1"
+            },
+            {
+                "number": "320",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_320.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001320",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-043",
+        "cardID": "쏘콘강130가시030강철130",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가시대포",
+                "cost": "(강철)",
+                "damage": "30×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "강철태클",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게도 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철 같은 단단한 껍질로 전신을 싸고 있다. 내용물의 정체는 수수께끼다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "osare",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005043",
+                "debug": "1"
+            }
+        ]
+    }
+]

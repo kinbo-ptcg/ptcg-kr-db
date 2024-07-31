@@ -1,0 +1,867 @@
+[
+    {
+        "id": "bw8v-027",
+        "cardID": "메타초140플라사이000",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코트립",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라스마서치",
+                "text": "자신의 덱에서 「플라스마단」의 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다. 사용하면 이 차례에 같은 이름의 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "4개의 뇌가 연결되어 슈퍼컴퓨터보다 대단한 계산으로 상대를 분석한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-049",
+        "cardID": "메타강150마그아이080",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언캐논",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (강철) 에너지를 모두 트래쉬해도 좋다. 그 경우 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그넷워프",
+                "text": "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "메탕구가 합체해서 생겨났다. 4개의 뇌를 가진 메타그로스는 슈퍼컴퓨터 수준의 지능이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "kirisAki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-050",
+        "cardID": "메타강150【θ머신020가드080",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "머신건스탬프",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "자신의 패의 장수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "가드프레스",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【θ더블】",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "메탕구가 합체해서 생겨났다. 4개의 뇌를 가진 메타그로스는 슈퍼컴퓨터 수준의 지능이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_050.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2l-035",
+        "cardID": "메타강250지오기가150알고000",
+        "name": "메타그로스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기가해머",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 「기가해머」를 사용할 수 없다."
+            },
+            {
+                "name": "알고리즘 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 5장까지 패로 가져온다. 그리고 덱을 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "지오테크 시스템",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에 있는 (초)  또는 (강철) 에너지를 1장 배틀 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005035",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005054",
+                "debug": "2"
+            },
+            {
+                "number": "234",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_234.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002234",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7-055",
+        "cardID": "메타강170익스코멧060",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "코멧펀치",
+                "cost": "(강철)",
+                "damage": "60",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「코멧펀치」의 데미지는 「+60」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "익스텐드",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 자신의 「성호의 결단」을 사용해도 자신의 차례는 끝나지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "2마리의 메탕구가 연결되었다. 4개의 뇌의 병렬처리로 어떤 계산도 순식간이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-049",
+        "cardID": "메타강170부유레그100",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "레그퀘이크",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 진화 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "부유자기장",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "슈퍼컴퓨터보다 굉장한 판단력으로 상대를 분석하여 냉정하게 궁지에 몰아넣는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "kawayoo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-301",
+        "cardID": "메타강220불릿020싱크060",
+        "name": "메타그로스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "불릿펀치",
+                "cost": "(강철)",
+                "damage": "20+",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "싱크로해머",
+                "cost": "(강철)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬과 상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수가 같으면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005049",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005077",
+                "debug": "2"
+            },
+            {
+                "number": "301",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_301.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003301",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6K-050",
+        "cardID": "메타강330전자000다이100",
+        "name": "메타그로스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "전자흡착",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "다이러시",
+                "cost": "(강철)(무색)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 이 포켓몬의 「다이러시」의 데미지는 「+150」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Ryota Murayama",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-075",
+        "cardID": "메타강170긴급코멧100",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "코멧펀치",
+                "cost": "(강철)(무색)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 이 포켓몬의 「코멧펀치」의 데미지는 「+100」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "긴급 엔트리",
+                "text": "자신의 차례 처음에 덱에서 이 카드를 뽑았을 때 자신의 벤치에 빈자리가 있다면 패로 가져오기 전에 1번 사용할 수 있다. 이 카드를 자신의 벤치로 내보낸다. 그 뒤, 자신의 덱을 3장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "기온이 영하로 내려가면 자력이 강해지기 때문에 설산에 사는 메타그로스는 매우 기운이 넘친다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-048",
+        "cardID": "메타강180코멧060러스200",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "코멧펀치",
+                "cost": "(강철)",
+                "damage": "60",
+                "text": "자신의 다음 차례에 이 포켓몬의 「코멧펀치」의 데미지는 「+60」이 된다."
+            },
+            {
+                "name": "러스터 블라스트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "기온이 영하로 내려가면 자력이 강해지기 때문에 설산에 사는 메타그로스는 매우 기운이 넘친다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Nurikabe",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005048",
+                "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Katsunori Sato",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005080",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-048",
+        "cardID": "메타강180자력020그랜050",
+        "name": "메타그로스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "자력레이저",
+                "cost": "(강철)(무색)",
+                "damage": "20",
+                "text": "원한다면 자신의 벤치 포켓몬에게 붙어 있는 (강철) 에너지를 1개 선택해서 이 포켓몬에게 붙여도 좋다."
+            },
+            {
+                "name": "그랜드크로스",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_048.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001048",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-049",
+        "cardID": "메타강220개틀130",
+        "name": "M메타그로스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "개틀링슬러그",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "130+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-29",
+        "cardID": "메타강120마그코멧050",
+        "name": "메타그로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "메타그로스",
+                "pokedexNumber": 376
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "코멧펀치",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 다음 차례에 자신이 사용하는 「코멧펀치」의 데미지는 「100」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그넷 리버스",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택하여 상대의 배틀 포켓몬과 교체한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "메탕구가 합체해서 생겨났다. 4개의 뇌를 가진 메타그로스는 슈퍼컴퓨터 수준의 지능이다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "29",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Kent Kanetsuna",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_29.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009029",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "id": "SV4M-058",
+        "cardID": "무쇠무130호밍000바리150",
+        "name": "무쇠머리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "무쇠머리",
+                "pokedexNumber": 993
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "호밍헤드",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터가 올려져 있는 상대의 포켓몬 3마리에게 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "바리온빔",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 기술은 이 포켓몬에게 「부스트에너지 미래」가 붙어 있다면 (무색) 에너지 3개로 사용할 수 있다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래된 서적에 기록된 \"무쇠머리\"라는 물체는 이 포켓몬을 말하는 것일지도 모른다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022058",
+                "debug": "1"
+            },
+            {
+                "number": "078",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "GIDORA",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022078",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVHM-017",
+        "cardID": "무쇠무130오토블라110",
+        "name": "무쇠머리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "무쇠머리",
+                "pokedexNumber": 993
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "블라스트윈드",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "오토 마셜",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래된 서적에 기록된 \"무쇠머리\"라는 물체는 이 포켓몬을 말하는 것일지도 모른다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003017",
+                "debug": "3"
+            }
+        ]
+    }
+]

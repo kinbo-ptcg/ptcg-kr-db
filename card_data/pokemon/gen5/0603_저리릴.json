@@ -1,0 +1,662 @@
+[
+    {
+        "id": "bw2-026",
+        "cardID": "저리번090일렉라이050",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일렉트릭 다이너모",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 1장 선택해서 자신의 벤치 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "둥근 무늬가 발전 기관이다. 상대를 휘감은 후 무늬를 딱 붙여서 전기를 흘려보낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "MAHOU",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_026.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw4-031",
+        "cardID": "저리번090박치020쇼크080",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "쇼크볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-024",
+        "cardID": "저리번080전기020박치030",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기자석파",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "상대에 휘감겨 동그란 반점에서 전기를 흘려보내 마비된 것을 통째로 문다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Suwama Chiaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-037",
+        "cardID": "저리번090갉기020마구030",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "마구마구회전",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "30×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-038",
+        "cardID": "저리번090【α난동050",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "난동부리기",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【α회복】",
+                "text": "이 포켓몬의 HP를 회복할 때 회복할 수 있는 양은 2배가 된다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Naoki Saito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-016",
+        "cardID": "저리번090잔챙050",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "잔챙이먹기",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": "상대 배틀 포켓몬의 최대 HP가 「100」이상이면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "상대를 휘감고 동그란 반점에서 전기를 흘려보내 마비시킨 뒤 통째로 문다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "OOYAMA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-026",
+        "cardID": "저리번090오버030",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "오버스파크",
+                "cost": "(번개)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬하고 그 장수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "상대를 휘감고 동그란 반점에서 전기를 흘려보내 마비시킨 뒤 통째로 문다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-039",
+        "cardID": "저리번090저리000헤드060",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "저리크래시",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대 필드의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-033",
+        "cardID": "저리번090번쩍020번개080",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번쩍구슬",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-178",
+        "cardID": "저리번080서든찌릿030",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "서든쇼크",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Uta",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014040",
+                "debug": "2"
+            },
+            {
+                "number": "178",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제11탄",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_178.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000178",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV3-034",
+        "cardID": "저리번090쇼크020라이060",
+        "name": "저리릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "저리릴",
+                "pokedexNumber": 603
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "쇼크웨이브",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "둥근 무늬가 발전 기관이다. 상대를 휘감은 후 무늬를 딱 붙여서 전기를 흘려보낸다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015034",
+                "debug": "1"
+            }
+        ]
+    }
+]

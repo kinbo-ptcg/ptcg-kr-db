@@ -1,0 +1,194 @@
+[
+    {
+        "id": "xy1y-005",
+        "cardID": "레디풀080몸통030마하050",
+        "name": "레디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "레디안",
+                "pokedexNumber": 166
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "마하펀치",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 10데미지를 준다.(벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "밤하늘의 별이 깜빡일 때 반짝이는 가루를 흩뿌리며 훨훨 날아간다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-005",
+        "cardID": "레디풀090스피030연속040",
+        "name": "레디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레디안",
+                "pokedexNumber": 166
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "연속펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "별빛이 에너지라고 전해지지만 평범하게 나무열매도 매우 좋아한다. 낮에는 풀을 뒤집어쓰고 잔다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007005",
+                "debug": "1"
+            },
+            {
+                "number": "005",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S6K-002",
+        "cardID": "레디풀090퀵드020에어100",
+        "name": "레디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레디안",
+                "pokedexNumber": 166
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "퀵드로",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "에어슬래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "반짝이는 가루를 흩뿌리며 밤하늘을 난다. 가루가 몸에 붙으면 좋은 일이 생긴다고 전해진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005002",
+                "debug": "1"
+            }
+        ]
+    }
+]

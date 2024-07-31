@@ -1,0 +1,127 @@
+[
+    {
+        "id": "SM12a-068",
+        "cardID": "배루격060장난없음000",
+        "name": "배루키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "배루키",
+                "pokedexNumber": 236
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "장난꾸러기킥",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 동전을 1번 던져서 앞면이 나오면 상대의 포켓몬 1마리에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "항상 기운이 넘친다. 강해지기 위해 계속 져도 상대에게 맞선다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007051",
+                "debug": "2"
+            },
+            {
+                "number": "068",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017068",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs10-23",
+        "cardID": "배루격060베이근성010",
+        "name": "배루키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "배루키",
+                "pokedexNumber": 236
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "근성한방",
+                "cost": "(격투)",
+                "damage": "10+",
+                "text": "상대가 진화했다면 20데미지를 추가하고 자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「시라소몬」「홍수몬」「카포에라」 중 1장을 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "툭하면 싸우려 드는 것으로 유명하다. 자신보다 큰 상대에게 도전하므로 상처가 끊이지 않는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "23",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_23.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010023",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "id": "ebb-090",
+        "cardID": "크리무100까칠꽉쥐060",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꽉쥐기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "까칠한피부",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "좁은 동굴을 뛰어다니며 날카로운 손톱으로 먹이를 잡는다. 얼굴 피부는 바위보다 단단하다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_059.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003059",
+                "debug": "2"
+            },
+            {
+                "number": "090",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_090.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006090",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "dc-017",
+        "cardID": "크리드110노려020드래080",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "노려보고물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "드래곤테일",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "80×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "좁은 동굴을 뛰어다니며 날카로운 손톱으로 먹이를 잡는다. 얼굴 피부는 바위보다 단단하다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "020",
+                "prodCode": "dc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dc.png",
+                "prodName": "BW 확장팩 「드래곤 컬렉션」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/DC/dc_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012004017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw7-050",
+        "cardID": "크리드110가드020드래090",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "드래곤크루",
+                "cost": "(불꽃)(불꽃)(물)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몰드류나 롱스톤이 파놓은 좁은 터널을 뛰어다니며 날카로운 발톱으로 먹이를 포획한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_050.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001050",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw9-058",
+        "cardID": "크리드100크게040찢기060",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "크게휘두르기",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "동전을 두 번 던져서 한 번이라도 뒷면이 나오면 이 기술은 실패한다."
+            },
+            {
+                "name": "찢기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몰드류나 롱스톤이 파놓은 좁은 터널을 뛰어다니며 날카로운 발톱으로 먹이를 포획한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_058.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy2-056",
+        "cardID": "크리드110리벤020드래080",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(무색)(무색)",
+                "damage": "20＋",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 70데미지를 추가한다."
+            },
+            {
+                "name": "드래곤크루",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "좁은 동굴을 뛰어다니며 날카로운 손톱으로 먹이를 잡는다. 얼굴 피부는 바위보다 단단하다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Ryota Murayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_056.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-043",
+        "cardID": "크리드120거만020기가100",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "거만한엄니",
+                "cost": "(무색)(무색)",
+                "damage": "20＋",
+                "text": "상대의 필드에 [BREAK진화] 포켓몬이 있다면 60데미지를 추가한다."
+            },
+            {
+                "name": "기가클로",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "100",
+                "text": "동전을 두 번 던져서 모두 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날개로 햇빛을 받아 몸을 따뜻하게 한다. 체온이 내려가면 움직일 수 없게 된다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_043.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6a-032",
+        "cardID": "크리드110까칠드래100",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤크루",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "까칠한피부",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개로 햇빛을 받아 몸을 따뜻하게 한다. 체온이 내려가면 움직일 수 없게 된다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005032",
+                "debug": "1"
+            },
+            {
+                "number": "032",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005093",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-033",
+        "cardID": "크리드120끌어000드래100",
+        "name": "크리만",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크리만",
+                "pokedexNumber": 621
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "드래곤테일",
+                "cost": "(불꽃)(물)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "빨간 얼굴의 피부는 바위보다 딱딱하다. 좁은 동굴 안에서 적을 향해 얼굴로 돌격한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "hatachu",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011033",
+                "debug": "1"
+            }
+        ]
+    }
+]

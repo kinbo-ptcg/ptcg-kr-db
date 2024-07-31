@@ -1,0 +1,312 @@
+[
+    {
+        "id": "sm1m-006",
+        "cardID": "라란풀210플라040솔라120클로050",
+        "name": "라란티스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "플라워 서플라이",
+                "cost": "(풀)",
+                "damage": "40",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 2장, 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "솔라블레이드",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "클로로사이드 GX",
+                "cost": "(풀)",
+                "damage": "50×",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 50데미지를 준다. (대전 중 자신은GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002006",
+                "debug": "1"
+            },
+            {
+                "number": "061",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002061",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-006",
+        "cardID": "라란풀100쾌청솔라080",
+        "name": "라란티스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "쾌청",
+                "text": "이 포켓몬이 있는 한, 자신의 (풀)  또는 (불꽃) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "선명한 몸의 색을 유지하기 위해서 굉장히 손이 가지만 그것을 취미로 하는 유별난 사람도 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003006",
+                "debug": "1"
+            },
+            {
+                "number": "006",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003063",
+                "debug": "2"
+            },
+            {
+                "number": "007",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013007",
+                "debug": "2"
+            },
+            {
+                "number": "007",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011007",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-005",
+        "cardID": "라란풀110꽃보000솔슬050",
+        "name": "라란티스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "꽃보라",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "솔슬래시",
+                "cost": "(풀)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 (불꽃) 에너지가 붙어 있다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "벌레포켓몬인 척하는 것은 몸을 지키기 위해서다. 양팔의 꽃잎은 예리해서 잘 자른다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-033",
+        "cardID": "라란풀120리프030솔라070",
+        "name": "라란티스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프드레인",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "솔라커터",
+                "cost": "(풀)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "춤추듯 적을 베어 가른다. 우아한 모습 때문에 가장 아름다운 풀포켓몬이라 불린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002009",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003033",
+                "debug": "3"
+            }
+        ]
+    }
+]

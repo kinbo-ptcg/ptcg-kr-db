@@ -1,0 +1,752 @@
+[
+    {
+        "id": "bgz-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_en_01.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002019"
+    },
+    {
+        "id": "bgz-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_en_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002020"
+    },
+    {
+        "id": "bgz-001",
+        "cardID": "스라풀080에어060",
+        "name": "스라크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "스라크",
+                "pokedexNumber": 123
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "에어슬래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "양손의 날카로운 낫은 단단한 것을 자르면 자를수록 더욱더 날카로워진다.",
+        "number": "001",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002001"
+    },
+    {
+        "id": "bgz-002",
+        "cardID": "리피풀090전광010에너040",
+        "name": "리피아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "리피아",
+                "pokedexNumber": 470
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "에너지 어시스트",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "기본적으로 다투지 않는다. 세포가 식물에 가깝게 되어 체내에서 광합성을 할 수 있다.",
+        "number": "002",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002002"
+    },
+    {
+        "id": "bgz-003",
+        "cardID": "돌살풀060때리010풀베030",
+        "name": "돌살이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "돌살이",
+                "pokedexNumber": 557
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "풀베기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "적당한 돌을 찾아 구멍을 뚫어 살 곳을 만든다. 부서지면 대신할 돌을 찾을 때까지 불안해한다.",
+        "number": "003",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002003"
+    },
+    {
+        "id": "bgz-004",
+        "cardID": "암팰풀110풀베030헤비070",
+        "name": "암팰리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "암팰리스",
+                "pokedexNumber": 558
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "헤비불릿",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "무거운 바위를 등에 지고 며칠이고 건조한 땅을 이동할 수 있는 다릿심을 가지고 있다.",
+        "number": "004",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002004"
+    },
+    {
+        "id": "bgz-005",
+        "cardID": "꼬링번060돌격020",
+        "name": "꼬링크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬링크",
+                "pokedexNumber": 403
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "돌격",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸을 움직일 때마다 근육이 늘어났다 줄어들었다 하여 전기가 발생한다. 궁지에 몰리면 몸이 빛난다.",
+        "number": "005",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002005"
+    },
+    {
+        "id": "bgz-006",
+        "cardID": "럭시번080퀵턴020물기030",
+        "name": "럭시오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "럭시오",
+                "pokedexNumber": 404
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "퀵턴",
+                "cost": "(번개)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.",
+        "number": "006",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002006"
+    },
+    {
+        "id": "bgz-007",
+        "cardID": "에몽번070뛰어030",
+        "name": "에몽가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "에몽가",
+                "pokedexNumber": 587
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "뛰어오르다",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼의 전기 주머니에서 만든 전기를 막 안쪽에 모아 활공하며 전기를 발산한다.",
+        "number": "007",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002007"
+    },
+    {
+        "id": "bgz-008",
+        "cardID": "저리번040스파010",
+        "name": "저리어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "저리어",
+                "pokedexNumber": 602
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스파크",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리지어 행동하는 포켓몬이다. 전기를 만드는 기관이 있으며 위급해지면 발전시킨다.",
+        "number": "008",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002008"
+    },
+    {
+        "id": "bgz-009",
+        "cardID": "제크번180빛나050스트150",
+        "name": "제크로무 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "제크로무",
+                "pokedexNumber": 644
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "빛나는발톱",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "스트롱볼트",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "009",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "shizurow",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002009"
+    },
+    {
+        "id": "bgz-010",
+        "cardID": "이브무050걷어010꼬리020",
+        "name": "이브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "걷어차기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "유전자가 불규칙하기 때문에 여러 가지 이유에 의해 바로 모습의 형태가 바뀐다.",
+        "number": "010",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002010"
+    },
+    {
+        "id": "bgz-011",
+        "cardID": "랜덤 리시버",
+        "name": "랜덤 리시버",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 1장씩 앞면으로 해서 가장 먼저 나온 「서포트」를 상대에게 보여주고 패로 가져온다.",
+            "그 뒤 앞면으로 한 카드를 모두 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002011"
+    },
+    {
+        "id": "bgz-012",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "012",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002012"
+    },
+    {
+        "id": "bgz-013",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "013",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002013"
+    },
+    {
+        "id": "bgz-014",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002014"
+    },
+    {
+        "id": "bgz-015",
+        "cardID": "N",
+        "name": "N",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 각각 자신의 남은 프라이즈 장수만큼 덱을 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002015"
+    },
+    {
+        "id": "bgz-016",
+        "cardID": "주박사",
+        "name": "주박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Kanako Eo",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002016"
+    },
+    {
+        "id": "bgz-017",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "artist": "Kanako Eo",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002017"
+    },
+    {
+        "id": "bgz-018",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "018",
+        "prodNumber": "018",
+        "prodCode": "bgz",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgz.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 제크로무 EX」",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGZ/bw_bgz_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012002018"
+    }
+]

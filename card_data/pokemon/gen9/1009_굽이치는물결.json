@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SV5K-024",
+        "cardID": "굽이물220감벽카타120",
+        "name": "굽이치는물결 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "굽이치는물결",
+                "pokedexNumber": 1009
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "카타르시스 로어",
+                "cost": "(물)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "감벽 파도",
+                "text": "이 포켓몬이 사용하는 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004024",
+                "debug": "3"
+            },
+            {
+                "number": "086",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004086",
+                "debug": "2"
+            },
+            {
+                "number": "094",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Teeziro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004094",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-026",
+        "cardID": "굽이물130오로020너울020",
+        "name": "굽이치는물결",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "고대"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "굽이치는물결",
+                "pokedexNumber": 1009
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "오로라게인",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "너울가르기",
+                "cost": "(물)(물)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 데미지 카운터를 9개까지 올리고 올린 개수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007026",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4045 @@
+[
+    {
+        "id": "SM-P-001",
+        "cardID": "피카번060갉기010모여000",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "모여라! 친구들",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「나몰빼미」 또는 「냐오불」 또는 「누리공」을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 피카츄를 모아서 발전소를 만들 계획이 최근 발표되었다.",
+        "number": "001",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 「포켓몬스터썬」「포켓몬스터문」구매 특전",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000001"
+    },
+    {
+        "id": "SM-P-002",
+        "cardID": "나몰풀050마구010",
+        "name": "나몰빼미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(풀)",
+                "damage": "10×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "경계심이 강하다. 낮에는 광합성으로 힘을 비축하고 밤이 되면 활동을 개시한다.",
+        "number": "002",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 팝업스토어2016 구매 특전",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000002"
+    },
+    {
+        "id": "SM-P-003",
+        "cardID": "냐오불060화염030",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.",
+        "number": "003",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 팝업스토어2016 구매 특전",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000003"
+    },
+    {
+        "id": "SM-P-004",
+        "cardID": "누리물060노래000",
+        "name": "누리공",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "누리공",
+                "pokedexNumber": 728
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "노래하기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "노력하는 성질로 유명하다. 체액을 코로 부풀린 풍선을 적에게 부딪힌다.",
+        "number": "004",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 팝업스토어2016 구매 특전",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000004"
+    },
+    {
+        "id": "SM-P-005",
+        "cardID": "피카번070전기000일렉050",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기자석파",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 피카츄를 모아서 발전소를 만들 계획이 최근 발표되었다.",
+        "number": "005",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 팝업스토어2016 구매 특전",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000005"
+    },
+    {
+        "id": "SM-P-006",
+        "cardID": "토게번080구르020일렉040",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 스매시",
+                "cost": "(번개)(무색)",
+                "damage": "40+",
+                "text": "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등의 가시 털은 평소에 누워 있다가 흥분하면 곤두서 덮쳐오는 적을 찌른다.",
+        "number": "006",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 처음 배우는 교실 30장 덱 「토게데마루 덱」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000006"
+    },
+    {
+        "id": "SM-P-007",
+        "cardID": "폭거불130불꽃030히트070",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 1장, 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등의 등껍질은 폭발물이다. 실수로 때리면 대폭발한다. 배의 구멍이 약점이다.",
+        "number": "007",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 처음 배우는 교실 30장 덱 「폭거북스 덱」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000007"
+    },
+    {
+        "id": "SM-P-008",
+        "cardID": "모크풀140리프030브레120",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프블레이드",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "브레이브버드",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개에 숨겨진 살깃을 시위에 메겨서 날린다. 100앞의 작은 돌도 관통하는 정밀함이다.",
+        "number": "008",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000008"
+    },
+    {
+        "id": "SM-P-009",
+        "cardID": "치갈물110비비000사이090",
+        "name": "치갈기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "치갈기",
+                "pokedexNumber": 779
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "비비드차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 에너지를 3장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사이코팽",
+                "cost": "(물)(물)(무색)",
+                "damage": "90",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "염동력으로 먹이를 마비시켜 튼튼한 이빨로 깨물어 부순다. 셀러의 껍질도 거뜬히 부순다.",
+        "number": "009",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000009"
+    },
+    {
+        "id": "SM-P-010",
+        "cardID": "코스초060먼지000",
+        "name": "코스모그",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코스모그",
+                "pokedexNumber": 789
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "먼지모으기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먼 옛날에는 별의 아이라는 이름으로 불렸다. 다른 세계의 포켓몬이라고 전해지지만 자세한 것은 불명확하다.",
+        "number": "010",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000010"
+    },
+    {
+        "id": "SM-P-011",
+        "cardID": "내던격110내던000팀플010",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "내던지기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "팀플레이",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치의 「내던숭이」의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "20마리 전후의 그룹을 만든다. 그 결속은 상당히 강하며 절대 동료를 버리지 않는다.",
+        "number": "011",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000011"
+    },
+    {
+        "id": "SM-P-012",
+        "cardID": "나옹악060나쁜000할퀴010",
+        "name": "알로라나옹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹",
+                "pokedexNumber": 52,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "나쁜음모",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "자신의 벤치의 「내던숭이」의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "원래 알로라에는 없었으나 사람에 의해 개체 수가 늘어난 후 야생화되었다. 교활하고 프라이드가 높다.",
+        "number": "012",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000012"
+    },
+    {
+        "id": "SM-P-013",
+        "cardID": "짜랑드060철벽000몸통020",
+        "name": "짜랑꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "짜랑꼬",
+                "pokedexNumber": 782
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "철벽",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 원하는 카드를 1장, 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "비늘을 때려 마음을 전달한다. 짜랑꼬가 사는 고산에서는 금속음이 메아리친다.",
+        "number": "013",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000013"
+    },
+    {
+        "id": "SM-P-014",
+        "cardID": "포곰무070몸통010한방060",
+        "name": "포곰곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "포곰곰",
+                "pokedexNumber": 759
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사랑스러운 외모지만 화가 나서 버둥거리는 손발에 부딪히면 프로레슬러라도 날아가 버린다.",
+        "number": "014",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000014"
+    },
+    {
+        "id": "SM-P-015",
+        "cardID": "이븐무210베어080더블100빅스000",
+        "name": "이븐곰 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "이븐곰",
+                "pokedexNumber": 760
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "베어허그",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "더블임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            },
+            {
+                "name": "빅스로우 GX",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬과 붙어 있는 모든 카드를 트래쉬한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000015"
+    },
+    {
+        "id": "SM-P-016",
+        "cardID": "수련",
+        "name": "수련",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "(물) 에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 각각 「50」회복한다."
+        ],
+        "number": "016",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000016"
+    },
+    {
+        "id": "SM-P-017",
+        "cardID": "잠만무190쓰러080드르180진심210",
+        "name": "잠만보 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "잠만보",
+                "pokedexNumber": 143
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "쓰러지기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "드르렁코골기",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": "이 기술은 이 포켓몬이 잠듦이라면 사용할 수 있다. 이 포켓몬이 잠듦이 아니라면 이 기술은 실패한다."
+            },
+            {
+                "name": "진심을 다하는 GX",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬을 잠듦으로 만든다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "017",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 카드 박스 세트 「잠만보 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000017"
+    },
+    {
+        "id": "SM-P-018",
+        "cardID": "카푸번110회전000라이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 포켓몬 전원에게 각각 각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.",
+        "number": "018",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2016-2017 SPRING 카드 게임 부문 참가자 선물",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000018"
+    },
+    {
+        "id": "SM-P-019",
+        "cardID": "모크풀140리프030브레120",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프블레이드",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "브레이브버드",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개에 숨겨진 살깃을 시위에 메겨서 날린다. 100앞의 작은 돌도 관통하는 정밀함이다.",
+        "number": "019",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000019"
+    },
+    {
+        "id": "SM-P-020",
+        "cardID": "어흥불160불꽃030DD100",
+        "name": "어흥염",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "어흥염",
+                "pokedexNumber": 727
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃엄니",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "DD래리어트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거칠고 제멋대로인 성격이다. 기분이 내키지 않으면 트레이너의 명령도 아무렇지 않게 무시한다.",
+        "number": "020",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000020"
+    },
+    {
+        "id": "SM-P-021",
+        "cardID": "누리물150차밍030물거100",
+        "name": "누리레느",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "누리레느",
+                "pokedexNumber": 730
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "차밍보이스",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "물거품아리아",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "물의 풍선을 노래로 컨트롤한다. 그 멜로디는 동료에게 배우며 대대로 무리에 전해진다.",
+        "number": "021",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000021"
+    },
+    {
+        "id": "SM-P-022",
+        "cardID": "피카번070전기000일렉050",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기자석파",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 피카츄를 모아서 발전소를 만들 계획이 최근 발표되었다.",
+        "number": "022",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000022"
+    },
+    {
+        "id": "SM-P-023",
+        "cardID": "카푸번170에어천공130카푸050",
+        "name": "카푸꼬꼬꼭 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "천공의발톱",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": ""
+            },
+            {
+                "name": "카푸썬더 GX",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "에어로트레일",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지를 원하는 만큼 이 포켓몬에게 붙인다. 붙였을 경우 , 이 포켓몬을 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "023",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000023"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "승리의 훈장",
+        "name": "승리의 훈장",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 카드 게임 부문 우승자 선물",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000024"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "승리의 훈장",
+        "name": "승리의 훈장",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 카드 게임 부문 준우승자 선물",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000025"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "승리의 훈장",
+        "name": "승리의 훈장",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 카드 게임 부문 4강 진출자 선물",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000026"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "챔피언스 페스티벌",
+        "name": "챔피언스 페스티벌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "자신의 필드에 포켓몬이 6마리 있는 플레이어는 자신의 차례마다 1번 자신의 포켓몬 전원의 HP를 각각 「10」회복해도 좋다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 개최 기념 참가 프로모 카드",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000027"
+    },
+    {
+        "id": "SM-P-024",
+        "cardID": "카푸번110회전000라이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.",
+        "number": "024",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 스페셜 점보카드 세트 「카푸꼬꼬꼭 GX」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000028"
+    },
+    {
+        "id": "SM-P-025",
+        "cardID": "아라풀050염동000",
+        "name": "아라리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "아라리",
+                "pokedexNumber": 102
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "염동력",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "텔레파시로 동료와 교신한다. 식물과 어떤 종의 타입의 유전자를 모두 갖추고 있다고 한다.",
+        "number": "025",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "OOYAMA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000031"
+    },
+    {
+        "id": "SM-P-026",
+        "cardID": "라이번110전광010일렉070",
+        "name": "알로라라이츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26,
+                "region": "알로라"
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "일렉트릭서핑",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "알로라지방에서만 이 모습으로 진화한다. 그 요인 중 하나가 먹이일 것이라고 연구가들은 말한다.",
+        "number": "026",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000032"
+    },
+    {
+        "id": "SM-P-027",
+        "cardID": "라티초100플라미스030",
+        "name": "라티아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "라티아스",
+                "pokedexNumber": 380
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미스트게일",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라이트 서포트",
+                "text": "이 포켓몬에게도 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "텔레파시로 마음이 통한다. 빛을 굴절시키는 깃털로 몸을 둘러싸 모습을 지운다.",
+        "number": "027",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000033"
+    },
+    {
+        "id": "SM-P-028",
+        "cardID": "모단격140거츠080더블080",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "거츠해머",
+                "cost": "(격투)",
+                "damage": "80",
+                "text": "이 포켓몬에게도 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            },
+            {
+                "name": "더블스탬프",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "80+",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "톱을 노리려다 설산에서 헤매게 되고 추위를 견디던 중에 털이 생겨서 진화했다.",
+        "number": "028",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000034"
+    },
+    {
+        "id": "SM-P-029",
+        "cardID": "루가격110물기020발톱080",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 상대를 앞에 둘수록 피가 끓어오른다. 이기기 위해서라면 자신을 돌아보지 않고 공격한다.",
+        "number": "029",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000035"
+    },
+    {
+        "id": "SM-P-030",
+        "cardID": "모래격210괴상060생명100샌드060",
+        "name": "모래성이당 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "괴상한빛",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "생명흡수",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "샌드피어 GX",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "60×",
+                "text": "상대의 덱을 위에서부터 13장 보고 그 중에 있는 포켓몬을 원하는 만큼 트래쉬하고 그 장수 × 60데미지를 준다. 남은 카드는 덱으로 되돌리고 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "030",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000036"
+    },
+    {
+        "id": "SM-P-031",
+        "cardID": "조로악060밟기010부딪020",
+        "name": "조로아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "조로아",
+                "pokedexNumber": 570
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "상대와 똑 닮게 둔갑한 것처럼 보이게 하여 속이거나 놀라게 해서 그 틈에 도망가는 일이 많다.",
+        "number": "031",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000037"
+    },
+    {
+        "id": "SM-P-032",
+        "cardID": "킬리페080수벽020매지030",
+        "name": "킬리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "킬리아",
+                "pokedexNumber": 281
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "수벽치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "매지컬숏",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "트레이너의 밝은 마음이 사이코 파워의 근원이다. 즐거워지면 빙글빙글 춤춘다.",
+        "number": "032",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000038"
+    },
+    {
+        "id": "SM-P-033",
+        "cardID": "등산가",
+        "name": "등산가",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신 또는 상대의 덱을 위에서부터 5장 보고 그 중에서 원하는 카드를 1장 선택한다.",
+            "남은 카드를 덱으로 되돌려 섞고 선택한 카드를 덱의 위로 되돌린다."
+        ],
+        "number": "033",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000039"
+    },
+    {
+        "id": "SM-P-034",
+        "cardID": "달코풀140여왕트로080",
+        "name": "달코퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "달코퀸",
+                "pokedexNumber": 763
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "트로피컬킥",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬의 HP를 「20」회복하고 특수 상태도 모두 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "여왕의위엄",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 패를 보고 그 중에 있는 카드를 1장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "다리를 활용한 발차기가 특기다. 쓰러뜨린 상대를 걷어차며 큰 웃음으로 승리를 어필한다.",
+        "number": "034",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000040"
+    },
+    {
+        "id": "SM-P-035",
+        "cardID": "달코풀230곁눈000롤링090퀸커000",
+        "name": "달코퀸 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "달코퀸",
+                "pokedexNumber": 763
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "곁눈질",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "롤링소배트",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 혼란이라면 90데미지를 추가한다."
+            },
+            {
+                "name": "퀸커맨드 GX",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "",
+                "text": "상대는 상대 자신의 패를 4장 트래쉬한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "035",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000041"
+    },
+    {
+        "id": "SM-P-036",
+        "cardID": "갑주풀130장갑각오080",
+        "name": "갑주무사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갑주무사",
+                "pokedexNumber": 768
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "각오의발톱",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 GX ･ EX」라면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "장갑",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날카롭고 거대한 발톱으로 공격한다. 공기나 해수마저 두 동강 낼 정도의 실력이다.",
+        "number": "036",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000042"
+    },
+    {
+        "id": "SM-P-037",
+        "cardID": "투구번150스트일렉150",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트로캐논",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스트롱차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에 있는 (풀) 에너지와 (번개) 에너지를 1장씩 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "배에 있는 발전기관에서 전기를 일으킨다. 전격 빔으로 새포켓몬도 압도한다.",
+        "number": "037",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000043"
+    },
+    {
+        "id": "SM-P-038",
+        "cardID": "타타초120강철앵커070",
+        "name": "타타륜",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "타타륜",
+                "pokedexNumber": 781
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "앵커숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "강철술사",
+                "text": "이 포켓몬이 있는 한, 자신의 (강철) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+10」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "큰 닻을 빙빙 휘둘러 고래왕조차 일격에 KO 시킨다. 녹색의 해초가 본체다.",
+        "number": "038",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000044"
+    },
+    {
+        "id": "SM-P-039",
+        "cardID": "루카격120본질서브120",
+        "name": "루카리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "서브머린블로",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "본질밝히기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "간파하는 것뿐만 아니라 파동을 조종하는 힘을 얻었다. 싸울 때도 이용한다.",
+        "number": "039",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000045"
+    },
+    {
+        "id": "SM-P-040",
+        "cardID": "폴리무130초기전자080",
+        "name": "폴리곤Z",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폴리곤Z",
+                "pokedexNumber": 474
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "전자포",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "자신의 다음 차례에 이 포켓몬은 「전자포」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "초기화",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 진화한 포켓몬 전원의 위에서부터 각각 「진화카드」를 1장 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "더 우월한 포켓몬을 목표로 추가한 프로그램에 문제가 있었는지 움직임이 이상하다.",
+        "number": "040",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000046"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000047"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000048"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000049"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000050"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000051"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000052"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000053"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000054"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "기본 페어리 에너지",
+        "name": "기본 페어리 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 홀로 에너지 팩",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000055"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "승리의 훈장",
+        "name": "승리의 훈장",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 전국 최강 팀 배틀 시즌IV 우승팀 선물",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000056"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "승리의 훈장",
+        "name": "승리의 훈장",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 전국 최강 팀 배틀 시즌IV 준우승팀 선물",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000057"
+    },
+    {
+        "id": "SM-P-041",
+        "cardID": "피카번070너로00010100",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "너로정했다",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 피카츄. 사이즈가 맞지 않아 조금 헐렁하다.",
+        "number": "041",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 스페셜 점보카드 세트 「칠색조 GX」",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000058"
+    },
+    {
+        "id": "SM-P-042",
+        "cardID": "에브초200환상030사이060디비000",
+        "name": "에브이 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "환상빔",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "디비전 GX",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 10개를 상대의 포켓몬에게 원하는 대로 올린다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "042",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 BP경품",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000060"
+    },
+    {
+        "id": "SM-P-043",
+        "cardID": "블래악200뒤집030섀도090나이000",
+        "name": "블래키 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "블래키",
+                "pokedexNumber": 197
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "섀도불릿",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "나이트크라이 GX",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "043",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 BP경품",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000061"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "루나초160스펙풀문080",
+        "name": "루나아라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "루나아라",
+                "pokedexNumber": 792
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "풀문레이",
+                "cost": "(초)(초)(초)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스펙터가드",
+                "text": "이 포켓몬에게 (초) 에너지가 붙어 있다면 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "코스모그가 진화한 암컷이라고 전해진다. 제3의 눈이 떠오를 때 다른 세계로 날아간다.",
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 상위 입상 경품",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000062"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "솔가강160메탈라이130",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "라이징대시",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈프로텍트",
+                "text": "이 포켓몬에게 (강철) 에너지가 붙어 있다면 이 포켓몬의 약점은 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "다른 세계에 산다고 전해진다. 온몸에서 격렬한 빛을 내뿜어 깜깜한 밤도 한낮처럼 비춘다.",
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 상위 입상 경품",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000063"
+    },
+    {
+        "id": "SM-P-044",
+        "cardID": "피카번070고속000번개080",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "고속이동",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "044",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000065"
+    },
+    {
+        "id": "SM-P-045",
+        "cardID": "피카번070아이020번개080",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "아이언테일",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "045",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000066"
+    },
+    {
+        "id": "SM-P-046",
+        "cardID": "피카번070전광010볼트060",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "볼트태클",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "046",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000067"
+    },
+    {
+        "id": "SM-P-047",
+        "cardID": "피카번070전광010일렉050",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "047",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000068"
+    },
+    {
+        "id": "SM-P-048",
+        "cardID": "피카번070아이020일렉050",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "아이언테일",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다."
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "048",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000069"
+    },
+    {
+        "id": "SM-P-049",
+        "cardID": "피카번070아이02010100",
+        "name": "지우의 피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "아이언테일",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파트너인 트레이너의 모자를 쓴 조금 특이한 피카츄의 모습이다.",
+        "number": "049",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 키스틱 포켓몬",
+        "artist": "2017 Pikachu Project",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000070"
+    },
+    {
+        "id": "SM-P-050",
+        "cardID": "로열마스크",
+        "name": "로열마스크",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 기본 에너지를 1장 자신의 (풀)  또는 (불꽃)  또는 (물) 타입의 2진화 포켓몬에게 붙인다."
+        ],
+        "number": "050",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 로열마스크 토너먼트 참가상",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000071"
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "로열마스크",
+        "name": "로열마스크",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 기본 에너지를 1장 자신의 (풀)  또는 (불꽃)  또는 (물) 타입의 2진화 포켓몬에게 붙인다."
+        ],
+        "number": "000",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 로열마스크 토너먼트 우승 경품",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000072"
+    },
+    {
+        "id": "SM-P-051",
+        "cardID": "칠색불130금빛불대110",
+        "name": "빛나는 칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "금빛 날갯짓",
+                "text": "이 포켓몬이 배틀필드에서 상대의 기술의 데미지를 받아 기절했을 때 이 포켓몬에게 붙어 있는 기본 에너지를 2장까지 자신의 벤치 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸은 일곱 빛으로 빛나고 날아간 자리에는 무지개가 생긴다는 신화 속에 남아 있는 포켓몬이다.",
+        "number": "051",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 극장판 포켓몬스터: 너로 정했다! 관람객 선물",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000073"
+    },
+    {
+        "id": "SM-P-052",
+        "cardID": "피카번060꼬리010스파020",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "스파크",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 피카츄를 모아서 발전소를 만들 계획이 최근 발표되었다.",
+        "number": "052",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 페스타 개최 기념 플러스친구 회원 한정 프로모 카드",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000075"
+    },
+    {
+        "id": "SM-P-053",
+        "cardID": "식스물060길잡000스노020",
+        "name": "알로라식스테일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "식스테일",
+                "pokedexNumber": 37,
+                "region": "알로라"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "길잡이",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 포켓몬을 2장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스노아이스",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마이너스 50도의 냉기를 뿜어낸다. 알로라의 노인은 케오케오라는 옛날 이름으로 부르기도 한다.",
+        "number": "053",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000076"
+    },
+    {
+        "id": "SM-P-054",
+        "cardID": "삼삼악160흔들다크120",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크 디스트로이",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다. 그 경우 , 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "흔들어떨구기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 벤치 포켓몬을 3마리 선택한다. 그 뒤, 선택하지 않은 자신의 벤치 포켓몬 전원과 붙어 있는 모든 카드를 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "number": "054",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000077"
+    },
+    {
+        "id": "SM-P-055",
+        "cardID": "레지무180옛봉자이160",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "자이언트 스탬프",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "옛 봉인",
+                "text": "자신의 벤치에 「레지락」「레지아이스」「레지스틸」이 없다면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특수한 빙산이나 암석, 마그마에서 자신의 모습과 닮은 포켓몬을 만들었다고 전해진다.",
+        "number": "055",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+        "artist": "Hasuno",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000078"
+    },
+    {
+        "id": "SM-P-056",
+        "cardID": "실버무130기어000시저090",
+        "name": "실버디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기어스캔",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 아이템을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "시저크로스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "그 이름은 타입:널을 처음으로 이 모습으로 진화시킨 소년에 의해 지어졌다.",
+        "number": "056",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000079"
+    },
+    {
+        "id": "SM-P-057",
+        "cardID": "실버무210자이터보120리벨050",
+        "name": "실버디 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "터보드라이브",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "리벨리언 GX",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "상대의 벤치 포켓몬의 수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "자이로 유닛",
+                "text": "이 포켓몬이 있는 한, 자신의 기본 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "057",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000080"
+    },
+    {
+        "id": "SM-P-058",
+        "cardID": "피오물070바다물의030",
+        "name": "피오네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피오네",
+                "pokedexNumber": 489
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물의파동",
+                "cost": "(물)(물)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "바다의 속삭임",
+                "text": "이 포켓몬이 있는 한, 자신의 (물) 포켓몬 전원은 혼란이 되지 않고 받고 있는 혼란은 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "따뜻한 바다를 떠돌고 있다. 아무리 먼 곳으로 흘러가도 태어난 장소로 반드시 돌아온다.",
+        "number": "058",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000082"
+    },
+    {
+        "id": "SM-P-059",
+        "cardID": "라이번110전광010일렉070",
+        "name": "알로라라이츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26,
+                "region": "알로라"
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "일렉트릭서핑",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "알로라지방에서만 이 모습으로 진화한다. 그 요인 중 하나가 먹이일 것이라고 연구가들은 말한다.",
+        "number": "059",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000083"
+    },
+    {
+        "id": "SM-P-060",
+        "cardID": "럭시번080전자030A",
+        "name": "럭시오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "럭시오",
+                "pokedexNumber": 404
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자장해",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.",
+        "number": "060",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "tetsuya koizumi",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000084"
+    },
+    {
+        "id": "SM-P-061",
+        "cardID": "리오격070판별000잽잽010A",
+        "name": "리오르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "리오르",
+                "pokedexNumber": 447
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "판별",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "잽",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "밤새 달릴 수 있는 지구력을 갖고 있고 노력가지만 아직 햇병아리다.",
+        "number": "061",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "Kyoko Umemoto",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000085"
+    },
+    {
+        "id": "SM-P-062",
+        "cardID": "꼬렛악040두목000갉기020",
+        "name": "알로라꼬렛",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "꼬렛",
+                "pokedexNumber": 19,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "두목부르기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「알로라레트라(GX 포함)」을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "갉기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "날이 저물면 활동한다. 무리의 보스인 레트라를 위해 좋은 먹이를 찾아 온 마을을 뛰어다닌다.",
+        "number": "062",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "Shibuzoh.",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000086"
+    },
+    {
+        "id": "SM-P-063",
+        "cardID": "레트악200마구040필살150아이000",
+        "name": "알로라레트라 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "레트라",
+                "pokedexNumber": 20,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "마구내버리기",
+                "cost": "(0코)",
+                "damage": "40×",
+                "text": "자신의 패를 2장까지 트래쉬하고 그 장수 × 40데미지를 준다."
+            },
+            {
+                "name": "필살앞니",
+                "cost": "(악)(무색)(무색)",
+                "damage": "150",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            },
+            {
+                "name": "아이템마니아 GX",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 아이템을 6장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "063",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000087"
+    },
+    {
+        "id": "SM-P-064",
+        "cardID": "조로악120파괴030데스120",
+        "name": "조로아크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "조로아크",
+                "pokedexNumber": 571
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "파괴발톱",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "데스크래시",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "한 번에 많은 사람을 속이는 힘을 가졌다. 환영의 경치를 보여줘 거처를 지킨다.",
+        "number": "064",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_082.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000088"
+    },
+    {
+        "id": "SM-P-065",
+        "cardID": "디그강050아이010A",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언헤드",
+                "cost": "(0코)",
+                "damage": "10×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.",
+        "number": "065",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_083.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000089"
+    },
+    {
+        "id": "SM-P-066",
+        "cardID": "울트라볼",
+        "name": "울트라볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "뒷면으로 된 자신의 프라이즈의 앞면을 모두 본다.",
+            "그 중에 있는 「울트라비스트」를 1장 상대에게 보여주고 이 「울트라볼」과 바꾸어 패로 가져와도 좋다.",
+            "보았던 프라이즈나 교체한 카드는 모두 뒷면으로 하여 섞고 프라이즈로 놓는다."
+        ],
+        "number": "066",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_084.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000090"
+    },
+    {
+        "id": "SM-P-067",
+        "cardID": "루가격120물기030스톤090",
+        "name": "루가루암",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "스톤에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "석양빛으로 특별하게 진화한 루가루암. 차분하지만 격렬한 투지를 숨기고 있다.",
+        "number": "067",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 WINTER 개최 기념 플러스친구 회원 한정 프로모 카드",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_085.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000091"
+    },
+    {
+        "id": "SM-P-068",
+        "cardID": "아세로라",
+        "name": "아세로라",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "데미지 카운터가 올려져 있는 자신의 포켓몬 1마리와 붙어 있는 모든 카드를 패로 되돌린다."
+        ],
+        "number": "068",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 코리안리그2017-2018 WINTER 카드 게임 부문 참가자 선물",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_086.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000092"
+    },
+    {
+        "id": "SM-P-069",
+        "cardID": "피카번060꼬리010전기020",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 피카츄를 모아서 발전소를 만들 계획이 최근 발표되었다.",
+        "number": "069",
+        "prodNumber": "SM-P",
+        "prodCode": "SM-P",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+        "prodName": "썬&문 프로모 카드 BOOK21 <상상초월 포켓몬 과학 연구소> 3권",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_087.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000093"
+    }
+]

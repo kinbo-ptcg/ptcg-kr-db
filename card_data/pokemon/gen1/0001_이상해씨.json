@@ -1,0 +1,542 @@
+[
+    {
+        "id": "bw4-001",
+        "cardID": "이상풀060몸통010잎날030",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어나서부터 얼마 동안은 등의 씨앗으로부터 영양을 공급받아 크게 성장한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_001.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-001",
+        "cardID": "이상풀070잎날030",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어났을 때부터 등에 이상한 씨앗이 심어져 있으며 몸과 함께 자란다고 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010001",
+                "debug": "1"
+            },
+            {
+                "number": "001",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002001",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smp2-001",
+        "cardID": "이상풀060친구000",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (풀) 포켓몬을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어났을 때부터 등에 이상한 씨앗이 심어져 있으며 몸과 함께 자란다고 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008001",
+                "debug": "1"
+            },
+            {
+                "number": "001",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_mirror_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008025",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smp2-002",
+        "cardID": "이상풀070부딪010덩굴050",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어났을 때부터 등에 이상한 씨앗이 심어져 있으며 몸과 함께 자란다고 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008002",
+                "debug": "1"
+            },
+            {
+                "number": "002",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_mirror_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008026",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-161",
+        "cardID": "이상풀070덩굴010잎날020",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어났을 때부터 등에 식물의 씨앗이 있으며 조금씩 크게 자란다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010001",
+                "debug": "2"
+            },
+            {
+                "number": "161",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 GO 프로모 카드 기프트 캠페인",
+                "artist": "Shibuzoh.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_161.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000161",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SVG-001",
+        "cardID": "이상풀070씨뿌020",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "씨뿌리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어나서 얼마 동안 등의 씨앗에 담긴 영양을 섭취하며 자란다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Yuu Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014001",
+                "debug": "2"
+            },
+            {
+                "number": "166",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Yoriyuki Ikegami",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_166.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014166",
+                "debug": "2"
+            },
+            {
+                "number": "001",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023001",
+                "debug": "1"
+            },
+            {
+                "number": "050",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Orca",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023050",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-039",
+        "cardID": "이상풀070덩굴050",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어나서 얼마 동안 등의 씨앗에 담긴 영양을 섭취하며 자란다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "강화 확장팩 「포켓몬 카드 151」 프로모 카드 팩",
+                "artist": "OKACHEKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-01",
+        "cardID": "이상풀060덩굴000기관010",
+        "name": "이상해씨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "이상해씨",
+                "pokedexNumber": 1
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴 흔들기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대를 잠듦으로 만든다."
+            },
+            {
+                "name": "기관총",
+                "cost": "(풀)(무색)",
+                "damage": "10×",
+                "text": "동전을 네 번 던져서 앞면 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어나서부터 얼마 동안은 등의 씨앗으로부터 영양을 공급받아 크게 성장한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "01",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_1.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009001",
+                "debug": "1"
+            }
+        ]
+    }
+]

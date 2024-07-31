@@ -1,0 +1,593 @@
+[
+    {
+        "id": "fsb-009",
+        "cardID": "바오불070가져000할퀴020",
+        "name": "바오프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "바오프",
+                "pokedexNumber": 513
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화산 동굴에서 산다. 머리의 송아리 속이 불타고 있어 300도나 되는 높은 온도가 된다.",
+        "number": "009",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003009"
+    },
+    {
+        "id": "fsb-011",
+        "cardID": "수댕물060몸통010물대020",
+        "name": "수댕이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "수댕이",
+                "pokedexNumber": 501
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물대포",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "배에 있는 가리비칼은 손톱과 같은 성분으로 구성되어 있다. 배에서 떼어내 칼로 사용한다.",
+        "number": "011",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003011"
+    },
+    {
+        "id": "fsb-012",
+        "cardID": "쌍검물090물대030셸블040",
+        "name": "쌍검자비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쌍검자비",
+                "pokedexNumber": 502
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "셸블레이드",
+                "cost": "(물)(물)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸에 익힌 가리비칼을 다루는 기술은 각 쌍검자비에 따라 다르다. 가리비칼 손질을 거르지 않는다.",
+        "number": "012",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003012"
+    },
+    {
+        "id": "fsb-013",
+        "cardID": "대검물140롱스030파도080",
+        "name": "대검귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "대검귀",
+                "pokedexNumber": 503
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "롱스피어",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "앞다리의 갑옷 일부분이 커다란 칼로 되어 있다. 울부짖기만 해도 상대를 위압한다.",
+        "number": "013",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003013"
+    },
+    {
+        "id": "fsb-015",
+        "cardID": "배쓰물070깨물030",
+        "name": "배쓰나이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "배쓰나이",
+                "pokedexNumber": 550
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(물)(물)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "적색과 청색 배쓰나이는 툭하면 싸울 만큼 사이가 나쁘다. 매우 난폭한 포켓몬이다.",
+        "number": "015",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003015"
+    },
+    {
+        "id": "fsb-019",
+        "cardID": "또르초060염동020",
+        "name": "또르박쥐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "또르박쥐",
+                "pokedexNumber": 527
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동력",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어두운 숲이나 동굴에서 산다. 콧구멍에서 초음파를 쏘아 주변의 모습을 살핀다.",
+        "number": "019",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003019"
+    },
+    {
+        "id": "fsb-020",
+        "cardID": "마디초070부딪010구르030",
+        "name": "마디네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마디네",
+                "pokedexNumber": 543
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "구르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "물어서 맹독을 퍼뜨린다. 천적인 커다란 새포켓몬도 몸이 마비돼서 움직일 수 없다.",
+        "number": "020",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_020.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003020"
+    },
+    {
+        "id": "fsb-021",
+        "cardID": "휠구초090독침020구르050",
+        "name": "휠구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "휠구",
+                "pokedexNumber": 544
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "구르기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 껍질로 보호되고 있다. 타이어처럼 회전하여 상대에게 격렬히 몸통박치기를 날린다.",
+        "number": "021",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_021.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003021"
+    },
+    {
+        "id": "fsb-026",
+        "cardID": "요테무050픽업000물기010",
+        "name": "요테리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "요테리",
+                "pokedexNumber": 506
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "픽업",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「아이템」을 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 상대를 만나도 용감하게 맞서지만 불리한 싸움은 피할 줄 아는 높은 지능을 가진 포켓몬이다.",
+        "number": "026",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_026.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003026"
+    },
+    {
+        "id": "fsb-028",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "028",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Yuri Umemura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_028.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003028"
+    },
+    {
+        "id": "fsb-029",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 「30」회복한다."
+        ],
+        "number": "029",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_029.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003029"
+    },
+    {
+        "id": "fsb-031",
+        "cardID": "에너지 갈아 달기",
+        "name": "에너지 갈아 달기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬에게 붙어 있는 기본 에너지 1개를 자신의 다른 포켓몬에게 붙인다."
+        ],
+        "number": "031",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Kent Kanetsuna",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_031.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003031"
+    },
+    {
+        "id": "fsb-033",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "033",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_033.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003033"
+    },
+    {
+        "id": "fsb-034",
+        "cardID": "포켓몬 도감",
+        "name": "포켓몬 도감",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 5장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+        ],
+        "number": "034",
+        "prodNumber": "034",
+        "prodCode": "fsb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsb.png",
+        "prodName": "BW 「퍼스트 세트 - 물의 진화」",
+        "artist": "Noriko Hotta",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_w_034.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011003034"
+    }
+]

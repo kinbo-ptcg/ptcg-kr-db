@@ -1,0 +1,341 @@
+[
+    {
+        "id": "SV1V-011",
+        "cardID": "육파풀120섬뜩030트리080",
+        "name": "육파리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "섬뜩한촉수",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "원한다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "트리플스매시",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "10개의 촉수로 휘감은 다음 양분을 흡수해서 괴롭힌다. 갓의 주름은 별미로 인기가 높다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-019",
+        "cardID": "육파풀270수호콜로080",
+        "name": "육파리 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "콜로니러시",
+                "cost": "(풀)(풀)",
+                "damage": "80+",
+                "text": "자신의 벤치의 (풀) 에너지가 붙어 있는 포켓몬의 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "수호의 균사",
+                "text": "이 포켓몬이 있는 한, 에너지가 붙어 있는 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다. (이미 받은 효과는 없어지지 않는다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "007",
+                "prodCode": "SVP1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVP1.png",
+                "prodName": "스칼렛&바이올렛 「ex 스페셜 세트」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVP1/SVP1_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023013002",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001019",
+                "debug": "1"
+            },
+            {
+                "number": "322",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_322.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001322",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVD-066",
+        "cardID": "육파격130때리040더블100",
+        "name": "육파리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "더블휩",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016066",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-008",
+        "cardID": "육파풀120점균버섯080",
+        "name": "육파리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "버섯드레인",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "점균 콜로니",
+                "text": "이 포켓몬이 있는 한, 상대의 트래쉬에 있는 카드는 상대의 특성 또는 트레이너스의 효과로 패로 가져올 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "10개의 촉수로 휘감은 다음 양분을 흡수해서 괴롭힌다. 갓의 주름은 별미로 인기가 높다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Toshinao Aoki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022008",
+                "debug": "1"
+            },
+            {
+                "number": "068",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022068",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVI-006",
+        "cardID": "육파풀140메가030휩스090",
+        "name": "육파리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메가드레인",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "휩스매시",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "DOM",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_006_N.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006006",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "id": "SV-P-085",
+        "cardID": "오거풀110산걷000도깨020",
+        "name": "오거폰 벽록의 가면",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "오거폰",
+                "pokedexNumber": 1017
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "산걷기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "도깨비반환",
+                "cost": "(풀)(무색)",
+                "damage": "20+",
+                "text": "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "장난기가 많고 호기심이 왕성하다. 가면에 담긴 타입의 에너지를 끌어올려서 싸운다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008015",
+                "debug": "2"
+            },
+            {
+                "number": "085",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 스페셜 점보 카드 세트 「오거폰」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000085",
+                "debug": "3"
+            },
+            {
+                "number": "089",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "확장팩 「변환의 가면」 프로모션 박스",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000089",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-090",
+        "cardID": "오거풀210테라만엽030",
+        "name": "오거폰 벽록의 가면 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "오거폰",
+                "pokedexNumber": 1017
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "만엽소낙비",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "30+",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "벽록의 춤",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 「기본 (풀) 에너지」를 1장 선택해서 이 포켓몬에게 붙인다. 그 뒤, 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008016",
+                "debug": "2"
+            },
+            {
+                "number": "090",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "확장팩 「변환의 가면」 프로모션 박스",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000090",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-022",
+        "cardID": "오거불210테라분노020다이140",
+        "name": "오거폰 화덕의 가면 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "오거폰",
+                "pokedexNumber": 1017
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "분노화로",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "다이내믹 블레이즈",
+                "cost": "(불꽃)(불꽃)(불꽃)",
+                "damage": "140+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 140데미지를 추가한다. 그 경우, 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-038",
+        "cardID": "오거물210테라흐느020급류100",
+        "name": "오거폰 우물의 가면 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "오거폰",
+                "pokedexNumber": 1017
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "흐느껴울기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "급류펌프",
+                "cost": "(물)(무색)(무색)",
+                "damage": "100",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 덱으로 되돌리고 섞는다. 그 경우, 상대의 벤치 포켓몬 1마리에게도 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-065",
+        "cardID": "오거격210테라때려140",
+        "name": "오거폰 주춧돌의 가면 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "오거폰",
+                "pokedexNumber": 1017
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때려깨기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "140",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "주춧돌의 자세",
+                "text": "이 포켓몬은 상대의 특성을 가진 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008065",
+                "debug": "1"
+            }
+        ]
+    }
+]

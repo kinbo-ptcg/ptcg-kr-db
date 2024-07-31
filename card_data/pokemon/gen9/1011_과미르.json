@@ -1,0 +1,116 @@
+[
+    {
+        "id": "SV5a-049",
+        "cardID": "과미드080꿀사000",
+        "name": "과미르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "과미르",
+                "pokedexNumber": 1011
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "꿀사탕캐처",
+                "cost": "(풀)(불꽃)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "OKACHEKE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007049",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6-012",
+        "cardID": "과미풀080축제친구020",
+        "name": "과미르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "과미르",
+                "pokedexNumber": 1011
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "친구사이",
+                "cost": "(풀)",
+                "damage": "20×",
+                "text": "자신의 벤치 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "축제 장단",
+                "text": "필드에 「축제회장」이 나와 있다면 이 포켓몬은 가지고 있는 기술을 2번 연속으로 사용할 수 있다. (1번째 기술로 상대의 배틀 포켓몬이 기절했다면 다음 배틀 포켓몬이 나온 후, 2번째 기술을 사용한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리를 내밀고 있는 외미르와 꼬리를 내밀고 있는 내미르가 사과 안에서 서로 도우며 지낸다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Saboteri",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008012",
+                "debug": "1"
+            }
+        ]
+    }
+]

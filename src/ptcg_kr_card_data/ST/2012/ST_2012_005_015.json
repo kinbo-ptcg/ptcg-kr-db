@@ -1,0 +1,621 @@
+[
+    {
+        "id": "ssd-001",
+        "cardID": "로젤풀070콕찌010",
+        "name": "로젤리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "로젤리아",
+                "pokedexNumber": 315
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "콕찌르기",
+                "cost": "(풀)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "건강한 로젤리아일수록 꽃에서 좋은 향기를 자아내어 냄새를 맡은 사람을 안정시켜 준다.",
+        "number": "001",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005001"
+    },
+    {
+        "id": "ssd-002",
+        "cardID": "로즈풀090르&세게030",
+        "name": "로즈레이드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "로즈레이드",
+                "pokedexNumber": 407
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "세게조이기",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가하고 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "르&bull파퓸",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "양손의 독 성분은 각각 다른 종류지만 어느 쪽에 찔려도 치명적이다.",
+        "number": "002",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005002"
+    },
+    {
+        "id": "ssd-003",
+        "cardID": "깜놀풀040더블010",
+        "name": "깜놀버슬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "깜놀버슬",
+                "pokedexNumber": 590
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블스핀",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "왠지 몬스터볼을 닮은 포켓몬이다. 잡으려 하는 상대에게 독 포자를 뿌려 격퇴한다.",
+        "number": "003",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005003"
+    },
+    {
+        "id": "ssd-004",
+        "cardID": "흔들초060때리010바람020",
+        "name": "흔들풍손",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "흔들풍손",
+                "pokedexNumber": 425
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "정처없이 떠있는 모습에서 길잃은 영혼의 이정표라고 전해지는 옛날이야기도 있다.",
+        "number": "004",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005004"
+    },
+    {
+        "id": "ssd-005",
+        "cardID": "델빌악060물기010어둠030",
+        "name": "델빌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "델빌",
+                "pokedexNumber": 228
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "수많은 울음소리를 가려 써서 동료들과 의사소통을 하며 사냥을 하는 지능을 가지고 있다.",
+        "number": "005",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005005"
+    },
+    {
+        "id": "ssd-006",
+        "cardID": "헬가악100물기030불꽃070",
+        "name": "헬가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "헬가",
+                "pokedexNumber": 229
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "불꽃엄니",
+                "cost": "(악)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "화가 났을 때 입에서 뿜어내는 불꽃에는 독소도 섞여 있기에 화상을 입으면 계속 욱신거린다.",
+        "number": "006",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005006"
+    },
+    {
+        "id": "ssd-007",
+        "cardID": "모노드060가드010박치030",
+        "name": "모노두",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모노두",
+                "pokedexNumber": 633
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-10」이 된다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "눈이 보이지 않아서 몸통박치기나 물기로 주변을 살핀다. 몸에 상처가 끊이지 않는다.",
+        "number": "007",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005007"
+    },
+    {
+        "id": "ssd-008",
+        "cardID": "디헤드090빨아000드래040",
+        "name": "디헤드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "디헤드",
+                "pokedexNumber": 634
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "빨아들이기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (악) 에너지를 2장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "드래곤헤드",
+                "cost": "(초)(악)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "2개의 머리는 사이가 나빠서 싸우듯이 먹이를 먹기 때문에 항상 과식하게 된다.",
+        "number": "008",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005008"
+    },
+    {
+        "id": "ssd-009",
+        "cardID": "삼삼드150먹어040디스090",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "먹어치우기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "디스트로이빔",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "90",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "number": "009",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005009"
+    },
+    {
+        "id": "ssd-010",
+        "cardID": "레스큐 스카프",
+        "name": "레스큐 스카프",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬은 기술의 데미지를 받아 기절했을 때 트래쉬하지 않고 패로 되돌린다.",
+            "(포켓몬 이외의 카드는 모두 트래쉬한다.)"
+        ],
+        "number": "010",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005010"
+    },
+    {
+        "id": "ssd-011",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 기본 포켓몬 1마리에서 진화하는 1진화 위의 2진화 포켓몬을 패에서 1장 선택하여 그 기본 포켓몬 위에 올려서 진화시킨다.",
+            "(자신의 첫 번째 차례에는 사용할 수 없고 이번 차례에 내보낸 기본 포켓몬에게도 사용할 수 없다.)"
+        ],
+        "number": "011",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005011"
+    },
+    {
+        "id": "ssd-012",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005012"
+    },
+    {
+        "id": "ssd-013",
+        "cardID": "주박사",
+        "name": "주박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "013",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005013"
+    },
+    {
+        "id": "ssd-014",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005014"
+    },
+    {
+        "id": "ssd-015",
+        "cardID": "블렌드 에너지 풀  불꽃  초  악 ",
+        "name": "블렌드 에너지 풀  불꽃  초  악 ",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 1개분으로 작용한다.",
+            "포켓몬에게 붙어 있는 한 (풀) (불꽃) (초) (악)  4개 타입의 에너지 1개분으로 작용한다."
+        ],
+        "number": "015",
+        "prodNumber": "015",
+        "prodCode": "ssd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+        "prodName": "BW 「삼삼드래 덱」",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005015"
+    }
+]

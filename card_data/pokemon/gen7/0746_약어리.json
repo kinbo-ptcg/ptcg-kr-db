@@ -1,0 +1,593 @@
+[
+    {
+        "id": "sm1s-017",
+        "cardID": "약어물030겁쟁물대010",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "겁쟁이",
+                "text": "자신의 차례에 1번 사용할 수 있다(자신의 첫 번째 차례와 이 포켓몬을 필드로 내보낸 차례는 제외한다). 이 포켓몬에게 붙어 있는 카드를 모두 트래쉬하고 이 포켓몬을 패로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험해지면 눈을 글썽이면서 반짝인다. 그 빛에 모이는 동료와 함께 적에 대항한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-017",
+        "cardID": "약어물030어군노려000",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "노려맞히기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대 포켓몬 1마리에게 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "어군",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 「약어리 GX」를 1장, 이 카드와 교체한다(붙어 있는 카드, 데미지 카운터, 특수 상태, 효과 등은 모두 이어받는다).",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "위험해지면 눈을 글썽이면서 반짝인다. 그 빛에 모이는 동료와 함께 적에 대항한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005013",
+                "debug": "2"
+            },
+            {
+                "number": "017",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007017",
+                "debug": "1"
+            },
+            {
+                "number": "017",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007081",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm2l-014",
+        "cardID": "약어물210물대020폭류120블루220",
+        "name": "약어리 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "폭류의회오리",
+                "cost": "(물)(물)(물)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "블루서지 GX",
+                "cost": "(물)(물)(물)(무색)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 벤치 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005014",
+                "debug": "1"
+            },
+            {
+                "number": "051",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005051",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-038",
+        "cardID": "약어물030한데물대020",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "한데 모이기",
+                "text": "이 포켓몬이 있는 한, 자신의 「약어리 GX」전원은 최대 HP가 「20」커지고 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "너무도 약하고 너무도 맛있어서 항상 모두가 노리지만 괴롭히면 험한 꼴을 당한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005023",
+                "debug": "2"
+            },
+            {
+                "number": "023",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005086",
+                "debug": "2"
+            },
+            {
+                "number": "038",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-013",
+        "cardID": "약어물180흩어하이130",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 스플래시",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "흩어지기",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있다면 상대의 다음 차례의 마지막에 동전을 1번 던진다. 뒷면이 나오면 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "약어리들이 적에게 맞서기 위해 진형을 짰다. 바다의 요괴라고 불릴 정도의 힘을 자랑한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015013",
+                "debug": "1"
+            },
+            {
+                "number": "053",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Misaki Hashimoto",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015053",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-039",
+        "cardID": "약어물130어군020월척000",
+        "name": "약어리 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "어군스톰",
+                "cost": "(물)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드의 「약어리(GX 포함)」의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "월척GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 12장 보고 그 중에 있는 기본 포켓몬을 원하는 만큼 벤치로 내보낸다. 남은 카드는 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "sadaji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017039",
+                "debug": "1"
+            },
+            {
+                "number": "174",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "sadaji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_174.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017174",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-024",
+        "cardID": "약어물030심해000스플020",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "심해의회오리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 덱을 8장 뽑는다. "
+            },
+            {
+                "name": "스플래시",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "1마리로는 너무나도 허약해서 무리를 지어 상대에게 맞서는 능력을 습득했다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-113",
+        "cardID": "약어물030무리어군030",
+        "name": "약어리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "약어리",
+                "pokedexNumber": 746
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "어군대포",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "무리의 힘",
+                "text": "이 포켓몬에게 (물) 에너지가 3개 이상 붙어 있다면 이 포켓몬의 최대 HP는 「150」커진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험을 느끼면 눈물을 글썽인다. 눈물의 빛은 그들만의 신호로 신호를 받고 많은 동료가 모인다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Teeziro",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012025",
+                "debug": "2"
+            },
+            {
+                "number": "113",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Teeziro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_113.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003113",
+                "debug": "3"
+            }
+        ]
+    }
+]

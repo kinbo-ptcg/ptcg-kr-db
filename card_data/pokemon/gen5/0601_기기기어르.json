@@ -1,0 +1,423 @@
+[
+    {
+        "id": "bw1b-040",
+        "cardID": "기기강140기어기어080",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기어소서",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "기어체인지",
+                "text": "자신의 포켓몬에게 붙어 있는 (강철) 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "빨간 코어는 에너지 탱크 역할을 한다. 가시를 이용해 모아둔 에너지를 주변에 쏘아댄다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_040.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw4-055",
+        "cardID": "기기강140메탈020록기060",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈블라스트",
+                "cost": "(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "록기어",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 패가 6장이 되도록 덱을 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "빨간 코어가 달린 기어를 고속 회전시켜서 에너지를 급속 충전한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Hajime Kusajima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "pd-008",
+        "cardID": "기기강140플라헤비070",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "헤비불릿",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라스마스틸",
+                "text": "이 포켓몬이 있는 한 자신의 (강철) 포켓몬 전원은 상대의 「포켓몬 EX」로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "꼬마기어를 고속 회전시켜서 빨간 코어에 모은 에너지를 꼬마기어에 담아 한 번에 발산한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "017",
+                "prodCode": "pd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pd.png",
+                "prodName": "BW 「플라스마단 파워 덱」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PD/PD_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013001008",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-038",
+        "cardID": "기기강140헤비기어070",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기어스피너",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「기어스피너」의 데미지는 「+70」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "헤비범퍼",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지는 상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 10데미지만큼 작아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "빨간 코어는 에너지 탱크 역할을 한다. 가시를 이용해 모아둔 에너지를 주변에 쏘아댄다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "Midori Harada",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-071",
+        "cardID": "기기강150빔빔060클록200",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "빔",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "클록워크",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "200",
+                "text": "자신의 벤치에 「기어르」「기기어르」가 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "가시 끝에서 강한 전격을 발사한다. 빨간 코어에 많은 에너지를 비축하고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "071",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Naoki Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011071",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-071",
+        "cardID": "기기강150기어롤링090",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "롤링어택",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "기어월",
+                "text": "이 포켓몬이 있는 한, 자신의 기본 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "가시 끝에서 강한 전격을 발사한다. 빨간 코어에 많은 에너지를 비축하고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "071",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Megumi Higuchi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002071",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-048",
+        "cardID": "기기강160트리파워130",
+        "name": "기기기어르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "기기기어르",
+                "pokedexNumber": 601
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "파워빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "트리플기어",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 기본 에너지를 3장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "가시 끝에서 강한 전격을 발사한다. 빨간 코어에 많은 에너지를 비축하고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016048",
+                "debug": "1"
+            }
+        ]
+    }
+]

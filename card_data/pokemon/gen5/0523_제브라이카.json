@@ -1,0 +1,626 @@
+[
+    {
+        "id": "fsr-017",
+        "cardID": "제브번090짓밟020와일070",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "짓밟기",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            },
+            {
+                "name": "와일드볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기질이 격해서 화가 나면 갈기에서 사방팔방으로 전격을 마구 날리므로 위험하다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "034",
+                "prodCode": "fsr",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsr.png",
+                "prodName": "BW 「퍼스트 세트 - 불꽃의 진화」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_f_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011002017",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw1b-020",
+        "cardID": "제브번090뒤로030일렉070",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 스파크",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "70",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다.(벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_020.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw3p-025",
+        "cardID": "제브번090전자040번개000",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자장해",
+                "cost": "(번개)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 상대는 패에서 「아이템」을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "번개떨구기",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 80데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Naoki Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw6f-024",
+        "cardID": "제브번100니트000번개090",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "니트로차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "격렬한 기질의 소유자. 날뛰면 갈기에서 번개를 사방팔방으로 방전한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy9-032",
+        "cardID": "제브번100제브격추050",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "격추볼트",
+                "cost": "(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬이 있는 한, 자신의 (번개) 포켓몬이 사용하는 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "제브라존",
+                "text": "이 포켓몬이 있는 한, 자신의 (번개) 포켓몬이 사용하는 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Hajime Kusajima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-046",
+        "cardID": "제브번110빨리헤드060",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빨리달리기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 4장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012030",
+                "debug": "2"
+            },
+            {
+                "number": "046",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-008",
+        "cardID": "제브번120습격030마하100",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "습격",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 「줄뮤마」에서 진화했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "마하볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013008",
+                "debug": "1"
+            },
+            {
+                "number": "008",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4-037",
+        "cardID": "제브번110안다030일렉070",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "안다리걸기",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭킥",
+                "cost": "(번개)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "0313",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6K-022",
+        "cardID": "제브번120연계030스파090",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "연계볼트",
+                "cost": "(무색)",
+                "damage": "30+",
+                "text": "자신의 이전 차례에 이 포켓몬 이외의 「연격」의 포켓몬이 기술을 사용했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "스파크러시",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 90데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-024",
+        "cardID": "제브번120터뜨000번개150",
+        "name": "제브라이카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "제브라이카",
+                "pokedexNumber": 523
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "터뜨린울음",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대가 이미 가져간 프라이즈의 장수만큼까지 자신의 트래쉬에서 「기본 (번개) 에너지」를 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022024",
+                "debug": "1"
+            }
+        ]
+    }
+]

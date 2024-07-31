@@ -1,0 +1,618 @@
+[
+    {
+        "id": "SA_R-008",
+        "cardID": "에이불170화염050버닝160",
+        "name": "에이스번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염볼",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "버닝킥",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "023",
+                "prodCode": "SA_R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_R.png",
+                "prodName": "소드&실드 스타터 세트 V 불꽃",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_R_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-009",
+        "cardID": "에이불170리베플레190",
+        "name": "에이스번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레어 스트라이커",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "리베로",
+                "text": "자신의 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 1번 사용할 수 있다. 자신의 트래쉬에서 (불꽃) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003009",
+                "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016024",
+                "debug": "2"
+            },
+            {
+                "number": "216",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_216.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016216",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-016",
+        "cardID": "에이불210필드홍련140",
+        "name": "에이스번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "홍련각",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "필드러너",
+                "text": "필드에 스타디움이 나와 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004016",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004072",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-017",
+        "cardID": "에이불320카운030다이170",
+        "name": "에이스번 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "카운터",
+                "cost": "(불꽃)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 이 포켓몬이 받은 기술의 데미지와 같은 데미지를 추가한다."
+            },
+            {
+                "name": "다이화염구슬",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "170",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004017",
+                "debug": "1"
+            },
+            {
+                "number": "002",
+                "prodNumber": "004",
+                "prodCode": "SP2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP2.png",
+                "prodName": "소드&실드 「VMAX 스페셜 세트」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP2/SP2_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020015002",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-094",
+        "cardID": "에이불210불꽃050전력210",
+        "name": "에이스번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "전력슛",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 카드 박스 세트 「일격」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000094",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-095",
+        "cardID": "에이불320거다230",
+        "name": "에이스번 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "거다이화염구",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "230",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "095",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 카드 박스 세트 「일격」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000095",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-072",
+        "cardID": "에이불170위기불구150",
+        "name": "에이스번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불구슬슛",
+                "cost": "(불꽃)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위기 극복 파워",
+                "text": "이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 상대가 이미 가져간 프라이즈 1장당 「+30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004017",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003072",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-073",
+        "cardID": "에이불220브레210",
+        "name": "에이스번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "브레이즈킥",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_010_R.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013010",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003073",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-003",
+        "cardID": "에이불170불꽃040홍련160",
+        "name": "에이스번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에이스번",
+                "pokedexNumber": 815
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "자신의 트래쉬에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제1탄",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000003",
+                "debug": "3"
+            }
+        ]
+    }
+]

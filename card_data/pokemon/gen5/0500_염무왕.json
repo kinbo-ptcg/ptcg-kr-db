@@ -1,0 +1,317 @@
+[
+    {
+        "id": "fsr-008",
+        "cardID": "염무불150히트050플레150",
+        "name": "염무왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "염무왕",
+                "pokedexNumber": 500
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트스탬프",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "플레어드라이브",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "턱의 화염으로 주먹을 불태워 불꽃펀치를 날린다. 동료애가 깊은 포켓몬이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "034",
+                "prodCode": "fsr",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsr.png",
+                "prodName": "BW 「퍼스트 세트 - 불꽃의 진화」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_f_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011002008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "ebb-019",
+        "cardID": "염무불150열화히트080",
+        "name": "염무왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "염무왕",
+                "pokedexNumber": 500
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트스탬프",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "열화난무",
+                "text": "자신의 패에서 (불꽃) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "턱의 화염으로 주먹을 불태워 불꽃펀치를 날린다. 동료애가 깊은 포켓몬이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001010",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Kanako Eo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_019.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xye-003",
+        "cardID": "염무불180스파020스트150",
+        "name": "염무왕 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "염무왕",
+                "pokedexNumber": 500
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "스파이럴펀치",
+                "cost": "(불꽃)(무색)",
+                "damage": "20＋",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "스트롱플레어",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "022",
+                "prodCode": "xye",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xye.png",
+                "prodName": "XY 30장 덱 대전 세트 「염무왕 EX vs 토게키스 EX」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYE/XYE_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015002003",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-015",
+        "cardID": "염무불170타오히트160",
+        "name": "염무왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "염무왕",
+                "pokedexNumber": 500
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "타오르는 연무",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱을 위에서부터 8장 보고 그 중에 있는 기본 에너지를 원하는 만큼 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "턱의 화염으로 주먹을 불태워 불꽃펀치를 날린다. 동료애가 깊은 포켓몬이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "kawayoo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5I-012",
+        "cardID": "염무불180투혼히트130",
+        "name": "염무왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "염무왕",
+                "pokedexNumber": 500
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트스탬프",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "투혼의 자세",
+                "text": "이 포켓몬이 있는 한, 자신의 「일격」의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "불꽃 턱수염을 기르고 있다. 파워와 스피드를 겸비한 격투 기술을 익히고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001012",
+                "debug": "1"
+            }
+        ]
+    }
+]

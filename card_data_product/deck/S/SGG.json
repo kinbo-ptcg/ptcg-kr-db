@@ -1,0 +1,704 @@
+[
+    {
+        "id": "SGG-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "DAR",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008020"
+    },
+    {
+        "id": "SGG-001",
+        "cardID": "팬텀악210검은040페인190",
+        "name": "팬텀 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "팬텀",
+                "pokedexNumber": 94
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "검은꿈결",
+                "cost": "(악)(악)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "페인 익스플로전",
+                "cost": "(악)(악)(악)",
+                "damage": "190",
+                "text": "이 포켓몬에게 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008001"
+    },
+    {
+        "id": "SGG-002",
+        "cardID": "팬텀악320패닉060거다250",
+        "name": "팬텀 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "팬텀",
+                "pokedexNumber": 94
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "패닉피어",
+                "cost": "(악)(악)",
+                "damage": "60×",
+                "text": "상대 필드의 「포켓몬 V・GX」의 수 × 60데미지를 준다."
+            },
+            {
+                "name": "거다이통째로삼키기",
+                "cost": "(악)(악)(악)",
+                "damage": "250",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008002"
+    },
+    {
+        "id": "SGG-003",
+        "cardID": "크로악180나이독이070",
+        "name": "크로뱃 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "크로뱃",
+                "pokedexNumber": 169
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독이빨",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "나이트애셋",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다. 이 차례에 이미 다른 「나이트애셋」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "003",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008003"
+    },
+    {
+        "id": "SGG-004",
+        "cardID": "델빌악060물기020",
+        "name": "델빌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "델빌",
+                "pokedexNumber": 228
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동이 트기 전에 기분 나쁜 울음을 반복하여 자신들 무리의 존재를 어필한다.",
+        "number": "004",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008004"
+    },
+    {
+        "id": "SGG-005",
+        "cardID": "헬가악130일격어둠050",
+        "name": "헬가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "헬가",
+                "pokedexNumber": 229
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일격의 포효",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「일격 에너지」를 1장 선택해서 자신의 「일격」의 포켓몬에게 붙인다. 그리고 덱을 섞는다. 그 뒤, 붙인 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "기분 나쁜 울음소리가 특징이다. 옛날 사람들은 지옥에서 온 사자라고 여겨 두려워했다.",
+        "number": "005",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Uta",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008005"
+    },
+    {
+        "id": "SGG-006",
+        "cardID": "이벨악130다크050일격110",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크커터",
+                "cost": "(악)(악)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "일격의날개",
+                "cost": "(악)(악)(악)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "number": "006",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008006"
+    },
+    {
+        "id": "SGG-007",
+        "cardID": "모르악050불만030",
+        "name": "모르페코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "모르페코",
+                "pokedexNumber": 877
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "불만폭발",
+                "cost": "(악)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공복 호르몬으로 성질이 변한다. 배가 채워질 때까지 온갖 못된 짓을 한다.",
+        "number": "007",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Teeziro",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008007"
+    },
+    {
+        "id": "SGG-008",
+        "cardID": "진화향로",
+        "name": "진화향로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008008"
+    },
+    {
+        "id": "SGG-009",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008009"
+    },
+    {
+        "id": "SGG-010",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "010",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008010"
+    },
+    {
+        "id": "SGG-011",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "011",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008011"
+    },
+    {
+        "id": "SGG-012",
+        "cardID": "활력의 항아리",
+        "name": "활력의 항아리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 「일격 에너지」를 2장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008012"
+    },
+    {
+        "id": "SGG-013",
+        "cardID": "마리",
+        "name": "마리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 자신은 5장 상대는 4장 덱을 뽑는다."
+        ],
+        "number": "013",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008013"
+    },
+    {
+        "id": "SGG-014",
+        "cardID": "모험가의 발견",
+        "name": "모험가의 발견",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「포켓몬 V」를 3장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Taira Akitsu",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008014"
+    },
+    {
+        "id": "SGG-015",
+        "cardID": "박사의 연구(주박사)",
+        "name": "박사의 연구(주박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008015"
+    },
+    {
+        "id": "SGG-016",
+        "cardID": "보스의 지령(플라드리)",
+        "name": "보스의 지령(플라드리)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "016",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008016"
+    },
+    {
+        "id": "SGG-017",
+        "cardID": "시바",
+        "name": "시바",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 4장 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 뽑는 장수는 7장이 된다."
+        ],
+        "number": "017",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008017"
+    },
+    {
+        "id": "SGG-018",
+        "cardID": "악의 탑",
+        "name": "악의 탑",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 플레이어는 자신의 차례마다 1번 자신의 패에서 「일격」의 카드를 1장 트래쉬한다면 자신의 덱을 2장 뽑아도 좋다."
+        ],
+        "number": "018",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008018"
+    },
+    {
+        "id": "SGG-019",
+        "cardID": "일격 에너지",
+        "name": "일격 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지",
+            "일격"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 「일격」의 포켓몬에게만 붙일 수 있으며, 「일격」의 포켓몬 이외에 붙어 있다면 트래쉬한다.",
+            "이 카드는 포켓몬에게 붙어 있는 한, (격투) (악)  2가지 타입의 에너지 1개분으로 작용하며 이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다."
+        ],
+        "number": "019",
+        "prodNumber": "019",
+        "prodCode": "SGG",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGG.png",
+        "prodName": "소드&실드 하이클래스 덱  「팬텀  VMAX 」",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGG_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021008019"
+    }
+]

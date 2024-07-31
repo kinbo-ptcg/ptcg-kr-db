@@ -1,0 +1,337 @@
+[
+    {
+        "id": "xy1y-009",
+        "cardID": "브리풀160니들터치090",
+        "name": "브리가론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "터치다운",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "니들가드",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸통박치기로 50톤 전차를 뒤집는 파워를 지녔다. 자신이 방패가 되어 동료를 지킨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501009",
+                "debug": "1"
+            },
+            {
+                "number": "014",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_014.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004014",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "fxyg-005",
+        "cardID": "브리풀150바늘050롤링080",
+        "name": "브리가론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "바늘팔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "롤링어택",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸통박치기로 50톤 전차를 뒤집는 파워를 지녔다. 자신이 방패가 되어 동료를 지킨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "036",
+                "prodCode": "fxyg",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+                "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-005",
+        "cardID": "브리풀160스파060금강100",
+        "name": "브리가론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스파이크 래리엇",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60＋",
+                "text": "데미지를 줄 때 이미 상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 60데미지를 추가한다."
+            },
+            {
+                "name": "금강프레스",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "얼굴 앞에 주먹을 맞대어 방어 포즈를 취하면 폭탄의 직격도 견뎌낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-006",
+        "cardID": "브리풀190터프160",
+        "name": "브리가론 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 브리가론이 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "터프해머",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다. 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 30데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007006",
+                "debug": "1"
+            },
+            {
+                "number": "015",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_015.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004015",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12-009",
+        "cardID": "브리풀230니들터치130",
+        "name": "브리가론 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "터치다운",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "니들라인",
+                "text": "이 포켓몬이 있는 한, 자신의 배틀필드의 「브리가론 V」가 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017009",
+                "debug": "1"
+            },
+            {
+                "number": "099",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017099",
+                "debug": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SV5M-016",
+        "cardID": "무쇠풀220래피프리180",
+        "name": "무쇠잎새 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "무쇠잎새",
+                "pokedexNumber": 1010
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "프리즘에지",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "래피드 버니어",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다. 교체한 경우, 자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005016",
+                "debug": "3"
+            },
+            {
+                "number": "084",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005084",
+                "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "nagimiso",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005093",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-007",
+        "cardID": "무쇠풀120리커000어벤100",
+        "name": "무쇠잎새",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "무쇠잎새",
+                "pokedexNumber": 1010
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리커버네트",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "어벤지에지",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "100+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007007",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "id": "SV5K-033",
+        "cardID": "날개초090암야재앙090",
+        "name": "날개치는머리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "고대"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "날개치는머리",
+                "pokedexNumber": 987
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "재앙날리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "데미지 카운터 2개를 상대의 벤치 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "암야의 날갯짓",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 배틀 포켓몬의 특성(「암야의 날갯짓」은 제외)은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 서적에 등장하는 \"날개치는머리\"라는 생물과 비슷한 특징을 가진 포켓몬.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004033",
+                "debug": "3"
+            },
+            {
+                "number": "076",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Takumi Wada",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004076",
+                "debug": "2"
+            }
+        ]
+    }
+]

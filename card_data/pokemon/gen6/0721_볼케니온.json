@@ -1,0 +1,707 @@
+[
+    {
+        "id": "smxy-014",
+        "cardID": "볼케불130파워020타오100",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "파워히터",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "자신의 벤치 포켓몬을 2마리 선택해서 트래쉬에서 (불꽃) 에너지를 선택한 포켓몬에게 각각 1장씩 붙인다."
+            },
+            {
+                "name": "타오르는대포",
+                "cost": "(불꽃)(불꽃)(불꽃)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006011",
+                "debug": "2"
+            },
+            {
+                "number": "014",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-015",
+        "cardID": "볼케불물180스팀볼케130",
+        "name": "볼케니온 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)(물)",
+        "attacks": [
+            {
+                "name": "볼케닉히트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스팀업",
+                "text": "자신의 패에서 (불꽃) 에너지를 1장 선택해서 트래쉬한다. 그 경우 , 이 차례에 자신의 (불꽃) 타입 기본 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006012",
+                "debug": "2"
+            },
+            {
+                "number": "055",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006055",
+                "debug": "2"
+            },
+            {
+                "number": "015",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp5-008",
+        "cardID": "볼케불130집중050화염100",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "집중포화",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50x",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "화염임팩트",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "TOKIYA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008008",
+                "debug": "1"
+            },
+            {
+                "number": "009",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008009",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-028",
+        "cardID": "볼케물130듀얼000그랜050",
+        "name": "빛나는 볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "듀얼펌프",
+                "cost": "(물)(물)(물)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "그랜드스매시",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "수증기를 뿜어내어 자신의 모습을 짙은 안개 속에 숨긴다. 사람이 오지 않는 산에 산다고 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "(빛)",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-037",
+        "cardID": "볼케물160제트사우100",
+        "name": "볼케니온 ◇",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "프리즘스타"
+        ],
+        "rules": [
+            "같은 이름의 (프리즘스타) (프리즘스타)의 카드는 덱에 1장만 넣을 수 있다. 트래쉬가 아닌 로스트존에 둔다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "사우나봄",
+                "cost": "(물)(물)(물)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "제트방출",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 (물) 에너지를 1장 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Naoki Saito",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004027",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Naoki Saito",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-022",
+        "cardID": "볼케불120플레000고열050",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레어스타터",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (불꽃) 에너지를 1장 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다. 후공 플레이어의 첫 차례에 사용하면 붙일 수 있는 장수는 3장까지이며 자신의 포켓몬에게 원하는 대로 붙일 수 있다. "
+            },
+            {
+                "name": "고열폭파",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "50+",
+                "text": "자신의 필드에 (불꽃) 에너지가 4개 이상 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "수증기를 뿜어내어 자신의 모습을 짙은 안개 속에 숨긴다. 사람이 오지 않는 산에 산다고 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Satoshi Shirai",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007012",
+                "debug": "2"
+            },
+            {
+                "number": "022",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SEK-007",
+        "cardID": "볼케물130한방050다이120",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "다이너마이트 스팀",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "120×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 120데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "020",
+                "prodCode": "SEK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S6H-014",
+        "cardID": "볼케불220히트050다이100",
+        "name": "볼케니온 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "다이너마이트 태클",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 데미지 카운터가 10개 이상 올려져 있다면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Ryota Murayama",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004014",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S11a-019",
+        "cardID": "볼케불130한방030하이080",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "하이드로번",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 (물) 에너지가 붙어 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Shiburingaru",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVG-011",
+        "cardID": "볼케불130듀얼020헤비120",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "듀얼터보",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "자신의 벤치 포켓몬을 2마리까지 선택해서 트래쉬에서 「기본 (불꽃) 에너지」를 1장씩 붙인다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "020",
+                "prodCode": "SVEL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEL.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「라우드본 ex」",
+                "artist": "Nisota Niso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEL/SVEL_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023019004",
+                "debug": "2"
+            },
+            {
+                "number": "011",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Nisota Niso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023011",
+                "debug": "1"
+            }
+        ]
+    }
+]

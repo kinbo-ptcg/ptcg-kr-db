@@ -1,0 +1,512 @@
+[
+    {
+        "id": "smxy-089",
+        "cardID": "마기강160미스소울120",
+        "name": "마기아나 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "소울블래스터",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「소울블래스터」의 데미지는 「-60」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "미스틱하트",
+                "text": "이 포켓몬이 있는 한, (강철) 에너지가 붙어 있는 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다. (이미 받은 효과는 없어지지 않는다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007035",
+                "debug": "2"
+            },
+            {
+                "number": "055",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007055",
+                "debug": "2"
+            },
+            {
+                "number": "089",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707089",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-088",
+        "cardID": "마기강090대접000프리020",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "대접하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 HP를 「40」회복한다."
+            },
+            {
+                "name": "프리즘웨이브",
+                "cost": "(강철)",
+                "damage": "20x",
+                "text": "상대의 벤치 포켓몬의 타입의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금속물질의 몸인 마기아나는 500년 전에 사람 손에 의해 태어난 인조포켓몬이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_030.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008030",
+                "debug": "2"
+            },
+            {
+                "number": "031",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008031",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707088",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-072",
+        "cardID": "마기강090갈아볼어060",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "볼어택",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "갈아입히기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 「포켓몬의 도구」를 1장 패로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "500년 이상 전에 만들어진 인조포켓몬이다. 사람의 말을 이해하지만 말은 못 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "072",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013072",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011072",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002087",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-042",
+        "cardID": "마기강090작은000에너030",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "작은 선물",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 에너지를 2장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "에너지프레스",
+                "cost": "(강철)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "기계장치로 된 몸은 그릇에 불과하다. 소울하트라고 불리는 인조 영혼이 본체다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-054",
+        "cardID": "마기강090오버000기계010",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "오버홀",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 덱을 6장 뽑는다."
+            },
+            {
+                "name": "기계장치캐논",
+                "cost": "(강철)(무색)",
+                "damage": "10+",
+                "text": "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "약 500년 전 과학자에 의해 만들어졌다. 소울하트라고 불리는 파츠가 본체다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10P-050",
+        "cardID": "마기강090기어020기계060",
+        "name": "마기아나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기어커터",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "기계장치빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 60데미지를 추가하고 상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "약 500년 전 과학자에 의해 만들어졌다. 소울하트라고 불리는 파츠가 본체다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "Rianti Hidayat",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008050",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S11a-051",
+        "cardID": "마기강210기어000스페100",
+        "name": "마기아나 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "마기아나",
+                "pokedexNumber": 801
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기어스로우",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스페셜레이저",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016051",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016079",
+                "debug": "2"
+            }
+        ]
+    }
+]

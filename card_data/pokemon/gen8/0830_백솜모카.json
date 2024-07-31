@@ -1,0 +1,383 @@
+[
+    {
+        "id": "S1H-005",
+        "cardID": "백솜풀080은혜000나뭇030",
+        "name": "백솜모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "은혜의솜털",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 에너지를 3장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003005",
+                "debug": "1"
+            },
+            {
+                "number": "015",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016015",
+                "debug": "2"
+            },
+            {
+                "number": "210",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Mizue",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_210.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016210",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-010",
+        "cardID": "백솜풀180해피두리050",
+        "name": "백솜모카 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "두리둥실",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "원한다면 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. "
+            }
+        ],
+        "abilities": [
+            {
+                "name": "해피매치",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 트래쉬에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005010",
+                "debug": "1"
+            },
+            {
+                "number": "097",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005097",
+                "debug": "2"
+            },
+            {
+                "number": "016",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016016",
+                "debug": "2"
+            },
+            {
+                "number": "306",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_306.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016306",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SEF-009",
+        "cardID": "백솜풀090풀회000허찌050",
+        "name": "백솜모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "풀회복씨",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 HP를 모두 회복한다."
+            },
+            {
+                "name": "허찌르기",
+                "cost": "(풀)",
+                "damage": "50",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "021",
+                "prodCode": "SEF",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001009",
+                "debug": "3"
+            },
+            {
+                "number": "039",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003039",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S6a-010",
+        "cardID": "백솜풀080솜배코튼030",
+        "name": "백솜모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "코튼가드",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "솜배달",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-040",
+        "cardID": "백솜풀090해님050",
+        "name": "백솜모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "해님윈드",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_004_R.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013004",
+                "debug": "2"
+            },
+            {
+                "number": "040",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003040",
+                "debug": "1"
+            }
+        ]
+    }
+]

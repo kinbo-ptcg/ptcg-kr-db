@@ -1,0 +1,508 @@
+[
+    {
+        "id": "SA_W-009",
+        "cardID": "인텔물160무음040하이100",
+        "name": "인텔리레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "무음탄",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "하이드로 스나이프",
+                "cost": "(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다채로운 기능을 숨기고 있다. 손끝에서 물을 분사하고 등에 있는 피막으로 바람을 탄다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "023",
+                "prodCode": "SA_W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_W.png",
+                "prodName": "소드&실드 스타터 세트 V 물",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_W_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-019",
+        "cardID": "인텔물160이면아쿠120",
+        "name": "인텔리레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이면공작",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다채로운 기능을 숨기고 있다. 손끝에서 물을 분사하고 등에 있는 피막으로 바람을 탄다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002019",
+                "debug": "1"
+            },
+            {
+                "number": "041",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016041",
+                "debug": "2"
+            },
+            {
+                "number": "226",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "nagimiso",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_226.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016226",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-022",
+        "cardID": "인텔물200노려000아쿠130",
+        "name": "인텔리레온 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "노려맞히기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "아쿠아리포트",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": "상대의 패를 본다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004022",
+                "debug": "1"
+            },
+            {
+                "number": "073",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004073",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-023",
+        "cardID": "인텔물320하이060다이160",
+        "name": "인텔리레온 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 스나이프",
+                "cost": "(물)",
+                "damage": "60",
+                "text": "원한다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 패로 되돌린다."
+            },
+            {
+                "name": "다이불릿",
+                "cost": "(물)(물)(무색)",
+                "damage": "160",
+                "text": "상대의 벤치 포켓몬 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-118",
+        "cardID": "인텔물150퀵슈폭포070",
+        "name": "인텔리레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "폭포오르기",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퀵슈터",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손가락 끝에서 마하3의 스피드로 물대포를 쏜다. 눈의 얇은 막으로 급소를 간파해 꿰뚫어버린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "NC Empire",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003018",
+                "debug": "2"
+            },
+            {
+                "number": "038",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001038",
+                "debug": "2"
+            },
+            {
+                "number": "118",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_118.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003118",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-119",
+        "cardID": "인텔물200파도040아쿠120",
+        "name": "인텔리레온 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "022",
+                "prodCode": "SGI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGI.png",
+                "prodName": "소드&실드 하이클래스 덱 「인텔리레온  VMAX 」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGI_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009005",
+                "debug": "2"
+            },
+            {
+                "number": "119",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_119.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003119",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SGI-006",
+        "cardID": "인텔물320더블거다070",
+        "name": "인텔리레온 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거다이소용돌이",
+                "cost": "(물)(무색)",
+                "damage": "70+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 패로 되돌린다. 그 경우, 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블슈터",
+                "text": "자신의 차례에 자신의 패에서 (물) 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 상대의 벤치 포켓몬 2마리에게 각각 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "022",
+                "prodCode": "SGI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SGI.png",
+                "prodName": "소드&실드 하이클래스 덱 「인텔리레온  VMAX 」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SG/SGI_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021009006",
+                "debug": "1"
+            }
+        ]
+    }
+]

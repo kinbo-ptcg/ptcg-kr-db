@@ -1,0 +1,673 @@
+[
+    {
+        "id": "pss-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_en_05.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004017"
+    },
+    {
+        "id": "pss-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_en_08.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004018"
+    },
+    {
+        "id": "pss-001",
+        "cardID": "깜까초070할퀴000섀도000",
+        "name": "깜까미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깜까미",
+                "pokedexNumber": 302
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": ""
+            },
+            {
+                "name": "섀도쿠프",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동굴의 어둠에 숨는다. 보석을 먹는 사이에 눈이 보석이 되어 버렸다.",
+        "number": "001",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004001"
+    },
+    {
+        "id": "pss-002",
+        "cardID": "기라초130병상050섀도000",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "병상첨병",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 50데미지를 추가한다."
+            },
+            {
+                "name": "섀도크루",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "난폭하다는 이유로 쫓겨났지만 깨어진 세계라고 전해지는 장소에서 조용히 원래 세계를 보고 있었다.",
+        "number": "002",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004002"
+    },
+    {
+        "id": "pss-003",
+        "cardID": "데스초060도깨000부딪000",
+        "name": "데스마스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데스마스",
+                "pokedexNumber": 562
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "도깨비불",
+                "cost": "(무색)",
+                "damage": "",
+                "text": ""
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무덤에 매장된 사람의 영혼이 포켓몬으로 변했다. 죽기 전 기억이 남아 있다.",
+        "number": "003",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004003"
+    },
+    {
+        "id": "pss-004",
+        "cardID": "데스초100늘어000크레040",
+        "name": "데스니칸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "데스니칸",
+                "pokedexNumber": 563
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "늘어나는팔",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "크레이지슬랩",
+                "cost": "(초)(무색)(무색)",
+                "damage": "40×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "진짜 관과 착각해서 다가온 도굴꾼을 몸속에 가둬버린다.",
+        "number": "004",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004004"
+    },
+    {
+        "id": "pss-005",
+        "cardID": "다크악110어둠000다크000",
+        "name": "다크라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠에숨기",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체해도 좋다."
+            },
+            {
+                "name": "다크홀",
+                "cost": "(악)(악)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "자신을 지키기 위해 주변의 사람이나 포켓몬에게 악몽을 꾸게 하지만 다크라이는 나쁜 뜻이 있는 게 아니다.",
+        "number": "005",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004005"
+    },
+    {
+        "id": "pss-006",
+        "cardID": "자망악050풀베000",
+        "name": "자망칼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "자망칼",
+                "pokedexNumber": 624
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "풀베기",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신이 상처입어도 신경 쓰지 않고 집단으로 전신의 칼날을 박아서 상대를 공격한다.",
+        "number": "006",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004006"
+    },
+    {
+        "id": "pss-007",
+        "cardID": "절각악090잘라000슬라000",
+        "name": "절각참",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "절각참",
+                "pokedexNumber": 625
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "잘라내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "슬라이스 블레이드",
+                "cost": "(악)(무색)(무색)",
+                "damage": "",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "몇 마리의 자망칼을 싸우게 해서 상처입고 움직일 수 없게 된 먹이를 두 동강 내버리는 무서운 포켓몬.",
+        "number": "007",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004007"
+    },
+    {
+        "id": "pss-008",
+        "cardID": "모노악060힘껏020",
+        "name": "모노두",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모노두",
+                "pokedexNumber": 633
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "힘껏치기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "주변의 모습을 모르기 때문에 닥치는 대로 부딪쳐서는 움직이는 것을 물어 먹어치운다.",
+        "number": "008",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004008"
+    },
+    {
+        "id": "pss-009",
+        "cardID": "독최면광선",
+        "name": "독최면광선",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템",
+            "플라스마단"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 배틀 포켓몬을 독으로 만든다.",
+            "동전을 한 번 던져서 앞면이 나오면 그 포켓몬을 잠듦으로도 만든다."
+        ],
+        "number": "009",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004009"
+    },
+    {
+        "id": "pss-010",
+        "cardID": "아크로마머신",
+        "name": "아크로마머신",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템",
+            "플라스마단"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「플라스마 에너지」를 1장 선택해서 자신의 「플라스마단」의 포켓몬에게 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "010",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004010"
+    },
+    {
+        "id": "pss-011",
+        "cardID": " 배지",
+        "name": " 배지",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "플라스마단"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬은 「플라스마단」의 포켓몬이 된다."
+        ],
+        "number": "011",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004011"
+    },
+    {
+        "id": "pss-012",
+        "cardID": "게치스",
+        "name": "게치스",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "플라스마단"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 패를 보고 그 중의 「아이템」을 모두 상대의 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 되돌린 카드의 장수만큼 이 카드의 주인은 덱을 뽑는다."
+        ],
+        "number": "012",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004012"
+    },
+    {
+        "id": "pss-013",
+        "cardID": "아크로마",
+        "name": "아크로마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "플라스마단"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 서로의 벤치 포켓몬의 수만큼 자신의 덱을 뽑는다."
+        ],
+        "number": "013",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004013"
+    },
+    {
+        "id": "pss-014",
+        "cardID": "의 조무래기",
+        "name": "의 조무래기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "플라스마단"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 「플라스마단」의 카드를 1장 선택해서 트래쉬한다.",
+            "그 뒤 자신의 덱을 4장 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004014"
+    },
+    {
+        "id": "pss-015",
+        "cardID": "플라스마 프리깃",
+        "name": "플라스마 프리깃",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움",
+            "플라스마단"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "「플라스마 에너지」가 붙어 있는 서로의 포켓몬 전원의 약점은 모두 없어진다."
+        ],
+        "number": "015",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004015"
+    },
+    {
+        "id": "pss-016",
+        "cardID": "플라스마 에너지",
+        "name": "플라스마 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지",
+            "플라스마단"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 1개분으로 작용한다."
+        ],
+        "number": "016",
+        "prodNumber": "016",
+        "prodCode": "pss",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+        "prodName": "BW 「플라스마단 덱」",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004016"
+    }
+]

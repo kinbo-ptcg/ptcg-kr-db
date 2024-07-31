@@ -1,0 +1,580 @@
+[
+    {
+        "id": "bd-001",
+        "cardID": "파쪼번030부딪010벌래020",
+        "name": "파쪼옥",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "파쪼옥",
+                "pokedexNumber": 595
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "벌래먹음",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸이 큰 포켓몬에게 매달려 정전기를 빨아들인 후 축전 주머니에 전기를 모은다.",
+        "number": "001",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "MAHOU",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004001"
+    },
+    {
+        "id": "bd-002",
+        "cardID": "볼트번110충전000디재080",
+        "name": "볼트로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "볼트로스",
+                "pokedexNumber": 642
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "충전",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (번개) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "디재스터 볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리의 가시에서 전격을 날린다. 하나지방의 하늘을 날아다니며 번개를 내리친다.",
+        "number": "002",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004002"
+    },
+    {
+        "id": "bd-003",
+        "cardID": "으랏격060안다010한방030",
+        "name": "으랏차",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "으랏차",
+                "pokedexNumber": 532
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "안다리걸기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 각목을 끼고 있다. 건설 현장에 나타나 공사를 도와주는 포켓몬이다.",
+        "number": "003",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004003"
+    },
+    {
+        "id": "bd-004",
+        "cardID": "토쇠격080안다020강철060",
+        "name": "토쇠골",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토쇠골",
+                "pokedexNumber": 533
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "안다리걸기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "강철스윙",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "철골을 짊어지고 몸을 단련하고 있다. 단련한 근육을 동료와 서로 보여주며 자랑한다.",
+        "number": "004",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004004"
+    },
+    {
+        "id": "bd-005",
+        "cardID": "곤율악060밀어010",
+        "name": "곤율랭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "곤율랭",
+                "pokedexNumber": 559
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "밀어올리기",
+                "cost": "(악)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "피부를 목까지 늘려서 방어 자세를 취한다. 고무 같은 탄력을 이용해 데미지를 줄인다.",
+        "number": "005",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004005"
+    },
+    {
+        "id": "bd-006",
+        "cardID": "곤율악100박치030파괴070",
+        "name": "곤율거니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "곤율거니",
+                "pokedexNumber": 560
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "파괴의일격",
+                "cost": "(악)(악)(무색)",
+                "damage": "70",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "영역을 침범한 상대를 집단으로 때려눕힌다. 입에서 산성 액체를 뱉는다.",
+        "number": "006",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004006"
+    },
+    {
+        "id": "bd-007",
+        "cardID": "페라무070음치010쪼기030",
+        "name": "페라페",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "페라페",
+                "pokedexNumber": 441
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "음치",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "쪼기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀는 인간의 것을 똑 닮았다. 그 때문에 인간이 하는 말을 능숙하게 흉내 낼 수 있다.",
+        "number": "007",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "MAHOU",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004007"
+    },
+    {
+        "id": "bd-008",
+        "cardID": "수퍼볼",
+        "name": "수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져와도 좋다.",
+            "남은 카드는 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004008"
+    },
+    {
+        "id": "bd-009",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004009"
+    },
+    {
+        "id": "bd-010",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "010",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004010"
+    },
+    {
+        "id": "bd-011",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "011",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004011"
+    },
+    {
+        "id": "bd-012",
+        "cardID": "벨",
+        "name": "벨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "012",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004012"
+    },
+    {
+        "id": "bd-013",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "013",
+        "prodNumber": "013",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004013"
+    },
+    {
+        "id": "bd-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_en_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004014"
+    },
+    {
+        "id": "bd-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_en_06.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004015"
+    },
+    {
+        "id": "bd-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bd.png",
+        "prodName": "BW 「볼트로스 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BD/bw_bd_en_08.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012004016"
+    }
+]

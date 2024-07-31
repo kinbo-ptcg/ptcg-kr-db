@@ -1,0 +1,3230 @@
+[
+    {
+        "id": "S7D-001",
+        "cardID": "스이물210준족블리020",
+        "name": "스이쿤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "스이쿤",
+                "pokedexNumber": 245
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "블리자드론도",
+                "cost": "(물)(무색)",
+                "damage": "20+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "준족",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011001"
+    },
+    {
+        "id": "S7D-002",
+        "cardID": "연꽃물060동료000물뿌020",
+        "name": "연꽃몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "연꽃몬",
+                "pokedexNumber": 270
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "물뿌리기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "잎사귀가 너무 커서 무거워졌기 때문에 물에 떠서 생활하게 되었다.",
+        "number": "002",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Teeziro",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011002"
+    },
+    {
+        "id": "S7D-003",
+        "cardID": "로토물090스플050",
+        "name": "로토스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "로토스",
+                "pokedexNumber": 271
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "햇볕이 잘 드는 물가에 산다. 낮에는 수초로 된 침대에서 자고 해가 지면 활동하기 시작한다.",
+        "number": "003",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "miki kudo",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011003"
+    },
+    {
+        "id": "S7D-004",
+        "cardID": "로파물140하이스플120",
+        "name": "로파파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "로파파",
+                "pokedexNumber": 272
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하이텐션 댄스",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 이 차례에 자신의 기본 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+100」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "경쾌한 리듬에 맞춰 몸을 움직여서 파워를 증폭시키고 있다.",
+        "number": "004",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "sowsow",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011004"
+    },
+    {
+        "id": "S7D-005",
+        "cardID": "앗차물060잡아010",
+        "name": "앗차프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "앗차프",
+                "pokedexNumber": 515
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "잡아당기기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 패를 본다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 송아리에 모은 물은 영양이 가득하다. 식물에 뿌려주면 크게 자란다.",
+        "number": "005",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011005"
+    },
+    {
+        "id": "S7D-006",
+        "cardID": "앗차물100물의020흠뻑060",
+        "name": "앗차키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앗차키",
+                "pokedexNumber": 516
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물의파동",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "흠뻑서커스",
+                "cost": "(무색)(무색)",
+                "damage": "60×",
+                "text": "상대의 패를 보고 그 중에 있는 서포트의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "물이 깨끗한 장소를 좋아한다. 머리에 모아둔 물이 줄어들면 꼬리에서 빨아올려 보급한다.",
+        "number": "006",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Shin Nagasawa",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011006"
+    },
+    {
+        "id": "S7D-007",
+        "cardID": "완철물070물대010찝기020",
+        "name": "완철포",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "완철포",
+                "pokedexNumber": 692
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "찝기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오른쪽 집게에서 물을 뿜어내서 이동한다. 밸런스가 나빠서 똑바로 헤엄치는 것에 몹시 서툴다.",
+        "number": "007",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Pani Kobayashi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011007"
+    },
+    {
+        "id": "S7D-008",
+        "cardID": "블로물110노려000찝게110",
+        "name": "블로스터",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "블로스터",
+                "pokedexNumber": 693
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "노려맞히기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "찝게햄머",
+                "cost": "(물)(물)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오른팔의 속살은 꽉 차 있다. 떨어진 집게는 식재료로써 해외에 수출된다.",
+        "number": "008",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011008"
+    },
+    {
+        "id": "S7D-009",
+        "cardID": "빙큐물120스노020블록070",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스노아이스",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "블록페이스",
+                "cost": "(물)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "더위에 약해서 얼굴을 언제나 얼음으로 식히고 있다. 머리의 털을 바다에 늘어뜨리고 먹이를 낚는다.",
+        "number": "009",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Mizue",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011009"
+    },
+    {
+        "id": "S7D-010",
+        "cardID": "푸린초060막치020다함020",
+        "name": "푸린",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "푸린",
+                "pokedexNumber": 39
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "다함께구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "부르는 노래는 서식하는 지방에 따라 전혀 다르다. 그중에는 샤우팅하는 듯한 노래도 있다.",
+        "number": "010",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011010"
+    },
+    {
+        "id": "S7D-011",
+        "cardID": "푸크초120보물000하이090",
+        "name": "푸크린",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "푸크린",
+                "pokedexNumber": 40
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "보물찾아내기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "하이퍼보이스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "화가 나면 힘껏 숨을 들이쉬어서 점점 부풀어 오른다. 무려 20배로 커질 때도 있다.",
+        "number": "011",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Asako Ito",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011011"
+    },
+    {
+        "id": "S7D-012",
+        "cardID": "프리초120냉혹사이000",
+        "name": "가라르 프리져",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "프리져",
+                "pokedexNumber": 144,
+                "region": "가라르"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코레이저",
+                "cost": "(초)(초)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "냉혹차지",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에서 (초) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "얼어붙은 듯 몸의 자유를 빼앗는 빔을 쏘는 프리져라는 이름을 가진 포켓몬이다.",
+        "number": "012",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011012"
+    },
+    {
+        "id": "S7D-013",
+        "cardID": "마자초120미러000머리070",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미러페인",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 선택한 포켓몬에게 올려져 있는 데미지 카운터와 같은 수의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다."
+            },
+            {
+                "name": "머리박치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.",
+        "number": "013",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011013"
+    },
+    {
+        "id": "S7D-014",
+        "cardID": "심보초100노려020에너060",
+        "name": "심보러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "심보러",
+                "pokedexNumber": 561
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "노려떨구기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "데미지를 주기 전에 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다."
+            },
+            {
+                "name": "에너지 리플렉트",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "심보러가 나는 사막 아래를 조사해 보니 고대 도시로 여겨지는 자취가 발견되었다.",
+        "number": "014",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Yukiko Baba",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011014"
+    },
+    {
+        "id": "S7D-015",
+        "cardID": "골루초220메가080리와180",
+        "name": "골루그 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "골루그",
+                "pokedexNumber": 623
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "메가톤펀치",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "리와인드빔",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "180",
+                "text": "상대의 진화한 배틀 포켓몬으로부터 「진화카드」를 1장 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Eske Yoshinob",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011015"
+    },
+    {
+        "id": "S7D-016",
+        "cardID": "호바초060호박밟기020",
+        "name": "호바귀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "호바귀",
+                "pokedexNumber": 710
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "호박의 구멍",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 필드에 나와 있는 스타디움을 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "호박의 구멍에서 나오는 빛을 본 사람과 포켓몬을 최면상태로 만들어 조종한다.",
+        "number": "016",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Yuka Morii",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011016"
+    },
+    {
+        "id": "S7D-017",
+        "cardID": "펌킨초120백귀060",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "백귀야행",
+                "cost": "(무색)(무색)",
+                "damage": "60×",
+                "text": "자신의 덱을 위에서부터 6장 앞면으로 한다. 그 중에 있는 (초) 포켓몬의 수 × 60데미지를 준다. 앞면으로 한 (초) 포켓몬은 덱으로 되돌리고 섞는다. 남은 카드는 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "초승달이 뜨는 밤이 되면 펌킨인이 현관문을 노크한다. 그리고는 열어준 사람을 저세상으로 데리고 간다.",
+        "number": "017",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Megumi Higuchi",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011017"
+    },
+    {
+        "id": "S7D-018",
+        "cardID": "홍수격110클린020탄환040",
+        "name": "홍수몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "홍수몬",
+                "pokedexNumber": 107
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "클린히트",
+                "cost": "(격투)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 50데미지를 추가한다."
+            },
+            {
+                "name": "탄환 스트레이트",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "공기마저 베어 가르는 펀치. 하지만 3분간 공격하면 잠시 쉬고 싶어하는 것 같다.",
+        "number": "018",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Uta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011018"
+    },
+    {
+        "id": "S7D-019",
+        "cardID": "썬더격110건각재퍼070",
+        "name": "가라르 썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145,
+                "region": "가라르"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "재퍼킥",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 그 경우, 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "건각차지",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에서 (격투) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "한 번의 발차기로 덤프트럭을 산산조각 내는 다릿심을 가지고 있다._x000D_ 시속 300km로 산을 달린다고 한다.",
+        "number": "019",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "kodama",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011019"
+    },
+    {
+        "id": "S7D-020",
+        "cardID": "글라격070독침000궤찌030",
+        "name": "글라이거",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "글라이거",
+                "pokedexNumber": 207
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "궤찌르기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "얼굴을 겨냥하고 날아와 들러붙어 먹이가 놀라는 사이에 독침을 찌른다.",
+        "number": "020",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Misa Tsutsui",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011020"
+    },
+    {
+        "id": "S7D-021",
+        "cardID": "글라격110잘라030베놈100",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "잘라내기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "베놈히트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "number": "021",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "SATOSHI NAKAI",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011021"
+    },
+    {
+        "id": "S7D-022",
+        "cardID": "마크격090넘어010한방060",
+        "name": "마크탕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마크탕",
+                "pokedexNumber": 296
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "넘어뜨리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "강한 마크탕을 키우기 위해 트레이너들이 전통적으로 만드는 전골 요리가 있다고 한다.",
+        "number": "022",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Oswaldo KATO",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011022"
+    },
+    {
+        "id": "S7D-023",
+        "cardID": "하리격140근성한방100",
+        "name": "하리뭉",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "하리뭉",
+                "pokedexNumber": 297
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "근성",
+                "text": "이 포켓몬이 기술의 데미지를 받아 기절할 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "뚱뚱하고 큰 하리뭉이 다 강한 것은 아니다. 작지만 몸이 가볍고 기술이 뛰어난 하리뭉도 있다.",
+        "number": "023",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011023"
+    },
+    {
+        "id": "S7D-024",
+        "cardID": "루가격200돌떨040크래200",
+        "name": "루가루암 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "크래시팽",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "024",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011024"
+    },
+    {
+        "id": "S7D-025",
+        "cardID": "루가격320헌팅000다이190",
+        "name": "루가루암 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "루가루암",
+                "pokedexNumber": 745
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "헌팅크루",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대 필드의 남은 HP가 「60」이하인 포켓몬을 1마리 선택해서 기절시킨다."
+            },
+            {
+                "name": "다이에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "190",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "025",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011025"
+    },
+    {
+        "id": "S7D-026",
+        "cardID": "파이악120사악타오020",
+        "name": "가라르 파이어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "타오르는분노",
+                "cost": "(악)(악)(무색)",
+                "damage": "20+",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사악차지",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에서 (악) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사악한 오라를 불꽃처럼 타오르게 하는 그 모습을 보고 파이어라고 부르게 되었다.",
+        "number": "026",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Kazuma Koda",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011026"
+    },
+    {
+        "id": "S7D-027",
+        "cardID": "앱솔악100끌어000베어080",
+        "name": "앱솔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "앱솔",
+                "pokedexNumber": 359
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "노인들은 재난포켓몬이라고 부르며 미워하지만 재해를 예지하는 능력에 관심이 높아지고 있다.",
+        "number": "027",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Eri Yamaki",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011027"
+    },
+    {
+        "id": "S7D-028",
+        "cardID": "삐딱악060쥐어020",
+        "name": "삐딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "삐딱구리",
+                "pokedexNumber": 453
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쥐어박기",
+                "cost": "(악)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독을 희석하면 약이 된다. 제약 회사의 마스코트가 된 후로 인기가 많아졌다.",
+        "number": "028",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Nagomi Nijo",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011028"
+    },
+    {
+        "id": "S7D-029",
+        "cardID": "독개악110배드000매그090",
+        "name": "독개굴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "독개굴",
+                "pokedexNumber": 454
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "배드포이즌",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 4개가 된다. "
+            },
+            {
+                "name": "매그넘펀치",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사냥감을 처리하면 개굴개굴하며 승리를 자축하는 소리를 높인다. 두빅굴과 가까운 종이다.",
+        "number": "029",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011029"
+    },
+    {
+        "id": "S7D-030",
+        "cardID": "더스악210쓰레040오물130",
+        "name": "더스트나 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "더스트나",
+                "pokedexNumber": 569
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쓰레기악취",
+                "cost": "(악)(무색)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "오물폭탄",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "030",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Uta",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011030"
+    },
+    {
+        "id": "S7D-031",
+        "cardID": "더스악330잡동거다120",
+        "name": "더스트나 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "더스트나",
+                "pokedexNumber": 569
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "거다이악취",
+                "cost": "(악)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "잡동사니 모으기",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다. (이 특성이 없어졌을 때 자신은 「포켓몬의 도구」를 1장이 되도록 트래쉬한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "031",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011031"
+    },
+    {
+        "id": "S7D-032",
+        "cardID": "훔처악070꼬리030",
+        "name": "훔처우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "훔처우",
+                "pokedexNumber": 827
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "조심성이 많고 교활하다. 먹이를 훔치고는 꼬리로 발자국을 지우며 도망간다.",
+        "number": "032",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Hasegawa Saki",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011032"
+    },
+    {
+        "id": "S7D-033",
+        "cardID": "폭슬악100펌블꼬리060",
+        "name": "폭슬라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "폭슬라이",
+                "pokedexNumber": 828
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "꼬리로때리기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "펌블핸드",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다. 그 뒤, 각각 덱을 4장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "가벼운 몸과 날카로운 발톱으로 먹이나 알을 훔치며 돌아다닌다. 펄스멍이 천적이다.",
+        "number": "033",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Kyoko Umemoto",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011033"
+    },
+    {
+        "id": "S7D-034",
+        "cardID": "나옹강070울음000베어020",
+        "name": "가라르 나옹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나옹",
+                "pokedexNumber": 52,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "이마의 금화는 검을수록 단단하고 동료에게 존경받는다. 용맹하고 두려움을 모른다.",
+        "number": "034",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "0313",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011034"
+    },
+    {
+        "id": "S7D-035",
+        "cardID": "나이강120격문000헤드080",
+        "name": "가라르 나이킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "나이킹",
+                "pokedexNumber": 863,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "격문띄우기",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤드뱅",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "싸움에 열중해 진화한 결과 펴면 단검으로 변하는 위험한 발톱을 얻었다.",
+        "number": "035",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Shigenori Negishi",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011035"
+    },
+    {
+        "id": "S7D-036",
+        "cardID": "무장강120강철030슬라110",
+        "name": "무장조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "무장조",
+                "pokedexNumber": 227
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철날개",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "슬라이스 블레이드",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "강철의 갑옷을 몸에 걸친다. 무거워 보이지만 최고 300km의 속도로 날 수 있다.",
+        "number": "036",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Megumi Higuchi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011036"
+    },
+    {
+        "id": "S7D-037",
+        "cardID": "클레강070언록010",
+        "name": "클레피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "클레피",
+                "pokedexNumber": 707
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "언록",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "자신의 덱을 2장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "옛날에는 광산에 살았지만 먹이인 광물이 줄어들어서 사람이 사는 마을에 나타나기 시작했다.",
+        "number": "037",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "MAHOU",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011037"
+    },
+    {
+        "id": "S7D-038",
+        "cardID": "끼리강100구르01010080",
+        "name": "끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "끼리동",
+                "pokedexNumber": 878
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "10만마력",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "힘쓰는 일에 강하다. 동으로 된 몸체는 비에 녹슬어 선명한 녹색으로 변한다.",
+        "number": "038",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Oswaldo KATO",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011038"
+    },
+    {
+        "id": "S7D-039",
+        "cardID": "대왕강190괴력09010160",
+        "name": "대왕끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "괴력",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            },
+            {
+                "name": "10만마력",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.",
+        "number": "039",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011039"
+    },
+    {
+        "id": "S7D-040",
+        "cardID": "파비드090홀리활공060",
+        "name": "파비코리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "파비코리",
+                "pokedexNumber": 334
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "활공",
+                "cost": "(물)(강철)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "홀리는 곡조",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 서포트를 1장 선택해서 상대에게 보여준다. 남은 덱을 섞고 선택한 카드를 덱의 위로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "맑은 날 뭉게구름에 뒤섞이면서 넓은 하늘을 자유롭게 날아다니며 아름다운 소프라노로 노래한다.",
+        "number": "040",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011040"
+    },
+    {
+        "id": "S7D-041",
+        "cardID": "디아드130크로080헤비210",
+        "name": "디아루가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "크로노와인드",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 「포켓몬 V」는 기술을 사용할 수 없다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(초)(강철)(강철)(무색)",
+                "damage": "210",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "시간을 조종하는 힘을 가지고 있다. 신오지방에서는 신이라고 불리며 신화에 등장한다.",
+        "number": "041",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ryuta Fuse",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011041"
+    },
+    {
+        "id": "S7D-042",
+        "cardID": "모노드060동료000물기030",
+        "name": "모노두",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모노두",
+                "pokedexNumber": 633
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "물기",
+                "cost": "(초)(악)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈이 보이지 않아 닥치는 대로 물면서 본인 주위의 상황을 파악한다.",
+        "number": "042",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011042"
+    },
+    {
+        "id": "S7D-043",
+        "cardID": "디헤드100물기040드래100",
+        "name": "디헤드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "디헤드",
+                "pokedexNumber": 634
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(초)(악)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "드래곤헤드",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "1개의 먹이를 2개의 머리가 서로 뺏는다. 누구랑 싸운 것도 아닌데 언제나 상처투성이다.",
+        "number": "043",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011043"
+    },
+    {
+        "id": "S7D-044",
+        "cardID": "삼삼드170드래020칠흑210",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤카운터",
+                "cost": "(초)(악)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 상대가 가져간 프라이즈 장수 × 100데미지를 추가한다."
+            },
+            {
+                "name": "칠흑엄니",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "210",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "3개의 머리로 번갈아 가며 물어뜯는다. 상대가 쓰러질 때까지 공격을 멈추지 않는다.",
+        "number": "044",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "hatachu",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011044"
+    },
+    {
+        "id": "S7D-045",
+        "cardID": "큐레드120극한060",
+        "name": "큐레무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "큐레무",
+                "pokedexNumber": 646
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "극한냉동",
+                "cost": "(물)(물)(강철)",
+                "damage": "60×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 트래쉬하고 그 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강력한 냉동 에너지를 체내에서 만들어 내지만 새어 나온 냉기에 몸이 얼어 있다.",
+        "number": "045",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011045"
+    },
+    {
+        "id": "S7D-046",
+        "cardID": "음번드200폭음000싱크060",
+        "name": "음번 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "음번",
+                "pokedexNumber": 715
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "폭음파",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "싱크로라우드",
+                "cost": "(초)(악)",
+                "damage": "60+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "046",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011046"
+    },
+    {
+        "id": "S7D-047",
+        "cardID": "할비드120쥐어030발끈070",
+        "name": "할비롱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "할비롱",
+                "pokedexNumber": 780
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "쥐어박기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "발끈",
+                "cost": "(물)(격투)",
+                "damage": "70+",
+                "text": "자신의 벤치 포켓몬에게 데미지 카운터가 올려져 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람을 잘 따르고 마음이 착하지만 한번 화가 나면 강풍을 일으켜 모든 것을 쓰러뜨려 버린다.",
+        "number": "047",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011047"
+    },
+    {
+        "id": "S7D-048",
+        "cardID": "두랄드220메탈070와이140",
+        "name": "두랄루돈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(격투)(강철)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "와이드브레이커",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "140",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "048",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011048"
+    },
+    {
+        "id": "S7D-049",
+        "cardID": "두랄드330마천거다220",
+        "name": "두랄루돈 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "두랄루돈",
+                "pokedexNumber": 884
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "거다이분쇄",
+                "cost": "(격투)(강철)(강철)",
+                "damage": "220",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마천루",
+                "text": "이 포켓몬은 특수 에너지가 붙어 있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "049",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011049"
+    },
+    {
+        "id": "S7D-050",
+        "cardID": "게을무070치고030",
+        "name": "게을로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "게을로",
+                "pokedexNumber": 287
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "치고자기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하루에 잎을 3장만 먹으면 만족하고 그 외에는 20시간이나 자고 있다.",
+        "number": "050",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "OKACHEKE",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011050"
+    },
+    {
+        "id": "S7D-051",
+        "cardID": "발바무090깨부020베어050",
+        "name": "발바로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "발바로",
+                "pokedexNumber": 288
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "깨부수기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다. "
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸을 움직이지 않으면 스트레스가 너무 쌓여서 상태가 나빠져 버린다.",
+        "number": "051",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "nagimiso",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011051"
+    },
+    {
+        "id": "S7D-052",
+        "cardID": "게을무180설치차서120",
+        "name": "게을킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "게을킹",
+                "pokedexNumber": 289
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "차서흩뜨리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "설치기",
+                "text": "필드에 스타디움이 나와 있다면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "세계에서 제일 게으르지만 쌓인 에너지를 한 번에 내면 무서울 정도의 파워를 발휘한다.",
+        "number": "052",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011052"
+    },
+    {
+        "id": "S7D-053",
+        "cardID": "파비무050허찌030",
+        "name": "파비코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "파비코",
+                "pokedexNumber": 333
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "허찌르기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.",
+        "number": "053",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Lee HyunJung",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011053"
+    },
+    {
+        "id": "S7D-054",
+        "cardID": "우르무060뒤엎010다함020",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤엎기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "다함께구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털이 많이 자라면 움직이지 못한다. 우르의 털로 짠 천은 놀라울 정도로 튼튼하다.",
+        "number": "054",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Miki Tanaka",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011054"
+    },
+    {
+        "id": "S7D-055",
+        "cardID": "배우무130뛰어030구르070",
+        "name": "배우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "배우르",
+                "pokedexNumber": 832
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뛰어오르다",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "늠름하게 자란 뿔은 이성에게 어필하기 위한 것이다. 무기로는 사용하지 않는다.",
+        "number": "055",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Shibuzoh.",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011055"
+    },
+    {
+        "id": "S7D-056",
+        "cardID": "동굴탈출로프",
+        "name": "동굴탈출로프",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다.",
+            "(교체는 상대부터 한다.",
+            "벤치 포켓몬이 없는 플레이어는 교체하지 않는다.",
+            "）."
+        ],
+        "number": "056",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "sadaji",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011056"
+    },
+    {
+        "id": "S7D-057",
+        "cardID": "레스큐캐리",
+        "name": "레스큐캐리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 HP가 「90」이하인 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "057",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011057"
+    },
+    {
+        "id": "S7D-058",
+        "cardID": "바꿔치기컵",
+        "name": "바꿔치기컵",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 선택해서 덱의 위에 있는 카드와 교체한다."
+        ],
+        "number": "058",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011058"
+    },
+    {
+        "id": "S7D-059",
+        "cardID": "진화향로",
+        "name": "진화향로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "059",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011059"
+    },
+    {
+        "id": "S7D-060",
+        "cardID": "구멍파기글러브",
+        "name": "구멍파기글러브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (격투) 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "060",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011060"
+    },
+    {
+        "id": "S7D-061",
+        "cardID": "일격의 두루마리 아룡의 권",
+        "name": "일격의 두루마리 아룡의 권",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "일격"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「일격」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "attack": {
+            "name": "강력산",
+            "cost": "(격투)(강철)(강철)(무색)(무색)",
+            "damage": "300",
+            "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+        },
+        "number": "061",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011061"
+    },
+    {
+        "id": "S7D-062",
+        "cardID": "풀 페이스 가드",
+        "name": "풀 페이스 가드",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬(특성을 가진 포켓몬은 제외)이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-20」이 된다."
+        ],
+        "number": "062",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011062"
+    },
+    {
+        "id": "S7D-063",
+        "cardID": "금랑",
+        "name": "금랑",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 상대의 이전 차례에 자신의 포켓몬이 기절하지 않으면 사용할 수 없다.",
+            "자신의 트래쉬에서 기본 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다.",
+            "그 뒤, 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "063",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "take",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011063"
+    },
+    {
+        "id": "S7D-064",
+        "cardID": "스쿨걸",
+        "name": "스쿨걸",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 2장 뽑는다.",
+            "상대의 남은 프라이즈 장수가 6장・4장・2장이라면 2장 더 뽑는다."
+        ],
+        "number": "064",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011064"
+    },
+    {
+        "id": "S7D-065",
+        "cardID": "흉내내기 아가씨",
+        "name": "흉내내기 아가씨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 상대의 패의 장수만큼 자신의 덱을 뽑는다."
+        ],
+        "number": "065",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011065"
+    },
+    {
+        "id": "S7D-066",
+        "cardID": "결정동굴",
+        "name": "결정동굴",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 플레이어는 자신의 차례마다 1번 자신의 (강철) 포켓몬과 (페어리) 포켓몬 전원의 HP를 각각 「30」회복해도 좋다."
+        ],
+        "number": "066",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011066"
+    },
+    {
+        "id": "S7D-067",
+        "cardID": "트윈 에너지",
+        "name": "트윈 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 2개분으로 작용한다.",
+            "「포켓몬 V・GX」에게 붙어 있다면 (무색) 에너지 1개분으로 작용한다."
+        ],
+        "number": "067",
+        "prodNumber": "067",
+        "prodCode": "S7D",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+        "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011067"
+    }
+]

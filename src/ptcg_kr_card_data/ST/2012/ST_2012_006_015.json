@@ -1,0 +1,614 @@
+[
+    {
+        "id": "hrk-001",
+        "cardID": "잉어물030철벅010",
+        "name": "잉어킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "잉어킹",
+                "pokedexNumber": 129
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "철벅철벅러시",
+                "cost": "(물)",
+                "damage": "10×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "오래 산 잉어킹은 튀어오르기로 산도 넘을 수 있지만 기술의 위력은 여전히 약하다.",
+        "number": "001",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006001"
+    },
+    {
+        "id": "hrk-002",
+        "cardID": "갸라물130예리060휘두060",
+        "name": "갸라도스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "갸라도스",
+                "pokedexNumber": 130
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "휘두르기",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "한 번 난동부리기 시작한 갸라도스는 태풍이 사납게 휘몰아쳐도 어떤 것이든 다 태워버린다.",
+        "number": "002",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006002"
+    },
+    {
+        "id": "hrk-003",
+        "cardID": "썬더번060퀵턴020",
+        "name": "썬더라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "썬더라이",
+                "pokedexNumber": 309
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "퀵턴",
+                "cost": "(번개)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털에 모은 전기를 써서 근육을 자극함으로써 순발력을 높인다.",
+        "number": "003",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006003"
+    },
+    {
+        "id": "hrk-004",
+        "cardID": "썬더번090에너000전광030",
+        "name": "썬더볼트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "썬더볼트",
+                "pokedexNumber": 310
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "에너지 어시스트",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "전광석화",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "갈기에서 방전을 하고 있다. 머리 위에 번개 구름을 만들고 천둥번개를 떨어뜨려 공격한다.",
+        "number": "004",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006004"
+    },
+    {
+        "id": "hrk-005",
+        "cardID": "딥상드060모래000띄워010",
+        "name": "딥상어동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "딥상어동",
+                "pokedexNumber": 443
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "띄워날리기",
+                "cost": "(물)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "큰 입으로 하는 공격은 위력이 충분하지만 아직은 잘 싸우지 못해서 자신도 상처를 입는다.",
+        "number": "005",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006005"
+    },
+    {
+        "id": "hrk-006",
+        "cardID": "한바드080드래드래020",
+        "name": "한바이트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "한바이트",
+                "pokedexNumber": 444
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤 슬라이스",
+                "cost": "(물)(격투)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "드래곤콜",
+                "text": "자신의 덱에서 (드래곤)  포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "반짝반짝 빛나는 것을 아주 좋아하기에 동굴 안에서 발견한 보물을 자신의 둥지에 모아둔다.",
+        "number": "006",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006006"
+    },
+    {
+        "id": "hrk-007",
+        "cardID": "한카드140제트040모래080",
+        "name": "한카리아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "제트헤드",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "모래지옥",
+                "cost": "(물)(격투)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "고속으로 달려나가면 날개는 공기의 칼날을 만들어내어 주변의 나무는 절단 나게 된다.",
+        "number": "007",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006007"
+    },
+    {
+        "id": "hrk-008",
+        "cardID": "파비무040쪼기010",
+        "name": "파비코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "파비코",
+                "pokedexNumber": 333
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신도 주변도 깨끗하지 않으면 진정되지 않는 성격의 포켓몬이다. 더러움을 발견하면 날개로 닦는다.",
+        "number": "008",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006008"
+    },
+    {
+        "id": "hrk-009",
+        "cardID": "치라무060막치010돌격030",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌격",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 서로의 몸을 쓰다듬어 인사를 나눈다. 자주 꼬리를 손질하여 항상 깨끗이 해둔다.",
+        "number": "009",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006009"
+    },
+    {
+        "id": "hrk-010",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 기본 포켓몬 1마리에서 진화하는 1진화 위의 2진화 포켓몬을 패에서 1장 선택하여 그 기본 포켓몬 위에 올려서 진화시킨다.",
+            "(자신의 첫 번째 차례에는 사용할 수 없고 이번 차례에 내보낸 기본 포켓몬에게도 사용할 수 없다.)"
+        ],
+        "number": "010",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006010"
+    },
+    {
+        "id": "hrk-011",
+        "cardID": "커다란망토",
+        "name": "커다란망토",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬의 최대 HP는 「20」 커진다."
+        ],
+        "number": "011",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006011"
+    },
+    {
+        "id": "hrk-012",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006012"
+    },
+    {
+        "id": "hrk-013",
+        "cardID": "주박사",
+        "name": "주박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "013",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006013"
+    },
+    {
+        "id": "hrk-014",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006014"
+    },
+    {
+        "id": "hrk-015",
+        "cardID": "블렌드 에너지 물  번개  격투  강철 ",
+        "name": "블렌드 에너지 물  번개  격투  강철 ",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 1개분으로 작용한다.",
+            "포켓몬에게 붙어 있는 한 (물) (번개) (격투) (강철)  4개 타입의 에너지 1개분으로 작용한다."
+        ],
+        "number": "015",
+        "prodNumber": "015",
+        "prodCode": "hrk",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+        "prodName": "BW 「한카리아스 덱」",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006015"
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "id": "SM12a-114",
+        "cardID": "먹고무060스낵없음000",
+        "name": "먹고자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "먹고자",
+                "pokedexNumber": 446
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "스낵서치",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 동전을 1번 던져서 앞면이 나오면 자신의 트래쉬에서 원하는 카드를 1장 상대에게 보여주고 덱의 위로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "긴 털 아래에 음식을 숨기지만 숨긴 것을 잊어 고약한 냄새가 난다며 소동이 날 때도 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010040",
+                "debug": "2"
+            },
+            {
+                "number": "114",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "sowsow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_114.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017114",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "DP-P-7",
+        "cardID": "먹고무070베이심부000",
+        "name": "먹고자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "먹고자",
+                "pokedexNumber": 446
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "심부름",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「트레이너」를 1장 상대 플레이어에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「잠만보」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸의 긴 털 밑에 먹이를 숨기는 습성이 있다. 숨긴 것을 잊어버린다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "7",
+                "prodNumber": "DP-P",
+                "prodCode": "DP-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "DP 프로모 카드",
+                "artist": "KagemaRU Himeno",
+                "rarity": "P",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/PROMO/pr_kr_7.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2010001007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs2-29",
+        "cardID": "먹고무060베이양손030",
+        "name": "먹고자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "먹고자",
+                "pokedexNumber": 446
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "양손던지기",
+                "cost": "(무색)",
+                "damage": "30x",
+                "text": "자신의 패를 2장 트래쉬하지 않으면 이 기술은 실패한다. 동전을 두 번 던져서 앞면 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「잠만보」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하루에 한 번 체중과 같은 양의 먹이를 한 번에 먹는다. 거의 씹지 않고 통째로 삼킨다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "29",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_29.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002029",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1362 @@
+[
+    {
+        "id": "ebb-077",
+        "cardID": "레쿠드120용의040찢기090",
+        "name": "레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            },
+            {
+                "name": "찢기",
+                "cost": "(불꽃)(번개)(무색)",
+                "damage": "90",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "020",
+                "prodCode": "dc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dc.png",
+                "prodName": "BW 확장팩 「드래곤 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/DC/dc_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012004011",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_077.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006077",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw5e-037",
+        "cardID": "레쿠드170하늘000드래060",
+        "name": "레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "하늘의외침",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬하고 그 중의 에너지를 모두 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "드래곤버스트",
+                "cost": "(불꽃)(번개)",
+                "damage": "60×",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃)  또는 (번개)  기본 에너지를 모두 트래쉬하고 트래쉬한 에너지의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006037",
+                "debug": "1"
+            },
+            {
+                "number": "053",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_053.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006053",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy6-061",
+        "cardID": "레쿠무170라이010용의100",
+        "name": "레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "라이징번",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 50데미지를 추가한다."
+            },
+            {
+                "name": "용의파동",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Ryota Murayama",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_061.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004061",
+                "debug": "1"
+            },
+            {
+                "number": "085",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_085.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004085",
+                "debug": "2"
+            },
+            {
+                "number": "096",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_096.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004096",
+                "debug": "2"
+            },
+            {
+                "number": "104",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707104",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy6-062",
+        "cardID": "레쿠무220【Δ에메030",
+        "name": "M레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에메랄드 브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 벤치 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Δ진화】",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_062.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004062",
+                "debug": "1"
+            },
+            {
+                "number": "086",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_086.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004086",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xyd-005",
+        "cardID": "레쿠드180드래030드래130",
+        "name": "레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤크루",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "드래곤 스트라이크",
+                "cost": "(불꽃)(불꽃)(번개)(무색)",
+                "damage": "130",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 「드래곤 스트라이크」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "018",
+                "prodCode": "xyd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyd.png",
+                "prodName": "XY 메가 배틀 60장 덱 「M레쿠쟈 EX」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYD/XYD_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015001005",
+                "debug": "1"
+            },
+            {
+                "number": "034",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008034",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xyd-006",
+        "cardID": "레쿠드230고대화룡300",
+        "name": "M레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "화룡점정",
+                "cost": "(불꽃)(불꽃)(불꽃)(번개)(무색)",
+                "damage": "300",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고대능력【Δ와일드】",
+                "text": "이 포켓몬이 상대의 (풀) (불꽃) (물) (번개) 포켓몬에게 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "018",
+                "prodCode": "xyd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyd.png",
+                "prodName": "XY 메가 배틀 60장 덱 「M레쿠쟈 EX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYD/XYD_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015001006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp4-097",
+        "cardID": "레쿠무220[Δ에메030",
+        "name": "M레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "[M진화]포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에메랄드 브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 벤치 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "[Δ진화】",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "097",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_097.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004097",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm60a-010",
+        "cardID": "레쿠무120터보030드래080",
+        "name": "레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "터보스톰",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 2장 자신의 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "드래곤크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002010",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013084",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011084",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smxy-105",
+        "cardID": "레쿠무220고대에메030",
+        "name": "M레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에메랄드 브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 벤치 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고대능력【Δ진화】",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "105",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_105.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707105",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-057",
+        "cardID": "레쿠드120용의040천공190",
+        "name": "빛나는 레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            },
+            {
+                "name": "천공의심판",
+                "cost": "(불꽃)(번개)(번개)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Naoki Saito",
+                "rarity": "(빛)",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-100",
+        "cardID": "레쿠드180질풍드래030템페000",
+        "name": "레쿠쟈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤 브레이크",
+                "cost": "(풀)(번개)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (풀) 과 (번개) 타입의 기본 에너지의 개수 × 30데미지를 준다."
+            },
+            {
+                "name": "템페스트GX",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 패를 모두 트래쉬하고 덱을 10장 뽑는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "질풍노도",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 덱을 위에서부터 3장 트래쉬한다. 그 뒤, 자신의 트래쉬에 있는 기본 에너지를 1장 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007068",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007101",
+                "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002098",
+                "debug": "2"
+            },
+            {
+                "number": "240",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_240.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002240",
+                "debug": "2"
+            },
+            {
+                "number": "100",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017100",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-056",
+        "cardID": "레쿠무120어메080",
+        "name": "레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어메이징버스트",
+                "cost": "(풀)(번개)(격투)",
+                "damage": "80×",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지를 모두 트래쉬하고 트래쉬한 기본 에너지의 타입의 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "아득한 상공의 오존층 안을 날고 있기 때문에 최근까지 모습을 본 사람은 없었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "5ban Graphics",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-131",
+        "cardID": "레쿠드210용의040스파020",
+        "name": "레쿠쟈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "용의파동",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": "자신의 덱을 위에서부터 2장 트래쉬한다."
+            },
+            {
+                "name": "스파이럴 버스트",
+                "cost": "(불꽃)(번개)",
+                "damage": "20+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (불꽃)  또는 (번개) 타입 중 어느 한쪽의 기본 에너지를 2장까지 트래쉬하고 그 장수 × 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012046",
+                "debug": "2"
+            },
+            {
+                "number": "315",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_315.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003315",
+                "debug": "2"
+            },
+            {
+                "number": "015",
+                "prodNumber": "030",
+                "prodCode": "SO",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SO.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018015",
+                "debug": "2"
+            },
+            {
+                "number": "107",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001107",
+                "debug": "2"
+            },
+            {
+                "number": "131",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "드래곤 포켓몬 V GET 챌린지 프로모 카드 팩",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_131.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000131",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-316",
+        "cardID": "레쿠드320창공다이020",
+        "name": "레쿠쟈 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "다이버스트",
+                "cost": "(불꽃)(번개)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃)  또는 (번개) 타입 중 어느 한쪽의 기본 에너지를 원하는 만큼 트래쉬하고 그 장수 × 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "창공의 파동",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 3장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012047",
+                "debug": "2"
+            },
+            {
+                "number": "316",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_316.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003316",
+                "debug": "1"
+            },
+            {
+                "number": "016",
+                "prodNumber": "030",
+                "prodCode": "SO",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SO.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SO/SO_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018016",
+                "debug": "2"
+            },
+            {
+                "number": "108",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001108",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-024",
+        "cardID": "레쿠무130물고030파워120",
+        "name": "레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "물고버티기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "파워블라스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "아득한 상공의 오존층 안을 날고 있기 때문에 최근까지 모습을 본 사람은 없었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "상상초월 포켓몬 과학연구소 4권 부록",
+                "artist": "so-taro",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000024",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-057",
+        "cardID": "레쿠무170메가130에어000",
+        "name": "레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "메가각성",
+                "cost": "(무색)(무색)",
+                "damage": "130",
+                "text": "자신의 덱에서 「M레쿠쟈 EX」를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "에어로스크림",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-078",
+        "cardID": "레쿠무170메가000에어130",
+        "name": "레쿠쟈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "메가각성",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「M레쿠쟈 EX」를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "에어로스크림",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "078",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-35",
+        "cardID": "레쿠무100스피천공150",
+        "name": "레쿠쟈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "레쿠쟈",
+                "pokedexNumber": 384
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "천공의 심판",
+                "cost": "(불꽃)(불꽃)(번개)(번개)",
+                "damage": "150",
+                "text": "자신의 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스피드 게인",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 뒷면이 나올 때까지 동전을 계속 던진다. 앞면이 나올 때마다 자신의 트래쉬에 있는 (불꽃)  기본 에너지 또는 (번개)  기본 에너지를 1장 이 포켓몬에게 붙인다. 이 포켓몬이 특수 상태라면 혹은 자신의 필드에 다른 「레쿠쟈」가 있다면 이 파워는 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(무색)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "35",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Kent Kanetsuna",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_35.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009035",
+                "debug": "1"
+            }
+        ]
+    }
+]

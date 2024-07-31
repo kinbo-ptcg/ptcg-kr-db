@@ -1,0 +1,595 @@
+[
+    {
+        "id": "xy4-035",
+        "cardID": "마자초110참기사이010",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코데미지",
+                "cost": "(초)(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "참기벽",
+                "text": "이 포켓몬이 배틀필드에 있는 한 서로의 필드 ･ 패 ･ 트래쉬에 있는 포켓몬(초포켓몬은 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "빛과 쇼크를 싫어한다. 공격받으면 몸이 부풀어 올라 반격이 강력해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004035",
+                "debug": "1"
+            },
+            {
+                "number": "013",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Yukiko Baba",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003013",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_054.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004054",
+                "debug": "2"
+            },
+            {
+                "number": "047",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707047",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp2-011",
+        "cardID": "마자초100미러000구르050",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미러배리어",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(초)(초)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp4-055",
+        "cardID": "마자초140몽땅000",
+        "name": "마자용 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 마자용이 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "몽땅되갚기",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 받은 데미지 수만큼의 데미지 카운터를 기술을 사용한 포켓몬에 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-037",
+        "cardID": "마자초120그림050",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(초)(초)",
+                "damage": "50×",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "빛과 쇼크를 싫어한다. 공격받으면 몸이 부풀어 올라 반격이 강력해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008021",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013037",
+                "debug": "1"
+            },
+            {
+                "number": "037",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011037",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-008",
+        "cardID": "마자초110파티030",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "파티어택",
+                "cost": "(초)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드에 있는 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "빛과 쇼크를 싫어한다. 공격받으면 몸이 부풀어 올라 반격이 강력해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Nakano Satoshi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004008",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm8-044",
+        "cardID": "마자초110셰이띄워030",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "셰이드테일",
+                "text": "이 포켓몬이 벤치에 있는 한, 서로의 필드의 (프리즘스타) (프리즘스타)의 포켓몬은 기술을 사용할 수 없고 특성도 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Megumi Mizutani",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-026",
+        "cardID": "마자초220힘껏000그림070",
+        "name": "마자용 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "힘껏되갚기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬에게 올려져 있는 데미지 카운터를 모두 바꿔서 올린다."
+            },
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(초)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002026",
+                "debug": "1"
+            },
+            {
+                "number": "063",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002063",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S7D-013",
+        "cardID": "마자초120미러000머리070",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미러페인",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 선택한 포켓몬에게 올려져 있는 데미지 카운터와 같은 수의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다."
+            },
+            {
+                "name": "머리박치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs7-20",
+        "cardID": "마자초080역습000",
+        "name": "마자용",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "역습",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 자신의 데미지 카운터를 모두 제거해서 상대에게 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "까만 꼬리를 필사적으로 숨기는 것은 꼬리에 비밀이 있다는 증거라고 의심받고 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "20",
+                "prodNumber": "40",
+                "prodCode": "bs7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs7.png",
+                "prodName": "DP 확장팩 보이지 않는 힘",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS7/bs7_ko_20.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010007020",
+                "debug": "1"
+            }
+        ]
+    }
+]

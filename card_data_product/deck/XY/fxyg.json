@@ -1,0 +1,649 @@
+[
+    {
+        "id": "fxyg-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_en_01.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001037"
+    },
+    {
+        "id": "fxyg-000",
+        "cardID": "기본 페어리 에너지",
+        "name": "기본 페어리 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_en_11.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001040"
+    },
+    {
+        "id": "fxyg-001",
+        "cardID": "뿔충풀040실뿜010",
+        "name": "뿔충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "뿔충이",
+                "pokedexNumber": 13
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "실뿜기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "숲이나 풀밭에 많이 서식한다. 머리끝에 5cm 정도의 작고 날카로운 독침을 지니고 있다.",
+        "number": "001",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001001"
+    },
+    {
+        "id": "fxyg-002",
+        "cardID": "야나풀070가져000마구010",
+        "name": "야나프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "야나프",
+                "pokedexNumber": 511
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기운이 없는 포켓몬에게 머리의 잎사귀를 나눠준다. 피로를 풀어주는 효과가 있다.",
+        "number": "002",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001002"
+    },
+    {
+        "id": "fxyg-003",
+        "cardID": "도치풀060덩굴010씨폭020",
+        "name": "도치마론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "도치마론",
+                "pokedexNumber": 650
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 가시는 평소에는 부드럽지만 힘을 주면 뾰족하고 날카로워지며 바위를 뚫어 버릴 정도로 단단해진다.",
+        "number": "003",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001003"
+    },
+    {
+        "id": "fxyg-004",
+        "cardID": "도치풀090씨뿌020바늘050",
+        "name": "도치보구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "도치보구",
+                "pokedexNumber": 651
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "씨뿌리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            },
+            {
+                "name": "바늘팔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸을 둘러싼 단단한 껍질이 적의 공격을 튕겨내고 날카로운 가시로 반격한다.",
+        "number": "004",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001004"
+    },
+    {
+        "id": "fxyg-005",
+        "cardID": "브리풀150바늘050롤링080",
+        "name": "브리가론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "브리가론",
+                "pokedexNumber": 652
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "바늘팔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "롤링어택",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸통박치기로 50톤 전차를 뒤집는 파워를 지녔다. 자신이 방패가 되어 동료를 지킨다.",
+        "number": "005",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001005"
+    },
+    {
+        "id": "fxyg-022",
+        "cardID": "블루페070박치020",
+        "name": "블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "블루",
+                "pokedexNumber": 209
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(페어리)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "활발하고 노는 것을 좋아하는 성격. 잘 따르기 때문에 함께 놀고 싶어 하는 여성들이 많다.",
+        "number": "022",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_022.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001022"
+    },
+    {
+        "id": "fxyg-023",
+        "cardID": "그랑페100박치030더블050",
+        "name": "그랑블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "그랑블루",
+                "pokedexNumber": 210
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "더블스탬프",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "얼굴에 어울리지 않게 겁이 많다. 그러나 한번 화내기 시작하면 큰 이빨로 반격한다.",
+        "number": "023",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_023.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001023"
+    },
+    {
+        "id": "fxyg-024",
+        "cardID": "나룸페060드레010",
+        "name": "나룸퍼프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나룸퍼프",
+                "pokedexNumber": 684
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "드레인키스",
+                "cost": "(페어리)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "솜사탕 같은 달고 끈적끈적한 하얀 실을 내뿜어 상대를 휘감고 움직이지 못하게 한다.",
+        "number": "024",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_024.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001024"
+    },
+    {
+        "id": "fxyg-026",
+        "cardID": "잠만무120바위010괴력070",
+        "name": "잠만보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "잠만보",
+                "pokedexNumber": 143
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "바위깨기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "괴력",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "하루에 먹을 것을 400kg 먹지 않으면 성에 차지 않는다. 다 먹으면 잠이 들어 버린다.",
+        "number": "026",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_026.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001026"
+    },
+    {
+        "id": "fxyg-028",
+        "cardID": "파르무060몸통020",
+        "name": "파르빗",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "파르빗",
+                "pokedexNumber": 659
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "커다란 귀로 땅을 파고 보금자리를 만든다. 하룻밤 동안 쉬지 않고 계속 팔 수 있다.",
+        "number": "028",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_028.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001028"
+    },
+    {
+        "id": "fxyg-031",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "031",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_031.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001031"
+    },
+    {
+        "id": "fxyg-032",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "032",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_032.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001032"
+    },
+    {
+        "id": "fxyg-034",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "034",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_034.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001034"
+    },
+    {
+        "id": "fxyg-036",
+        "cardID": "티에르노",
+        "name": "티에르노",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "036",
+        "prodNumber": "036",
+        "prodCode": "fxyg",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyg.png",
+        "prodName": "XY 퍼스트세트 「도치마론의 진화」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_G_036.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001036"
+    }
+]

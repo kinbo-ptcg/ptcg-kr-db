@@ -1,0 +1,880 @@
+[
+    {
+        "id": "bw4-024",
+        "cardID": "쥬피번090일렉020바늘040",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭건",
+                "cost": "(무색)",
+                "damage": "20+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (번개) 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 40데미지를 추가한다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "40×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "감정이 날카로워지면 전기를 띠고 곤두선 털을 몇 가닥이든 날린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8s-016",
+        "cardID": "쥬피번090바늘020일렉040",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "바늘미사일",
+                "cost": "(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            },
+            {
+                "name": "일렉트릭 디퓨즈",
+                "cost": "(번개)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 「포켓몬 EX」는 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에 전기를 모으는 것으로 곤두세운 전신의 털을 미사일처럼 연속해서 날린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_016.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-026",
+        "cardID": "쥬피번090일렉썬더080",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더블라스트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일렉트릭 이펙트",
+                "text": "이 포켓몬이 있는 한 자신의 1진화 포켓몬 전원은 모두 원래 타입에 추가하여 (번개) 타입도 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "공기 중의 마이너스 이온을 빨아들여 약 10000볼트의 전기를 내뱉을 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_026.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005026",
+                "debug": "1"
+            },
+            {
+                "number": "031",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707031",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-106",
+        "cardID": "쥬피번160스피030플래070",
+        "name": "쥬피썬더 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            },
+            {
+                "name": "플래시레이",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬에게 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707032",
+                "debug": "2"
+            },
+            {
+                "number": "173",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_173.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707173",
+                "debug": "2"
+            },
+            {
+                "number": "106",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_106.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001106",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SMI-013",
+        "cardID": "쥬피번200일렉030헤드110스피110",
+        "name": "쥬피썬더 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "110",
+                "text": ""
+            },
+            {
+                "name": "스피드런 GX",
+                "cost": "(번개)(무색)",
+                "damage": "110",
+                "text": "상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "038",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+                "artist": "PLANETA Otani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-042",
+        "cardID": "쥬피번100스피헤드070",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스피드옐",
+                "text": "이 포켓몬이 있는 한, 자신의 필드의 「이브이」에서 진화하는 「포켓몬 GX」가 사용하는 기술에 필요한 에너지는 각각 (무색) 에너지 1개만큼 적어진다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "폐 안에 전기를 만드는 기관이 있다. 날숨에 섞여 탁탁하는 전기 소리가 들린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Uta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-049",
+        "cardID": "쥬피번100신뢰라이090",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "신뢰의 각성",
+                "text": "이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 (물) 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화가 나거나 놀라면 전신의 털이 바늘처럼 곤두서서 상대를 꿰뚫는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014034",
+                "debug": "2"
+            },
+            {
+                "number": "049",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SP4-003",
+        "cardID": "쥬피번300다이100",
+        "name": "쥬피썬더 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "다이신뢰",
+                "cost": "(번개)(무색)",
+                "damage": "100",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 1마리에게도 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "004",
+                "prodCode": "SP4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP4.png",
+                "prodName": "소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP4/SP4_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021010003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-130",
+        "cardID": "쥬피번190썬더000바늘060",
+        "name": "쥬피썬더 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더애로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007030",
+                "debug": "2"
+            },
+            {
+                "number": "078",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007078",
+                "debug": "2"
+            },
+            {
+                "number": "079",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "nagimiso",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007079",
+                "debug": "2"
+            },
+            {
+                "number": "130",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_130.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003130",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-135",
+        "cardID": "쥬피번110직격000투지090",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "투지의우뢰",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 ex・V」라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "세포가 내고 있는 약한 전기를 하나로 모아서 강력한 전기를 발산한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "135",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "sui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_135.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014135",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-068",
+        "cardID": "쥬피번100하전000번개160",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "하전",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "화가 나거나 놀라면 전신의 털이 바늘처럼 곤두서서 상대를 꿰뚫는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제4탄",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000068",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs5-21",
+        "cardID": "쥬피번080번개020뇌격050",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번개엄니",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            },
+            {
+                "name": "뇌격",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50",
+                "text": "원한다면 자신의 에너지를 2개 트래쉬해도 좋다. 그 경우 이 기술의 데미지는 「90」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "1만 볼트의 전기를 다룬다. 전신의 털이 곤두서면 바늘같이 날카롭고 뾰족해진다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "21",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_21.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-145",
+        "cardID": "쥬피번090전자10090",
+        "name": "쥬피썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전자벽",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 에너지를 포켓몬에게 붙일 때마다 그 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "폐 안에 전기를 만드는 기관이 있다. 날숨에 섞여 탁탁하는 전기 소리가 들린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "145",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 제7탄",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_196.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000196",
+                "debug": "1"
+            }
+        ]
+    }
+]

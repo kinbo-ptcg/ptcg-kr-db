@@ -1,0 +1,581 @@
+[
+    {
+        "id": "xy2-038",
+        "cardID": "냐오초090귀로000사이060",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "귀로 조종하기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 올려져 있는 데미지 카운터를 원하는 만큼 선택해서 상대 필드의 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(초)(초)",
+                "damage": "60+",
+                "text": "상대 배틀 포켓몬에게 붙어 있는 에너지의 개수 x 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험이 다가오면 귀를 들어 올리고 10톤 트럭을 눌러 부술 정도의 사이코 파워를 방출한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_038.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002038",
+                "debug": "1"
+            },
+            {
+                "number": "017",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "sui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003017",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xye-008",
+        "cardID": "냐오초090에너000사이040",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지선물",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "사이코숏",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "귀 안쪽의 눈알 모양에서 사이코 파워를 내지만 너무나도 강력하여 귀를 막고 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "022",
+                "prodCode": "xye",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xye.png",
+                "prodName": "XY 30장 덱 대전 세트 「염무왕 EX vs 토게키스 EX」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYE/XYE_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015002008",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-025",
+        "cardID": "냐오초090끌어000핸드010",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "끌어당기기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "핸드키네시스",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "자신의 패의 장수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험이 다가오면 귀를 들어 올리고 10톤 트럭을 눌러 부술 정도의 사이코 파워를 방출한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-031",
+        "cardID": "냐오초090텔레020사이030",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "텔레포트 브레이크",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "귀 안쪽의 눈알 모양에서\n사이코 파워를 내지만\n너무나도 강력하여 귀를 막고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "0313",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-060",
+        "cardID": "냐오초090고양000혼란070",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "고양이일상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": " 자신의 덱을 3장 뽑는다. 그 뒤, 이 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "혼란의눈동자",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": "자신의 다음 차례가 끝날 때까지 이 기술을 받은 포켓몬의 약점은 (초) 타입이 된다. (약점은 「×2」로 데미지 계산을 한다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험이 다가오면 귀를 들어 올리고 10톤 트럭을 눌러 부술 정도의 사이코 파워를 방출한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Saya Tsuruta",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007041",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Saya Tsuruta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017060",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-190",
+        "cardID": "냐오초090이어염동050",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동탄",
+                "cost": "(초)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이어무브",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 상대 필드의 포켓몬에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "수컷은 방어 본능이 강해서 자신과 파트너를 지킬 때 최대의 파워를 쓴다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Yuu Nishida",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001026",
+                "debug": "2"
+            },
+            {
+                "number": "190",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_190.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003190",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-042",
+        "cardID": "냐오초090초대초염080",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "초염동력",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "초대 이어",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 서포트를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "수컷보다 살짝 더 제멋대로이고 공격적이다. 기분이 상하면 사이코 파워로 괴롭힌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Taira Akitsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-032",
+        "cardID": "냐오초090이상사이060",
+        "name": "냐오닉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코블라스트",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이상한귀",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험이 다가오면 귀를 들어 올리고 10톤 트럭을 눌러 부술 정도의 사이코 파워를 방출한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-107",
+        "cardID": "냐오초160섀도마인060",
+        "name": "냐오닉스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "냐오닉스",
+                "pokedexNumber": 678
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "마인드쇼크",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": "이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "섀도이어",
+                "text": "자신의 필드의 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 상대의 필드에 있는 포켓몬에게 올린다. 이 특성은 이 포켓몬이 배틀필드에 있다면 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "107",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Toyste Beach",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001107",
+                "debug": "1"
+            }
+        ]
+    }
+]

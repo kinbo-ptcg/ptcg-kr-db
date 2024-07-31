@@ -1,0 +1,122 @@
+[
+    {
+        "id": "SV2P-012",
+        "cardID": "공푸풀100생명030마른080",
+        "name": "공푸리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "공푸리",
+                "pokedexNumber": 947
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "생명흡수",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "마른나무뇌옥",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 2개만큼 많아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "머리의 가지를 열어서 먹이를 삼킨다. 생기를 실컷 흡수한 다음 그대로 뱉어 버린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-013",
+        "cardID": "공푸풀100잡초파워080",
+        "name": "공푸리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "공푸리",
+                "pokedexNumber": 947
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "파워풀니들",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "잡초 근성",
+                "text": "상대가 이미 가져간 프라이즈 1장당 이 포켓몬의 최대 HP는 「+50」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "건조 지대를 떠돈다. 매우 드물지만 대량발생하여 마을 전체를 뒤덮어 버릴 때도 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "otumami",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005013",
+                "debug": "3"
+            }
+        ]
+    }
+]

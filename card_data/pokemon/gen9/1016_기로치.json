@@ -1,0 +1,62 @@
+[
+    {
+        "id": "SV6-056",
+        "cardID": "기로초120아드에너030",
+        "name": "기로치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "기로치",
+                "pokedexNumber": 1016
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지페더",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아드레나 페로몬",
+                "text": "이 포켓몬에게 (악) 에너지가 붙어 있다면 이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "윤기가 흐르는 날개를 펄럭이며 페로몬을 흩뿌리는 것으로 사람과 포켓몬을 매료시킨다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008056",
+                "debug": "3"
+            }
+        ]
+    }
+]

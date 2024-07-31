@@ -1,0 +1,134 @@
+[
+    {
+        "id": "SV2P-055",
+        "cardID": "꿈트강130영양빠져100",
+        "name": "꿈트렁",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "꿈트렁",
+                "pokedexNumber": 968
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "빠져나가기",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "영양 철분",
+                "text": "이 포켓몬에게 (강철) 에너지가 3개 이상 붙어 있다면 이 포켓몬의 최대 HP는 「+100」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "적에게 공격을 받으면 털을 주먹처럼 사용하여 폭풍 같은 기세로 펀치를 날린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011055",
+                "debug": "3"
+            },
+            {
+                "number": "081",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "OKACHEKE",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011081",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-049",
+        "cardID": "꿈트강140펀치020막판090",
+        "name": "꿈트렁",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "꿈트렁",
+                "pokedexNumber": 968
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "펀치&드로",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "막판러시",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90+",
+                "text": "자신의 덱의 남은 장수가 3장 이하라면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "적에게 공격을 받으면 털을 주먹처럼 사용하여 폭풍 같은 기세로 펀치를 날린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Pani Kobayashi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020049",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "id": "SA_L-011",
+        "cardID": "우르무070몸통010박치050",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "024",
+                "prodCode": "SA_L",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_L.png",
+                "prodName": "소드&실드 스타터 세트 V 번개",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001083",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-050",
+        "cardID": "우르무070부풀030",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부풀기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-10」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털이 많이 자라면 움직이지 못한다. 우르의 털로 짠 천은 놀라울 정도로 튼튼하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003050",
+                "debug": "1"
+            },
+            {
+                "number": "152",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_152.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016152",
+                "debug": "2"
+            },
+            {
+                "number": "302",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_302.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016302",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-362",
+        "cardID": "우르무060뒤엎010다함020",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤엎기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "다함께구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털이 많이 자라면 움직이지 못한다. 우르의 털로 짠 천은 놀라울 정도로 튼튼하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Miki Tanaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011054",
+                "debug": "2"
+            },
+            {
+                "number": "362",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Miki Tanaka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_362.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003362",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-039",
+        "cardID": "우르무070띄워020",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털이 많이 자라면 움직이지 못한다. 우르의 털로 짠 천은 놀라울 정도로 튼튼하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Yukiko Baba",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_013_D.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SN-011",
+        "cardID": "우르무070데굴030",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데굴데굴 구르기",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "024",
+                "prodCode": "SN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+                "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+                "artist": "OKACHEKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-026",
+        "cardID": "우르무060웅크000박치020",
+        "name": "우르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "우르",
+                "pokedexNumber": 831
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "웅크리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "픽셀 포켓몬 2권 부록 ",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000026",
+                "debug": "3"
+            }
+        ]
+    }
+]

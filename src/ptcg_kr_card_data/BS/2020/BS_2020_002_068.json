@@ -1,0 +1,3289 @@
+[
+    {
+        "id": "S1W-001",
+        "cardID": "로젤풀070흡수010",
+        "name": "로젤리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "로젤리아",
+                "pokedexNumber": 315
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡수",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃향기를 맡으면 기분이 편안해진다. 향이 강하면 건강한 로젤리아라는 뜻이다.",
+        "number": "001",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002001"
+    },
+    {
+        "id": "S1W-002",
+        "cardID": "로즈풀120저리030메가090",
+        "name": "로즈레이드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "로즈레이드",
+                "pokedexNumber": 407
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "저리독",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 동전을 1번 던져서 앞면이 나오면 마비로도 만든다."
+            },
+            {
+                "name": "메가드레인",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "B",
+        "number": "002",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "chibi",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002002"
+    },
+    {
+        "id": "S1W-003",
+        "cardID": "마라풀110따끔020파워060",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "따끔",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "파워풀니들",
+                "cost": "(풀)(무색)",
+                "damage": "60×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "마라카스 같은 소리를 낸다. 리듬이 경쾌해서 새포켓몬은 깜짝 놀라 허둥지둥 날아가버린다.",
+        "number": "003",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002003"
+    },
+    {
+        "id": "S1W-004",
+        "cardID": "타타풀220닻의030기가200",
+        "name": "타타륜 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "타타륜",
+                "pokedexNumber": 781
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "닻의분노",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 (풀) 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "기가해머",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 「기가해머」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Eske Yoshinob",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002004"
+    },
+    {
+        "id": "S1W-005",
+        "cardID": "흥나풀060마구010",
+        "name": "흥나숭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "흥나숭",
+                "pokedexNumber": 810
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특별한 스틱으로 리듬을 타면 화초를 생생하게 만드는 힘이 음파가 되어 퍼진다.",
+        "number": "005",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Naoki Saito",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002005"
+    },
+    {
+        "id": "S1W-006",
+        "cardID": "채키풀100도발000더블060",
+        "name": "채키몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "채키몽",
+                "pokedexNumber": 811
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "도발",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "더블어택",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "60×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "2개의 스틱으로 격렬한 비트를 만드는 채키몽일수록 동료들에게 존경받는다.",
+        "number": "006",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Megumi Mizutani",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002006"
+    },
+    {
+        "id": "S1W-007",
+        "cardID": "고릴풀170볼티한방140",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "볼티지비트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 (풀) 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.",
+        "number": "007",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002007"
+    },
+    {
+        "id": "S1W-008",
+        "cardID": "야도불070스모000",
+        "name": "야도뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "야도뇽",
+                "pokedexNumber": 757
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "스모그",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독주머니에서 만든 체액을 꼬리의 불꽃으로 가열해서 독가스를 발생시키는 구조로 되어 있다.",
+        "number": "008",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "SATOSHI NAKAI",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002008"
+    },
+    {
+        "id": "S1W-009",
+        "cardID": "염뉴불120태워020홍련120",
+        "name": "염뉴트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "염뉴트",
+                "pokedexNumber": 758
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "태워그을리기",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "염뉴트는 암컷만이 존재한다. 페로몬 가스를 발생시켜서 수컷 야도뇽을 매료시킨다.",
+        "number": "009",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002009"
+    },
+    {
+        "id": "S1W-010",
+        "cardID": "태우불070물기010화염050",
+        "name": "태우지네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "태우지네",
+                "pokedexNumber": 850
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸속에 모아둔 가연성 가스로 열을 낸다. 특히 배 쪽의 노란 부분이 뜨겁다.",
+        "number": "010",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002010"
+    },
+    {
+        "id": "S1W-011",
+        "cardID": "다태불130불꽃000태워110",
+        "name": "다태우지네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "다태우지네",
+                "pokedexNumber": 851
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃타래",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수만큼 상대의 덱을 위에서부터 트래쉬한다."
+            },
+            {
+                "name": "태워그을리기",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "발열 시의 체온은 약 800도. 몸을 채찍처럼 휘면서 덤벼든다.",
+        "number": "011",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002011"
+    },
+    {
+        "id": "S1W-012",
+        "cardID": "크랩물080아쿠000찝기030",
+        "name": "크랩",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "크랩",
+                "pokedexNumber": 98
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아샤워",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "찝기",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "바다 근처에서 발견된다. 커다란 집게는 뜯겨도 나중에 다시 자라난다.",
+        "number": "012",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "ryoma uratsuka",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002012"
+    },
+    {
+        "id": "S1W-013",
+        "cardID": "킹크물130묵직040손톱090",
+        "name": "킹크랩",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "킹크랩",
+                "pokedexNumber": 99
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "묵직한집게",
+                "cost": "(물)",
+                "damage": "40",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            },
+            {
+                "name": "손톱으로 도려내기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 집게는 1만 마력의 파워를 지녔지만 너무 커서 움직임이 둔하다.",
+        "number": "013",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002013"
+    },
+    {
+        "id": "S1W-014",
+        "cardID": "라프물210웨이000오션210",
+        "name": "라프라스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "웨이브백",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 (물) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그 뒤, 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "오션루프",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "014",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Hasuno",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002014"
+    },
+    {
+        "id": "S1W-015",
+        "cardID": "라프물320거다090",
+        "name": "라프라스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거다이펌프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002015"
+    },
+    {
+        "id": "S1W-016",
+        "cardID": "만타물110물담000스플060",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물담기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 (물) 에너지를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스플래시",
+                "cost": "(물)(물)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "헤엄쳐서 스피드가 빨라지면 파도 위로 뛰어올라 그대로 100m나 활공한다.",
+        "number": "016",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Jumpei Akasaka",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002016"
+    },
+    {
+        "id": "S1W-017",
+        "cardID": "울머물060물대020",
+        "name": "울머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "울머기",
+                "pokedexNumber": 816
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겁을 먹으면 양파 100개와 맞먹는 최루 성분의 눈물을 흘려서 상대도 덩달아 울게 만든다.",
+        "number": "017",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Megumi Mizutani",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002017"
+    },
+    {
+        "id": "S1W-018",
+        "cardID": "누겔물090이면물수030",
+        "name": "누겔레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "누겔레온",
+                "pokedexNumber": 817
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물수제비",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이면공작",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손바닥에서 나오는 수분을 빚어서 만든 물구슬로 두뇌 싸움을 펼친다.",
+        "number": "018",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Naoki Saito",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002018"
+    },
+    {
+        "id": "S1W-019",
+        "cardID": "인텔물160이면아쿠120",
+        "name": "인텔리레온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "인텔리레온",
+                "pokedexNumber": 818
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이면공작",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다채로운 기능을 숨기고 있다. 손끝에서 물을 분사하고 등에 있는 피막으로 바람을 탄다.",
+        "number": "019",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002019"
+    },
+    {
+        "id": "S1W-020",
+        "cardID": "멍파번070울부000찌릿010",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울부짖기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 낸다. 가라르에서는 양치기로 인기가 많다.",
+        "number": "020",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002020"
+    },
+    {
+        "id": "S1W-021",
+        "cardID": "펄스번130물고050투사090",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물고늘어지기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "투사의엄니",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V・[GX]」라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "만든 전기를 다리로 보내서 달리는 것을 돕는다. 삼 일 밤낮을 쉬지 않고 달릴 수 있다.",
+        "number": "021",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Misa Tsutsui",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002021"
+    },
+    {
+        "id": "S1W-022",
+        "cardID": "찌르번080찌릿030",
+        "name": "찌르성게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "찌르성게",
+                "pokedexNumber": 871
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿니들",
+                "cost": "(번개)(번개)",
+                "damage": "30×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 30데미지를 준다. 앞면이 2번 이상 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가시 끝에서 전기를 발산한다. 날카로운 이빨로 바위에 붙은 해초를 갉아 먹는다.",
+        "number": "022",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002022"
+    },
+    {
+        "id": "S1W-023",
+        "cardID": "고오초060휙사020",
+        "name": "고오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "고오스",
+                "pokedexNumber": 92
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "휙사라지기",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "가스에서 태어난 생명체다. 독을 포함한 가스의 몸에 둘러싸이면 누구든지 기절한다.",
+        "number": "023",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Taira Akitsu",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002023"
+    },
+    {
+        "id": "S1W-024",
+        "cardID": "고우초070악몽020홀로040",
+        "name": "고우스트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "고우스트",
+                "pokedexNumber": 93
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "악몽",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "가스로 된 혀에 닿게 되면 몸의 떨림이 멈추지 않게 되어 결국에는 죽음에 이른다고 전해진다.",
+        "number": "024",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002024"
+    },
+    {
+        "id": "S1W-025",
+        "cardID": "팬텀초110라이최면090",
+        "name": "팬텀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "팬텀",
+                "pokedexNumber": 94
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면파동",
+                "cost": "(초)(초)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "라이프셰이커",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 필드의 (초) 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 자신의 다른 (초) 포켓몬에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "보름달이 뜬 밤에 그림자가 멋대로 움직이면서 웃는다면 팬텀의 소행임이 틀림없다.",
+        "number": "025",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Eri Yamaki",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002025"
+    },
+    {
+        "id": "S1W-026",
+        "cardID": "마자초220힘껏000그림070",
+        "name": "마자용 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "힘껏되갚기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬에게 올려져 있는 데미지 카운터를 모두 바꿔서 올린다."
+            },
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(초)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "026",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002026"
+    },
+    {
+        "id": "S1W-027",
+        "cardID": "데인초030다과000",
+        "name": "데인차",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "데인차",
+                "pokedexNumber": 854
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다과회",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "서로의 플레이어는 각각 덱을 2장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "차게 식은 남은 홍차에 외로움을 타는 영혼이 깃들어 포켓몬이 되었다고 전해진다.",
+        "number": "027",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002027"
+    },
+    {
+        "id": "S1W-028",
+        "cardID": "포트초060다과000폴터050",
+        "name": "포트데스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "포트데스",
+                "pokedexNumber": 855
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다과회",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "서로의 플레이어는 각각 덱을 2장 뽑는다."
+            },
+            {
+                "name": "폴터가이스트",
+                "cost": "(초)(무색)",
+                "damage": "50×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "앤티크한 찻주전자에 산다. 대부분 위작이지만 매우 드물게 진품이 발견되기도 한다.",
+        "number": "028",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002028"
+    },
+    {
+        "id": "S1W-029",
+        "cardID": "꼬지격100더블000바둥010",
+        "name": "꼬지모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "꼬지모",
+                "pokedexNumber": 185
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "바둥바둥",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람도 불지 않는데 흔들리는 나무를 발견했다면 그게 바로 꼬지모다. 비가 오는 날에는 모습을 감춘다고 한다.",
+        "number": "029",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Yukiko Baba",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002029"
+    },
+    {
+        "id": "S1W-030",
+        "cardID": "오뚝격070빔빔010모래030",
+        "name": "오뚝군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "오뚝군",
+                "pokedexNumber": 343
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "빔",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "모래보라",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "한 다리로 회전하면서 이동한다. 거꾸로 회전하는 오뚝군도 발견된다.",
+        "number": "030",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Uta",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002030"
+    },
+    {
+        "id": "S1W-031",
+        "cardID": "점토격120환상030대폭200",
+        "name": "점토도리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "점토도리",
+                "pokedexNumber": 344
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "환상빔",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "대폭발",
+                "cost": "(격투)(격투)",
+                "damage": "200",
+                "text": "이 포켓몬에게도 120데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "2만 년 전 고대인이 만든 진흙인형에서 태어난 듯한 의문의 포켓몬.",
+        "number": "031",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002031"
+    },
+    {
+        "id": "S1W-032",
+        "cardID": "때때격060조이020",
+        "name": "때때무노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "때때무노",
+                "pokedexNumber": 852
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "조이기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먹이를 찾아 지상으로 올라온다. 호기심이 왕성해서 눈에 들어오는 것은 일단 촉수로 때리고 본다.",
+        "number": "032",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Mina Nakai",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002032"
+    },
+    {
+        "id": "S1W-033",
+        "cardID": "케오격130문어000하드130",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "문어굳히기",
+                "cost": "(격투)(격투)",
+                "damage": "",
+                "text": "이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 2개만큼 많아지고 후퇴할 수 없다. 이 효과는 이 「케오퍼스」가 배틀필드를 떠날 때까지 계속되며 중복되지 않는다."
+            },
+            {
+                "name": "하드스윙",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "온몸이 근육덩어리다. 촉수를 사용해서 펼치는 조르기 기술의 위력은 무시무시하다.",
+        "number": "033",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002033"
+    },
+    {
+        "id": "S1W-034",
+        "cardID": "돌헨격220가드040메가150",
+        "name": "돌헨진 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "034",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002034"
+    },
+    {
+        "id": "S1W-035",
+        "cardID": "돌헨격330스톤000다이200",
+        "name": "돌헨진 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤기프트",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 패에서 (격투) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그 뒤, 그 포켓몬의 HP를 「120」회복한다."
+            },
+            {
+                "name": "다이록",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "200",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "035",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002035"
+    },
+    {
+        "id": "S1W-036",
+        "cardID": "삐딱악070밟기010넘어030",
+        "name": "삐딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "삐딱구리",
+                "pokedexNumber": 453
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "넘어뜨리기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼에 있는 독주머니를 울려서 상대를 위협한다. 풀이 죽은 틈을 타 독찌르기 공격을 한다.",
+        "number": "036",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "otumami",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002036"
+    },
+    {
+        "id": "S1W-037",
+        "cardID": "독개악110포이독발070",
+        "name": "독개굴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "독개굴",
+                "pokedexNumber": 454
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(악)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "포이즌업",
+                "text": "이 포켓몬이 있는 한, 상대의 배틀 포켓몬은 독으로 올리는 데미지 카운터의 수가 2개 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "튀어 오르듯 상대에게 다가간 뒤 독손톱으로 찌르듯이 공격한다! 스치기만 해도 상대는 KO다.",
+        "number": "037",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Ryuta Fuse",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002037"
+    },
+    {
+        "id": "S1W-038",
+        "cardID": "훔처악070꼬드000",
+        "name": "훔처우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "훔처우",
+                "pokedexNumber": 827
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "꼬드기기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대는 상대 자신의 패를 모두 뒷면으로 하여 섞고 상대의 덱의 아래로 되돌린다. 그 뒤, 상대는 덱을 3장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다른 포켓몬이 발견한 먹이를 훔치며 산다. 푹신푹신한 볼록살 덕분에 발소리가 나지 않는다.",
+        "number": "038",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002038"
+    },
+    {
+        "id": "S1W-039",
+        "cardID": "폭슬악100도둑020어둠090",
+        "name": "폭슬라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "폭슬라이",
+                "pokedexNumber": 828
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "도둑질",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "상대의 패를 보고 그 중에서 카드를 1장 선택해서 상대의 덱의 아래로 되돌린다."
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "목표로 한 먹잇감에 슬쩍 마킹을 해둔다. 냄새를 따라가다 먹이의 주인이 방심하고 있을 때 훔치려 든다.",
+        "number": "039",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Kouki Saitou",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002039"
+    },
+    {
+        "id": "S1W-040",
+        "cardID": "나옹강070손톱000베어030",
+        "name": "가라르 나옹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나옹",
+                "pokedexNumber": 52,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "손톱갈기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 다음 차례에 이 포켓몬의 「베어가르기」의 데미지는 「+60」이 된다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "전투적인 해양 민족과 지내는 동안 단련되어 몸 여기저기가 강철로 변화했다.",
+        "number": "040",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002040"
+    },
+    {
+        "id": "S1W-041",
+        "cardID": "나이강120강철메탈070",
+        "name": "가라르 나이킹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "나이킹",
+                "pokedexNumber": 863,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "강철정신",
+                "text": "이 포켓몬이 있는 한, 자신의 (강철) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리의 털이 단단해져서 철로 된 헬멧처럼 되었다. 매우 호전적인 성질을 가졌다.",
+        "number": "041",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002041"
+    },
+    {
+        "id": "S1W-042",
+        "cardID": "철시강070구르010",
+        "name": "철시드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "철시드",
+                "pokedexNumber": 597
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "가시를 날려서 몸을 지킨다. 원하는 방향으로 날리기 위해서는 많은 훈련이 필요하다.",
+        "number": "042",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Yuka Morii",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002042"
+    },
+    {
+        "id": "S1W-043",
+        "cardID": "너트강130트리030에너100",
+        "name": "너트령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "너트령",
+                "pokedexNumber": 598
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "트리플스매시",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "에너지슬랩",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 모두 벤치 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "가시로 암반에 상처를 낸 다음 촉수 끝을 이용해서 영양분을 흡수한다.",
+        "number": "043",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Midori Harada",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002043"
+    },
+    {
+        "id": "S1W-044",
+        "cardID": "메더강120집게데미030",
+        "name": "가라르 메더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "메더",
+                "pokedexNumber": 618,
+                "region": "가라르"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "데미지러쉬",
+                "cost": "(강철)(무색)",
+                "damage": "30+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "집게덫",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "철분이 풍부한 진흙 속에서 서식하다 보니 튼튼한 강철의 몸으로 변화했다.",
+        "number": "044",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002044"
+    },
+    {
+        "id": "S1W-045",
+        "cardID": "아머강170쪼기050무쇠130",
+        "name": "아머까오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "아머까오",
+                "pokedexNumber": 823
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "무쇠날개",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "130",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다. 그 경우, 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "가라르지방의 하늘에는 적수가 없다. 검고 윤이 나는 강철의 자태는 상대에게 위압감을 주어 겁먹게 만든다.",
+        "number": "045",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Shin Nagasawa",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002045"
+    },
+    {
+        "id": "S1W-046",
+        "cardID": "자시강220불요브레230",
+        "name": "자시안 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자시안",
+                "pokedexNumber": 888
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "브레이브 칼리버",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불요의검",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 자신의 덱을 위에서부터 3장 보고 그 중에서 (강철) 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다. 남은 카드는 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "046",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002046"
+    },
+    {
+        "id": "S1W-047",
+        "cardID": "치라무070흘끗000스위020",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "흘끗보기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 보고 원래대로 되돌린다."
+            },
+            {
+                "name": "스위프뺨치기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.",
+        "number": "047",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002047"
+    },
+    {
+        "id": "S1W-048",
+        "cardID": "치라무090주변에너040",
+        "name": "치라치노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "치라치노",
+                "pokedexNumber": 573
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에너지 어시스트",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "주변머리",
+                "text": "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 2장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먼지 한 톨도 용납하지 않는 결벽증. 몸에서 나오는 기름을 둥지에 발라서 코팅한다.",
+        "number": "048",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002048"
+    },
+    {
+        "id": "S1W-049",
+        "cardID": "파라무060홰치010활공030",
+        "name": "파라꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "파라꼬",
+                "pokedexNumber": 821
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "활공",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "아무리 강한 상대라도 덤벼드는 용감한 성격을 가졌다. 도리어 당하면서도 점점 단련되어 간다.",
+        "number": "049",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002049"
+    },
+    {
+        "id": "S1W-050",
+        "cardID": "파크무080쪼아020회전050",
+        "name": "파크로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "파크로우",
+                "pokedexNumber": 822
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "쪼아대기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "데미지를 주기 전에 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다."
+            },
+            {
+                "name": "회전부리",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "발로 돌멩이를 쥐어서 던지거나 로프를 상대에게 휘감는 등 도구를 다루는 지혜를 가졌다.",
+        "number": "050",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "C",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002050"
+    },
+    {
+        "id": "S1W-051",
+        "cardID": "윽우무200부리000스핏000",
+        "name": "윽우지 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "윽우지",
+                "pokedexNumber": 845
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부리캐치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스핏슛",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 160데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "051",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "aky CG Works",
+        "rarity": "RR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002051"
+    },
+    {
+        "id": "S1W-052",
+        "cardID": "고급상처약",
+        "name": "고급상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「120」회복한다.",
+            "그 뒤, 그 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다.",
+            "(에너지가 2개 붙어 있지 않은 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "052",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002052"
+    },
+    {
+        "id": "S1W-053",
+        "cardID": "로토무자전거",
+        "name": "로토무자전거",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 사용하면 자신의 차례는 끝난다.",
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "053",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002053"
+    },
+    {
+        "id": "S1W-054",
+        "cardID": "보통낚싯대",
+        "name": "보통낚싯대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬을 2장까지, 기본 에너지를 2장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다.",
+            "(포켓몬 또는 기본 에너지 중 어느 한쪽만이라도 좋다.)"
+        ],
+        "number": "054",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002054"
+    },
+    {
+        "id": "S1W-055",
+        "cardID": "진화향로",
+        "name": "진화향로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "055",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002055"
+    },
+    {
+        "id": "S1W-056",
+        "cardID": "리샘열매",
+        "name": "리샘열매",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 특수 상태라면 그 포켓몬의 특수 상태를 모두 회복한다.",
+            "그 뒤, 이 카드를 트래쉬한다."
+        ],
+        "number": "056",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Yoshinobu Saito",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002056"
+    },
+    {
+        "id": "S1W-057",
+        "cardID": "커다란부적",
+        "name": "커다란부적",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬의 최대 HP는 「30」커진다."
+        ],
+        "number": "057",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "inose yukie",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002057"
+    },
+    {
+        "id": "S1W-058",
+        "cardID": "풍선",
+        "name": "풍선",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬은 후퇴에 필요한 에너지가 2개만큼 적어진다."
+        ],
+        "number": "058",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Yoshinobu Saito",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002058"
+    },
+    {
+        "id": "S1W-059",
+        "cardID": "박사의 연구(매그놀리아박사)",
+        "name": "박사의 연구(매그놀리아박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "059",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "R",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002059"
+    },
+    {
+        "id": "S1W-060",
+        "cardID": "비트",
+        "name": "비트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+        ],
+        "number": "060",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Naoki Saito",
+        "rarity": "U",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002060"
+    },
+    {
+        "id": "S1W-061",
+        "cardID": "타타풀220닻의030기가200",
+        "name": "타타륜 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "타타륜",
+                "pokedexNumber": 781
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "닻의분노",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 (풀) 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "기가해머",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 「기가해머」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "061",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Eske Yoshinob",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002061"
+    },
+    {
+        "id": "S1W-062",
+        "cardID": "라프물210웨이000오션210",
+        "name": "라프라스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "웨이브백",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 (물) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그 뒤, 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "오션루프",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "062",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002062"
+    },
+    {
+        "id": "S1W-063",
+        "cardID": "마자초220힘껏000그림070",
+        "name": "마자용 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "마자용",
+                "pokedexNumber": 202
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "힘껏되갚기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬에게 올려져 있는 데미지 카운터를 모두 바꿔서 올린다."
+            },
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(초)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "063",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002063"
+    },
+    {
+        "id": "S1W-064",
+        "cardID": "돌헨격220가드040메가150",
+        "name": "돌헨진 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "064",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002064"
+    },
+    {
+        "id": "S1W-065",
+        "cardID": "자시강220불요브레230",
+        "name": "자시안 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자시안",
+                "pokedexNumber": 888
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "브레이브 칼리버",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불요의검",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 자신의 덱을 위에서부터 3장 보고 그 중에서 (강철) 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다. 남은 카드는 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "065",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "5ban Graphics",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002065"
+    },
+    {
+        "id": "S1W-066",
+        "cardID": "윽우무200부리000스핏000",
+        "name": "윽우지 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "윽우지",
+                "pokedexNumber": 845
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부리캐치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스핏슛",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 160데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "066",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002066"
+    },
+    {
+        "id": "S1W-067",
+        "cardID": "박사의 연구(매그놀리아박사)",
+        "name": "박사의 연구(매그놀리아박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "067",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "kirisAki",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002067"
+    },
+    {
+        "id": "S1W-068",
+        "cardID": "비트",
+        "name": "비트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+        ],
+        "number": "068",
+        "prodNumber": "060",
+        "prodCode": "S1W",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+        "prodName": "소드&실드 확장팩 「소드」",
+        "artist": "Naoki Saito",
+        "rarity": "SR",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002068"
+    }
+]

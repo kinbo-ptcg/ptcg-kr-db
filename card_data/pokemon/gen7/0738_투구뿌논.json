@@ -1,0 +1,519 @@
+[
+    {
+        "id": "smc-008",
+        "cardID": "투구번150스트일렉150",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트로캐논",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스트롱차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에 있는 (풀) 에너지와 (번개) 에너지를 1장씩 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "배에 있는 발전기관에서 전기를 일으킨다. 전격 빔으로 새포켓몬도 압도한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002020",
+                "debug": "2"
+            },
+            {
+                "number": "008",
+                "prodNumber": "021",
+                "prodCode": "smc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+                "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003008",
+                "debug": "3"
+            },
+            {
+                "number": "031",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013031",
+                "debug": "2"
+            },
+            {
+                "number": "031",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011031",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 3",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000043",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-021",
+        "cardID": "투구번240차지050초전180기가000",
+        "name": "투구뿌논 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "차지빔",
+                "cost": "(번개)",
+                "damage": "50",
+                "text": "자신의 트래쉬에 있는 에너지를 1장 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "초전자포",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "기가트론 GX",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 전원에게 각각 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003021",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003055",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-018",
+        "cardID": "투구번150스텔일렉120",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭포",
+                "cost": "(번개)(번개)(번개)(무색)",
+                "damage": "120+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬한다. 그 경우, 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스텔스바디",
+                "text": "필드에 스타디움이 나와 있다면 이 포켓몬의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "복부에 발전 기관을 갖고 있다. 큰 턱에 에너지를 모아 굉장한 전격을 쏜다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003018",
+                "debug": "1"
+            },
+            {
+                "number": "165",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "카드샵 한정 프로모팩",
+                "artist": "Misa Tsutui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_303.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000224",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-030",
+        "cardID": "투구번150파워060전격170",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "파워풀스톰",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "전격빔",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "복부에서 만든 전기를 커다란 턱에 집중시켜서 고출력의 빔을 쏜다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-025",
+        "cardID": "투구번210패럴050초전190",
+        "name": "투구뿌논 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "패럴라이즈 볼트",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "초전자포",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010025",
+                "debug": "1"
+            },
+            {
+                "number": "073",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010073",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8-033",
+        "cardID": "투구번150물기070일렉000",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 블래스터",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 200데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "예비 배터리로서 전지충이를 안고 날면 높은 전력의 전자빔을 연사할 수 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-028",
+        "cardID": "투구번160마하050직렬120",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마하볼트",
+                "cost": "(번개)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "직렬캐논",
+                "cost": "(번개)(번개)",
+                "damage": "120+",
+                "text": "자신의 벤치의 「전지충이」의 수 × 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "복부에서 만든 전기를 커다란 턱에 집중시켜서 고출력의 빔을 쏜다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005028",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,413 @@
+[
+    {
+        "id": "bw5e-034",
+        "cardID": "레지강180트리000프로080",
+        "name": "레지스틸 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "트리플레이저",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 3마리 선택해서 각각에게 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "프로텍트차지",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006034",
+                "debug": "1"
+            },
+            {
+                "number": "052",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_052.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006052",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy7-051",
+        "cardID": "레지강120아이030봉인070",
+        "name": "레지스틸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언헤드",
+                "cost": "(강철)(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "봉인의철퇴",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 그 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "어떤 금속보다도 딱딱하다고 전해지는 몸이다. 조사 결과 몸 안은 비어 있었다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_051.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-068",
+        "cardID": "레지강130터보030쇠철090",
+        "name": "레지스틸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "터보암",
+                "cost": "(강철)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "쇠철주먹",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "90",
+                "text": "자신의 벤치에 「레지아이스」가 있다면 이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "몇만 년 동안 지하의 압력에 의해서 단련된 금속의 몸은 상처 하나 입지 않는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011035",
+                "debug": "2"
+            },
+            {
+                "number": "068",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013068",
+                "debug": "1"
+            },
+            {
+                "number": "068",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011068",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7-056",
+        "cardID": "레지강120딱딱실버060",
+        "name": "레지스틸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "실버피스트",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 특성을 가지고 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "어떤 금속보다도 딱딱하다고 전해지는 몸이다. 조사 결과 몸 안은 비어 있었다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007056",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10D-047",
+        "cardID": "레지강130레지000헤비220",
+        "name": "레지스틸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "레지게이트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤비봄버",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "220-",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 50데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "늘었다 줄었다 하는 유연함도 갖췄지만 어떤 금속보다도 튼튼한 신비한 물질로 이루어져 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "hatachu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007047",
+                "debug": "3"
+            },
+            {
+                "number": "097",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "hatachu",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001097",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs10-31",
+        "cardID": "레지강090레지롤링050",
+        "name": "레지스틸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레지스틸",
+                "pokedexNumber": 379
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "롤링크루",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": "원한다면 자신의 에너지를 1장 트래쉬해도 좋다. 그 경우 자신의 트래쉬에서 다른 에너지를 1장 선택해서 자신에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "레지힐",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패를 2장 트래쉬한다. 그 뒤 이 포켓몬의 데미지 카운터를 3개 제거한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "몇 만년 동안 지하의 압력에 의해서 단련된 금속의 몸은 상처 하나 입지 않는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "31",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Kazuaki Aihara",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_31.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010031",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "id": "sm4a-022",
+        "cardID": "텅비초180텅빈가두120패러000",
+        "name": "텅비드 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "텅비드",
+                "pokedexNumber": 793
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "가두기",
+                "cost": "(초)(초)(초)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "패러사이트 GX",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 상대의 프라이즈로 놓는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "텅빈 불빛",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 배틀 포켓몬을 각각 독과 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "050",
+                "prodCode": "sm4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4a.png",
+                "prodName": "썬&문 확장팩 제4탄 「초차원의 침략자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4A/SM4A_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017012022",
+                "debug": "3"
+            },
+            {
+                "number": "052",
+                "prodNumber": "050",
+                "prodCode": "sm4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4a.png",
+                "prodName": "썬&문 확장팩 제4탄 「초차원의 침략자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4A/SM4A_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017012052",
+                "debug": "2"
+            },
+            {
+                "number": "222",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_222.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002222",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8-046",
+        "cardID": "텅비초110나이000텅빈000",
+        "name": "텅비드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "텅비드",
+                "pokedexNumber": 793
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "나이트캡",
+                "cost": "(초)",
+                "damage": "",
+                "text": "이 기술은 상대의 남은 프라이즈 장수가 2장일 때에만 사용할 수 있다. 상대의 필드의 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다."
+            },
+            {
+                "name": "텅빈촉수",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독과 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "UB의 일종. 의지가 있는지는 불명확하지만 가끔 소녀 같은 행동을 보인다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Megumi Mizutani",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010046",
+                "debug": "1"
+            }
+        ]
+    }
+]

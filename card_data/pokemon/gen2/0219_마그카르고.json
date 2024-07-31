@@ -1,0 +1,747 @@
+[
+    {
+        "id": "xy1x-012",
+        "cardID": "마그불110마그030히트080",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "마그마맨틀",
+                "cost": "(불꽃)(무색)",
+                "damage": "30+",
+                "text": "원한다면 자신의 덱을 위에서부터 1장 트래쉬해도 좋다. 그 경우 트래쉬한 카드가 (불꽃) 에너지라면 50데미지를 추가한다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등껍질은 깨어지기 쉬우며 가끔 체내를 순환하고 있는 고열의 불꽃을 뿜어낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "060",
+                "prodCode": "xy1x",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1x.png",
+                "prodName": "XY 확장팩 제1탄 「X컬렉션」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_X_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014001012",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-015",
+        "cardID": "마그불120불꽃020화염090",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃튀기기",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Shigenori Negishi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_015.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-016",
+        "cardID": "마그불110【Ω부딪030불굴060",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "불굴의불꽃",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Ω배리어】",
+                "text": "이 포켓몬은 상대가 사용하는 트레이너스의 효과를 받지 않는다. (포켓몬의 도구 스타디움은 제외한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_016.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-011",
+        "cardID": "마그불090땅고화염050",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "땅고르기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 1장 선택한다. 남은 덱을 섞고 선택한 카드를 덱의 위로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006010",
+                "debug": "2"
+            },
+            {
+                "number": "010",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Midori Harada",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006085",
+                "debug": "2"
+            },
+            {
+                "number": "011",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-012",
+        "cardID": "마그불210크래용암050마그000",
+        "name": "마그카르고 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "용암류",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에 붙어 있는 기본 에너지를 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "마그뱅 GX",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 5장 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "크래시차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 기본 에너지라면 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012012",
+                "debug": "1"
+            },
+            {
+                "number": "062",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/temp/SM7A_0062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012062",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-005",
+        "cardID": "마그불120쿵쿵000화염080",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "쿵쿵거리기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등껍질은 깨어지기 쉬우며 가끔 체내를 순환하고 있는 고열의 불꽃을 뿜어낸다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Miki Tanaka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-015",
+        "cardID": "마그불130히트060홍련180",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-054",
+        "cardID": "마그불130돌떨040바디150",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "바디스플래시",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "150",
+                "text": "동전을 3번 던져서 뒷면이 나온 수만큼 이 포켓몬에게 붙어 있는 에너지를 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Eri Yamaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007013",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Eri Yamaki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-016",
+        "cardID": "마그불130불꽃030로스220",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "로스트 볼케이노",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 로스트존에 둔다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸이 항상 일렁이고 있으며 용암처럼 뜨겁다. 때때로 껍데기에서 불티가 샌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Pani Kobayashi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-018",
+        "cardID": "마그불120용암히트100",
+        "name": "마그카르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "용암지대",
+                "text": "이 포켓몬이 있는 한, 상대의 차례에 상대의 배틀 포켓몬이 벤치로 돌아갈 때마다 새로 나온 포켓몬을 화상으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등껍질은 깨어지기 쉬우며 가끔 체내를 순환하고 있는 고열의 불꽃을 뿜어낸다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-013",
+        "cardID": "마그불270테라뜨거070그라140",
+        "name": "마그카르고 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "마그카르고",
+                "pokedexNumber": 219
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "뜨거운마그마",
+                "cost": "(불꽃)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "그라운드번",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "140+",
+                "text": "서로의 덱을 위에서부터 1장씩 트래쉬하고 그 중에 있는 에너지의 장수 × 140데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007013",
+                "debug": "1"
+            },
+            {
+                "number": "080",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "PLANETA Yamashita",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007080",
+                "debug": "2"
+            }
+        ]
+    }
+]

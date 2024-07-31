@@ -1,0 +1,686 @@
+[
+    {
+        "id": "bw6c-002",
+        "cardID": "덩쿠풀130백열030메가070",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "백열휩",
+                "cost": "(풀)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 30데미지를 준다. 자신의 다음 차례에 이 포켓몬은 「백열휩」을 사용할 수 없다."
+            },
+            {
+                "name": "메가드레인",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "팔을 먹혀도 문제없다. 재생능력이 높아 눈 깜짝할 사이에 원래대로 돌아간다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "059",
+                "prodCode": "bw6c",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6c.png",
+                "prodName": "BW 확장팩 제6탄 「콜드플레어」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_coldflare_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012009002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "MG-002",
+        "cardID": "덩쿠풀120붙들030휩다060",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "휩다운",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "팔을 먹혀도 문제없다. 재생능력이 높아 눈 깜짝할 사이에 원래대로 돌아간다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "016",
+                "prodCode": "MG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/MG.png",
+                "prodName": "포켓몬 카드 게임 BW 「30장 덱 대전 set 뮤츠VS게노세크트」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/MG/MG_G_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013006019",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-002",
+        "cardID": "덩쿠풀130메가050풀묶080",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메가드레인",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "풀묶기",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "따뜻한 계절이 오면 눈이 보이지 않을 정도로 식물의 덩굴이 계속 자란다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "MAHOU",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11h-002",
+        "cardID": "덩쿠풀130리프080휩다110",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프스톰",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80",
+                "text": "자신의 (풀) 포켓몬 전원의 HP를 각각 「40」회복한다."
+            },
+            {
+                "name": "휩다운",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "110＋",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "따뜻한 계절이 오면 눈이 보이지 않을 정도로 식물의 덩굴이 계속 자란다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-005",
+        "cardID": "덩쿠풀140기가030크로050",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "기가드레인",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "크로스휩",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "tetsuya koizumi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-002",
+        "cardID": "덩쿠풀140우둥030휩스110",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "우둥퉁휩",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 HP를 회복했다면 130데미지를 추가한다."
+            },
+            {
+                "name": "휩스매시",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "따뜻한 계절이 오면 눈이 보이지 않을 정도로 식물의 덩굴이 계속 자란다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009002",
+                "debug": "1"
+            },
+            {
+                "number": "002",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009058",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-002",
+        "cardID": "덩쿠풀130붙들030클로090",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "클로로휩",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 (풀) 에너지가 2개 붙어 있다면 이 포켓몬의 HP를 「60」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "kodama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005006",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-003",
+        "cardID": "덩쿠풀140풀묶010힘껏080",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "풀묶기",
+                "cost": "(풀)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "힘껏치기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-005",
+        "cardID": "덩쿠풀150흡착050한방130",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡착덩굴",
+                "cost": "(풀)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "자유자재로 늘어나는 2개의 팔은 덩굴이 뭉쳐진 것이었다는 사실이 최근 연구로 밝혀졌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "zig",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-002",
+        "cardID": "덩쿠풀150밀림덮어150",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덮어씌우기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "150-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "밀림 바디",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "LINNE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-05",
+        "cardID": "덩쿠풀110파워000감아060",
+        "name": "덩쿠림보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "덩쿠림보",
+                "pokedexNumber": 465
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "파워휩",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 기본 에너지의 개수 × 10데미지를 준다."
+            },
+            {
+                "name": "감아서 흡수",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 데미지 카운터를 3개 제거한다. 상대의 다음 차례에 이 기술을 받은 상대는 후퇴를 할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "05",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Kent Kanetsuna",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_5.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008005",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "id": "xy4-002",
+        "cardID": "도나풀090현기000맹독050",
+        "name": "도나리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "도나리",
+                "pokedexNumber": 49
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "현기증바람",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 다음 차례에 상대는 패에서 트레이너스를 꺼내서 사용할 때 동전을 한 번 던진다. 뒷면이 나오면 그 카드의 효과는 사용할 수 없으며 그 카드를 트래쉬한다."
+            },
+            {
+                "name": "맹독인분",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 독과 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "흩뿌려진 날개 가루에 닿으면 몸의 감각이 이상해져서 똑바로 서 있을 수 없게 된다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004002",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-002",
+        "cardID": "도나풀200시노110열장060",
+        "name": "도나리 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "도나리",
+                "pokedexNumber": 49
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시노비의정수",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "110+",
+                "text": "이 차례에 패에서 「독수의 함정」을 꺼내서 사용했다면 90데미지를 추가한다.\n「도희」를 꺼내서 사용했다면 상대의 다음 차례에 이 포켓몬은 [기본] 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "열장반환 GX",
+                "cost": "(무색)",
+                "damage": "60",
+                "text": "자신의 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 덱을 10장 뽑는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003002",
+                "debug": "1"
+            },
+            {
+                "number": "056",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003056",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10-006",
+        "cardID": "도나풀090어새000독가030",
+        "name": "도나리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "도나리",
+                "pokedexNumber": 49
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "어새신 플라이트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 기술은 상대의 배틀 포켓몬이 특수 상태라면 사용할 수 있다. 상대의 벤치 포켓몬 1마리에게 90데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "독가루",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "흩뿌려진 날개 가루에 닿으면 몸의 감각이 이상해져서 똑바로 서 있을 수 없게 된다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mina Nakai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-002",
+        "cardID": "도나풀090미라030바람070",
+        "name": "도나리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "도나리",
+                "pokedexNumber": 49
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "미라클파우더",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 특수 상태 중 1개를 선택해서 상대의 배틀 포켓몬을 그 상태로 만든다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(풀)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "날개에 가루가 묻어 있어 팔락팔락 날개를 칠 때마다 맹독 가루를 흩뿌린다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-049",
+        "cardID": "도나풀090착란030스피090",
+        "name": "도나리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "도나리",
+                "pokedexNumber": 49
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "착란파우더",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다. 상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "스피드윙",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개에 가루가 묻어 있어 팔락팔락 날갯짓을 할 때마다 맹독 가루를 흩뿌린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014049",
+                "debug": "1"
+            }
+        ]
+    }
+]

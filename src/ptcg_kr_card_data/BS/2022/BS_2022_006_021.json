@@ -1,0 +1,816 @@
+[
+    {
+        "id": "SLD-001",
+        "cardID": "크로악180나이독이070",
+        "name": "크로뱃 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "크로뱃",
+                "pokedexNumber": 169
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독이빨",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "나이트애셋",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다. 이 차례에 이미 다른 「나이트애셋」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006001"
+    },
+    {
+        "id": "SLD-002",
+        "cardID": "니로악060쪼기010날개030",
+        "name": "니로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "니로우",
+                "pokedexNumber": 198
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "날개치기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "보스를 위해 반짝반짝 빛나는 것을 찾고 있다. 불길한 존재로 여겨 몹시 싫어하는 사람도 많다.",
+        "number": "002",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006002"
+    },
+    {
+        "id": "SLD-003",
+        "cardID": "돈크악120쪼기020나이160",
+        "name": "돈크로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "돈크로우",
+                "pokedexNumber": 430
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "나이트 사이클론",
+                "cost": "(악)(악)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 벤치 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "적과 싸우는 것은 거의 부하다. 자신의 손을 더럽히는 것은 상대에게 마지막 일격을 가할 때뿐이다.",
+        "number": "003",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Shiburingaru",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006003"
+    },
+    {
+        "id": "SLD-004",
+        "cardID": "침바악080부딪010구르030",
+        "name": "히스이 침바루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "침바루",
+                "pokedexNumber": 211,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "침으로 독을 흩뿌리며 귀찮게 하기 때문에 어부들이 몹시 싫어하는 존재다. 다른 지방에서는 다른 모습으로 서식한다.",
+        "number": "004",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006004"
+    },
+    {
+        "id": "SLD-005",
+        "cardID": "장침악130더티030궤찌070",
+        "name": "히스이 장침바루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "장침바루",
+                "pokedexNumber": 904,
+                "region": "히스이"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "더티프레스",
+                "cost": "(악)",
+                "damage": "30+",
+                "text": "자신의 필드에 (악) 에너지가 3개 이상 있다면 90데미지를 추가한다."
+            },
+            {
+                "name": "궤찌르기",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "창과 같은 침과 흉포한 성질 때문에 \"바다 도깨비\"라는 이명이 있는 포켓몬. 독을 마셔서 자신의 양식으로 삼는다.",
+        "number": "005",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006005"
+    },
+    {
+        "id": "SLD-006",
+        "cardID": "세비악110기습060",
+        "name": "세비퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "세비퍼",
+                "pokedexNumber": 336
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "기습턴",
+                "cost": "(악)(악)",
+                "damage": "60",
+                "text": "이 포켓몬을 벤치의 (악) 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "꼬리의 칼은 항상 바위로 갈고 있어 날카로움이 뛰어나다. 쟝고와는 사연이 깊은 사이다.",
+        "number": "006",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006006"
+    },
+    {
+        "id": "SLD-007",
+        "cardID": "다크악210어둠050다크130",
+        "name": "다크라이 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠의바람",
+                "cost": "(악)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "다크홀",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "takuyoa",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006007"
+    },
+    {
+        "id": "SLD-008",
+        "cardID": "다크악270스타악의030",
+        "name": "다크라이 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "악의파동",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (악) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타어비스",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 트래쉬에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "008",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006008"
+    },
+    {
+        "id": "SLD-009",
+        "cardID": "오케악050동료000몸통020",
+        "name": "오케이징",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "오케이징",
+                "pokedexNumber": 686
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(악)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.",
+        "number": "009",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Shibuzoh.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006009"
+    },
+    {
+        "id": "SLD-010",
+        "cardID": "후파악120마신000타이100",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "마신의손",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 (악) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "타이런트홀",
+                "cost": "(악)(악)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음에 든 것을 링을 사용해 비밀의 거처에 모으고 있다. 링을 통해 순간이동한다.",
+        "number": "010",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006010"
+    },
+    {
+        "id": "SLD-011",
+        "cardID": "다크패치",
+        "name": "다크패치",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 「기본 (악) 에너지」를 1장 선택해서 벤치의 (악) 포켓몬에게 붙인다."
+        ],
+        "number": "011",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006011"
+    },
+    {
+        "id": "SLD-012",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006012"
+    },
+    {
+        "id": "SLD-013",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006013"
+    },
+    {
+        "id": "SLD-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006014"
+    },
+    {
+        "id": "SLD-015",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006015"
+    },
+    {
+        "id": "SLD-016",
+        "cardID": "난천의 패기",
+        "name": "난천의 패기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 8장이 되도록 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006016"
+    },
+    {
+        "id": "SLD-017",
+        "cardID": "박사의 연구(마박사)",
+        "name": "박사의 연구(마박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006017"
+    },
+    {
+        "id": "SLD-018",
+        "cardID": "보스의 지령(태홍)",
+        "name": "보스의 지령(태홍)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006018"
+    },
+    {
+        "id": "SLD-019",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006019"
+    },
+    {
+        "id": "SLD-020",
+        "cardID": "용식",
+        "name": "용식",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "020",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006020"
+    },
+    {
+        "id": "SLD-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "DAR",
+        "prodCode": "SLD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLD.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「다크라이」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLD_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022006021"
+    }
+]

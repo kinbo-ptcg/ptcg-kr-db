@@ -1,0 +1,572 @@
+[
+    {
+        "id": "sma-009",
+        "cardID": "냐오불070물기010불꽃020",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(불꽃)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001009",
+                "debug": "3"
+            },
+            {
+                "number": "007",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003007",
+                "debug": "2"
+            },
+            {
+                "number": "007",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm60a-001",
+        "cardID": "냐오불060가져000할퀴020",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-016",
+        "cardID": "냐오불060불씨020",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불씨",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8a-001",
+        "cardID": "냐오불060발톱010",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "발톱 드러내기",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "감정을 드러내지 않고 혼자 있는 것을 좋아한다. 신뢰를 얻기까지 시간이 걸린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013001",
+                "debug": "1"
+            },
+            {
+                "number": "001",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013059",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-023",
+        "cardID": "냐오불060고양000물고060",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "고양이일상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다. 그 뒤, 이 포켓몬을 잠듦으로 만든다. "
+            },
+            {
+                "name": "물고늘어지기",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "집요하게 따라다니면 마음을 열지 않는다. 친밀해져도 과도한 스킨십은 금물이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Atsuko Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007014",
+                "debug": "2"
+            },
+            {
+                "number": "023",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10-013",
+        "cardID": "냐오불050그을000",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "그을리기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "집요하게 따라다니면 마음을 열지 않는다. 친밀해져도 과도한 스킨십은 금물이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "0313",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-015",
+        "cardID": "냐오불070갉기010대갚020",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(불꽃)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "대갚음",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "1년에 2번 털이 새로 난다. 때가 되면 자신의 몸에 불을 붙여서 오래된 털을 태운다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Narumi Sato",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-020",
+        "cardID": "냐오불070속이010",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "속이기",
+                "cost": "(불꽃)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "틈만 나면 털을 핥아서 정리한다. 뱃속에 쌓인 빠진 털에 불을 붙여서 불꽃 기술을 사용한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "REND",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005020",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Makura Tami",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-003",
+        "cardID": "냐오불060화염030",
+        "name": "냐오불",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "냐오불",
+                "pokedexNumber": 725
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 팝업스토어2016 구매 특전",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000003",
+                "debug": "1"
+            }
+        ]
+    }
+]

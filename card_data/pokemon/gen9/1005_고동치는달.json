@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SV4K-054",
+        "cardID": "고동악230사납000컬래100",
+        "name": "고동치는달 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "고동치는달",
+                "pokedexNumber": 1005
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "사납게 도려내기",
+                "cost": "(악)(악)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 기절시킨다. 그 뒤, 이 포켓몬에게 200데미지를 준다."
+            },
+            {
+                "name": "컬래머티스톰",
+                "cost": "(악)(악)(무색)",
+                "damage": "100+",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다. 그 경우, 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021054",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021084",
+                "debug": "2"
+            },
+            {
+                "number": "090",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Ryota Murayama",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021090",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-051",
+        "cardID": "고동악140설욕070스피120",
+        "name": "고동치는달",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "고대"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "고동치는달",
+                "pokedexNumber": 1005
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "설욕화살깃",
+                "cost": "(악)(악)",
+                "damage": "70+",
+                "text": "자신의 트래쉬에 있는 「고대」의 카드의 장수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "스피드윙",
+                "cost": "(악)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "수수께끼로 가득한 탐험기에 \"고동치는달\"이라는 이름으로 기록된 생물일 가능성이 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "hncl",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004051",
+                "debug": "3"
+            }
+        ]
+    }
+]

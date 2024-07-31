@@ -1,0 +1,302 @@
+[
+    {
+        "id": "bw2-037",
+        "cardID": "기가격150코어000파워090",
+        "name": "기가이어스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "기가이어스",
+                "pokedexNumber": 526
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "코어캐논",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 이 포켓몬에게 붙어 있는 (격투) 에너지의 개수 × 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파워젬",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "체내의 코어에서 에너지를 압축하여 쏘아대는 공격은 산을 날려버릴 만한 위력이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw5e-029",
+        "cardID": "기가격140리벤010돌격120",
+        "name": "기가이어스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기가이어스",
+                "pokedexNumber": 526
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지포",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치 포켓몬 전원에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "돌격",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "주황색 결정으로 태양 광선을 흡수하여 입에서 에너지를 쏘아댄다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Ryo Ueda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_029.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy4-049",
+        "cardID": "기가격140고밀오버060",
+        "name": "기가이어스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "기가이어스",
+                "pokedexNumber": 526
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "오버스매시",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "60+",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「오버스매시」의 데미지는 「+40」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고밀도아머",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있지 않은 상태라면 이 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-50」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거두어들인 태양광선을에너지 코어로 반응시켜빛의 구슬로 쏘아낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_049.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004049",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm1m-031",
+        "cardID": "기가격160록캐050암석120",
+        "name": "기가이어스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "기가이어스",
+                "pokedexNumber": 526
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "록캐논",
+                "cost": "(격투)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (격투) 에너지를 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 준다."
+            },
+            {
+                "name": "암석떨구기",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "상당한 체력을 지니고 있어 건설 관계자가 파트너를 선택할 때 선호하는 포켓몬이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5a-040",
+        "cardID": "기가격180가드050고압180",
+        "name": "기가이어스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "기가이어스",
+                "pokedexNumber": 526
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(격투)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-50」이 된다."
+            },
+            {
+                "name": "고압축탄",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "맑은 날에만 쏠 수 있지만 에너지탄의 파괴력은 덤프트럭도 날려버릴 정도다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003040",
+                "debug": "1"
+            }
+        ]
+    }
+]

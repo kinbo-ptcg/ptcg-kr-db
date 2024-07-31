@@ -1,0 +1,946 @@
+[
+    {
+        "id": "bw8s-037",
+        "cardID": "강철강150메탈050헤비100",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈디펜더",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 포켓몬의 약점은 없어진다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 몸을 변화시켜 다이아몬드보다 단단해졌다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002037",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-032",
+        "cardID": "강철강180와일080아이100",
+        "name": "강철톤 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "와일드에지",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "80＋",
+                "text": "원한다면 50데미지를 추가해도 좋다. 그 경우, 이 포켓몬에게도 20데미지를 준다."
+            },
+            {
+                "name": "아이언테일",
+                "cost": "(강철)(무색)(무색)(무색)(무색)",
+                "damage": "100×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006032",
+                "debug": "1"
+            },
+            {
+                "number": "056",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_056.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006056",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-033",
+        "cardID": "강철강격240캐니160",
+        "name": "M강철톤 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "[M진화] 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)(격투)",
+        "attacks": [
+            {
+                "name": "캐니언액스",
+                "cost": "(강철)(무색)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006033",
+                "debug": "1"
+            },
+            {
+                "number": "057",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_057.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006057",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-050",
+        "cardID": "강철강190몸통030테일080",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "테일크래시",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "튼튼한 턱으로 암석을 깨물어 부수고 나아간다. 아주 캄캄한 땅속 에서도 보이는 눈을 가지고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Ken Sugimori",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006040",
+                "debug": "2"
+            },
+            {
+                "number": "050",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Ken Sugimori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-037",
+        "cardID": "강철강180한방090아이170",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            },
+            {
+                "name": "아이언 태클",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "튼튼한 턱으로 암석을 깨물어 부수고 나아간다. 아주 캄캄한 땅속 에서도 보이는 눈을 가지고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-044",
+        "cardID": "강철격170랜드020기가220",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "랜드스트림",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "자신의 트래쉬에 있는 (격투) 에너지를 2장 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "기가톤셰이크",
+                "cost": "(격투)(무색)(무색)(무색)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 자신의 포켓몬 전원은 기술을 사용할 수 없다. (새로 내보낸 포켓몬도 포함한다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-034",
+        "cardID": "강철강170쿵쾅050아이100",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "쿵쾅폴",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "자신의 패에 있는  후퇴에 필요한 에너지가 4개인 포켓몬을 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 준다."
+            },
+            {
+                "name": "아이언테일",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "100×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015034",
+                "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Avec Yoko",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015060",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3a-046",
+        "cardID": "강철강250레이030아이210",
+        "name": "강철톤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "레이징해머",
+                "cost": "(강철)(무색)",
+                "damage": "30+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "아이언 태클",
+                "cost": "(강철)(무색)(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Satoshi Shirai",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012046",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Satoshi Shirai",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012081",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-293",
+        "cardID": "강철강190강철080헤비200",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철스윙",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(강철)(무색)(무색)",
+                "damage": "200",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "NC Empire",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002052",
+                "debug": "2"
+            },
+            {
+                "number": "293",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_293.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003293",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-213",
+        "cardID": "강철격190파워020지진180",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파워레이지",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018056",
+                "debug": "2"
+            },
+            {
+                "number": "213",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_213.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003213",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-044",
+        "cardID": "강철강180누르070아이170",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "누르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "아이언버스터",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "170",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "롱스톤이 100년 이상 살면 몸의 성분이 다이아몬드처럼 변한다고 전해진다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-050",
+        "cardID": "강철강170에너020피니060",
+        "name": "찬란한 강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "찬란한"
+        ],
+        "rules": [
+            "찬란한 포켓몬은 덱에 1장만 넣을 수 있다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "에너지스트림",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 (강철) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "피니시 브레이크",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "60+",
+                "text": "자신의 덱의 남은 장수가 1장이 되도록 위에서부터 트래쉬하고 그 중에 있는 에너지의 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "롱스톤이 100년 이상 살면 몸의 성분이 다이아몬드처럼 변한다고 전해진다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "K",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011085",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-041",
+        "cardID": "강철강180지진130헤비180",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "지진",
+                "cost": "(강철)",
+                "damage": "130",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Po-Suzuki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022041",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "nisimono",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022074",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs3-43",
+        "cardID": "강철강130힘휘000아이100",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "힘휘두르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 에너지의 수만큼 상대의 포켓몬을 선택한다. 그 뒤 선택한 포켓몬 전원에게 각각 20데미지를 준다.(같은 포켓몬을 여러번 선택해도 주는 데미지는 20데미지이다.)"
+            },
+            {
+                "name": "아이언테일",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "100×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "43",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Naoyo Kimura",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_43.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003043",
+                "debug": "1"
+            }
+        ]
+    }
+]

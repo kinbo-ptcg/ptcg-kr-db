@@ -1,0 +1,1109 @@
+[
+    {
+        "id": "g+k-007",
+        "cardID": "캥카무100동료000연속020",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2마리 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "연속펀치",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 주머니에서 새끼를 키운다. 안전할 때만 새끼를 주머니에서 꺼내어 놀게 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "018",
+                "prodCode": "g+k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/g+k.png",
+                "prodName": "BW 최강 폭류 60장 덱 「거북왕 + 큐레무 EX」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/G+K/g+k_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013005007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy2-064",
+        "cardID": "캥카무180트리000패밀070",
+        "name": "캥카 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리플드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "패밀리킥",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_064.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002064",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_084.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002084",
+                "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_093.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004093",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy2-065",
+        "cardID": "캥카무230강펀100",
+        "name": "M캥카 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "[M진화] 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "강펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 x 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_065.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002065",
+                "debug": "1"
+            },
+            {
+                "number": "094",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_094.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004094",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xyh-010",
+        "cardID": "캥카무120꼬마040메가100",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꼬마펀치",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "메가톤펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "안전한 장소라면 새끼도 \n배의 주머니에서 나와서 논다.\n 어미는 그것을 가만히 지켜본다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "026",
+                "prodCode": "xyh",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyh.png",
+                "prodName": "XY BREAK 메가 배틀 60장 덱 「M다부니 EX」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYH/XYH_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016004010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sma-033",
+        "cardID": "캥카무130후리030허리050",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "후리기",
+                "cost": "(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 30데미지를 추가한다."
+            },
+            {
+                "name": "허리케인펀치",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "캥카의 모성애는 깊다. 자기 아이를 지키기 위해서라면죽음조차 두려워하지 않는다고 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-082",
+        "cardID": "캥카무130내리030허리050",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "내리치기",
+                "cost": "(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 30데미지를 추가한다."
+            },
+            {
+                "name": "허리케인펀치",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "캥카의 모성애는 깊다. 자기 아이를 지키기 위해서라면 죽음조차 두려워하지 않는다고 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001043",
+                "debug": "2"
+            },
+            {
+                "number": "082",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013082",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011082",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-046",
+        "cardID": "캥카무120아이000박치030패밀060",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "아이심부름",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "패밀리펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뱃속의 새끼는 대략 3년이면 자립한다. 어미가 큰 소리로 우는 것은 그때뿐이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Naoyo Kimura",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006046",
+                "debug": "1"
+            },
+            {
+                "number": "046",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "Naoyo Kimura",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006108",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-107",
+        "cardID": "캥카무130진화000메가080",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "진화촉성",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 진화 포켓몬을 2장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "메가톤펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 주머니에 자신의 새끼를 넣어 지킨다. 새끼에게 해를 끼치는 자는 절대 용서하지 않고 때려눕힌다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "074",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001074",
+                "debug": "2"
+            },
+            {
+                "number": "107",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017107",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smL-036",
+        "cardID": "캥카무120가족040",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가족러시",
+                "cost": "(무색)(무색)",
+                "damage": "40×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 주머니에 자신의 새끼를 넣어 지킨다. 새끼에게 해를 끼치는 자는 절대 용서하지 않고 때려눕힌다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「리자몽 GX 덱」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-037",
+        "cardID": "캥카무130더블000태그050",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "태그임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 「TAG TEAM」 포켓몬의 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 주머니에 자신의 새끼를 넣어 지킨다. 새끼에게 해를 끼치는 자는 절대 용서하지 않고 때려눕힌다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-074",
+        "cardID": "캥카무130반격030한방100",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "반격하기",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주머니를 빠져나와 놀고 있는 새끼에게는 다가가선 안 된다. 어딘가에서 어미가 지켜보고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "074",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011074",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SN-006",
+        "cardID": "캥카무120막치030연계060",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "연계 패밀리펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 1번 던져서 앞면이 나오면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주머니를 빠져나와 놀고 있는 새끼에게는 다가가선 안 된다. 어딘가에서 어미가 지켜보고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007057",
+                "debug": "2"
+            },
+            {
+                "number": "335",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_335.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003335",
+                "debug": "2"
+            },
+            {
+                "number": "006",
+                "prodNumber": "024",
+                "prodCode": "SN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+                "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-115",
+        "cardID": "캥카무230트리000기관100",
+        "name": "캥카 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리플드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "기관총펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "115",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_115.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014115",
+                "debug": "1"
+            },
+            {
+                "number": "192",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_192.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014192",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVG-020",
+        "cardID": "캥카무130박치030스파060",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "스파이크드로",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 덱을 2장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "새끼가 없는 캥카가 조난한 사람의 아이를 길렀다는 기록이 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "090",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015090",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Yuya Oka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "st1-39",
+        "cardID": "캥카무090물기030연속020",
+        "name": "캥카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "연속펀치",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "20x",
+                "text": "동전을 네 번 던져서 앞면 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "배의 주머니에서 새끼를 키운다. 안전할 때만 새끼를 주머니에서 꺼내어 놀게 한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "39",
+                "prodNumber": "55",
+                "prodCode": "st1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
+                "prodName": "DP 랜덤 구축덱",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_39.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-149",
+        "cardID": "캥카무180빙글020히스080패밀150",
+        "name": "캥카 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "캥카",
+                "pokedexNumber": 115
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "빙글빙글펀치",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "히스테릭블로",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 혼란이라면 80데미지를 추가한다."
+            },
+            {
+                "name": "패밀리콤보 GX",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "자신의 덱을 5장 뽑는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "149",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 제7탄",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_200.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000200",
+                "debug": "1"
+            }
+        ]
+    }
+]

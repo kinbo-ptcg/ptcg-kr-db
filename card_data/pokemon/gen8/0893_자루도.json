@@ -1,0 +1,428 @@
+[
+    {
+        "id": "S-P-119",
+        "cardID": "자루풀210붙들050정글100",
+        "name": "자루도 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "정글라이즈",
+                "cost": "(풀)(풀)",
+                "damage": "100",
+                "text": "원한다면 자신의 패에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그 뒤, 붙인 포켓몬의 HP를 모두 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012013",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012077",
+                "debug": "2"
+            },
+            {
+                "number": "119",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "「극장판 포켓몬스터 : 정글의 아이 코코」 극장선물",
+                "artist": "PLANETA Igarashi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_119.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000119",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SEF-010",
+        "cardID": "자루풀120흡착030정글110",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡착덩굴",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "정글봄버",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "021",
+                "prodCode": "SEF",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001010",
+                "debug": "1"
+            },
+            {
+                "number": "043",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003043",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-044",
+        "cardID": "자루풀130무리000반복060",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "무리부름의 노래",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 후공 플레이어의 첫 차례라면 패로 가져올 수 있는 (풀) 포켓몬의 장수는 3장까지이다."
+            },
+            {
+                "name": "반복채찍",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004010",
+                "debug": "2"
+            },
+            {
+                "number": "014",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001014",
+                "debug": "2"
+            },
+            {
+                "number": "044",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-006",
+        "cardID": "자루풀110할퀴020난동040",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "난동채찍",
+                "cost": "(풀)(무색)",
+                "damage": "40+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_006_R.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-045",
+        "cardID": "자루풀220뛰어030정글120",
+        "name": "자루도 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뛰어넘기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "정글레이지",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-010",
+        "cardID": "자루풀120끌어000삼연070",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "끌어내기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 20데미지를 준다."
+            },
+            {
+                "name": "삼연속채찍",
+                "cost": "(풀)(풀)",
+                "damage": "70×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리 지어 밀림에 산다. 매우 공격적이라 숲에 사는 포켓몬들에게는 두려움의 대상이다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Shiburingaru",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016010",
+                "debug": "1"
+            }
+        ]
+    }
+]

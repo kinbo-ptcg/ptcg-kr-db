@@ -1,0 +1,415 @@
+[
+    {
+        "id": "SV4a-114",
+        "cardID": "코라격230디노와일220",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "와일드임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "디노크라이",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 차례는 끝난다. 자신의 트래쉬에서 「기본 (격투) 에너지」를 2장까지 선택해서 자신의 (격투) 타입의 기본 포켓몬에게 원하는 대로 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006050",
+                "debug": "2"
+            },
+            {
+                "number": "094",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006094",
+                "debug": "2"
+            },
+            {
+                "number": "103",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Ryota Murayama",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006103",
+                "debug": "2"
+            },
+            {
+                "number": "114",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_114.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001114",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-068",
+        "cardID": "코라격230스플020가이230",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스플릿빔",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "가이아프레스",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "230",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016068",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVHK-012",
+        "cardID": "코라드230앙갚020카이280",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "앙갚음철퇴",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "카이저태클",
+                "cost": "(불꽃)(격투)(격투)",
+                "damage": "280",
+                "text": "이 포켓몬에게도 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "053",
+                "prodCode": "SVHK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHK.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「고대의 코라이돈 ex」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-052",
+        "cardID": "코라드140원생030찢기130",
+        "name": "코라이돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "고대"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "원생난타",
+                "cost": "(격투)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 「고대」의 포켓몬의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "찢기",
+                "cost": "(불꽃)(격투)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주먹으로 대지를 갈랐다고 오래된 탐험기에 기록된 \"날개의왕\"의 정체인 듯하다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVI-033",
+        "cardID": "코라격130각오050",
+        "name": "코라이돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "각오의엄니",
+                "cost": "(격투)(격투)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 ex」라면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주먹으로 대지를 갈랐다고 오래된 탐험기에 기록된 \"날개의왕\"의 정체인 듯하다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_033_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-006",
+        "cardID": "코라격130발톱070램페190",
+        "name": "코라이돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "램페이지팽",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "주먹으로 대지를 갈랐다고 오래된 탐험기에 기록된 \"날개의왕\"의 정체인 듯하다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 프로모 카드   팩  ",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000006",
+                "debug": "3"
+            },
+            {
+                "number": "027",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "실드전 프로모 카드 팩",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000027",
+                "debug": "2"
+            }
+        ]
+    }
+]

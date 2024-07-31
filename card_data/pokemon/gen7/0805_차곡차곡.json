@@ -1,0 +1,192 @@
+[
+    {
+        "id": "sm8b-088",
+        "cardID": "차곡강180울트기가120레이050",
+        "name": "차곡차곡 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "차곡차곡",
+                "pokedexNumber": 805
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기가톤스톰프",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "레이 GX",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "50+",
+                "text": "자신이 이미 가져온 프라이즈의 장수 × 50데미지를 추가한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울트라월",
+                "text": "이 포켓몬이 있는 한, 자신의 「울트라비스트」 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-10」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007060",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007099",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002088",
+                "debug": "1"
+            },
+            {
+                "number": "236",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_236.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002236",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-071",
+        "cardID": "차곡격120스톤산떨110",
+        "name": "차곡차곡",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "차곡차곡",
+                "pokedexNumber": 805
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "산떨구기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "110",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 덱을 위에서부터 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스톤펜스",
+                "text": "상대의 남은 프라이즈 장수가 3장 이하라면 이 포켓몬의 최대 HP는 「200」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "울트라홀에서 출현했다._x000D_ 여러 개의 생명이 쌓여 1마리를 형성하고 있는 듯하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005028",
+                "debug": "2"
+            },
+            {
+                "number": "071",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Hiroki Asanuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017071",
+                "debug": "3"
+            },
+            {
+                "number": "167",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "카드샵 한정 프로모팩",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_305.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000226",
+                "debug": "2"
+            }
+        ]
+    }
+]

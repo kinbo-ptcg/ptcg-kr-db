@@ -1,0 +1,817 @@
+[
+    {
+        "id": "bw5e-025",
+        "cardID": "텅구격100본록030진공060",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "본록",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "진공찌르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 저항력을 가지고 있다면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어날 때부터 항상 지니고 있는 뼈를 자유로이 사용한다. 성격은 난폭하다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-035",
+        "cardID": "텅구격100노려000뼈다060",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "노려맞히기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "뼈다귀풍차",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뼈는 중요한 무기이다. 부메랑처럼 던져서 사냥감을 맞춰 기절시킨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "match",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007035",
+                "debug": "1"
+            },
+            {
+                "number": "069",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_069.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004069",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-036",
+        "cardID": "텅구격140본리020",
+        "name": "텅구리 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 텅구리가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "본리벤지",
+                "cost": "(격투)(무색)",
+                "damage": "20＋",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-006",
+        "cardID": "텅구불100파이000불타070",
+        "name": "알로라텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105,
+                "region": "알로라"
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "파이어댄스",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 상대 필드의 포켓몬에게 붙어 있는 에너지의 개수만큼 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "불타는 뼈다귀부메랑",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "70×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 70데미지를 준다. 1번이라도 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "손에 있는 뼈는 어머니의 뼈다. 죽어서도 자식을 생각하는 어머니의 마음은 불꽃이 되어 텅구리를 지킨다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-010",
+        "cardID": "텅구불120림보000알로020",
+        "name": "알로라텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105,
+                "region": "알로라"
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "림보림보",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬 에너지를 2장까지 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "알로라서클",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드의 카드 이름에 「알로라」라고 붙은 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "동료를 기리는 습성을 가졌다.\n길 한구석에 솟아오른 흙이\n있다면 그것은 텅구리의 무덤이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Suwama Chiaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-040",
+        "cardID": "텅구초120림보000알로020",
+        "name": "알로라텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105,
+                "region": "알로라"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "림보림보",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬 에너지를 2장까지 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "알로라서클",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드의 카드 이름에 「알로라」라고 붙은 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "동료를 기리는 습성을 가졌다. 길 한구석에 솟아오른 흙이 있다면 그것은 텅구리의 무덤이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "miki kudo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10-046",
+        "cardID": "텅구격110본러050어솔070",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "본러쉬",
+                "cost": "(격투)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "어솔트붐",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70+",
+                "text": "상대의 배틀 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뼈를 던져 버랜지나를 떨어뜨린다. 부모의 원한을 갚기 위한 것으로 추측된다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-013",
+        "cardID": "텅구초120영혼000뼈때060",
+        "name": "알로라텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105,
+                "region": "알로라"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "영혼부수기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다. 트래쉬한 카드가 포켓몬이라면 상대의 배틀 포켓몬에게 그 포켓몬의 HP만큼의 데미지를 준다."
+            },
+            {
+                "name": "뼈때리기",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "초목이 우거진 알로라지방은 텅구리에게 있어서 가혹한 토지다.\n 살아남기 위해 불꽃을 조종한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-215",
+        "cardID": "텅구격110전투뼈다090",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뼈다귀부메랑",
+                "cost": "(격투)(무색)",
+                "damage": "90×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 90데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전투무장",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "리드미컬하게 뼈다귀를 두들겨서 동료와 연락을 주고받는다. 그 패턴은 50개 가까이 존재한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Narumi Sato",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002041",
+                "debug": "2"
+            },
+            {
+                "number": "215",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Narumi Sato",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_215.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003215",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-105",
+        "cardID": "텅구격120본스030저력120",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "본스로우",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "저력",
+                "cost": "(격투)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "진화로 인해 쓰고 있던 어미의 뼈는 일체화되었고 성격은 더욱 난폭해졌다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "105",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Shinya Komatsu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_105.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014105",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-129",
+        "cardID": "텅구격100호위뼈다060",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뼈다귀부메랑",
+                "cost": "(격투)(무색)",
+                "damage": "60×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "호위꾼",
+                "text": "이 포켓몬이 있는 한, 이 카드의 주인과 그 패는 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다. 이미 받은 효과는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뼈는 중요한 무기이다. 부메랑처럼 던져서 사냥감을 맞춰 기절시킨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "129",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_129.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001129",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs3-23",
+        "cardID": "텅구격090무거040본러050",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "무거운 뼈다귀",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신의 다음 차례에 자신은 「무거운 뼈다귀」를 사용할 수 없다."
+            },
+            {
+                "name": "본러쉬",
+                "cost": "(격투)(격투)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어날 때부터 항상 지니고 있는 뼈를 자유로이 사용한다. 성격은 난폭하다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "23",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_23.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-127",
+        "cardID": "텅구불200저주히트090로스000",
+        "name": "알로라텅구리GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105,
+                "region": "알로라"
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트본",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "로스트부메랑 GX",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 약점, 저항력 계산을 하지 않고 각각 50데미지를 준다. 이 기술의 데미지로 기절한 포켓몬과 붙어 있는 모든 카드는 트래쉬하지 않고 로스트존에 둔다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "저주받은바디",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "127",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 6탄",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SM-P_164.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000164",
+                "debug": "1"
+            }
+        ]
+    }
+]

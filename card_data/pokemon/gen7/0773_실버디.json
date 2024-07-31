@@ -1,0 +1,358 @@
+[
+    {
+        "id": "sm4plus-086",
+        "cardID": "실버무210자이터보120리벨050",
+        "name": "실버디 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "터보드라이브",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "리벨리언 GX",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50×",
+                "text": "상대의 벤치 포켓몬의 수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "자이로 유닛",
+                "text": "이 포켓몬이 있는 한, 자신의 기본 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011045",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011054",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013086",
+                "debug": "1"
+            },
+            {
+                "number": "086",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011086",
+                "debug": "2"
+            },
+            {
+                "number": "111",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_111.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002111",
+                "debug": "2"
+            },
+            {
+                "number": "242",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_242.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002242",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000080",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sme-010",
+        "cardID": "실버무130기어000시저090",
+        "name": "실버디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기어스캔",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 아이템을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "시저크로스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "그 이름은 타입:널을 처음으로 이 모습으로 진화시킨 소년에 의해 지어졌다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "021",
+                "prodCode": "sme",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+                "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005010",
+                "debug": "3"
+            },
+            {
+                "number": "056",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000079",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-043",
+        "cardID": "실버무130어벤030에어120",
+        "name": "실버디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어벤지하트",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 상대가 가져간 프라이즈 장수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "에어슬래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "각성으로 진화한 모습이다. 무거운 마스크에서 벗어나 스피드가 크게 올라갔다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-041",
+        "cardID": "실버무210디스버디050화이000",
+        "name": "실버디 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "버디브레이브",
+                "cost": "(무색)(무색)",
+                "damage": "50+",
+                "text": "이 차례에 패에서 서포트를 꺼내서 사용했다면 70데미지를 추가한다."
+            },
+            {
+                "name": "화이트나이트GX",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬이 「울트라비스트」라면 그 포켓몬을 기절시킨다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "디스크리로드",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 5장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Megumi Mizutani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015041",
+                "debug": "1"
+            },
+            {
+                "number": "065",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Megumi Mizutani",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015065",
+                "debug": "2"
+            }
+        ]
+    }
+]

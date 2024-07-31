@@ -1,0 +1,254 @@
+[
+    {
+        "id": "bw2-040",
+        "cardID": "아케격130원시스톤060",
+        "name": "아케오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "아케오스",
+                "pokedexNumber": 567
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤샤워",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "60",
+                "text": "상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원시의힘",
+                "text": "이 포켓몬이 있는 한 서로의 플레이어는 패에서 포켓몬을 꺼내서 진화시킬 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "지상에서 도움닫기를 하여 날아오른다. 동료와 협력하여 먹이를 잡는 지능을 가졌다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_040.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-045",
+        "cardID": "아케격120애크020스피100",
+        "name": "아케오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아케오스",
+                "pokedexNumber": 567
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "애크러뱃",
+                "cost": "(격투)",
+                "damage": "20+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "스피드다이브",
+                "cost": "(격투)(격투)",
+                "damage": "100",
+                "text": "이 포켓몬의 남은 HP가 「50」이하라면 이 기술의 데미지는 「50」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "나는 것보다 달리는 것이 특기로 시속 40km로 달리던 기세로 넓은 하늘로 날아 오른다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-052",
+        "cardID": "아케격130유턴040파괴080",
+        "name": "아케오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "아케오스",
+                "pokedexNumber": 567
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "유턴",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "파괴광선",
+                "cost": "(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "깃털이 매우 가늘어 숙련된 장인이 아니면 복원에 실패한다고 전해지는 고대의 포켓몬.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-190",
+        "cardID": "아케무150프라스피120",
+        "name": "아케오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "아케오스",
+                "pokedexNumber": 567
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "스피드윙",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프라이멀 터보",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 특수 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "날아오르기 위해 도움닫기를 하는데 그 거리는 약 4km다. 도움닫기의 속도는 시속 40km다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "083",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017083",
+                "debug": "2"
+            },
+            {
+                "number": "190",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "전설의 포켓몬을 찾자! 루기아GET챌린지 프로모 카드 팩",
+                "artist": "Nisota Niso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_190.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000190",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SV5M-030",
+        "cardID": "무쇠번140디스070메가140",
+        "name": "무쇠가시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "무쇠가시",
+                "pokedexNumber": 995
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "디스트럭트 프레서",
+                "cost": "(번개)(무색)",
+                "damage": "70×",
+                "text": "자신의 덱을 위에서부터 5장 앞면으로 해서 그 중에 있는 「미래」의 카드의 장수 × 70데미지를 준다. 앞면으로 한 「미래」의 카드는 트래쉬하고 남은 카드는 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "메가톤래리엇",
+                "cost": "(번개)(번개)(번개)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "어느 탐험기에서 \"무쇠가시\"라고 소개했던 물체와 일치하는 특징이 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Takeshi Nakamura",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005030",
+                "debug": "3"
+            },
+            {
+                "number": "077",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Tonji Matsuno",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-033",
+        "cardID": "무쇠번230이니볼트140",
+        "name": "무쇠가시 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "무쇠가시",
+                "pokedexNumber": 995
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "볼트사이클론",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "140",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이니셜라이즈",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 서로의 필드의 「룰을 가진 포켓몬」(「미래」의 포켓몬은 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007033",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007081",
+                "debug": "2"
+            }
+        ]
+    }
+]

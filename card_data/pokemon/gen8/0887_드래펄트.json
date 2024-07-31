@@ -1,0 +1,461 @@
+[
+    {
+        "id": "S1a-041",
+        "cardID": "드래초150틈새고스120",
+        "name": "드래펄트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "고스트다이브",
+                "cost": "(초)(초)",
+                "damage": "120",
+                "text": "데미지 카운터 3개를 상대의 벤치 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "틈새포착",
+                "text": "이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "뿔에 있는 구멍에 드라꼰을 넣고 지낸다. 싸움이 시작되면 마하의 스피드로 드라꼰을 날린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004041",
+                "debug": "1"
+            },
+            {
+                "number": "087",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016087",
+                "debug": "2"
+            },
+            {
+                "number": "261",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Naoki Saito",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_261.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016261",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-049",
+        "cardID": "드래초210물기030어솔060",
+        "name": "드래펄트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(초)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "어솔트제트",
+                "cost": "(초)(초)",
+                "damage": "60+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005049",
+                "debug": "1"
+            },
+            {
+                "number": "101",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005101",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016088",
+                "debug": "2"
+            },
+            {
+                "number": "317",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_317.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016317",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-050",
+        "cardID": "드래초320찢기060다이130",
+        "name": "드래펄트 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(초)",
+                "damage": "60",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            },
+            {
+                "name": "다이스펙터",
+                "cost": "(초)(초)",
+                "damage": "130",
+                "text": "데미지 카운터 5개를 상대의 벤치 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005050",
+                "debug": "1"
+            },
+            {
+                "number": "089",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016089",
+                "debug": "2"
+            },
+            {
+                "number": "318",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_318.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016318",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8-051",
+        "cardID": "드래초150퓨전030스피120",
+        "name": "드래펄트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "퓨전어설트",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "자신의 필드의 「퓨전」의 포켓몬의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "스피드어택",
+                "cost": "(초)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "뿔에 들어간 드라꼰은 마하의 속도로 날려지기를 기대하고 있는 것 같다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018051",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-054",
+        "cardID": "드래초150드래000홀로120",
+        "name": "드래펄트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "드래곤런처",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 벤치의 「드라꼰」을 상대 필드의 포켓몬의 수만큼까지 트래쉬하고 트래쉬한 수만큼 상대의 포켓몬을 선택한다. 그 뒤, 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 각각 100데미지를 준다."
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "뿔에 있는 구멍에 드라꼰을 넣고 지낸다. 싸움이 시작되면 마하의 스피드로 드라꼰을 날린다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014054",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV6-081",
+        "cardID": "드래드320테라제트070스펙200",
+        "name": "드래펄트 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "제트헤드",
+                "cost": "(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "스펙터다이브",
+                "cost": "(불꽃)(초)",
+                "damage": "200",
+                "text": "데미지 카운터 6개를 상대의 벤치 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "081",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008081",
+                "debug": "1"
+            }
+        ]
+    }
+]

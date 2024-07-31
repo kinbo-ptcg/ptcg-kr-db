@@ -1,0 +1,557 @@
+[
+    {
+        "id": "SA_L-008",
+        "cardID": "펄스번120물기050일렉160",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭대시",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "만든 전기를 다리로 보내서 달리는 것을 돕는다. 삼 일 밤낮을 쉬지 않고 달릴 수 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "024",
+                "prodCode": "SA_L",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_L.png",
+                "prodName": "소드&실드 스타터 세트 V 번개",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001080",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-021",
+        "cardID": "펄스번130물고050투사090",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물고늘어지기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "투사의엄니",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V・[GX]」라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "만든 전기를 다리로 보내서 달리는 것을 돕는다. 삼 일 밤낮을 쉬지 않고 달릴 수 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Misa Tsutsui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002021",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016055",
+                "debug": "2"
+            },
+            {
+                "number": "239",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_239.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016239",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8b-055",
+        "cardID": "펄스번200송전000라이010",
+        "name": "펄스멍 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "송전",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "자신의 덱에서 (번개) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "라이트닝스톰",
+                "cost": "(번개)(무색)",
+                "damage": "10+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004031",
+                "debug": "2"
+            },
+            {
+                "number": "074",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004074",
+                "debug": "2"
+            },
+            {
+                "number": "056",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016056",
+                "debug": "2"
+            },
+            {
+                "number": "313",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_313.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016313",
+                "debug": "2"
+            },
+            {
+                "number": "055",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SN-005",
+        "cardID": "펄스번130몰아030오기130",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "몰아붙이기",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "오기스파크",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": "이 기술은 이 포켓몬에게 데미지 카운터가 올려져 있다면 (번개) 에너지 1개로 사용할 수 있다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전기의 힘으로 다릿심을 강하게 키운다. 최고 속도는 시속 90km를 가볍게 넘긴다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "chibi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001020",
+                "debug": "2"
+            },
+            {
+                "number": "154",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "chibi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_154.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003154",
+                "debug": "2"
+            },
+            {
+                "number": "005",
+                "prodNumber": "024",
+                "prodCode": "SN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+                "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+                "artist": "chibi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-155",
+        "cardID": "펄스번200스매030일렉120",
+        "name": "펄스멍 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스매시턴",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Shin Nagasawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018034",
+                "debug": "2"
+            },
+            {
+                "number": "104",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018104",
+                "debug": "2"
+            },
+            {
+                "number": "155",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_155.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003155",
+                "debug": "1"
+            },
+            {
+                "number": "156",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_156.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003156",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8-035",
+        "cardID": "펄스번320라이030다이230",
+        "name": "펄스멍 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝스톰",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "다이볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 「다이볼트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVHM-005",
+        "cardID": "펄스번120송전050",
+        "name": "펄스멍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "송전대시",
+                "cost": "(무색)",
+                "damage": "50",
+                "text": "자신의 덱에서 「기본 (번개) 에너지」를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "만든 전기를 다리로 보내서 달리는 것을 돕는다. 삼 일 밤낮을 쉬지 않고 달릴 수 있다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "Oswaldo KATO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003005",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "id": "pd-001",
+        "cardID": "주뱃초050스파010",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "스파이럴 드레인",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "초음파를 내며 주변의 상황을 확인하면서 날기 때문에 두 눈이 없어도 괜찮다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "017",
+                "prodCode": "pd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pd.png",
+                "prodName": "BW 「플라스마단 파워 덱」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PD/PD_001.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013001001",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw7-027",
+        "cardID": "주뱃초040프리날개020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "날개치기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프리플라이트",
+                "text": "이 포켓몬에게 에너지가 붙어 있지 않다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "초음파를 내며 주변의 상황을 확인하면서 날기 때문에 두 눈이 없어도 괜찮다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-041",
+        "cardID": "주뱃초050직격000",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "직격비행",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 10데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "입에서 내는 초음파로 두 눈이 없어도 주위의 장애물을 탐색할 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_030.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004030",
+                "debug": "2"
+            },
+            {
+                "number": "045",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004045",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707037",
+                "debug": "2"
+            },
+            {
+                "number": "041",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_041.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm1s-021",
+        "cardID": "주뱃초050놀래000",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "놀래키기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "낮에는 동굴에서 자고 있다. 눈이 없어서 초음파로 주변을 확인하면서 날아다닌다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "Satoshi Shirai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9b-016",
+        "cardID": "주뱃초050물기010베놈020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "베놈쇼크",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 배틀 포켓몬이 독이라면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈이 없어서 보지 못한다. 입으로 초음파를 발산하여 주변의 상황을 파악한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-249",
+        "cardID": "주뱃악050어둠000스피020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠에숨기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "스피드비행",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "햇빛을 받으면 화상을 입을 정도로 피부가 얇다. 추워지면 무리 지어 서로 몸을 기대서 체온을 나눈다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Asako Ito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001038",
+                "debug": "2"
+            },
+            {
+                "number": "249",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Asako Ito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_249.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003249",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-041",
+        "cardID": "주뱃악040물기010",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "입에서 내보내는 초음파로 주위의 상황을 살핀다. 좁은 동굴에서도 능숙하게 날아다닌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011069",
+                "debug": "1"
+            },
+            {
+                "number": "041",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_041_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011070",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-041",
+        "cardID": "주뱃악040훤히물기010",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "훤히 보이는 에코",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 패를 본다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "볕이 들지 않는 동굴에 산다. 아침이 되면 동료들끼리 모여 서로의 온기를 나누면서 잔다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Scav",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-044",
+        "cardID": "주뱃악050초음000날카020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "초음파",
+                "cost": "(악)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "날카로운날개",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "볕이 들지 않는 동굴에 산다. 아침이 되면 동료들끼리 모여 서로의 온기를 나누면서 잔다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-18",
+        "cardID": "주뱃초050초음000물기020",
+        "name": "주뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주뱃",
+                "pokedexNumber": 41
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "초음파",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 혼란으로 만든다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "입에서 내는 초음파로 두 눈이 없어도 주위의 장애물을 탐색할 수 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "18",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_18.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008018",
+                "debug": "1"
+            }
+        ]
+    }
+]

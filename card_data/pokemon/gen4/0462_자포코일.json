@@ -1,0 +1,1041 @@
+[
+    {
+        "id": "bw7-025",
+        "cardID": "자포번140더블자이080",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "자이로볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블브레인",
+                "text": "이 포켓몬이 있는 한 자신의 차례에 자신이 사용할 수 있는 「서포트」의 장수는 2장이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "너무 강한 자력을 내어 자포코일끼리 끌어당겨 전혀 못 움직이기도 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bgb-006",
+        "cardID": "자포번140더블030롤링070",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "더블어시스트",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장 선택해서 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "롤링어택",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "너무 강한 자력을 내어 자포코일끼리 끌어당겨 전혀 못 움직이기도 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "018",
+                "prodCode": "bgb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002006",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy2-030",
+        "cardID": "자포번180일렉040듀얼000",
+        "name": "자포코일 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "듀얼불릿",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬을 2마리 선택해서 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_030.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002030",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_082.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002082",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-025",
+        "cardID": "자포번140마그썬더100",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더블라스트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그넷서킷",
+                "text": "자신의 패에서 (번개) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "특수한 자기장의 영향으로 레어코일이 진화했다. 3개의 유닛에서 자력을 발산한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "Hajime Kusajima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007025",
+                "debug": "1"
+            },
+            {
+                "number": "040",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Hajime Kusajima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_040.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004040",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-088",
+        "cardID": "자포강150마그전자130",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "전자포",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 「전자포」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그넷서킷",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에 있는 (강철) 에너지를 1장 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴전파를 발신하면서 하늘을 날아 미지의 전파를 수신하고 있다고 한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001037",
+                "debug": "2"
+            },
+            {
+                "number": "080",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002080",
+                "debug": "2"
+            },
+            {
+                "number": "189",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Misa Tsutsui",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_189.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002189",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017088",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5plus-015",
+        "cardID": "자포번150마그전자130",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자포",
+                "cost": "(번개)(번개)(번개)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 「전자포」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그넷서킷",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에 있는 (번개) 에너지를 1장 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003015",
+                "debug": "1"
+            },
+            {
+                "number": "004",
+                "prodNumber": "022",
+                "prodCode": "sm60b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60b.png",
+                "prodName": "썬&문 전격 스타터 세트 「라이코 GX」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60B/SM60B_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018008004",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-023",
+        "cardID": "자포번160더블마그120",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 트레이너스를 1장 상대에게 보여주고 패로 가져온다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블타입",
+                "text": "이 포켓몬은 필드에 있는 한, (번개) 와 (강철) 의 2가지 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "자신의 영토를 레이더로 감시하고 있다. 침입자는 파괴광선으로 즉시 처분한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10D-046",
+        "cardID": "자포강150기가파워120",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "파워빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "기가마그넷",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 보고 그 중에서 (강철) 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리의 안테나로 누군가가 보낸 전파를 우주로부터 수신하여 조종당하고 있다고 전해진다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "GOSSAN",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007046",
+                "debug": "1"
+            },
+            {
+                "number": "096",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "zig",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001096",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10a-016",
+        "cardID": "자포번210잡아000스플090",
+        "name": "자포코일 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "잡아끄는자력",
+                "cost": "(번개)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 40데미지를 준다. "
+            },
+            {
+                "name": "스플릿빔",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011028",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011128",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10a-017",
+        "cardID": "자포번270마그180일렉000",
+        "name": "자포코일 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷그립",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "180",
+                "text": "자신의 덱에서 아이템을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "일렉트로스타",
+                "cost": "(번개)(번개)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 2마리에게 각각 90데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011029",
+                "debug": "1"
+            },
+            {
+                "number": "090",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011139",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-028",
+        "cardID": "자포번330에너050펄스220",
+        "name": "자포코일 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "에너지크래시",
+                "cost": "(번개)",
+                "damage": "50×",
+                "text": "상대의 포켓몬 전원에게 붙어 있는 에너지의 개수 × 50데미지를 준다."
+            },
+            {
+                "name": "펄스런처",
+                "cost": "(번개)(번개)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "hncl",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007028",
+                "debug": "1"
+            },
+            {
+                "number": "093",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007093",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVD-038",
+        "cardID": "자포번170마그050번개180",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷리젝트",
+                "cost": "(번개)",
+                "damage": "50",
+                "text": "원한다면 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴전파를 발신하며 하늘을 날면서 미지의 전파를 수신한다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "st2d-03",
+        "cardID": "자포번130차지030메탈060",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "차지빔",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 에너지를 1장 자신에게 붙인다."
+            },
+            {
+                "name": "메탈릭볼트",
+                "cost": "(번개)(강철)(무색)(무색)",
+                "damage": "60",
+                "text": "원한다면 자신의 (번개) 에너지와 (강철) 에너지를 각각 1개씩 트래쉬해도 좋다. 그 경우 이 기술의 데미지는 「120」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "특수한 자기장의 영향으로 레어코일이 진화했다. 3개의 유닛에서 자력을 발산한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "03",
+                "prodNumber": "12",
+                "prodCode": "st2d",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st2d.png",
+                "prodName": "DP 디아루가 덱",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST2/st2_dialga_ko_3.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010002003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs3-41",
+        "cardID": "자포강120전기메탈050",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈블라스트",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50+",
+                "text": "자신의 (강철) 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전기장",
+                "text": "자신의 배틀 포켓몬에게 (강철) 에너지가 붙어 있다면 그 포켓몬의 후퇴 에너지는 모두 없어진다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "특수한 자기장의 영향으로 레어코일이 진화했다. 3개의 유닛에서 자력을 발산한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "41",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Nakaoka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_41.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs3-42",
+        "cardID": "자포강140전자사이080",
+        "name": "자포코일 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 자포코일에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "사이버쇼크",
+                "cost": "(번개)(강철)",
+                "damage": "80",
+                "text": "자신의 (번개) 에너지와 (강철) 에너지를 각각 1개씩 트래쉬하고 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전자트랜스",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 포켓몬의 (번개) 에너지 혹은 (강철) 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "42",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Ryo Ueda",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_42.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003042",
+                "debug": "1"
+            }
+        ]
+    }
+]

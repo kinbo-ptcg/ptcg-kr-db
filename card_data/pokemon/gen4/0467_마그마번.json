@@ -1,0 +1,562 @@
+[
+    {
+        "id": "bw5e-008",
+        "cardID": "마그불120플레040화염090",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레임배리어",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "섭씨 2000도의 불구슬을 쏘아낼 때 마그마번의 몸은 열 때문에 약간 하얘진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy3-011",
+        "cardID": "마그불120니트030트윈080",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "니트로차지",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "트윈봄버",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치에 「에레키블」이 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "팔 끝에서 섭씨 2000도의 불구슬을 발사한다. 화산의 분화구를 거처로 삼는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "PLANETA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003011",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm5s-016",
+        "cardID": "마그불130작열파이080",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "파이어건",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다. 그 경우 , 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "작열바디",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 화상으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "팔 끝에서 섭씨 2000도의 불구슬을 발사한다. 연사하면 팔 끝이 조금 녹는다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-003",
+        "cardID": "마그불130스모050화염120",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "스모크봄",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "지금도 금속을 가공할 때 마그마번의 불꽃에 의존하는 공장이 적지 않다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-015",
+        "cardID": "마그불140버스030그라080",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "버스트펀치",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "그라운드번",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "서로의 덱을 위에서부터 1장씩 트래쉬하고 그 중의 에너지의 장수 × 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "불구슬을 발사해서 적을 처리한다. 새까만 재가 되어서 먹이를 잡는 데는 사용하지 않는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Kazuma Koda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-017",
+        "cardID": "마그불140메가050볼트120",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "메가톤펀치",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "볼트플로전",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120+",
+                "text": "자신의 벤치에 「에레키블」이 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "크게 숨을 들이쉬면 배 안의 불꽃이 더욱 거세어져서 섭씨 2000도에 달하게 된다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002017",
+                "debug": "1"
+            },
+            {
+                "number": "017",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001017",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVEL-002",
+        "cardID": "마그불140불꽃040볼케170",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "볼케닉히트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "170",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "화산의 화구에서 사는 동안 마그마 덩어리 모양의 기관을 가진 화산 같은 몸이 되었다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "020",
+                "prodCode": "SVEL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEL.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「라우드본 ex」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEL/SVEL_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023019002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs2-11",
+        "cardID": "마그불110불꽃플레020불구040",
+        "name": "마그마번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레임 블라스트",
+                "cost": "(불꽃)",
+                "damage": "20x",
+                "text": "자신의 (불꽃) 에너지의 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "불구슬 바주카포",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불꽃몸",
+                "text": "패로부터 이 포켓몬에 (불꽃) 에너지를 붙일때마다 이 포켓몬의 데미지 카운터를 2개 제거한다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "팔 끝에서 섭씨 2000도의 불구슬을 발사한다. 화산의 분화구를 거처로 삼는다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "11",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Kouki Saitou",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_11.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs2-12",
+        "cardID": "마그불130작열플레000",
+        "name": "마그마번 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 마그마번에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마그마번",
+                "pokedexNumber": 467
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레임 블라스터",
+                "cost": "(불꽃)(불꽃)(불꽃)(불꽃)",
+                "damage": "",
+                "text": "자신의 (불꽃) 에너지를 2장 트래쉬하고 상대의 포켓몬 1마리에게 100데미지를 준다. 자신의 다음 차례에 자신은 「플레임 블라스터」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "작열파동",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 한 번 사용할 수 있다. 상대의 배틀 포켓몬을 화상으로 만든다. 포켓몬 체크 때 이 화상으로 올리는 데미지 카운터의 수는 3개가 된다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "12",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Shizurow",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_12.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002012",
+                "debug": "1"
+            }
+        ]
+    }
+]

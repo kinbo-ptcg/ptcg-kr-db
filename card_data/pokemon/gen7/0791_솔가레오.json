@@ -1,0 +1,609 @@
+[
+    {
+        "id": "sm4plus-070",
+        "cardID": "솔가강250울트메테230솔버000",
+        "name": "솔가레오 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메테오드라이브",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "230",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            },
+            {
+                "name": "솔버스트 GX",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에 있는 에너지를 5장까지 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울트라로드",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001040",
+                "debug": "2"
+            },
+            {
+                "number": "063",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001063",
+                "debug": "2"
+            },
+            {
+                "number": "070",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013070",
+                "debug": "1"
+            },
+            {
+                "number": "070",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011070",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-039",
+        "cardID": "솔가강160샤이000일륜170",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "샤이닝애로",
+                "cost": "(강철)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "일륜의엄니",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "170",
+                "text": "자신의 다음 차례에 이 포켓몬은 「일륜의엄니」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "미신이 만연했던 옛날에 재앙을 초래한다고 미움을 받아 산속으로 쫓겨났다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003039",
+                "debug": "1"
+            },
+            {
+                "number": "039",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_092.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003092",
+                "debug": "2"
+            },
+            {
+                "number": "069",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013069",
+                "debug": "2"
+            },
+            {
+                "number": "069",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011069",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-082",
+        "cardID": "솔가강160라이000코로160",
+        "name": "솔가레오 ◇",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "프리즘스타"
+        ],
+        "rules": [
+            "같은 이름의 (프리즘스타) (프리즘스타)의 카드는 덱에 1장만 넣을 수 있다. 트래쉬하지 않고 로스트존에 둔다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "라이징스타",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는  (강철) 에너지를 상대 필드의 포켓몬의 수만큼 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "코로나임팩트",
+                "cost": "(강철)(강철)(강철)(강철)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "코스모그가 진화한 수컷이라고 전해진다. 제3의 눈이 뜰 때 다른 세계로 달려나간다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Shin Nagasawa",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001043",
+                "debug": "2"
+            },
+            {
+                "number": "082",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Shin Nagasawa",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002082",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sme-007",
+        "cardID": "솔가강250빛나터보120프로000",
+        "name": "솔가레오 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "터보스트라이크",
+                "cost": "(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 2장 자신의 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "프로미넌스 GX",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛나는갈기",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "021",
+                "prodCode": "sme",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+                "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SM11b-020",
+        "cardID": "솔가초270코즈230여신200",
+        "name": "솔가레오&루나아라 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            },
+            {
+                "name": "루나아라",
+                "pokedexNumber": 792
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "코즈믹번",
+                "cost": "(초)(초)(초)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 「코즈믹번」을 사용할 수 없다."
+            },
+            {
+                "name": "여신의빛GX",
+                "cost": "(초)(초)(무색)(플러스)",
+                "damage": "200",
+                "text": "추가로 이 차례에 패에서 「릴리에의 전력」을 꺼내서 사용했었다면 상대의 다음 차례에 자신의 포켓몬 전원은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015020",
+                "debug": "1"
+            },
+            {
+                "number": "063",
+                "prodNumber": "049",
+                "prodCode": "SM11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11b.png",
+                "prodName": "썬&문 강화 확장팩 「드림리그」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11b/SM11b_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019015063",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12-055",
+        "cardID": "솔가강170일륜솔팽180",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "솔팽",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일륜의 갑옷",
+                "text": "자신의 필드에 「루나아라」가 있다면 자신의 필드의 「솔가레오」와 「루나아라」가 상대의 포켓몬으로부터 받는 기술의 데미지는 「-50」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "울트라홀을 연 결과 다른 세계의 에너지나 생명을 이 세계로 부르기도 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "Misa Tsutsui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8a-016",
+        "cardID": "솔가강170달려솔라100",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "솔라가이저",
+                "cost": "(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "달려나가기",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬을 자신의 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "아득히 먼 옛날의 문헌에 태양을 삼키는 짐승이라는 이름으로 기록이 남아 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-000",
+        "cardID": "솔가강160메탈라이130",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "라이징대시",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈프로텍트",
+                "text": "이 포켓몬에게 (강철) 에너지가 붙어 있다면 이 포켓몬의 약점은 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "다른 세계에 산다고 전해진다. 온몸에서 격렬한 빛을 내뿜어 깜깜한 밤도 한낮처럼 비춘다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "000",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 코리안리그2017-2018 상위 입상 경품",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000063",
+                "debug": "1"
+            }
+        ]
+    }
+]

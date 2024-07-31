@@ -1,0 +1,116 @@
+[
+    {
+        "id": "SV3-058",
+        "cardID": "꼬지격030엉엉010",
+        "name": "꼬지지",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "꼬지지",
+                "pokedexNumber": 438
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "엉엉울기",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "체내의 불필요한 수분을 눈으로 내보내 조절한다. 울고 있는 것처럼 보일 뿐이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "058",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015058",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs6-42",
+        "cardID": "꼬지격040베이거짓000",
+        "name": "꼬지지",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "꼬지지",
+                "pokedexNumber": 438
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "거짓울음",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 상대 플레이어는 패에서 「트레이너」를 꺼내서 사용할 수 없고 자신이 받는 기술에 의한 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「꼬지모」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 우는 것처럼 보이지만 체내의 수분을 밖으로 내어 조절하고 있는 것이다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "42",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_42.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006042",
+                "debug": "1"
+            }
+        ]
+    }
+]

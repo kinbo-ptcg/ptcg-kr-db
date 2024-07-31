@@ -1,0 +1,236 @@
+[
+    {
+        "id": "S4a-063",
+        "cardID": "파치번160상승030기가200",
+        "name": "파치래곤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "파치래곤",
+                "pokedexNumber": 880
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "상승전류",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "자신의 다음 차례에 이 포켓몬의 「상승전류」의 데미지는 「+90」이 된다."
+            },
+            {
+                "name": "기가임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "고대에는 튼튼한 하반신 덕분에 무적이었으나 먹이인 식물을 모두 먹어버려서 멸종했다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011033",
+                "debug": "2"
+            },
+            {
+                "number": "063",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016063",
+                "debug": "1"
+            },
+            {
+                "number": "244",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_244.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016244",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-160",
+        "cardID": "파치번220태고030마운180",
+        "name": "파치래곤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "파치래곤",
+                "pokedexNumber": 880
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "태고의부리",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 패에서 에너지를 꺼내서 붙일 수 없다."
+            },
+            {
+                "name": "마운틴스윙",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "180",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Ryota Murayama",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003023",
+                "debug": "2"
+            },
+            {
+                "number": "160",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ryota Murayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_160.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003160",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-161",
+        "cardID": "파치번330트랩060다이200",
+        "name": "파치래곤 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "파치래곤",
+                "pokedexNumber": 880
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "트랩스파크",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 12개 올린다."
+            },
+            {
+                "name": "다이임팩트",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "200",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003024",
+                "debug": "2"
+            },
+            {
+                "number": "161",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_161.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003161",
+                "debug": "1"
+            }
+        ]
+    }
+]

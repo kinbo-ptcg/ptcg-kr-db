@@ -1,0 +1,1288 @@
+[
+    {
+        "id": "sc-001",
+        "cardID": "주리풀050성장000잎날030",
+        "name": "주리비얀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "주리비얀",
+                "pokedexNumber": 495
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "성장",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 (풀) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태양의 빛을 받으면 평소보다 빨리 움직일 수 있다. 손보다 덩굴을 잘 사용한다.",
+        "number": "001",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Eske Yoshinob",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004001"
+    },
+    {
+        "id": "sc-002",
+        "cardID": "샤비풀080리프010덩굴040",
+        "name": "샤비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "샤비",
+                "pokedexNumber": 496
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프블레이드",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸이 더러워지면 잎으로 광합성을 할 수 없기 때문에 항상 청결하게 하고 있다.",
+        "number": "002",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004002"
+    },
+    {
+        "id": "sc-003",
+        "cardID": "샤로풀140로열솔라080",
+        "name": "샤로다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "샤로다",
+                "pokedexNumber": 497
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "로열가든",
+                "text": "이 포켓몬에게 (풀) 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샤로다의 고상한 눈동자로 쏘아보아도 태연할 정도로 강한 상대에게만 진정한 실력을 발휘한다.",
+        "number": "003",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Shin Nagasawa",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004003"
+    },
+    {
+        "id": "sc-004",
+        "cardID": "가디불080잠자000덤벼040",
+        "name": "가디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "가디",
+                "pokedexNumber": 58
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "잠자기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬을 잠듦으로 만든다. 이 포켓몬의 HP를 모두 회복한다."
+            },
+            {
+                "name": "덤벼들기",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "트레이너에게 아주 충실하며 무심코 다가가면 격렬하게 짖으며 마을 밖으로 쫓아낸다.",
+        "number": "004",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Sanosuke　Sakuma",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004004"
+    },
+    {
+        "id": "sc-005",
+        "cardID": "아차불060쪼기000불씨020",
+        "name": "아차모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "아차모",
+                "pokedexNumber": 255
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": ""
+            },
+            {
+                "name": "불씨",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에 불꽃이 타오르고 있어 껴안으면 무척 따뜻하다. 1000도의 불구슬을 날린다.",
+        "number": "005",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Kanako Eo",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004005"
+    },
+    {
+        "id": "sc-006",
+        "cardID": "팽도물060애교000쪼기020",
+        "name": "팽도리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "팽도리",
+                "pokedexNumber": 393
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "애교부리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "쪼기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "걷는 것이 서툴러서 넘어질 때도 있지만 프라이드가 높은 팽도리는 신경 쓰지 않고 당당하게 가슴을 편다.",
+        "number": "006",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004006"
+    },
+    {
+        "id": "sc-007",
+        "cardID": "피카번060전기000꼬리020",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "약해진 동료 피카츄에게 전기를 흘려보내 쇼크를 줘서 힘을 나눠주는 때도 있다.",
+        "number": "007",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Atsuko Nishida",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004007"
+    },
+    {
+        "id": "sc-008",
+        "cardID": "랄토초040바라000막치020",
+        "name": "랄토스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "랄토스",
+                "pokedexNumber": 280
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "바라보기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "막치기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빨간 뿔로 사람이나 포켓몬의 따뜻한 마음을 캐치하면 전신이 미약하게 뜨거워진다.",
+        "number": "008",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004008"
+    },
+    {
+        "id": "sc-009",
+        "cardID": "킬리초070프리000연속000",
+        "name": "킬리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "킬리아",
+                "pokedexNumber": 281
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리마스텝",
+                "cost": "(초)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지의 개수만큼 자신의 덱을 뽑는다."
+            },
+            {
+                "name": "연속뺨치기",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "트레이너가 기뻐하면 킬리아에게 에너지가 넘쳐나서 기쁜 듯이 빙글빙글 춤춘다.",
+        "number": "009",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004009"
+    },
+    {
+        "id": "sc-010",
+        "cardID": "가디초120환상000이터000",
+        "name": "가디안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "가디안",
+                "pokedexNumber": 282
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "환상빔",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "이터널 브라이트",
+                "cost": "(초)(초)",
+                "damage": "",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터를 모두 상대의 배틀 포켓몬에게 올린다. 자신의 다음 차례에 이 포켓몬은 「이터널 브라이트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.",
+        "number": "010",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Atsuko Nishida",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004010"
+    },
+    {
+        "id": "sc-011",
+        "cardID": "메로초110샤이000돌림000",
+        "name": "메로엣타 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "샤이니보이스",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "돌림노래",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "기술 「돌림노래」를 가진 자신의 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "011",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Eske Yoshinob",
+        "rarity": "R",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004011"
+    },
+    {
+        "id": "sc-012",
+        "cardID": "메더격090헤롱000진흙070",
+        "name": "메더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메더",
+                "pokedexNumber": 618
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "헤롱헤롱",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "상대가 마비되지 않을 때는 예상외의 스피드로 몸을 구부려서 튀어올라 도망친다.",
+        "number": "012",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Akira Komayama",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004012"
+    },
+    {
+        "id": "sc-013",
+        "cardID": "쌔비악050유혹000",
+        "name": "쌔비냥",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "쌔비냥",
+                "pokedexNumber": 509
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "유혹",
+                "cost": "(악)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "귀여운 행동으로 방심하게 한 후 소중한 물건을 훔치는 것은 사람의 곤란해하는 모습을 보고 싶어서다.",
+        "number": "013",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Mizue",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004013"
+    },
+    {
+        "id": "sc-014",
+        "cardID": "이브무060허찌000",
+        "name": "이브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "허찌르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "불안정한 유전자 덕분에 여러 가지 진화 가능성을 간직하고 있는 특수한 포켓몬.",
+        "number": "014",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "kirisAki",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004014"
+    },
+    {
+        "id": "sc-015",
+        "cardID": "깜지무060꿀핥000할퀴020",
+        "name": "깜지곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "깜지곰",
+                "pokedexNumber": 216
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꿀핥기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "달콤한 꿀을 손바닥에 배어들게 해서 항상 핥고 있다. 깜지곰에 따라 맛이 다르다.",
+        "number": "015",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004015"
+    },
+    {
+        "id": "sc-016",
+        "cardID": "링곰무130외출000마구000",
+        "name": "링곰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "링곰",
+                "pokedexNumber": 217
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "외출하기 좋은날",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「깜지곰」을 1장 선택해서 벤치로 내보낸다. 그 뒤 자신의 트래쉬에서 에너지를 1장 선택해서 그 포켓몬에게 붙인다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "영역 내에 있는 맛있는 나무열매나 과일이 열리는 나무에는 발톱으로 흔적을 남긴다.",
+        "number": "016",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Sakuma Sanosuke",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004016"
+    },
+    {
+        "id": "sc-017",
+        "cardID": "다부무080데굴030",
+        "name": "다부니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "다부니",
+                "pokedexNumber": 531
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데굴데굴",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "귀의 더듬이로 상대의 컨디션이나 알에서 포켓몬이 언제 나올지도 알 수 있다.",
+        "number": "017",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "MAHOU",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004017"
+    },
+    {
+        "id": "sc-018",
+        "cardID": "치라무060스위010",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "스위프뺨치기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로의 꼬리로 상대를 철저히 깨끗하게 만드는 것이 치라미끼리의 인사다.",
+        "number": "018",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "sui",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004018"
+    },
+    {
+        "id": "sc-019",
+        "cardID": "치라무090매끄에코050",
+        "name": "치라치노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "치라치노",
+                "pokedexNumber": 573
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에코보이스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 「에코보이스」의 데미지는 「+50」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "매끄러운 코트",
+                "text": "이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 한 번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "치라치노의 몸은 특별한 기름으로 뒤덮여 있어 펀치 등 상대의 공격을 받아넘긴다.",
+        "number": "019",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "U",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004019"
+    },
+    {
+        "id": "sc-020",
+        "cardID": "카밀레",
+        "name": "카밀레",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「포켓몬의 도구」를 3장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "020",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "C",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_020.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004020"
+    },
+    {
+        "id": "sc-021",
+        "cardID": "쉐이풀110광합000리벤000",
+        "name": "쉐이미 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쉐이미",
+                "pokedexNumber": 492
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "광합성",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "리벤지버스트",
+                "cost": "(풀)(무색)",
+                "damage": "",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "021",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Kanako Eo",
+        "rarity": "SR",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_021.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004021"
+    },
+    {
+        "id": "sc-022",
+        "cardID": "레시불130역린020푸른120",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "푸른불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃으로 세상을 태워버릴 수 있는 전설의 포켓몬. 진실의 세계를 구축하는 사람을 도와준다.",
+        "number": "022",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "SR",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_022.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004022"
+    },
+    {
+        "id": "sc-023",
+        "cardID": "에몽번070동료000찌릿020",
+        "name": "에몽가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "에몽가",
+                "pokedexNumber": 587
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "막을 펼쳐서 하늘을 날면서 볼의 전기 주머니에 모은 전기로 상대를 감전시킨다.",
+        "number": "023",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Atsuko Nishida",
+        "rarity": "SR",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_023.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004023"
+    },
+    {
+        "id": "sc-024",
+        "cardID": "뮤우초120올마리플000",
+        "name": "뮤 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "리플레이스",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "올마이티",
+                "text": "이 포켓몬은 서로의 포켓몬이 가진 기술을 모두 사용할 수 있다. (기술을 사용하기 위한 에너지는 필요하다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "024",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "MAHOU",
+        "rarity": "SR",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_024.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004024"
+    },
+    {
+        "id": "sc-025",
+        "cardID": "메로초110샤이000돌림000",
+        "name": "메로엣타 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "샤이니보이스",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "돌림노래",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "기술 「돌림노래」를 가진 자신의 포켓몬의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "025",
+        "prodNumber": "025",
+        "prodCode": "sc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+        "prodName": "BW 확장팩 「샤이니 컬렉션」",
+        "artist": "Eske Yoshinob",
+        "rarity": "SR",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_025.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004025"
+    }
+]

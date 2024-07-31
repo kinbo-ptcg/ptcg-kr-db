@@ -1,0 +1,476 @@
+[
+    {
+        "id": "sm1plus-033",
+        "cardID": "내던격110내던000팀플010",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "내던지기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "팀플레이",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치의 「내던숭이」의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "20마리 전후의 그룹을 만든다. 그 결속은 상당히 강하며 절대 동료를 버리지 않는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "Naoki Saito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001031",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003033",
+                "debug": "1"
+            },
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003086",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013058",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011058",
+                "debug": "2"
+            },
+            {
+                "number": "011",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000011",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-031",
+        "cardID": "내던격110펀치030와일090",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "펀치",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "와일드피치",
+                "cost": "(격투)(격투)",
+                "damage": "90",
+                "text": "자신의 패에 있는 「포켓몬의 도구」를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "20마리 전후의 그룹을 만든다. 그 결속은 상당히 강하며 절대 동료를 버리지 않는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5m-040",
+        "cardID": "내던격110파워바위040",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "바위날리기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워스크럼",
+                "text": "이 포켓몬이 벤치에 있는 한, 자신의 「내던숭이」가 사용하는 기술이 상대의 배틀필드의 진화 포켓몬에게 주는 데미지는 「+30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "딱딱한 나무열매를 사용해서 싸운다. 그 테크닉은 대대로 보스로부터 그룹 동료들에게 전수된다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-038",
+        "cardID": "내던격110스파020지구070",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스파이크드로",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "지구던지기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "침으로 어깨에 잎사귀를 붙여서 마킹한다. 잎사귀의 위치로 어느 무리인지 알 수 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-050",
+        "cardID": "내던격110동료000바위070",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "바위날리기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "보스의 지시를 따라 훌륭한 팀플레이로 좋아하는 나무열매를 찾기 위해 동료와 협동한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5a-043",
+        "cardID": "내던격110스로내던000",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "내던지기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대 포켓몬 1마리에게 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스로잉코치",
+                "text": "이 포켓몬이 있는 한, 자신의 「연격」의 포켓몬이 사용하는 기술이 상대 벤치의 「포켓몬 V ・ GX」에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "20마리 정도가 무리 지어 생활한다. 정해진 역할을 해내면서 혹독한 자연에서 꿋꿋하게 살아남았다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Akira Komayama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-044",
+        "cardID": "내던격110어시070",
+        "name": "내던숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "내던숭이",
+                "pokedexNumber": 766
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "어시스트패스",
+                "cost": "(격투)(격투)",
+                "damage": "70",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "단단한 나무열매를 던져서 싸운다. 볼을 던지는 것이 어설픈 트레이너의 명령은 듣지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Jerky",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012044",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "xy11b-035",
+        "cardID": "바리강150카운000분노100",
+        "name": "바리톱스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "바리톱스",
+                "pokedexNumber": 411
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "카운터헤드",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 받은 데미지 수만큼의 데미지 카운터를 기술을 사용한 포켓몬에게 올린다."
+            },
+            {
+                "name": "분노의요새",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "100＋",
+                "text": "데미지 카운터가 올려져 있는 자신의 벤치 포켓몬의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "정면에서의 공격은 전부 튕겨낸다. 풀이나 나무열매를 먹는 얌전한 성격이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "match",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5s-039",
+        "cardID": "바리강160대지들이110",
+        "name": "바리톱스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "바리톱스",
+                "pokedexNumber": 411
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "들이밀치기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "110",
+                "text": "원한다면 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "대지의 방패",
+                "text": "이 포켓몬이 있는 한, 자신의 (강철) 포켓몬 전원은 특수 에너지가 붙어 있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "램펄드와 비슷한 장소에 있었다. 2마리가 싸워 같이 쓰러져 있는 화석이 발견될 때도 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10P-047",
+        "cardID": "바리강160원시아이180",
+        "name": "바리톱스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "바리톱스",
+                "pokedexNumber": 411
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언 태클",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원시의 요새",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 「포켓몬 V」로부터 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "약 1억 년 전의 포켓몬이다. 무섭게 튼튼한 얼굴은 강철 이상의 경도를 가졌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008047",
+                "debug": "3"
+            }
+        ]
+    }
+]

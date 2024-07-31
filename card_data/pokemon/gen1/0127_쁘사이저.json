@@ -1,0 +1,666 @@
+[
+    {
+        "id": "bw3p-001",
+        "cardID": "쁘사풀080파워000찝어070",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "파워펜치",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 두 번 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에게 붙어 있는 에너지를 선택해서 트래쉬한다."
+            },
+            {
+                "name": "찝어죄기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "2개의 뿔로 먹이를 끼워 조각날 때까지 놓지 않는다. 조각나지 않으면 저편으로 세게 내던진다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_001.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8b-001",
+        "cardID": "쁘사풀100뒤로030헤비040",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뒤로던지기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤비수플렉스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "40＋",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "긴 뿔을 휘둘러서 공격을 해온다. 추울 때는 숲 깊은 곳에 몸을 숨긴다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "Satoshi Shirai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_001.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006001",
+                "debug": "1"
+            },
+            {
+                "number": "003",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Satoshi Shirai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004003",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sma-001",
+        "cardID": "쁘사풀110천장000가위050",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "천장던지기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 패로 되돌린다."
+            },
+            {
+                "name": "가위자르기",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뿔의 일격은 큰 나무조차도 부러뜨릴 정도다. 알로라에서는 투구뿌논이 최대의 라이벌이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "DemizuPosuka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001001",
+                "debug": "3"
+            },
+            {
+                "number": "001",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "DemizuPosuka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002001",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "DemizuPosuka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013002",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "DemizuPosuka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011002",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-001",
+        "cardID": "쁘사풀110찝어020한방070",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찝어죄기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뿔의 일격은 큰 나무조차도 부러뜨릴 정도다. 알로라에서는 투구뿌논이 최대의 라이벌이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Suwama Chiaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9-009",
+        "cardID": "쁘사풀120찝어030자르000",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찝어죄기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "자르기허그",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "",
+                "text": "동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 기절시킨다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "투구뿌논과 영역 다툼을 한다. 알로라에서는 어째서인지 헤라크로스와 사이가 좋은 듯하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smL-005",
+        "cardID": "쁘사풀180괴력110가위160",
+        "name": "쁘사이저 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "괴력호른",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "110",
+                "text": ""
+            },
+            {
+                "name": "가위자르기 GX",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "160",
+                "text": "(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「리자몽 GX 덱」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-001",
+        "cardID": "쁘사풀120바이지구110",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "지구던지기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "바이스코치",
+                "text": "이 포켓몬이 있는 한, 자신의 「일격」의 포켓몬이 사용하는 기술의 데미지는 상대 배틀 포켓몬의 저항력 계산을 하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "늠름하지만 추위가 약점이다. 밤이 되면 나뭇잎 속에 몸을 파묻고 잔다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-127",
+        "cardID": "쁘사풀120찝기030죽기090",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "죽기살기로 던지기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "90+",
+                "text": "자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뿔로 먹이를 찔러 넣어 그대로 두 동강으로 만들거나 강제로 던져버린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "127",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_127.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014127",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-003",
+        "cardID": "쁘사풀110슬로000괴력100",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "슬로크런치",
+                "cost": "(풀)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 상대의 다음 차례 마지막에 이 기술을 받은 포켓몬은 기절한다."
+            },
+            {
+                "name": "괴력호른",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007003",
+                "debug": "1"
+            },
+            {
+                "number": "067",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Yukihiro Tada",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007067",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs4-01",
+        "cardID": "쁘사풀080찝어020파워100",
+        "name": "쁘사이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "쁘사이저",
+                "pokedexNumber": 127
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찝어죄기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대는 후퇴를 할 수 없다."
+            },
+            {
+                "name": "파워자르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "동전을 두 번 던져서 한 번이라도 뒷면이 나오면 이 기술의 데미지는 「10」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "2개의 뿔로 먹이를 끼워 조각날 때까지 놓지 않는다. 조각나지 않으면 저편으로 세게 내던진다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "01",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_1.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004001",
+                "debug": "1"
+            }
+        ]
+    }
+]

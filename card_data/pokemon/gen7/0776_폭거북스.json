@@ -1,0 +1,570 @@
+[
+    {
+        "id": "sm60a-002",
+        "cardID": "폭거불110누르030히트090",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "누르기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등의 등껍질은 폭발물이다. 실수로 때리면 대폭발한다. 배의 구멍이 약점이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2k-009",
+        "cardID": "폭거불190트랩020홍련160니트000",
+        "name": "폭거북스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "트랩셸",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "니트로탱크 GX",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 5장 자신의 포켓몬에게 원하는 대로 붙인다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004009",
+                "debug": "1"
+            },
+            {
+                "number": "051",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004051",
+                "debug": "2"
+            },
+            {
+                "number": "212",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_212.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002212",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SMN-011",
+        "cardID": "폭거불130태워010타오100",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "태워그을리기",
+                "cost": "(불꽃)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "타오르는대포",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "콧구멍으로 불꽃과 독가스를 뿜는다. 배설물은 폭발물이며 다양한 용도가 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001024",
+                "debug": "2"
+            },
+            {
+                "number": "011",
+                "prodNumber": "043",
+                "prodCode": "SMN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMN.png",
+                "prodName": "썬&문 파워업덱 BOX 「TAG TEAM GX」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMN/SMN_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019009011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-103",
+        "cardID": "폭거드110폭발050",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "폭발분사",
+                "cost": "(불꽃)(불꽃)(불꽃)",
+                "damage": "50×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (불꽃) 에너지를 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "콧구멍으로 불꽃과 독가스를 뿜는다. 배설물은 폭발물이며 다양한 용도가 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005037",
+                "debug": "2"
+            },
+            {
+                "number": "037",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005095",
+                "debug": "2"
+            },
+            {
+                "number": "103",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002103",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SA_R-005",
+        "cardID": "폭거불130몸통030회오150",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "회오리불꽃",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "폭약으로 코팅된 등껍질을 짊어지고 있다. 공격하는 상대에게 대폭발로 반격한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "023",
+                "prodCode": "SA_R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_R.png",
+                "prodName": "소드&실드 스타터 세트 V 불꽃",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_R_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-132",
+        "cardID": "폭거드130트랩030히트080",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "트랩셸",
+                "cost": "(불꽃)(격투)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 8개 올린다."
+            },
+            {
+                "name": "히트스탬프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "화산에서 살며 먹은 유황이 등껍질에 있는 폭약의 원료가 된다. 위험하게도 배설물 역시 폭발물이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Ryuta Fuse",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012049",
+                "debug": "2"
+            },
+            {
+                "number": "323",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_323.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003323",
+                "debug": "2"
+            },
+            {
+                "number": "132",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "드래곤 포켓몬 V GET 챌린지 프로모 카드 팩",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_132.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000132",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SVHK-003",
+        "cardID": "폭거불120토해000타오100",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "토해내기샷",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "타오르는대포",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "폭약으로 코팅된 등껍질을 짊어지고 있다. 공격하는 상대에게 대폭발로 반격한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "053",
+                "prodCode": "SVHK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHK.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「고대의 코라이돈 ex」",
+                "artist": "Shigenori Negishi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-007",
+        "cardID": "폭거불130불꽃030히트070",
+        "name": "폭거북스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭거북스",
+                "pokedexNumber": 776
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 1장, 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등의 등껍질은 폭발물이다. 실수로 때리면 대폭발한다. 배의 구멍이 약점이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 처음 배우는 교실 30장 덱 「폭거북스 덱」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000007",
+                "debug": "1"
+            }
+        ]
+    }
+]

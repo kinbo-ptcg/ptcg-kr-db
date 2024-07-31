@@ -1,0 +1,194 @@
+[
+    {
+        "id": "SVD-033",
+        "cardID": "우락물180한방050스위200",
+        "name": "우락고래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "우락고래",
+                "pokedexNumber": 975
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스위핑태클",
+                "cost": "(물)(무색)(무색)",
+                "damage": "200-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "얼음 에너지를 집중시키면 위턱의 뿔이 초저온이 되어 주위를 얼려 버린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007025",
+                "debug": "2"
+            },
+            {
+                "number": "033",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-022",
+        "cardID": "우락물180고드050스페080",
+        "name": "우락고래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "우락고래",
+                "pokedexNumber": 975
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "고드름미사일",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스페셜혼",
+                "cost": "(물)(물)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 140데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "빙설 지대를 떼 지어 다닌다. 강인한 근육과 두꺼운 피하지방으로 몸을 보호한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Pani Kobayashi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-065",
+        "cardID": "우락물170눈사030롤링100",
+        "name": "우락고래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "우락고래",
+                "pokedexNumber": 975
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈사태",
+                "cost": "(물)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "롤링슬라이더",
+                "cost": "(물)(물)(물)",
+                "damage": "100×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "빙설 지대를 떼 지어 다닌다. 강인한 근육과 두꺼운 피하지방으로 몸을 보호한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2024 코리안리그 시즌2 프로모",
+                "artist": "GOSSAN",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000065",
+                "debug": "3"
+            }
+        ]
+    }
+]

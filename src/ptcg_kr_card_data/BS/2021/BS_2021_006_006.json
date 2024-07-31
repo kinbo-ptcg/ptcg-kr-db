@@ -1,0 +1,214 @@
+[
+    {
+        "id": "SP3-001",
+        "cardID": "버드물210눈보040프로140",
+        "name": "백마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈보라",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "프로스트 스탬프",
+                "cost": "(물)(물)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006001"
+    },
+    {
+        "id": "SP3-002",
+        "cardID": "버드초210어둠000할로130",
+        "name": "흑마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "어둠두르기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (초) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "할로우바인드",
+                "cost": "(초)(초)(무색)",
+                "damage": "130",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006002"
+    },
+    {
+        "id": "SP3-003",
+        "cardID": "가득찬 양동이",
+        "name": "가득찬 양동이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (물) 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "003",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006003"
+    },
+    {
+        "id": "SP3-004",
+        "cardID": "알쏭달쏭 통조림",
+        "name": "알쏭달쏭 통조림",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「80」회복한다.",
+            "그 뒤, 그 포켓몬에게 붙어 있는 (초) 에너지를 1개 선택해서 트래쉬한다.",
+            "((초) 에너지가 붙어 있지 않은 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "004",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006004"
+    },
+    {
+        "id": "SP3-005",
+        "cardID": "워시 물 에너지",
+        "name": "워시 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (물) 에너지 1개분으로 작용한다.",
+            "이 카드를 붙이고 있는 (물) 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.",
+            "(이미 받은 효과는 없어지지 않는다.)"
+        ],
+        "number": "005",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006005"
+    },
+    {
+        "id": "SP3-006",
+        "cardID": "호러 초 에너지",
+        "name": "호러 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (초) 에너지 1개분으로 작용한다.",
+            "이 카드를 붙이고 있는 (초) 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 2개 올린다."
+        ],
+        "number": "006",
+        "prodNumber": "006",
+        "prodCode": "SP3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+        "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006006"
+    }
+]

@@ -1,0 +1,690 @@
+[
+    {
+        "id": "S1a-033",
+        "cardID": "스트번130포이000한방090",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "포이즌샤우팅",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 20데미지를 준다. 상대의 배틀 포켓몬을 독으로 만든다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가슴에 난 돌기를 긁으면 전기가 일어나며 주위에 기타와 비슷한 소리가 울려퍼진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "TOKIYA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-036",
+        "cardID": "스트번210독찌020일렉090",
+        "name": "스트린더 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "독찌르기",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "일렉트릭 라이엇",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 독이라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005036",
+                "debug": "1"
+            },
+            {
+                "number": "100",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005100",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016059",
+                "debug": "2"
+            },
+            {
+                "number": "314",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_314.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016314",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-037",
+        "cardID": "스트번320거다160",
+        "name": "스트린더 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "거다이라이엇",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "160+",
+                "text": "상대의 배틀 포켓몬이 독이라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005037",
+                "debug": "1"
+            },
+            {
+                "number": "060",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016060",
+                "debug": "2"
+            },
+            {
+                "number": "315",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_315.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016315",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4a-058",
+        "cardID": "스트번120리스000전격160",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "리스크테이커",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 덱을 위에서부터 5장 트래쉬한다. 뒷면이 나오면 자신의 덱을 위에서부터 5장 트래쉬한다."
+            },
+            {
+                "name": "전격",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "15000볼트나 되는 전기를 발생시킬 수 있다. 상대가 누구라도 깔본다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010027",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016058",
+                "debug": "1"
+            },
+            {
+                "number": "241",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_241.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016241",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-158",
+        "cardID": "스트번130펑크070",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "펑크쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "70",
+                "text": "원한다면 상대의 배틀 포켓몬을 마비로 만든다. 그 경우, 이 포켓몬에게도 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "호전적이며 성미가 급하다. 고인 물을 벌컥벌컥 마셔서 물속의 독소를 흡수한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012032",
+                "debug": "2"
+            },
+            {
+                "number": "158",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_158.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003158",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S12a-044",
+        "cardID": "스트번120맥스헤드090",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "맥스다우너",
+                "text": "자신의 필드의 포켓몬 전원이 「퓨전」의 포켓몬이라면 작용한다. 이 포켓몬이 있는 한, 상대 필드의 「포켓몬 VMAX」 전원의 최대 HP는 각각 「30」작아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "발전 기관이 가슴에 있다. 전기가 만들어질 때 베이스 기타 같은 소리가 울린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018037",
+                "debug": "2"
+            },
+            {
+                "number": "044",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-032",
+        "cardID": "스트번130쥐어000번개120",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "쥐어뜯기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 2장 선택해서 그 카드의 앞면을 보고 상대의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "거칠게 가슴팍의 돌기를 긁어서 발산하는 전격은 15000볼트를 가볍게 뛰어넘는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Atsushi Furusawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-065",
+        "cardID": "스트번140째려000믹스050",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "째려보기",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "믹스라우드",
+                "cost": "(번개)(무색)",
+                "damage": "50+",
+                "text": "자신의 벤치 포켓몬의 타입의 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "상대가 누구라도 동요하지 않고 나른한 모습으로 싸움을 거는 스타일에 동경하는 젊은이도 많다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015038",
+                "debug": "2"
+            },
+            {
+                "number": "065",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001065",
+                "debug": "1"
+            },
+            {
+                "number": "246",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "GIDORA",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_246.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001246",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-040",
+        "cardID": "스트격260테라노크070가이270",
+        "name": "스트린더 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "노크해머",
+                "cost": "(번개)(번개)",
+                "damage": "70",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            },
+            {
+                "name": "가이아펑크",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "270",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022040",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022081",
+                "debug": "2"
+            }
+        ]
+    }
+]

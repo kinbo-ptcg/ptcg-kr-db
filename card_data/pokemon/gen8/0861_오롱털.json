@@ -1,0 +1,350 @@
+[
+    {
+        "id": "S1a-052",
+        "cardID": "오롱악170악의에너100",
+        "name": "오롱털",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "오롱털",
+                "pokedexNumber": 861
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "에너지프레스",
+                "cost": "(악)(무색)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "악의 서약",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "머리카락을 전신에 휘감아 근력이 올랐다. 괴력몬을 압도하는 파워를 발휘한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "nagimiso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004052",
+                "debug": "1"
+            },
+            {
+                "number": "123",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016123",
+                "debug": "2"
+            },
+            {
+                "number": "284",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_284.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016284",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SC_D-006",
+        "cardID": "오롱악220물기040스파200",
+        "name": "오롱털 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "오롱털",
+                "pokedexNumber": 861
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "스파이키너클",
+                "cost": "(악)(악)(악)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "020",
+                "prodCode": "SC_D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SC_D.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 오롱털",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SC/SCD_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2020002006",
+                "debug": "3"
+            },
+            {
+                "number": "321",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_321.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016321",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SC_D-007",
+        "cardID": "오롱악330거다170",
+        "name": "오롱털 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "오롱털",
+                "pokedexNumber": 861
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "거다이드릴",
+                "cost": "(악)(악)(악)",
+                "damage": "170+",
+                "text": "이 기술을 사용하기 위한 에너지보다 많이 붙어 있는 (악) 에너지의 개수 × 50데미지를 추가한다. 추가할 수 있는 데미지는 (악) 에너지 2개까지이다. "
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "020",
+                "prodCode": "SC_D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SC_D.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 오롱털",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SC/SCD_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2020002007",
+                "debug": "1"
+            },
+            {
+                "number": "322",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_322.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016322",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S6a-054",
+        "cardID": "오롱악170물기060후방100",
+        "name": "오롱털",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "오롱털",
+                "pokedexNumber": 861
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "후방어택",
+                "cost": "(악)(악)",
+                "damage": "100+",
+                "text": "자신의 벤치 포켓몬의 수가 2마리 이하라면 140데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "머리카락은 근섬유의 역할을 하며 매듭이 풀어지면 촉수와 같은 움직임으로 상대를 묶어버린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-288",
+        "cardID": "오롱악160롱털000어둠110",
+        "name": "오롱털",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "오롱털",
+                "pokedexNumber": 861
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "롱털슛",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 이 포켓몬에게 붙어 있는 (악) 에너지의 개수 × 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리카락을 전신에 휘감아 근력이 올랐다. 괴력몬을 압도하는 파워를 발휘한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "288",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "DOM",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_288.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003288",
+                "debug": "1"
+            }
+        ]
+    }
+]

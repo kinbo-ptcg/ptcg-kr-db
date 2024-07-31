@@ -1,0 +1,444 @@
+[
+    {
+        "id": "S1H-043",
+        "cardID": "대왕강190딕드060완강220",
+        "name": "대왕끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "딕드레인",
+                "cost": "(강철)(강철)",
+                "damage": "60",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "완강노즈",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "220",
+                "text": "이 포켓몬에게 데미지 카운터가 8개 이상 올려져 있다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-023",
+        "cardID": "대왕강220금강090두들180",
+        "name": "대왕끼리동 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "금강프레스",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "두들겨 부수기",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005075",
+                "debug": "2"
+            },
+            {
+                "number": "104",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005104",
+                "debug": "2"
+            },
+            {
+                "number": "023",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "「반역크래시」 2BOX 구입 특전",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000023",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S2-076",
+        "cardID": "대왕강340데인100거다240",
+        "name": "대왕끼리동 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 340,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "데인저러스 노즈",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬이 기본 포켓몬이라면 100데미지를 추가한다."
+            },
+            {
+                "name": "거다이해머",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "240",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "076",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005076",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-134",
+        "cardID": "대왕강190항균리벤120",
+        "name": "대왕끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "리벤지스탬프",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "120+",
+                "text": "자신의 벤치 포켓몬에게 데미지 카운터가 올려져 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "항균스킨",
+                "text": "이 포켓몬은 특수 상태가 되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "녹색 피부는 물에도 강하다. 오래전에 다른 지방에서 오게 되어 사람과 함께 일했다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011073",
+                "debug": "2"
+            },
+            {
+                "number": "134",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_134.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016134",
+                "debug": "1"
+            },
+            {
+                "number": "290",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_290.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016290",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-312",
+        "cardID": "대왕강190괴력09010160",
+        "name": "대왕끼리동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "괴력",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            },
+            {
+                "name": "10만마력",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011039",
+                "debug": "2"
+            },
+            {
+                "number": "312",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_312.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003312",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-054",
+        "cardID": "대왕강300브론노즈260",
+        "name": "대왕끼리동 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "대왕끼리동",
+                "pokedexNumber": 879
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "노즈퀘이크",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "260",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "브론즈 바디",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Uta",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011054",
+                "debug": "1"
+            },
+            {
+                "number": "088",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011088",
+                "debug": "2"
+            }
+        ]
+    }
+]

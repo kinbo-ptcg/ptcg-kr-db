@@ -1,0 +1,241 @@
+[
+    {
+        "id": "SVAL-004",
+        "cardID": "라우불180열창050블레190",
+        "name": "라우드본",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "라우드본",
+                "pokedexNumber": 911
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열창",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "블레이즈 샤우팅",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "고운 노랫소리는 듣는 이의 영혼을 치유한다. 3000도의 불꽃으로 적을 불태운다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "021",
+                "prodCode": "SVAL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-032",
+        "cardID": "라우불340활력050버닝270",
+        "name": "라우드본 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 340,
+        "pokemons": [
+            {
+                "name": "라우드본",
+                "pokedexNumber": 911
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "활력의노래",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「30」회복한다."
+            },
+            {
+                "name": "버닝보이스",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "270-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010020",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010087",
+                "debug": "2"
+            },
+            {
+                "number": "097",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010097",
+                "debug": "2"
+            },
+            {
+                "number": "032",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001032",
+                "debug": "3"
+            },
+            {
+                "number": "324",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_324.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001324",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVEL-008",
+        "cardID": "라우강330테라러스160",
+        "name": "라우드본 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "라우드본",
+                "pokedexNumber": 911
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "러스터번",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "160",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "폭열 송",
+                "text": "자신의 차례에 자신의 패에서 「기본 (불꽃) 에너지」를 1장 트래쉬한다면 1번 사용할 수 있다. 이 차례에 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+60」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "020",
+                "prodCode": "SVEL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEL.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「라우드본 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEL/SVEL_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023019008",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,825 @@
+[
+    {
+        "id": "SVC-001",
+        "cardID": "피카번190피카030다이220",
+        "name": "피카츄 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "피카펀치",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "다이내믹볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "220",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008001"
+    },
+    {
+        "id": "SVC-002",
+        "cardID": "코일번050마그000스피020",
+        "name": "코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "코일",
+                "pokedexNumber": 81
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「기본 (번개) 에너지」를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "스피드볼",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "좌우에 있는 유닛에서 나오는 전자파를 이용해 중력을 거슬러 하늘에 떠 있다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "ryoma uratsuka",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008002"
+    },
+    {
+        "id": "SVC-003",
+        "cardID": "찌리번070번쩍010구르020",
+        "name": "찌리리공",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "찌리리공",
+                "pokedexNumber": 100
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번쩍구슬",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "굴러서 이동하기 때문에 땅이 울퉁불퉁하면 충격으로 폭발해 버린다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008003"
+    },
+    {
+        "id": "SVC-004",
+        "cardID": "붐볼번090번쩍060구르090",
+        "name": "붐볼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "붐볼",
+                "pokedexNumber": 101
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번쩍구슬",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전기 에너지를 모을수록 고속으로 이동할 수 있게 되나 그만큼 폭발하기도 쉬워진다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Scav",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008004"
+    },
+    {
+        "id": "SVC-005",
+        "cardID": "꼬링번040크게부딪010",
+        "name": "꼬링크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "꼬링크",
+                "pokedexNumber": 403
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "크게 울부짖기",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸을 움직일 때마다 근육이 늘어났다 줄어들었다 하여 전기가 발생한다. 궁지에 몰리면 몸이 빛난다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "kurumitsu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008005"
+    },
+    {
+        "id": "SVC-006",
+        "cardID": "찌르번080니들070",
+        "name": "찌르성게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "찌르성게",
+                "pokedexNumber": 871
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "니들크래시",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "먹이를 소화시킬 때 전기를 만들어 낸다. 5개의 단단한 이빨로 해초를 갉아 먹는다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008006"
+    },
+    {
+        "id": "SVC-007",
+        "cardID": "빠모번050찌릿찌020",
+        "name": "빠모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "빠모",
+                "pokedexNumber": 921
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼의 전기 주머니가 아직 발달하지 않았다. 앞발의 볼록살을 열심히 비벼야 겨우 전기가 만들어진다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008007"
+    },
+    {
+        "id": "SVC-008",
+        "cardID": "빠모번080찌릿020일렉050",
+        "name": "빠모트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "빠모트",
+                "pokedexNumber": 922
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(번개)",
+                "damage": "50",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리가 공격을 받으면 전격을 날리는 격투기로 먼저 싸움을 걸고 적을 쓰러뜨린다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008008"
+    },
+    {
+        "id": "SVC-009",
+        "cardID": "빠르번140마하040일렉100",
+        "name": "빠르모트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "빠르모트",
+                "pokedexNumber": 923
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마하볼트",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 피스트",
+                "cost": "(번개)(번개)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "평소에는 느긋하지만 싸움이 시작되면 전광석화와도 같은 몸놀림으로 적을 때려눕힌다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008009"
+    },
+    {
+        "id": "SVC-010",
+        "cardID": "맛보무060가져000몸통030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008010"
+    },
+    {
+        "id": "SVC-011",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008011"
+    },
+    {
+        "id": "SVC-012",
+        "cardID": "에너지 갈아 달기",
+        "name": "에너지 갈아 달기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008012"
+    },
+    {
+        "id": "SVC-013",
+        "cardID": "일렉트릭 제너레이터",
+        "name": "일렉트릭 제너레이터",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 5장 보고 그 중에서 「기본 (번개) 에너지」를 2장까지 선택해서 벤치의 (번개) 포켓몬에게 원하는 대로 붙인다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008013"
+    },
+    {
+        "id": "SVC-014",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008014"
+    },
+    {
+        "id": "SVC-015",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008015"
+    },
+    {
+        "id": "SVC-016",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008016"
+    },
+    {
+        "id": "SVC-017",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008017"
+    },
+    {
+        "id": "SVC-018",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008018"
+    },
+    {
+        "id": "SVC-019",
+        "cardID": "반바지 꼬마",
+        "name": "반바지 꼬마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008019"
+    },
+    {
+        "id": "SVC-020",
+        "cardID": "박사의 연구(투로박사)",
+        "name": "박사의 연구(투로박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008020"
+    },
+    {
+        "id": "SVC-021",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "SVC",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008021"
+    },
+    {
+        "id": "SVC-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SVC",
+        "prodSymbolURL": "",
+        "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008022"
+    }
+]

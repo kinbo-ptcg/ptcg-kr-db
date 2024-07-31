@@ -1,0 +1,1303 @@
+[
+    {
+        "id": "SMM-001",
+        "cardID": "에브초260사이010크로000",
+        "name": "에브이&테오키스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            },
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코서클",
+                "cost": "(초)(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치의 (초) 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "크로스디비전 GX",
+                "cost": "(초)(무색)(무색)(플러스)",
+                "damage": "",
+                "text": "데미지 카운터 10개를 상대의 포켓몬에게 원하는 대로 올린다. 에너지 3개가 추가로 붙어 있다면 올리는 데미지 카운터의 수는 20개가 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012001"
+    },
+    {
+        "id": "SMM-002",
+        "cardID": "지라초160사이별찾000스타100",
+        "name": "지라치 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "지라치",
+                "pokedexNumber": 385
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "별찾기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에 있는 에너지를 1장 자신의 (초) 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스타실드 GX",
+                "cost": "(초)(초)(초)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사이킥존",
+                "text": "이 포켓몬이 있는 한, 서로의 필드에 있는 (초) 타입의 약점을 가진 포켓몬이 기술의 데미지를 받을 때 약점 계산을 하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012002"
+    },
+    {
+        "id": "SMM-003",
+        "cardID": "크레초130오로060빛의130",
+        "name": "크레세리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "크레세리아",
+                "pokedexNumber": 488
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "오로라게인",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "빛의칼날",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "비행할 때는 베일 같은 날개에서 빛나는 입자를 낸다. 초승달의 화신으로 불리고 있다.",
+        "number": "003",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012003"
+    },
+    {
+        "id": "SMM-004",
+        "cardID": "오케초060최면000",
+        "name": "오케이징",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "오케이징",
+                "pokedexNumber": 686
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빛을 깜박여서 덮쳐온 적의 전의를 잃게 한다. 그 틈에 모습을 감춘다.",
+        "number": "004",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012004"
+    },
+    {
+        "id": "SMM-005",
+        "cardID": "칼라초090사이염동060",
+        "name": "칼라마네로",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "칼라마네로",
+                "pokedexNumber": 687
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동탄",
+                "cost": "(초)(초)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "사이코리차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에 있는 (초) 에너지를 1장 벤치 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "최면술로 끌어들여서 머리의 촉수로 휘감아 소화액을 끼얹어 꼼짝 못하게 한다.",
+        "number": "005",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "You Iribi",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012005"
+    },
+    {
+        "id": "SMM-006",
+        "cardID": "야도초070가스010갉기030",
+        "name": "야도뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "야도뇽",
+                "pokedexNumber": 757
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "가스로 에워싸기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "갉기",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수컷은 거의 암컷의 지시에 따른다. 잡아 온 먹이도 거의 바치기 때문에 영양 부족으로 진화할 수 없다.",
+        "number": "006",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Yukiko Baba",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012006"
+    },
+    {
+        "id": "SMM-007",
+        "cardID": "염뉴초110수벽040슬래090",
+        "name": "염뉴트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "염뉴트",
+                "pokedexNumber": 758
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "수벽치기",
+                "cost": "(초)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(초)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동굴 깊은 곳에서 살며 페로몬으로 헤롱헤롱하게 만들어 야도뇽을 시중들게 한다.",
+        "number": "007",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012007"
+    },
+    {
+        "id": "SMM-008",
+        "cardID": "카푸초170원더에너020카푸000",
+        "name": "카푸나비나 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지 드라이브",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "카푸큐어 GX",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬 2마리의 HP를 모두 회복한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원더터치",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 덱에 있는 서포트를 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "008",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012008"
+    },
+    {
+        "id": "SMM-009",
+        "cardID": "코스초040튀어010",
+        "name": "코스모그",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "코스모그",
+                "pokedexNumber": 789
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "튀어오르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "의지할 곳 없는 가스 상태의 몸은 약한 바람에도 휩쓸리지만, 전혀 신경 쓰지 않는 듯하다.",
+        "number": "009",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012009"
+    },
+    {
+        "id": "SMM-010",
+        "cardID": "블래악270블랙150데드000",
+        "name": "블래키&다크라이 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "블래키",
+                "pokedexNumber": 197
+            },
+            {
+                "name": "다크라이",
+                "pokedexNumber": 491
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "블랙랜스",
+                "cost": "(악)(악)(무색)",
+                "damage": "150",
+                "text": "상대의 벤치에 있는 「포켓몬 GX・EX」 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "데드문 GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "상대의 다음 차례에 상대는 패에서 트레이너스를 꺼내서 사용할 수 없다. (악) 에너지 5개가 추가로 붙어 있다면 상대의 배틀 포켓몬을 기절시킨다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "010",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012010"
+    },
+    {
+        "id": "SMM-011",
+        "cardID": "질퍽악080가져000오물030",
+        "name": "알로라질퍽이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "질퍽이",
+                "pokedexNumber": 88,
+                "region": "알로라"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "오물폭탄",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "알로라의 쓰레기 처리장에서는 약 100마리가 살고 있다. 모두 쓰레기를 많이 먹는 유능한 일꾼이다.",
+        "number": "011",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012011"
+    },
+    {
+        "id": "SMM-012",
+        "cardID": "니로악070쪼기010",
+        "name": "니로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "니로우",
+                "pokedexNumber": 198
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "반짝이는 것을 매우 좋아한다. 보물을 찾아 보석을 모으는 한바이트 둥지에 몰래 들어가기도 한다.",
+        "number": "012",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "tetsuya koizumi",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012012"
+    },
+    {
+        "id": "SMM-013",
+        "cardID": "돈크악110노려000다크060",
+        "name": "돈크로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "돈크로우",
+                "pokedexNumber": 430
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "노려맞히기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "다크커터",
+                "cost": "(악)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "실패하거나 배신한 부하는 절대 용서하지 않는다. 무리의 질서를 지키기 위해 어쩔 수 없다.",
+        "number": "013",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012013"
+    },
+    {
+        "id": "SMM-014",
+        "cardID": "포푸악070베어030",
+        "name": "포푸니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "포푸니",
+                "pokedexNumber": 215
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "팀플레이로 새포켓몬의 둥지에서 알을 훔쳐 내지만, 누가 먹을까로 싸움이 난다.",
+        "number": "014",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012014"
+    },
+    {
+        "id": "SMM-015",
+        "cardID": "포푸악200섀도발톱130밤의000",
+        "name": "포푸니라 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "포푸니라",
+                "pokedexNumber": 461
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": ""
+            },
+            {
+                "name": "밤의호령 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 원하는 만큼 벤치로 내보낸다. 그리고 덱을 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "섀도커넥션",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 기본 (악) 에너지를 1개 자신의 다른 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012015"
+    },
+    {
+        "id": "SMM-016",
+        "cardID": "후파악120밴디초염080",
+        "name": "후파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "초염동력",
+                "cost": "(악)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "밴디트가드",
+                "text": "이 포켓몬은 상대의 「포켓몬 GX・EX」로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "진정한 모습일 때는 거대한 힘을 가지고 있다. 원하는 재물을 손에 넣기 위해 그것이 숨겨진 성을 통째로 빼돌려 사라졌다는 전설이 있다. ",
+        "number": "016",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012016"
+    },
+    {
+        "id": "SMM-017",
+        "cardID": "미스터리 트레져",
+        "name": "미스터리 트레져",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 (초)  또는 (드래곤) 포켓몬을 1장 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "017",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012017"
+    },
+    {
+        "id": "SMM-018",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에 있는 서포트를 1장 상대에게 보여주고 패로 가져와도 좋다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "018",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012018"
+    },
+    {
+        "id": "SMM-019",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "019",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012019"
+    },
+    {
+        "id": "SMM-020",
+        "cardID": "풀회복약",
+        "name": "풀회복약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 모두 회복한다.",
+            "그 뒤, 그 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+        ],
+        "number": "020",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012020"
+    },
+    {
+        "id": "SMM-021",
+        "cardID": "프레셔스볼",
+        "name": "프레셔스볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 「포켓몬 GX」를 1장 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "021",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012021"
+    },
+    {
+        "id": "SMM-022",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "022",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012022"
+    },
+    {
+        "id": "SMM-023",
+        "cardID": "구애머리띠",
+        "name": "구애머리띠",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 배틀필드의 「포켓몬 GX・EX」에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "023",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012023"
+    },
+    {
+        "id": "SMM-024",
+        "cardID": "구즈마",
+        "name": "구즈마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+            "그 뒤, 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "024",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012024"
+    },
+    {
+        "id": "SMM-025",
+        "cardID": "난천",
+        "name": "난천",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 6장 뽑는다."
+        ],
+        "number": "025",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012025"
+    },
+    {
+        "id": "SMM-026",
+        "cardID": "레드의 도전",
+        "name": "레드의 도전",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 원하는 카드를 1장 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "026",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012026"
+    },
+    {
+        "id": "SMM-027",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "027",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012027"
+    },
+    {
+        "id": "SMM-028",
+        "cardID": "하우",
+        "name": "하우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "028",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012028"
+    },
+    {
+        "id": "SMM-029",
+        "cardID": "하푸우",
+        "name": "하푸우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 6장 보고 그 중에 있는 카드를 2장 패로 가져온다.",
+            "남은 카드는 트래쉬한다."
+        ],
+        "number": "029",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012029"
+    },
+    {
+        "id": "SMM-030",
+        "cardID": "나이트시티",
+        "name": "나이트시티",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 (악) 타입 기본 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다."
+        ],
+        "number": "030",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012030"
+    },
+    {
+        "id": "SMM-031",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "031",
+        "prodNumber": "031",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012031"
+    },
+    {
+        "id": "SMM-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「블래키&다크라이 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012032"
+    },
+    {
+        "id": "SMM-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SMM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+        "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012033"
+    }
+]

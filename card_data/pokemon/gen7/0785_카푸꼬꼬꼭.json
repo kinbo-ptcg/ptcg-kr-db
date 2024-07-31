@@ -1,0 +1,909 @@
+[
+    {
+        "id": "sm4plus-032",
+        "cardID": "카푸번170에어천공130카푸050",
+        "name": "카푸꼬꼬꼭 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "천공의발톱",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "130",
+                "text": ""
+            },
+            {
+                "name": "카푸썬더 GX",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "50×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "에어로트레일",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지를 원하는 만큼 이 포켓몬에게 붙인다. 붙였을 경우 , 이 포켓몬을 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004022",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004053",
+                "debug": "2"
+            },
+            {
+                "number": "032",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013032",
+                "debug": "1"
+            },
+            {
+                "number": "032",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011032",
+                "debug": "2"
+            },
+            {
+                "number": "114",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SM-P_154.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000154",
+                "debug": "2"
+            },
+            {
+                "number": "023",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000023",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smc-009",
+        "cardID": "카푸번110회전000라이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "021",
+                "prodCode": "smc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+                "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003009",
+                "debug": "3"
+            },
+            {
+                "number": "021",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007021",
+                "debug": "2"
+            },
+            {
+                "number": "021",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007084",
+                "debug": "2"
+            },
+            {
+                "number": "008",
+                "prodNumber": "022",
+                "prodCode": "sm60b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60b.png",
+                "prodName": "썬&문 전격 스타터 세트 「라이코 GX」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60B/SM60B_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018008008",
+                "debug": "2"
+            },
+            {
+                "number": "015",
+                "prodNumber": "038",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000015",
+                "debug": "2"
+            },
+            {
+                "number": "018",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 코리안리그2016-2017 SPRING 카드 게임 부문 참가자 선물",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000018",
+                "debug": "2"
+            },
+            {
+                "number": "024",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 스페셜 점보카드 세트 「카푸꼬꼬꼭 GX」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000028",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-007",
+        "cardID": "카푸번110일렉000마하090",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭메이커",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (번개) 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "마하볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Yasuda Shuhei",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-026",
+        "cardID": "카푸번120뒤집030플래120",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "플래시볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「플래시볼트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈에 보이지 않는 스피드로 적을 교란한다. 심하게 화를 잘 내지만 왜 화가 났는지는 금방 잊어버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012032",
+                "debug": "2"
+            },
+            {
+                "number": "026",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-049",
+        "cardID": "카푸번130전장마하120",
+        "name": "카푸꼬꼬꼭 ◇",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "프리즘스타"
+        ],
+        "rules": [
+            "같은 이름의 (프리즘스타) (프리즘스타)의 카드는 덱에 1장만 넣을 수 있다. 트래쉬가 아닌 로스트존에 둔다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마하볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전장의 춤",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 벤치 포켓몬 2마리에게 트래쉬에 있는 (번개) 에너지를 1장씩 붙인다. 그 뒤, 이 카드를 로스트존에 둔다. (붙어 있는카드는 모두 트래쉬한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "눈에 보이지 않는 스피드로 적을 교란한다. 심하게 화를 잘 내지만 왜 화가 났는지는 금방 잊어버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "052",
+                "prodCode": "sm8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8a.png",
+                "prodName": "썬&문 강화 확장팩 「다크오더」",
+                "artist": "Kouki Saitou",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8A/SM8a_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018013014",
+                "debug": "2"
+            },
+            {
+                "number": "049",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Kouki Saitou",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-028",
+        "cardID": "카푸번120일렉030네이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "네이처다이브",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬이 「울트라비스트」라면 100데미지를 추가한다. 그 경우 이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "수호신이라고 불리지만 기분을 해치는 사람이나 포켓몬을 공격하는 난폭한 신이기도 하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SA_L-006",
+        "cardID": "카푸번200스파020썬더200",
+        "name": "카푸꼬꼬꼭 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스파이크드로",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "썬더러스볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "024",
+                "prodCode": "SA_L",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_L.png",
+                "prodName": "소드&실드 스타터 세트 V 번개",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-053",
+        "cardID": "카푸번110끌어000라이110",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "끌어당기기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "번개를 조종하는 멜레멜레의 수호신. 호기심이 왕성해서 가끔 사람들 앞에 나타난다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011032",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-149",
+        "cardID": "카푸번210일렉040스파020",
+        "name": "카푸꼬꼬꼭 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "스파이럴썬더",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "20+",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001017",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001072",
+                "debug": "2"
+            },
+            {
+                "number": "149",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_149.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003149",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-150",
+        "cardID": "카푸번320다이180",
+        "name": "카푸꼬꼬꼭 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "다이쇼크",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "180",
+                "text": "자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많다면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001018",
+                "debug": "2"
+            },
+            {
+                "number": "150",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_150.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003150",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-019",
+        "cardID": "카푸번210리벤030격한180",
+        "name": "카푸꼬꼬꼭 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "리벤지쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가하고 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "격한전류",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "hncl",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020019",
+                "debug": "1"
+            },
+            {
+                "number": "077",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020077",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Jerky",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020086",
+                "debug": "2"
+            }
+        ]
+    }
+]

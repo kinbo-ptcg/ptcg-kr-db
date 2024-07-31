@@ -1,0 +1,1124 @@
+[
+    {
+        "id": "smxy-068",
+        "cardID": "지가격090땅울030지오120",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "땅울림",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "지오스트라이크",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "동굴 깊은 곳에서 지내면서 생태계를 파괴하는 자를 감시하고 있다고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020041",
+                "debug": "2"
+            },
+            {
+                "number": "068",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707068",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy10-040",
+        "cardID": "지가격090경계000오라070",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "경계",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "오라브레이크",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 (악)  또는 (페어리) 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동굴 깊은 곳에서 지내면서 생태계를 파괴하는 자를 감시하고 있다고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xyg-009",
+        "cardID": "지가격190대지020셀스060그라100",
+        "name": "지가르데 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "대지의고동",
+                "cost": "(격투)",
+                "damage": "20+",
+                "text": "필드에 스타디움이 나와 있다면 20데미지를 추가한다."
+            },
+            {
+                "name": "셀스톰",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "그라운드포스",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "019",
+                "prodCode": "xyg",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyg.png",
+                "prodName": "XY BREAK 퍼펙트 배틀 60장 덱 「지가르데 EX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYG/XYG_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016003009",
+                "debug": "1"
+            },
+            {
+                "number": "022",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008022",
+                "debug": "2"
+            },
+            {
+                "number": "069",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707069",
+                "debug": "2"
+            },
+            {
+                "number": "177",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_177.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707177",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp5-021",
+        "cardID": "지가격120땅울030지오120",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "땅울림",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "지오스트라이크",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "동굴 깊은 곳에서 지내면서 생태계를 파괴하는 자를 감시하고 있다고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm60a-007",
+        "cardID": "지가격130파동060그라130",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파동포",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "그라운드포스",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "생태계를 위협하는 자를 압도적인 힘으로 제압하는 지가르데의 모습이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "024",
+                "prodCode": "sm60a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60a.png",
+                "prodName": "썬&문 전력 배틀 스타터 세트 「루가루암 GX」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60A/SM60A_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017002007",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-041",
+        "cardID": "지가드150랜드080코어150",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "랜드크래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "코어퍼니셔",
+                "cost": "(악)(페어리)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지와 (페어리) 에너지를 1개씩 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "생태계를 위협하는 자를 압도적인 힘으로 제압하는 지가르데의 모습이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009041",
+                "debug": "1"
+            },
+            {
+                "number": "102",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002102",
+                "debug": "2"
+            },
+            {
+                "number": "081",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "금단의 빛 발매 기념 프로모 팩",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_106.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000106",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-057",
+        "cardID": "지가격130뱀눈020컴스060",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뱀눈초리",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "컴스트라이크",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "자신이 이미 GX 기술을 사용했다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "생태계를 감시하고 있다고 여겨지고 있다. 더 큰 힘을 숨기고 있다는 소문이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004049",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-225",
+        "cardID": "지가격200셀커050그라130저지150",
+        "name": "지가르데 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "셀커넥터",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 트래쉬에 있는 (격투) 에너지를 2장 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "그라운드포스",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            },
+            {
+                "name": "저지먼트 GX",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "150",
+                "text": "상대의 다음 차례에 이 포켓몬은 「포켓몬 GX・EX」로부터 기술의 데미지를 받지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004050",
+                "debug": "2"
+            },
+            {
+                "number": "096",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004096",
+                "debug": "2"
+            },
+            {
+                "number": "225",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_225.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002225",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-048",
+        "cardID": "지가격090대지피스030",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "피스메이커",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "상대의 필드에 「울트라비스트」가 있다면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "대지의오라",
+                "text": "이 포켓몬이 사용하는 기술의 데미지는 약점, 저항력 계산을 하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "셀이라고 불리는 지가르데의 일부가\n10% 정도 모인 모습.\n시속 100km로 대지를 달린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Akira Komayama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6a-036",
+        "cardID": "지가드130땅울020분노060",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "땅울림",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "분노의칼날",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "생태계를 감시하고 있다고 여겨지고 있다. 더 큰 힘을 숨기고 있다는 소문이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005036",
+                "debug": "1"
+            },
+            {
+                "number": "036",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005094",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-028",
+        "cardID": "지가격090셀컴부스020",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "부스트팽",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "자신의 트래쉬에 있는 (격투) 에너지를 1장 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "셀컴페니온",
+                "text": "이 포켓몬이 벤치에 있는 한, 자신의 「지가르데(GX 포함)」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지가르데의 일부가 1할 정도 모였다. 상대의 품으로 뛰어들어 날카로운 이빨로 물어 버린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Shigenori Negishi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SC_R-004",
+        "cardID": "지가격140물기030파워130",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "파워블라스트",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 (격투) 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "생태계를 위협하는 자와 싸울 때 더욱 강력한 모습으로 변화한다고 전해진다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "021",
+                "prodCode": "SC_R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SC_R.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 리자몽",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SC/SCR_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2020001004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-039",
+        "cardID": "지가격150빔빔030코어080",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "빔",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "코어리벤저",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80+",
+                "text": "자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "모든 지가르데 셀이 모여서 탄생한다. 생태계를 어지럽히는 자를 무력으로 진압한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-322",
+        "cardID": "지가드130물기030심판000",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "심판의너울",
+                "cost": "(풀)(격투)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 상대가 이미 가져간 프라이즈의 장수 × 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "생태계를 위협하는 자와 싸울 때 더욱 강력한 모습으로 변화한다고 전해진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "otumami",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012048",
+                "debug": "2"
+            },
+            {
+                "number": "322",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "otumami",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_322.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003322",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-075",
+        "cardID": "지가드090힘의020스피070",
+        "name": "지가르데",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "힘의외침",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "스피드어택",
+                "cost": "(풀)(격투)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "각지의 지가르데 셀이 10% 모였을 때 태어난다. 접근전이 특기다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Misa Tsutsui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017075",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-088",
+        "cardID": "지가격180진동020셀스080리버120",
+        "name": "지가르데 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "지가르데",
+                "pokedexNumber": 718
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "진동",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "셀스톰",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "리버레이션 GX",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120×",
+                "text": "상대의 패를 보고 그 중에 있는 에너지의 장수 × 120데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "088",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "짐 프로모팩 4탄",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_116.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000116",
+                "debug": "1"
+            }
+        ]
+    }
+]

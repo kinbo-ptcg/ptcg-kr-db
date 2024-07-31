@@ -1,0 +1,438 @@
+[
+    {
+        "id": "sm1s-026",
+        "cardID": "더시초110독압베놈050",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "베놈쇼크",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 독이라면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "독압정",
+                "text": "이 포켓몬이 있는 한, 상대의 배틀 포켓몬이 후퇴할 때마다 새로 나온 포켓몬을 독으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "12개의 다리로 해저를 기어 다닌다. 더시마사리가 기어 다닌 자리에는 코산호의 찌꺼기가 흩어져있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-026",
+        "cardID": "더시초210가시030어마000더셸150",
+        "name": "더시마사리 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "가시대포",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "어마무시 포이즌",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 10개가 된다."
+            },
+            {
+                "name": "더셸터 GX",
+                "cost": "(초)(초)(초)",
+                "damage": "150",
+                "text": "상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003026",
+                "debug": "1"
+            },
+            {
+                "number": "056",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003056",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-003",
+        "cardID": "더시물110물기030독찌070",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "독찌르기",
+                "cost": "(물)(물)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "12개의 다리로 해저를 기어 다닌다. 더시마사리가 기어 다닌 자리에는 코산호의 찌꺼기가 흩어져있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Yasuda Shuhei",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004003",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm8-030",
+        "cardID": "더시물120독침000베놈050",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "베놈피버",
+                "cost": "(물)(물)",
+                "damage": "50x",
+                "text": "상대의 배틀 포켓몬이 독이라면 상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "더시마사리의 독에 당하면 3일 밤낮으로 심한 고통에 시달리며 살아나더라도 후유증이 남는다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smL-028",
+        "cardID": "더시초110가시070",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "가시숏",
+                "cost": "(초)(초)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "맹독의 가시를 날려서 적을 공격한다. 다가온 상대는 발톱으로 쓸어버린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「뮤츠 GX 덱」",
+                "artist": "chibi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-025",
+        "cardID": "더시물130HP000독채080",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "HP회복",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 이 포켓몬의 HP를 모두 회복한다."
+            },
+            {
+                "name": "독채찍",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "가라르지방의 차가운 수온을 견디기 위해 다리로 돔을 만든 뒤 체온으로 내부를 덥힌다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-072",
+        "cardID": "더시악120베놈010가시090",
+        "name": "더시마사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "더시마사리",
+                "pokedexNumber": 748
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "베놈쇼크",
+                "cost": "(악)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 독이라면 120데미지를 추가한다."
+            },
+            {
+                "name": "가시숏",
+                "cost": "(악)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가라르지방의 차가운 수온을 견디기 위해 다리로 돔을 만든 뒤 체온으로 내부를 덥힌다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "072",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Ligton",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014072",
+                "debug": "1"
+            }
+        ]
+    }
+]

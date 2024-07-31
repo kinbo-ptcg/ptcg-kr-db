@@ -1,0 +1,904 @@
+[
+    {
+        "id": "bw6f-005",
+        "cardID": "헤라풀100뿔찌020기가080",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "기가호른",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80",
+                "text": "동전을 두 번 던져서 모두 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "아무리 무거운 상대라도 자랑스러운 뿔을 사용해 땅째로 멀리까지 내던져버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Naoki Saito",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy3-004",
+        "cardID": "헤라풀170가드040기가080",
+        "name": "헤라크로스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "기가파워",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80+",
+                "text": "원한다면 40데미지를 추가해도 좋다. 그 경우 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_004.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003004",
+                "debug": "3"
+            },
+            {
+                "number": "097",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_097.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003097",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy3-005",
+        "cardID": "헤라풀220빅뱅180",
+        "name": "M헤라크로스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "빅뱅호른",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "180-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-004",
+        "cardID": "헤라풀110근성던져050",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "던져버리기",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "근성",
+                "text": "이 포켓몬이 기술의 데미지를 받아 기절할 때 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자랑스러운 뿔을 상대의 배 밑에 틀어박고 단번에 들어 올려 집어 던지는 천하장사다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8-014",
+        "cardID": "헤라풀120몸통020일당030",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "일당백",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "자신의 벤치에 2진화 포켓몬이 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "엄청난 괴력의 소유자. 자신 체중의 100배나 되는 무게도 가뿐히 내던진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-046",
+        "cardID": "헤라격100판뒤000몸통070",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "판뒤집기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 이전 차례에 상대의 포켓몬이 GX기술을 사용했다면 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "두꺼운 뿔이 자랑거리다.  알로라에서는 투구뿌논이 최대 라이벌로 자주 싸움을 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-004",
+        "cardID": "헤라풀130넘어020라일050",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "넘어뜨리기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "라일드호른",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 필드에 「TAG TEAM」 포켓몬이 있다면 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "두꺼운 뿔이 자랑거리다.  알로라에서는 투구뿌논이 최대 라이벌로 자주 싸움을 한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "Satoshi Shirai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-002",
+        "cardID": "헤라풀130들이030괴력110",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "들이밀치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "괴력호른",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "달콤한꿀을 찾아 숲속을 돌아다닌다. 괴력을 자랑하지만 나는 것은 그리 잘하지 못한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "otumami",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-007",
+        "cardID": "헤라풀120뿔찌020한판040",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "한판던지기",
+                "cost": "(풀)(무색)",
+                "damage": "40+",
+                "text": "동전을 2번 던져서 모두 앞면이 나오면 160데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "달콤한꿀을 찾아 숲속을 돌아다닌다. 괴력을 자랑하지만 나는 것은 그리 잘하지 못한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Hasuno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003004",
+                "debug": "2"
+            },
+            {
+                "number": "007",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9a-005",
+        "cardID": "헤라풀110뿔찌040뒤로120",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "뒤로던지기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "자신의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "비할 데 없는 뿔을 갖고 있다. 힘겨루기로 전통 무술에 조예가 있는 장사들 여럿을 한 번에 날려 버릴 정도로 강력하다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "aoki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004008",
+                "debug": "1"
+            },
+            {
+                "number": "005",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "aoki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_005_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004009",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-002",
+        "cardID": "헤라풀120괴력010뿔찌090",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "괴력던지기",
+                "cost": "(풀)(무색)",
+                "damage": "10+",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "뿔찌르기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "엄청난 괴력의 소유자. 자신 체중의 100배나 되는 무게도 가뿐히 내던진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "Taira Akitsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-002",
+        "cardID": "헤라풀130몸통050스매110",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스매시혼",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "110",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "달콤한 꿀을 아주 좋아해서 혼자 독차지하기 위해 자랑스런 뿔을 써서 상대를 내동댕이친다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012006",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Kurata So",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012072",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "GOSSAN",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-003",
+        "cardID": "헤라풀120누르060지구130",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "누르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "지구던지기",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "엄청난 괴력의 소유자. 자신 체중의 100배나 되는 무게도 가뿐히 내던진다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Toshinao Aoki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs1-01",
+        "cardID": "헤라풀080던져010뿔로030",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "던져버리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            },
+            {
+                "name": "뿔로 베어가르기",
+                "cost": "(풀)(풀)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "좋아하는 수액을 구하러 숲에 모여든다. 강인한 뿔로 상대를 내던질 정도로 힘이 세다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "01",
+                "prodNumber": "60",
+                "prodCode": "bs1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+                "prodName": "DP 확장팩 모험의 시작",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_1.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001001",
+                "debug": "1"
+            }
+        ]
+    }
+]

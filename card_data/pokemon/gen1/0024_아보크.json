@@ -1,0 +1,509 @@
+[
+    {
+        "id": "xy1x-025",
+        "cardID": "아보초090위액020독찌050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "위액",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 다음 차례가 끝날 때 까지 이 기술을 받은 포켓몬이 가진 특성은 없어진다."
+            },
+            {
+                "name": "독찌르기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "배의 무늬가 무서운 얼굴로 보인다. 약한 적은 그 무늬만 보고도 도망치고 만다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "060",
+                "prodCode": "xy1x",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1x.png",
+                "prodName": "XY 확장팩 제1탄 「X컬렉션」",
+                "artist": "Naoki Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_X_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014001025",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-038",
+        "cardID": "아보초120위협독이070",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "독이빨",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위협무늬",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬이 사용하는 기술의 데미지는 모두 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "배의 무늬가 무서운 얼굴로 보인다. 약한 적은 그 무늬만 보고도 도망치고 만다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "kodama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9b-015",
+        "cardID": "아보초120김밥030헤비050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "김밥말이",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "헤비초크",
+                "cost": "(초)(무색)",
+                "damage": "50+",
+                "text": "자신의 이전 차례에 이 포켓몬이 「김밥말이」를 사용했다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "최근 연구에서 배 모양은 20종류 이상의 패턴이 있다고 판명되었다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Yukiko Baba",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-026",
+        "cardID": "아보초120최후로켓050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "로켓테일",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "자신의 트래쉬에 「로사와 로이」가 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "최후의 무늬",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 상대의 패에서 앞면을 보지 않고 2장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "최근 연구에서 배 모양은 20종류 이상의 패턴이 있다고 판명되었다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SD-024",
+        "cardID": "아보악120예리030꼬리070",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "꼬리채찍",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "배의 무늬로 풀이 죽게 한 뒤 재빠르게 몸으로 조여서 상대의 고동이 멈추기를 기다린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-024",
+        "cardID": "아보악270붙들070메너150",
+        "name": "아보크 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "붙들어매기",
+                "cost": "(악)(악)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "메너스팽",
+                "cost": "(악)(악)(악)",
+                "damage": "150",
+                "text": "상대는 상대 자신의 패를 2장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014024",
+                "debug": "1"
+            },
+            {
+                "number": "187",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Eske Yoshinob",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_187.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014187",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-044",
+        "cardID": "아보악130패닉000어둠070",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "패닉독",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독과 화상과 혼란으로 만든다."
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(악)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 무늬가 무서운 얼굴로 보인다. 약한 적은 그 무늬만 보고도 도망치고 만다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Minato",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004044",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "OKUBO",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004079",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs4-20",
+        "cardID": "아보초080극독010김밥050",
+        "name": "아보크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "아보크",
+                "pokedexNumber": 24
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "극독",
+                "cost": "(초)",
+                "damage": "10+",
+                "text": "상대가 독이라면 40데미지를 추가한다. 독이 아니라면 상대를 독으로 만든다."
+            },
+            {
+                "name": "김밥말이",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "배의 무늬로 상대를 위협한다. 무늬에 겁을 먹고 움직일 수 없게 된 사이에 몸으로 조인다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "20",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Ken Sugimori",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_20.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004020",
+                "debug": "1"
+            }
+        ]
+    }
+]

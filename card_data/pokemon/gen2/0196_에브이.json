@@ -1,0 +1,822 @@
+[
+    {
+        "id": "bw4-033",
+        "cardID": "에브초090태양사이060",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코리포트",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 패를 본다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "태양의계시",
+                "text": "이 포켓몬이 있는 한 에너지가 붙어 있는 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다. (데미지는 받는다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전신에 나있는 털이 민감하다. 아주 적은 공기의 진동도 느껴 앞으로의 날씨를 맞춘다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8s-024",
+        "cardID": "에브초090사이020섀도000",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코얼럿",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 패가 6장이 되도록 덱을 뽑는다."
+            },
+            {
+                "name": "섀도볼",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 40데미지를 준다. 이 기술의 데미지는 벤치 포켓몬에게 주어도 약점 저항력 계산을 한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전신의 세밀한 털로 공기의 흐름을 알아차려 상대의 생각이나 날씨를 예측한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_024.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-045",
+        "cardID": "에브초170미라000사이070",
+        "name": "에브이 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미라클샤인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 진화한 포켓몬 전원의 위에서부터 각각 「진화카드」를 1장씩 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다."
+            },
+            {
+                "name": "사이코쇼크",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001035",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_084.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001084",
+                "debug": "2"
+            },
+            {
+                "number": "045",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm1s-024",
+        "cardID": "에브초200환상030사이060디비000",
+        "name": "에브이GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "환상빔",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "디비전 GX",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 10개를 상대의 포켓몬에게 원하는 대로 올린다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001024",
+                "debug": "1"
+            },
+            {
+                "number": "062",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001062",
+                "debug": "2"
+            },
+            {
+                "number": "220",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_220.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002220",
+                "debug": "2"
+            },
+            {
+                "number": "042",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 코리안리그2017-2018 BP경품",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000060",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8-040",
+        "cardID": "에브초090끌어000에너020",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "끌어당기기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "에너지크래시",
+                "cost": "(초)",
+                "damage": "20+",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "이마의 구슬에서 사이코 파워를 방사해서 싸운다. 파워가 다하면 구슬의 색이 흐려진다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "040",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Ryota Murayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0040.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010040",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-176",
+        "cardID": "에브초260사이010크로000",
+        "name": "에브이&테오키스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            },
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코서클",
+                "cost": "(초)(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 벤치의 (초) 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "크로스디비전GX",
+                "cost": "(초)(무색)(무색)(플러스)",
+                "damage": "",
+                "text": "데미지 카운터 10개를 상대의 포켓몬에게 원하는 대로 올린다. 에너지 3개가 추가로 붙어 있다면 올리는 데미지 카운터의 수는 20개가 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "031",
+                "prodCode": "SMM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+                "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012001",
+                "debug": "2"
+            },
+            {
+                "number": "176",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_176.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017176",
+                "debug": "1"
+            },
+            {
+                "number": "177",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Hasuno",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_177.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017177",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-173",
+        "cardID": "에브초310태양다이060",
+        "name": "에브이 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다이사이코",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "태양의계시",
+                "text": "이 포켓몬이 있는 한, 에너지가 붙어 있는 자신의 포켓몬 전원은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다. (이미 받은 효과는 없어지지 않는다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "004",
+                "prodCode": "SP4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP4.png",
+                "prodName": "소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP4/SP4_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021010004",
+                "debug": "2"
+            },
+            {
+                "number": "173",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_173.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003173",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-172",
+        "cardID": "에브초200사념000초염120",
+        "name": "에브이 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사념의탄환",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 「포켓몬 V」 1마리에게 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "초염동력",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007035",
+                "debug": "2"
+            },
+            {
+                "number": "080",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007080",
+                "debug": "2"
+            },
+            {
+                "number": "081",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "sowsow",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007081",
+                "debug": "2"
+            },
+            {
+                "number": "172",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_172.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003172",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-046",
+        "cardID": "에브초110사이030염동060",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코데미지",
+                "cost": "(초)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "염동력",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "상대의 움직임을 예지할 때 두 갈래로 갈라져 있는 꼬리의 끝이 미세하게 떨린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Cona Nitanda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-107",
+        "cardID": "에브초110염동020사이010",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동력",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "이마의 구슬에서 사이코 파워를 방사해서 싸운다. 파워가 다하면 구슬의 색이 흐려진다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "107",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제6탄",
+                "artist": "Tika Matsuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_107.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000107",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs5-22",
+        "cardID": "에브초080선라아침060",
+        "name": "에브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "에브이",
+                "pokedexNumber": 196
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "아침햇살",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "원한다면 자신의 에너지를 1개 자신의 벤치 포켓몬에게 붙여도 좋다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "선라이트베일",
+                "text": "자신의 필드에 있는 「이브이에서 진화하는 포켓몬」 전원의 최대 HP는 각각 「20」씩 커진다. 자신의 필드에서 이미 다른 「선라이트베일」이 작용하고 있다면 이 포켓바디는 작용하지 않는다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "털은 벨벳의 광택과 촉감을 가지고 있다. 사이코파워를 사용할 때 이마의 구슬이 빛난다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "22",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Naoyo Kimura",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_22.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005022",
+                "debug": "1"
+            }
+        ]
+    }
+]

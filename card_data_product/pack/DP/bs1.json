@@ -1,0 +1,3011 @@
+[
+    {
+        "id": "bs1-01",
+        "cardID": "헤라풀080던져010뿔로030",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "던져버리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            },
+            {
+                "name": "뿔로 베어가르기",
+                "cost": "(풀)(풀)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "좋아하는 수액을 구하러 숲에 모여든다. 강인한 뿔로 상대를 내던질 정도로 힘이 세다.",
+        "number": "01",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_1.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001001"
+    },
+    {
+        "id": "bs1-02",
+        "cardID": "모부풀060몸통010잎날020",
+        "name": "모부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모부기",
+                "pokedexNumber": 387
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "전신으로 광합성을 하여 산소를 만든다. 목이 마르면 머리의 잎사귀가 시들어 버린다.",
+        "number": "02",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_2.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001002"
+    },
+    {
+        "id": "bs1-03",
+        "cardID": "수풀풀090광합000풀베050",
+        "name": "수풀부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "수풀부기",
+                "pokedexNumber": 388
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "광합성",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (풀) 에너지를 1장 자신의 포켓몬에게 붙인다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "풀베기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "등껍질은 흙이 굳어진 것이다. 수목에 열린 나무열매를 쪼려고 오는 포켓몬도 있다.",
+        "number": "03",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_3.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001003"
+    },
+    {
+        "id": "bs1-04",
+        "cardID": "토대풀140지진060하드100",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "지진",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다."
+            },
+            {
+                "name": "하드플랜트",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 자신은 「하드플랜트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "이동하는 숲의 정체는 물을 찾아서 거처를 옮기는 토대부기의 무리다.",
+        "number": "04",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_4.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001004"
+    },
+    {
+        "id": "bs1-05",
+        "cardID": "토대풀160숲의맥진100",
+        "name": "토대부기 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 토대부기에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "맥진",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. 자신에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "숲의 웅성거림",
+                "text": "자신의 프라이즈의 장수가 상대의 프라이즈의 장수보다 많으면 자신의 차례에 한 번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "05",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Shizurow",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_5.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001005"
+    },
+    {
+        "id": "bs1-06",
+        "cardID": "세꿀풀050꿀로000바람020",
+        "name": "세꿀버리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "세꿀버리",
+                "pokedexNumber": 415
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "꿀로 유인하기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체한다. 그 뒤 새로 나온 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "모은 꿀을 거처로 운반한다. 밤에는 많은 세꿀버리가 겹쳐져 벌집이 되어 잠잔다.",
+        "number": "06",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_6.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001006"
+    },
+    {
+        "id": "bs1-07",
+        "cardID": "비퀸풀100리프000공격010",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프허니",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 (풀) 에너지를 1개 트래쉬하고 자신의 벤치에 있는 (풀) 포켓몬 1마리로부터 데미지 카운터를 모두 제거한다."
+            },
+            {
+                "name": "공격지령",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "10x",
+                "text": "서로의 필드에 있는 (풀) 포켓몬의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "number": "07",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_7.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001007"
+    },
+    {
+        "id": "bs1-08",
+        "cardID": "체리풀050수면000씨뿌020",
+        "name": "체리버",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "체리버",
+                "pokedexNumber": 420
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "수면가루",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대를 잠듦으로 만든다."
+            },
+            {
+                "name": "씨뿌리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": "상대에게 데미지를 주었다면 자신의 데미지 카운터를 1개 제거한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "햇빛으로 빨갛게 물들었다. 영양분이 흡수되어 작은 구슬이 시들면 곧 진화한다는 뜻이다.",
+        "number": "08",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_8.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001008"
+    },
+    {
+        "id": "bs1-09",
+        "cardID": "체리풀080고민020메지020",
+        "name": "체리꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "체리꼬",
+                "pokedexNumber": 421
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "고민씨",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 혼란으로 만든다."
+            },
+            {
+                "name": "메지컬리프",
+                "cost": "(풀)(풀)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가하고 자신의 데미지 카운터를 3개 제거한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "햇살이 강해지면 꽃이 핀다. 봉오리일 때에 참고 견딘 울분을 한번에 푸는 것이다.",
+        "number": "09",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_9.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001009"
+    },
+    {
+        "id": "bs1-10",
+        "cardID": "무스풀070통째030쥐어020",
+        "name": "무스틈니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "무스틈니",
+                "pokedexNumber": 455
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "통째로 삼키기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "상대의 남은 HP가 자신의 남은 HP보다 적으면 이 기술의 데미지는 「60」이 된다."
+            },
+            {
+                "name": "쥐어짜기",
+                "cost": "(풀)(풀)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만들고 상대의 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "촉수를 나뭇가지에 휘감아서 움직이지 않으면 마치 식물 같다. 큰 입을 열어 먹이를 기다린다.",
+        "number": "10",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kouki Saitou",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_10.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001010"
+    },
+    {
+        "id": "bs1-11",
+        "cardID": "포니불050걷어010고속020",
+        "name": "포니타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "포니타",
+                "pokedexNumber": 77
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "걷어차기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "고속이동",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "부모의 뒤를 쫓아다니는 동안 다리가 강인해진다. 온종일 산과 들을 뛰어다닌다.",
+        "number": "11",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_11.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001011"
+    },
+    {
+        "id": "bs1-12",
+        "cardID": "날쌩불080달려020불꽃050",
+        "name": "날쌩마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "날쌩마",
+                "pokedexNumber": 78
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "달려나가기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
+            },
+            {
+                "name": "불꽃세례 흩뜨리기",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "50",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신의 (불꽃) 에너지를 1개 트래쉬하고 상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "달리는 속도는 시속 240km. 갈기의 불꽃이 세차게 타오르고 화살처럼 달려나간다.",
+        "number": "12",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Naoyo Kimura",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_12.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001012"
+    },
+    {
+        "id": "bs1-13",
+        "cardID": "파이불100날개020불새080",
+        "name": "파이어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "날개치기",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "불새",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "전설의 새 포켓몬 중의 1마리다. 파이어가 모습을 보이면 봄이 찾아온다고 전해진다.",
+        "number": "13",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_13.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001013"
+    },
+    {
+        "id": "bs1-14",
+        "cardID": "불꽃불040불꽃020덤벼040",
+        "name": "불꽃숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "불꽃숭이",
+                "pokedexNumber": 390
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "덤벼들기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "엉덩이의 불꽃은 배에서 만들어진 가스가 연료다. 비에 젖어도 꺼지지 않는다.",
+        "number": "14",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_14.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001014"
+    },
+    {
+        "id": "bs1-15",
+        "cardID": "파이불070불춤030마구020",
+        "name": "파이숭이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파이숭이",
+                "pokedexNumber": 391
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불춤",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 1장 자신에게 붙인다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "20x",
+                "text": "동전을 세 번 던져서 앞면 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "천장이나 벽을 이용하여 공중 내리찍기를 날린다. 꼬리의 불꽃도 무기의 하나이다.",
+        "number": "15",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_15.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001015"
+    },
+    {
+        "id": "bs1-16",
+        "cardID": "초염불110마하030메가040",
+        "name": "초염몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "초염몽",
+                "pokedexNumber": 392
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "마하펀치",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
+            },
+            {
+                "name": "메가브라보",
+                "cost": "(불꽃)",
+                "damage": "40x",
+                "text": "자신의 (불꽃) 에너지를 모두 트래쉬하고 트래쉬한 에너지의 개수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "머리에서 타오르는 불꽃처럼 과격한 성격의 포켓몬이다. 스피드는 누구에게도 지지 않는다.",
+        "number": "16",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_16.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001016"
+    },
+    {
+        "id": "bs1-17",
+        "cardID": "초염불120버닝크게150",
+        "name": "초염몽 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드에 있는 초염몽에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "초염몽",
+                "pokedexNumber": 392
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "크게 타오르기",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "150",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지를 8장 상대 플레이어에게 보여주고 덱으로 되돌린다. 그 뒤 덱을 섞는다. ((불꽃) 에너지를 8장 되돌릴 수 없다면 이 기술은 실패한다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "버닝헤드",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 덱의 카드를 위에서부터 3장 보고 그 중 1장을 패로 가져온다. 그 뒤 남은 2장을 트래쉬한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "17",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Shizurow",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_17.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001017"
+    },
+    {
+        "id": "bs1-18",
+        "cardID": "콘치물060뿔찌010돌진030",
+        "name": "콘치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "콘치",
+                "pokedexNumber": 118
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌진",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리지느러미를 드레스같이 흔들며 우아하게 헤엄치는 모습은 마치 수중의 여왕 같다.",
+        "number": "18",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_18.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001018"
+    },
+    {
+        "id": "bs1-19",
+        "cardID": "왕콘물080바둥010뿔드050",
+        "name": "왕콘치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "왕콘치",
+                "pokedexNumber": 119
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "바둥바둥",
+                "cost": "(무색)(무색)",
+                "damage": "10x",
+                "text": "자신의 데미지 카운터의 수 × 10데미지를 준다."
+            },
+            {
+                "name": "뿔드릴",
+                "cost": "(물)(물)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 뿔로 강바닥에 있는 돌을 파내어 둥지를 만든다. 알을 목숨걸고 지킨다.",
+        "number": "19",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_19.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001019"
+    },
+    {
+        "id": "bs1-20",
+        "cardID": "라프물080눌러010냉동030",
+        "name": "라프라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눌러뭉개기",
+                "cost": "(무색)",
+                "damage": "10x",
+                "text": "자신의 에너지의 개수 × 10데미지를 준다."
+            },
+            {
+                "name": "냉동빔",
+                "cost": "(물)(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람이나 포켓몬을 등에 태워 바다를 건너는 것을 매우 좋아한다. 사람의 말을 이해할 수 있다.",
+        "number": "20",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_20.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001020"
+    },
+    {
+        "id": "bs1-21",
+        "cardID": "프리물100예리030냉동050",
+        "name": "프리져",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "프리져",
+                "pokedexNumber": 144
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "예리한부리",
+                "cost": "(물)(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "냉동빔",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "50",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "전설의 새 포켓몬이다. 공기 중의 수분을 얼려 눈보라를 만들어 낼 수 있다.",
+        "number": "21",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_21.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001021"
+    },
+    {
+        "id": "bs1-22",
+        "cardID": "팽도물060물보010박치020",
+        "name": "팽도리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "팽도리",
+                "pokedexNumber": 393
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물보라",
+                "cost": "(물)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "북쪽 나라의 해안선에서 산다. 수영이 특기이다. 10분 이상 바다에 잠수해서 먹이를 잡는다.",
+        "number": "22",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kent Konetsuna",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_22.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001022"
+    },
+    {
+        "id": "bs1-23",
+        "cardID": "팽태물080얼음000오버050",
+        "name": "팽태자",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "팽태자",
+                "pokedexNumber": 394
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "얼음칼날",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다."
+            },
+            {
+                "name": "오버웨이브",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개의 일격은 강렬하다. 큰 나무도 뚝하고 부러질 정도다. 얼음 바다에서 먹이를 찾는다.",
+        "number": "23",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kent Konetsuna",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_23.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001023"
+    },
+    {
+        "id": "bs1-24",
+        "cardID": "엠페물130듀얼000모두050",
+        "name": "엠페르트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "엠페르트",
+                "pokedexNumber": 395
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "듀얼 스플래시",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 30데미지를 준다."
+            },
+            {
+                "name": "모두 파도타기",
+                "cost": "(물)(물)(무색)",
+                "damage": "50+",
+                "text": "자신의 벤치 포켓몬의 수 × 10데미지를 추가한다. 동전을 한 번 던져서 뒷면이 나오면 자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "제트스키와 맞먹는 속도로 헤엄친다. 날개 가장자리는 날카롭게 유빙을 절단한다.",
+        "number": "24",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kent Konetsuna",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_24.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001024"
+    },
+    {
+        "id": "bs1-25",
+        "cardID": "엠페물140절대하이000",
+        "name": "엠페르트 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 엠페르트에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "엠페르트",
+                "pokedexNumber": 395
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 임팩트",
+                "cost": "(물)(물)(물)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 80데미지를 준다. 자신의 다음 차례에 자신은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "절대명령",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 상대의 패를 앞면을 보지 않고 2장까지 선택한다. 선택한 카드는 뒷면인 채로 상대의 배틀필드 옆에 놓고 패로 취급하지 않는다. 상대의 다음 차례 마지막에 그 카드를 상대의 패로 되돌린다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "25",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Shizurow",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_25.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001025"
+    },
+    {
+        "id": "bs1-26",
+        "cardID": "브이물060물놀010",
+        "name": "브이젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "브이젤",
+                "pokedexNumber": 418
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물놀이",
+                "cost": "(물)",
+                "damage": "10+",
+                "text": "자신의 에너지의 수가 상대의 에너지의 수보다 적으면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "2개의 꼬리를 스크루처럼 돌려서 헤엄친다. 잠수할 때는 공기주머니가 오그라든다.",
+        "number": "26",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_26.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001026"
+    },
+    {
+        "id": "bs1-27",
+        "cardID": "플로물090스크030물대040",
+        "name": "플로젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "플로젤",
+                "pokedexNumber": 419
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스크루 테일",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "물대포",
+                "cost": "(물)(물)",
+                "damage": "40+",
+                "text": "기술 에너지보다 많은 (물) 에너지가 붙어 있다면 많은 (물) 에너지의 개수 × 20데미지를 추가한다. 추가할 수 있는 것은 (물) 에너지 2개분까지이다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다.",
+        "number": "27",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Masahiko Ishii",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_27.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001027"
+    },
+    {
+        "id": "bs1-28",
+        "cardID": "피카번060전광010볼트050",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            },
+            {
+                "name": "볼트태클",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": "자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼의 전기 주머니로부터 전기를 찌릿찌릿 내뿜고 있을 때는 상대를 경계하고 있다는 신호다.",
+        "number": "28",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_28.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001028"
+    },
+    {
+        "id": "bs1-29",
+        "cardID": "라이번090전자000폭뢰030",
+        "name": "라이츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자유도",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (번개) 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "폭뢰",
+                "cost": "(번개)(무색)",
+                "damage": "30x",
+                "text": "자신의 (번개)  기본 에너지를 모두 트래쉬하고 트래쉬한 에너지의 장수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "전기의 충격은 10만 볼트다. 자신보다 몇 배나 큰 상대를 일격에 기절시킨다.",
+        "number": "29",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_29.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001029"
+    },
+    {
+        "id": "bs1-30",
+        "cardID": "썬더번100회전030우뢰050",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전부리",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "우뢰날개",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "50+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.",
+        "number": "30",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_30.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001030"
+    },
+    {
+        "id": "bs1-31",
+        "cardID": "썬더번060전자010",
+        "name": "썬더라이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "썬더라이",
+                "pokedexNumber": 309
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전자방해",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 상대 플레이어는 패에서 에너지를 꺼내서 배틀 포켓몬에게 붙일 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "털에 모은 전기를 써서 근육을 자극함으로써 순발력을 높인다.",
+        "number": "31",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_31.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001031"
+    },
+    {
+        "id": "bs1-32",
+        "cardID": "썬더번080전기030볼트040",
+        "name": "썬더볼트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "썬더볼트",
+                "pokedexNumber": 310
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기자석파",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            },
+            {
+                "name": "볼트 크래시",
+                "cost": "(번개)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 자신의 에너지를 1개 트래쉬하고 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "갈기에서 방전을 하고 있다. 머리 위에 번개 구름을 만들고 천둥번개를 떨어뜨려 공격한다.",
+        "number": "32",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Daisuke Ito",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_32.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001032"
+    },
+    {
+        "id": "bs1-33",
+        "cardID": "플러번060동료000(-020",
+        "name": "플러시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "플러시",
+                "pokedexNumber": 311
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「기본 포켓몬」을 1장 자신의 벤치로 내보낸다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "(-)부스트",
+                "cost": "(번개)(무색)",
+                "damage": "20+",
+                "text": "자신의 벤치에 「마이농」이 있으면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "스파크를 톡톡 만들어 동료를 응원한다. 전신주에서 전기를 흡수한다.",
+        "number": "33",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Suwama Chiaki",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_33.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001033"
+    },
+    {
+        "id": "bs1-34",
+        "cardID": "마이번060막치010(+020",
+        "name": "마이농",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마이농",
+                "pokedexNumber": 312
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "(+)스파크",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": "자신의 벤치에 「플러시」가 있으면 상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "동료를 응원하는 습성이 있다. 질 것 같아지면 몸에서 내는 스파크의 수가 점점 늘어난다.",
+        "number": "34",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Suwama Chiaki",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_34.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001034"
+    },
+    {
+        "id": "bs1-35",
+        "cardID": "파치번070작은000전격020",
+        "name": "파치리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파치리스",
+                "pokedexNumber": 417
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "작은 선물",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 에너지를 1장 상대 플레이어에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "전격",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼의 전기 주머니에서 만든 전기를 꼬리로 내보낸다. 나무 위에서 생활하고 있다.",
+        "number": "35",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_35.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001035"
+    },
+    {
+        "id": "bs1-36",
+        "cardID": "깨비무050날개010갈고030",
+        "name": "깨비참",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "깨비참",
+                "pokedexNumber": 21
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "날개치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "갈고리손톱",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "작은 날개를 쉴 새 없이 쳐서 날아오른다. 풀밭에 있는 먹이를 부리로 찾아낸다.",
+        "number": "36",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_36.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001036"
+    },
+    {
+        "id": "bs1-37",
+        "cardID": "깨비무080마구020회전060",
+        "name": "깨비드릴조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "깨비드릴조",
+                "pokedexNumber": 22
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(무색)",
+                "damage": "20x",
+                "text": "동전을 세 번 던져서 앞면 × 20데미지를 준다."
+            },
+            {
+                "name": "회전부리",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "큰 날개로 온종일 날아다닐 수 있는 체력의 소유자다. 날카로운 부리로 싸운다.",
+        "number": "37",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_37.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001037"
+    },
+    {
+        "id": "bs1-38",
+        "cardID": "나옹무050고양010마구010",
+        "name": "나옹",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "나옹",
+                "pokedexNumber": 52
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "고양이돈받기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 자신의 덱에서 카드를 1장 뽑는다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "10x",
+                "text": "동전을 세 번 던져서 앞면 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "한밤중에 움직이는 습성이 있다. 반짝반짝 빛나는 것을 발견하면 그에 못지 않게 눈동자가 반짝인다.",
+        "number": "38",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_38.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001038"
+    },
+    {
+        "id": "bs1-39",
+        "cardID": "페르무080속여000발톱040",
+        "name": "페르시온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "페르시온",
+                "pokedexNumber": 53
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "속여때리기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 그 포켓몬의 약점 저항력 모든 효과에 관계없이 30데미지를 준다."
+            },
+            {
+                "name": "발톱 드러내기",
+                "cost": "(무색)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "자존심이 센 포켓몬이다. 마니아 사이에서는 이마의 보석 크기가 화제가 된다.",
+        "number": "39",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_39.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001039"
+    },
+    {
+        "id": "bs1-40",
+        "cardID": "두두무060두번010가속030",
+        "name": "두두",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "두두",
+                "pokedexNumber": 84
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "두번 찌르기",
+                "cost": "(무색)",
+                "damage": "10x",
+                "text": "동전을 두 번 던져서 앞면 × 10데미지를 준다."
+            },
+            {
+                "name": "가속찌르기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "자신의 다음 차례에 자신은 「가속찌르기」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "두 머리에 각각 존재하는 뇌는 텔레파시같은 힘으로 의사를 맞춰나가는 듯하다.",
+        "number": "40",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_40.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001040"
+    },
+    {
+        "id": "bs1-41",
+        "cardID": "두트무080마구010트리000",
+        "name": "두트리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "두트리오",
+                "pokedexNumber": 85
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(무색)",
+                "damage": "10x",
+                "text": "동전을 세 번 던져서 앞면 × 10데미지를 준다."
+            },
+            {
+                "name": "트리플피킹",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 「진화 포켓몬」 3마리에게 각각 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "진화할 때 두두의 머리 중 한쪽이 분열되는 희귀종. 시속 60km 이상으로 달린다.",
+        "number": "41",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Masakazu Fukuda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_41.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001041"
+    },
+    {
+        "id": "bs1-42",
+        "cardID": "켄타무080떼지020난동040",
+        "name": "켄타로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "켄타로스",
+                "pokedexNumber": 128
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "떼지어 돌진",
+                "cost": "(무색)(무색)",
+                "damage": "20x",
+                "text": "자신의 필드의 「켄타로스」의 수만큼 동전을 던져서 앞면 × 20데미지를 준다."
+            },
+            {
+                "name": "난동부리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다. 뒷면이 나오면 자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "노리는 먹이를 포착하면 일직선으로 돌진한다. 난폭한 성격으로 유명하다.",
+        "number": "42",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_42.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001042"
+    },
+    {
+        "id": "bs1-43",
+        "cardID": "부우무050최면000한방030",
+        "name": "부우부",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "부우부",
+                "pokedexNumber": 163
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대를 잠듦으로 만든다."
+            },
+            {
+                "name": "한방차기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 한 발로 서 있다. 공격을 받아도 두 발로 버티거나 하지 않는다.",
+        "number": "43",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Midori Harada",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_43.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001043"
+    },
+    {
+        "id": "bs1-44",
+        "cardID": "야부무090간파000신통030",
+        "name": "야부엉",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "야부엉",
+                "pokedexNumber": 164
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "간파하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패의 카드를 1장 앞면으로 해서 자신의 프라이즈에 둔다. 그 뒤 자신의 프라이즈에 뒷면으로 되어 있는 카드를 1장 패로 가져온다. 자신의 프라이즈가 모두 앞면이라면 이 기술은 실패한다."
+            },
+            {
+                "name": "신통력",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 패와 상대의 패의 장수가 같다면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "조금이라도 빛이 있으면 어둠 속에서도 사물을 분간할 수 있는 특수한 눈을 가지고 있다.",
+        "number": "44",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Atsuko Nishida",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_44.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001044"
+    },
+    {
+        "id": "bs1-45",
+        "cardID": "노고무060뱀잡000물고010",
+        "name": "노고치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "노고치",
+                "pokedexNumber": 206
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뱀잡기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에서 카드를 1장 뽑는다."
+            },
+            {
+                "name": "물고 늘어지기",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": "자신을 자신의 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 땅을 파서 미로 같은 둥지를 만든다. 날개로 조금 날 수 있다.",
+        "number": "45",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Midori Harada",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_45.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001045"
+    },
+    {
+        "id": "bs1-46",
+        "cardID": "찌르무050날려010홰치020",
+        "name": "찌르꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "찌르꼬",
+                "pokedexNumber": 396
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "날려버리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            },
+            {
+                "name": "홰치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "평소에는 무리로 살고 있지만 1마리가 되면 눈에 띄지 않는다. 울음소리가 무척 시끄럽다.",
+        "number": "46",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kent Konetsuna",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_46.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001046"
+    },
+    {
+        "id": "bs1-47",
+        "cardID": "찌르무080전광010회전050",
+        "name": "찌르버드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "찌르버드",
+                "pokedexNumber": 397
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "회전부리",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "숲이나 초원에 서식한다. 그룹이 마주치면 영역을 건 분쟁이 시작된다.",
+        "number": "47",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kent Konetsuna",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_47.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001047"
+    },
+    {
+        "id": "bs1-48",
+        "cardID": "찌르무100가속030브레100",
+        "name": "찌르호크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "찌르호크",
+                "pokedexNumber": 398
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가속비행",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 자신의 다음 차례의 마지막까지 자신은 기술에 의한 데미지를 받지 않는다."
+            },
+            {
+                "name": "브레이브 하트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신에게도 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "사나운 성격의 포켓몬이다. 자신보다도 몸이 큰 상대에게도 과감하게 도전한다.",
+        "number": "48",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Masahiko Ishii",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_48.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001048"
+    },
+    {
+        "id": "bs1-49",
+        "cardID": "비버무050망각000쓰레000",
+        "name": "비버니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "비버니",
+                "pokedexNumber": 399
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "망각술",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 기술을 1개 선택한다. 상대의 다음 차례에 그 상대는 그 기술을 사용할 수 없다."
+            },
+            {
+                "name": "쓰레기 뒤지기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 「트레이너」를 1장 상대 플레이어에게 보여주고 패로 가져온다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 큰 나무나 돌을 갉아서 튼튼한 앞니를 갈아내고 있다. 물가에 둥지를 만들어 산다.",
+        "number": "49",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_49.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001049"
+    },
+    {
+        "id": "bs1-50",
+        "cardID": "비버무100잠자000돌진060",
+        "name": "비버통",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "비버통",
+                "pokedexNumber": 400
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "잠자기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 특수 상태를 모두 회복하고 자신의 데미지 카운터를 4개 제거한다. 그 뒤 자신을 잠듦으로 만든다."
+            },
+            {
+                "name": "돌진",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "자신에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "지상에서의 동작은 느리지만 헤엄치는 스피드는 빈티나와 호각을 이룬다.",
+        "number": "50",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_50.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001050"
+    },
+    {
+        "id": "bs1-51",
+        "cardID": "이어무050튀어010점프010",
+        "name": "이어롤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "이어롤",
+                "pokedexNumber": 427
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "튀어오르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "점프킥",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험을 느끼면 양쪽 귀를 세워서 경계한다. 추운 밤에는 털에 얼굴을 묻고 잠잔다.",
+        "number": "51",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_51.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001051"
+    },
+    {
+        "id": "bs1-52",
+        "cardID": "이어무080치유000돌아030",
+        "name": "이어롭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "이어롭",
+                "pokedexNumber": 428
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "치유소원",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수만큼의 데미지 카운터를 자신의 포켓몬 1마리로부터 제거한다."
+            },
+            {
+                "name": "돌아다니며 뛰기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. 원한다면 자신을 자신의 벤치 포켓몬과 교체해도 좋다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 귀 끝의 털을 다듬고 손질을 게을리하지 않는 깔끔쟁이다. 가뿐하게 뛰어올라 달린다.",
+        "number": "52",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_52.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001052"
+    },
+    {
+        "id": "bs1-53",
+        "cardID": "나옹무060동료000파괴010",
+        "name": "나옹마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹마",
+                "pokedexNumber": 431
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「기본 포켓몬」을 1장 자신의 벤치로 내보낸다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "파괴발톱",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날카로운 눈초리로 상대를 가벼운 최면 상태로 만들어 버린다. 매우 변덕스러운 포켓몬이다.",
+        "number": "53",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_53.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001053"
+    },
+    {
+        "id": "bs1-54",
+        "cardID": "몬냥무090뽐내020마구040",
+        "name": "몬냥이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "몬냥이",
+                "pokedexNumber": 432
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뽐내기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40x",
+                "text": "동전을 세 번 던져서 앞면 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "다른 포켓몬의 거처라 할지라도 아무렇지 않게 들어가서 쿨쿨 잘 정도로 뻔뻔하다.",
+        "number": "54",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ken Sugimori",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_54.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001054"
+    },
+    {
+        "id": "bs1-55",
+        "cardID": "만병통치제W",
+        "name": "만병통치제W",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬의 특수 상태를 모두 회복시킨다."
+        ],
+        "number": "55",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_55.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001055"
+    },
+    {
+        "id": "bs1-56",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에 있는 포켓몬을 1장 상대 플레이어에게 보여주고 패로 가져온다.",
+            "그 뒤 덱을 섞는다."
+        ],
+        "number": "56",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_56.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001056"
+    },
+    {
+        "id": "bs1-57",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리로부터 데미지 카운터를 2개 제거한다."
+        ],
+        "number": "57",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Shin-ichi Yoshikawa",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_57.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001057"
+    },
+    {
+        "id": "bs1-58",
+        "cardID": "에너지 재생",
+        "name": "에너지 재생",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 세 번 던진다.",
+            "앞면이 나온 수만큼의 기본 에너지를 자신의 트래쉬에서 선택해서 상대 플레이어에게 보여주고 패로 가져온다."
+        ],
+        "number": "58",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Hideyuki Nakajima",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_58.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001058"
+    },
+    {
+        "id": "bs1-59",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 에너지를 1장 상대 플레이어에게 보여주고 패로 가져온다.",
+            "그 뒤 덱을 섞는다."
+        ],
+        "number": "59",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_59.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001059"
+    },
+    {
+        "id": "bs1-60",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 자신의 벤치 포켓몬과 교체한다."
+        ],
+        "number": "60",
+        "prodNumber": "60",
+        "prodCode": "bs1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+        "prodName": "DP 확장팩 모험의 시작",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_60.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001060"
+    }
+]

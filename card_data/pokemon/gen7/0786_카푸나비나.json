@@ -1,0 +1,420 @@
+[
+    {
+        "id": "sm4plus-045",
+        "cardID": "카푸초170원더에너020카푸000",
+        "name": "카푸나비나 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지 드라이브",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "카푸큐어 GX",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬 2마리의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원더터치",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 덱에 있는 서포트를 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005022",
+                "debug": "2"
+            },
+            {
+                "number": "052",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005052",
+                "debug": "2"
+            },
+            {
+                "number": "045",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013045",
+                "debug": "1"
+            },
+            {
+                "number": "045",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011045",
+                "debug": "2"
+            },
+            {
+                "number": "044",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002044",
+                "debug": "2"
+            },
+            {
+                "number": "012",
+                "prodNumber": "043",
+                "prodCode": "SMN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMN.png",
+                "prodName": "썬&문 파워업덱 BOX 「TAG TEAM GX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMN/SMN_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019009012",
+                "debug": "2"
+            },
+            {
+                "number": "008",
+                "prodNumber": "031",
+                "prodCode": "SMM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMM.png",
+                "prodName": "썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMM/SMM_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019012008",
+                "debug": "2"
+            },
+            {
+                "number": "160",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니 ULTIMATE」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_SMP_160.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014246",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-026",
+        "cardID": "카푸초110사이020매지000",
+        "name": "카푸나비나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코웨이브",
+                "cost": "(초)",
+                "damage": "20×",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "매지컬스웹",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 올려져 있는 데미지 카운터를 원하는 만큼 선택해서 상대 필드의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "천진난만하고 잔혹한 아칼라의 수호신이다. 향기로운 꽃향기가 에너지의 근원이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007026",
+                "debug": "1"
+            },
+            {
+                "number": "026",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "You Iribi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007089",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-077",
+        "cardID": "카푸페110사이020매지000",
+        "name": "카푸나비나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "사이코웨이브",
+                "cost": "(페어리)",
+                "damage": "20×",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "매지컬스웹",
+                "cost": "(페어리)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 올려져 있는 데미지 카운터를 원하는 만큼 선택해서 상대 필드의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "천진난만하고 잔혹한 아칼라의 수호신이다. 향기로운 꽃향기가 에너지의 근원이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "077",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013077",
+                "debug": "1"
+            },
+            {
+                "number": "077",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-039",
+        "cardID": "카푸페110차밍매지070",
+        "name": "카푸나비나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "차밍차밍",
+                "text": "자신의 차례에 자신의 패에서 카드 이름에 「페어리참」이 적힌 「포켓몬의 도구」를 이 포켓몬에게 붙일 때마다 1번 사용할 수 있다. 상대의 배틀 포켓몬을 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "팔랑팔랑 날아다니며 이상하게 빛나는 인분을 흩뿌린다. 이것에 닿은 자는 곧 건강을 되찾는다고 한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Mizue",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-043",
+        "cardID": "카푸초110에너020스파100",
+        "name": "카푸나비나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸나비나",
+                "pokedexNumber": 786
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지버스트",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "스파이럴 드레인",
+                "cost": "(초)(초)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수호신으로 불리지만 천진난만하면서 잔혹한 성질도 겸비한 자연의 화신이라 할 수 있는 존재다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Saya Tsuruta",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016043",
+                "debug": "3"
+            }
+        ]
+    }
+]

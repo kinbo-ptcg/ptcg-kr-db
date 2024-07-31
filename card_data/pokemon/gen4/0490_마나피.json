@@ -1,0 +1,713 @@
+[
+    {
+        "id": "bw7-020",
+        "cardID": "마나물070마지회유000",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "회유",
+                "cost": "(물)",
+                "damage": "",
+                "text": "동전을 세 번 던져서 앞면이 나온 수만큼 자신의 트래쉬에서 (물) 에너지를 선택해서 벤치 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마지막소원",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어났을 때부터 가지고 있는 이상한 힘을 쓰면 어떤 포켓몬과도 마음이 서로 통하게 된다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "Naoki Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_020.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-073",
+        "cardID": "마나물070심해000라이000",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "심해의회오리",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다. 그 뒤, 덱을 6장 뽑는다."
+            },
+            {
+                "name": "라이프세이브",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (물) 포켓몬을 2장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "sui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002033",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001073",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-021",
+        "cardID": "마나물120아쿠미네060",
+        "name": "마나피 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "미네랄펌프",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 벤치 포켓몬 전원의 HP를 각각 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아쿠아튜브",
+                "text": "이 포켓몬이 있는 한, (물) 에너지가 붙어 있는 자신의 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001021",
+                "debug": "2"
+            },
+            {
+                "number": "083",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_083.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001083",
+                "debug": "2"
+            },
+            {
+                "number": "021",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp5-011",
+        "cardID": "마나물070바다000아쿠030",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "바다의인도",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 (물) 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "아쿠아링",
+                "cost": "(물)(물)",
+                "damage": "30",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008011",
+                "debug": "1"
+            },
+            {
+                "number": "012",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008012",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-026",
+        "cardID": "마나물060심해스플030",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "심해의 은혜",
+                "text": "자신의 차례에 1번 사용할 수 있다. (물) 에너지가 붙어 있는 자신의 포켓몬 1마리의 HP를 「20」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어났을 때부터 가지고 있는 이상한 힘을 쓰면 어떤 포켓몬과도 마음이 서로 통하게 된다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010026",
+                "debug": "1"
+            },
+            {
+                "number": "030",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002030",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm5m-014",
+        "cardID": "마나물070심층000물의020",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "심층해류",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (물) 에너지를 5장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "물의파동",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SEK-006",
+        "cardID": "마나물070바다스플030",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "바다수색",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 본다. 그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "020",
+                "prodCode": "SEK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+                "artist": "Narumi Sato",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9-031",
+        "cardID": "마나물070파도물뿌020",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파도의 베일",
+                "text": "이 포켓몬이 있는 한, 자신의 벤치 포켓몬 전원은 상대 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002031",
+                "debug": "1"
+            },
+            {
+                "number": "029",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001029",
+                "debug": "2"
+            },
+            {
+                "number": "003",
+                "prodNumber": "038",
+                "prodCode": "SVF",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVF.png",
+                "prodName": "스칼렛&바이올렛 배틀 강화 BOX 「흑염의 지배자」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVF/SVF_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023017003",
+                "debug": "2"
+            },
+            {
+                "number": "005",
+                "prodNumber": "053",
+                "prodCode": "SVHK",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHK.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「고대의 코라이돈 ex」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHK/SVHK_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024002005",
+                "debug": "2"
+            },
+            {
+                "number": "002",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003002",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "st1-27",
+        "cardID": "마나물070동료000아쿠030",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "동료 부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「기본 포켓몬」을 1장 자신의 벤치로 내보낸다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "아쿠아링",
+                "cost": "(물)(물)",
+                "damage": "30",
+                "text": "자신을 자신의 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "차가운 바다 밑에서 태어났다. 자신이 태어난 바다의 밑바닥까지 긴 거리를 헤엄쳐서 돌아간다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "27",
+                "prodNumber": "55",
+                "prodCode": "st1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
+                "prodName": "DP 랜덤 구축덱",
+                "artist": "Nakaoka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_27.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001027",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-049",
+        "cardID": "마나물070말려000아쿠040",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "말려드는해류",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 패를 보고 그 중에서 기본 포켓몬을 2장까지 선택해서 상대의 벤치로 내보낸다."
+            },
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "049",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 카드샵 대표 선발전 프로모",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000049",
+                "debug": "1"
+            }
+        ]
+    }
+]

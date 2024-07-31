@@ -1,0 +1,461 @@
+[
+    {
+        "id": "sm1m-015",
+        "cardID": "모단물140눈사080아이140",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈사태",
+                "cost": "(물)(물)(무색)",
+                "damage": "80",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "아이스해머",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "아무튼 무작정 때린다. 여차하면 집게를 스스로 끊어 로켓처럼 발사해서 때린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "TOKIYA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-030",
+        "cardID": "모단격140거츠080더블080",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "거츠해머",
+                "cost": "(격투)",
+                "damage": "80",
+                "text": "이 포켓몬에게도 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다."
+            },
+            {
+                "name": "더블스탬프",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "80+",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "톱을 노리려다 설산에서 헤매게 되고 추위를 견디던 중에 털이 생겨서 진화했다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008030",
+                "debug": "1"
+            },
+            {
+                "number": "028",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000034",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm10-054",
+        "cardID": "모단격140파이030매그080",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파이트얼론",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드의 포켓몬의 수가 상대보다 적다면 그 적은 수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "매그넘펀치",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "집게 안에 냉기를 모아 때려눕힌다. 두꺼운 얼음벽도 가루로 만들어 버린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-037",
+        "cardID": "모단격140단단빙결080",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "빙결펀치",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 (물) 에너지가 붙어 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단단한 껍질",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "집게 안에 냉기를 모아 때려눕힌다. 두꺼운 얼음벽도 가루로 만들어 버린다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "tetsuya koizumi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6K-041",
+        "cardID": "모단격150더블090찝게130",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "더블래리엇",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 90데미지를 준다."
+            },
+            {
+                "name": "찝게햄머",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "생각하기보다는 일단 때리고 본다. 눈사태를 펀치 러시로 되받아쳤다는 기록도 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-112",
+        "cardID": "모단물220사태000디스090",
+        "name": "모단단게 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "사태일으키기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            },
+            {
+                "name": "디스트로이어 펀치",
+                "cost": "(물)(물)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "MUGENUP",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018026",
+                "debug": "2"
+            },
+            {
+                "number": "103",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "MUGENUP",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018103",
+                "debug": "2"
+            },
+            {
+                "number": "112",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "MUGENUP",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_112.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003112",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-043",
+        "cardID": "모단격160진검050너클170",
+        "name": "모단단게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "진검승부",
+                "cost": "(격투)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "너클임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "170",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "떨어진 집게는 매우 맛있다. 일부러 맛보돈을 데리고 산에 올라 찾아다니는 트레이너도 있을 정도다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Misa Tsutsui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012043",
+                "debug": "1"
+            }
+        ]
+    }
+]

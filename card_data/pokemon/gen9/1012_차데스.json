@@ -1,0 +1,134 @@
+[
+    {
+        "id": "SV5a-008",
+        "cardID": "차데풀030곳간걸기010",
+        "name": "차데스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "차데스",
+                "pokedexNumber": 1012
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "걸기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "곳간 숨기",
+                "text": "이 포켓몬은 벤치에 있는 한, 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "MINAMINAMI Take",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007008",
+                "debug": "3"
+            },
+            {
+                "number": "068",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Saboteri",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007068",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6-013",
+        "cardID": "차데풀040차내000허찌030",
+        "name": "차데스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "차데스",
+                "pokedexNumber": 1012
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "차내오기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「기본 (풀) 에너지」를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "허찌르기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "데인차의 리전폼처럼 보이지만 최근 전혀 상관없는 포켓몬이라고 밝혀졌다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008013",
+                "debug": "1"
+            }
+        ]
+    }
+]

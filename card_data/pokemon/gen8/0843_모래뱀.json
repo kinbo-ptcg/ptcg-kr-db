@@ -1,0 +1,254 @@
+[
+    {
+        "id": "SA_F-008",
+        "cardID": "모래격070박치010꼬리020",
+        "name": "모래뱀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "모래뱀",
+                "pokedexNumber": 843
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "굴을 파면서 먹은 모래를 목에 있는 주머니에 저장하는데 8kg이나 되는 모래가 들어간다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "024",
+                "prodCode": "SA_F",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_F.png",
+                "prodName": "소드&실드 스타터 세트 V 격투",
+                "artist": "Hitoshi Ariga",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_F_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001105",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1H-031",
+        "cardID": "모래격080모래000",
+        "name": "모래뱀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래뱀",
+                "pokedexNumber": 843
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "Misa Tsutsui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003031",
+                "debug": "1"
+            },
+            {
+                "number": "097",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016097",
+                "debug": "2"
+            },
+            {
+                "number": "269",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Akira Komayama",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_269.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016269",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S5R-047",
+        "cardID": "모래격080꼬리010머드060",
+        "name": "모래뱀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래뱀",
+                "pokedexNumber": 843
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "머드숏",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Atsuko Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002047",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-046",
+        "cardID": "모래격080진흙030",
+        "name": "모래뱀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래뱀",
+                "pokedexNumber": 843
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "풍선처럼 늘었다 줄었다 하는 목의 주머니는 탈피를 거듭할수록 신축성이 좋아진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006046",
+                "debug": "3"
+            }
+        ]
+    }
+]

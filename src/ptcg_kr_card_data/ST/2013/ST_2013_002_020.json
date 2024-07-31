@@ -1,0 +1,728 @@
+[
+    {
+        "id": "bgb-001",
+        "cardID": "꼬부물060몸통010",
+        "name": "꼬부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬부기",
+                "pokedexNumber": 7
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "등껍질에 숨어 몸을 보호한다. 상대의 빈틈을 놓치지 않고 물을 뿜어내어 반격한다.",
+        "number": "001",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002001"
+    },
+    {
+        "id": "bgb-002",
+        "cardID": "탱그물070흡수010",
+        "name": "탱그릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "탱그릴",
+                "pokedexNumber": 592
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "흡수",
+                "cost": "(물)(무색)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "베일 같은 손발을 휘감아 마비시켜서 8000m의 심해에 데려가 끝장낸다.",
+        "number": "002",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002002"
+    },
+    {
+        "id": "bgb-003",
+        "cardID": "탱탱물100원한아쿠040",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원한구슬",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 기술을 사용한 포켓몬을 독과 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸 대부분이 해수다. 해저에는 탱탱겔이 가라앉힌 배로 만들어진 성이 있다고 한다.",
+        "number": "003",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002003"
+    },
+    {
+        "id": "bgb-004",
+        "cardID": "코일번060일렉010",
+        "name": "코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코일",
+                "pokedexNumber": 81
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "좌우에 있는 유닛에서 나오는 전기자석파로 중력에 반하여 하늘에 떠있다.",
+        "number": "004",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002004"
+    },
+    {
+        "id": "bgb-005",
+        "cardID": "레어번080띄워020",
+        "name": "레어코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "레어코일",
+                "pokedexNumber": 82
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(번개)(무색)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "3마리의 코일이 연결되어 강해진 전기자석파는 주변의 수분을 건조하게 할 정도다.",
+        "number": "005",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002005"
+    },
+    {
+        "id": "bgb-006",
+        "cardID": "자포번140더블030롤링070",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "더블어시스트",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장 선택해서 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "롤링어택",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "너무 강한 자력을 내어 자포코일끼리 끌어당겨 전혀 못 움직이기도 한다.",
+        "number": "006",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002006"
+    },
+    {
+        "id": "bgb-007",
+        "cardID": "썬더번170고속030파워080",
+        "name": "썬더 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX",
+            "플라스마단"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "고속이동",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "파워볼티지",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 「플라스마 에너지」가 붙어 있다면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002007"
+    },
+    {
+        "id": "bgb-008",
+        "cardID": "큐레드180베어060블랙200",
+        "name": "블랙큐레무 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "큐레무",
+                "pokedexNumber": 646
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "블랙발리스타",
+                "cost": "(물)(물)(번개)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "008",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Shizurow",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002008"
+    },
+    {
+        "id": "bgb-009",
+        "cardID": "수리무050연속010",
+        "name": "수리둥보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "수리둥보",
+                "pokedexNumber": 627
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "연속쪼기",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "커다란 상대에 맞서는 것은 용감해서가 아니라 무모하기 때문이다. 하지만 그렇게 단련해서 강해진다.",
+        "number": "009",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002009"
+    },
+    {
+        "id": "bgb-010",
+        "cardID": "랜덤 리시버",
+        "name": "랜덤 리시버",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 1장씩 앞면으로 해서 가장 먼저 나온 「서포트」를 상대에게 보여주고 패로 가져온다.",
+            "그 뒤 앞면으로 한 카드를 모두 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "010",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002010"
+    },
+    {
+        "id": "bgb-011",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 기본 포켓몬 1마리에서 진화하는 1진화 위의 2진화 포켓몬을 패에서 1장 선택하여 그 기본 포켓몬 위에 올려서 진화시킨다.",
+            "(자신의 첫 번째 차례에는 사용할 수 없고 이번 차례에 내보낸 기본 포켓몬에게도 사용할 수 없다.)"
+        ],
+        "number": "011",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002011"
+    },
+    {
+        "id": "bgb-012",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "012",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002012"
+    },
+    {
+        "id": "bgb-013",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "013",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002013"
+    },
+    {
+        "id": "bgb-014",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002014"
+    },
+    {
+        "id": "bgb-015",
+        "cardID": "주박사",
+        "name": "주박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002015"
+    },
+    {
+        "id": "bgb-016",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002016"
+    },
+    {
+        "id": "bgb-017",
+        "cardID": "풍란",
+        "name": "풍란",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "017",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002017"
+    },
+    {
+        "id": "bgb-018",
+        "cardID": "플라스마 에너지",
+        "name": "플라스마 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지",
+            "플라스마단"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 1개분으로 작용한다."
+        ],
+        "number": "018",
+        "prodNumber": "018",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002018"
+    },
+    {
+        "id": "bgb-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_en_03.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002019"
+    },
+    {
+        "id": "bgb-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgb",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+        "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_en_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002020"
+    }
+]

@@ -1,0 +1,494 @@
+[
+    {
+        "id": "SVD-101",
+        "cardID": "맛보무060가져000몸통030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "023",
+                "prodCode": "SVAM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002011",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "023",
+                "prodCode": "SVAW",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAW.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAW_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023004009",
+                "debug": "2"
+            },
+            {
+                "number": "009",
+                "prodNumber": "021",
+                "prodCode": "SVAL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003009",
+                "debug": "2"
+            },
+            {
+                "number": "010",
+                "prodNumber": "021",
+                "prodCode": "SVC",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVC.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 스타터 세트 ex 피카츄 스페셜 세트",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVC/SVC_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023008010",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016101",
+                "debug": "1"
+            },
+            {
+                "number": "027",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023027",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-150",
+        "cardID": "맛보무070변덕070",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "변덕 태클",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "067",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006067",
+                "debug": "2"
+            },
+            {
+                "number": "150",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_150.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001150",
+                "debug": "1"
+            },
+            {
+                "number": "315",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "Akira Komayama",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_315.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001315",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-066",
+        "cardID": "맛보무060상대000밟기020",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "상대회피스멜",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "밟기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "066",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Teeziro",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006066",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-096",
+        "cardID": "맛보무060몸통020",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "096",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015096",
+                "debug": "1"
+            },
+            {
+                "number": "120",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Narumi Sato",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_120.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015120",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3-097",
+        "cardID": "맛보무070차밍020",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "차밍보이스",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "097",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_097.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015097",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-102",
+        "cardID": "맛보무070머리010머드020",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "머드샷",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "102",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016102",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVI-047",
+        "cardID": "맛보무050뒤로030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "REND",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_047_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006085",
+                "debug": "3"
+            }
+        ]
+    }
+]

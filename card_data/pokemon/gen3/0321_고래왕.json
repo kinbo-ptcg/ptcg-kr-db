@@ -1,0 +1,730 @@
+[
+    {
+        "id": "bw5t-012",
+        "cardID": "고래물200워터030큰파080",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "워터캐논",
+                "cost": "(물)",
+                "damage": "30×",
+                "text": "동전을 한 번 던져서 앞면이 나오면 이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 30데미지를 준다."
+            },
+            {
+                "name": "큰파도",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "자신의 다음 차례에 이 포켓몬은 「큰파도」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "제일 큰 포켓몬이다. 숨을 들이쉬지 않고 3000m의 깊이까지 잠수할 수 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "match",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-017",
+        "cardID": "고래물250수의하이120",
+        "name": "고래왕 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이브리칭",
+                "cost": "(물)(물)(물)(물)(물)",
+                "damage": "120",
+                "text": "이 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "수의베일",
+                "text": "자신의 패에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬의 특수 상태를 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002017",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_071.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-016",
+        "cardID": "고래물200다이040대해080",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "다이빙",
+                "cost": "(물)(물)(무색)",
+                "damage": "40",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "대해",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "80",
+                "text": "자신의 (물) 포켓몬 전원의 HP를 각각 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "무리 지어 먹이를 쫓는 습성이 있다. 큰 입으로 약어리의 무리를 통째로 삼켜버린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "OOYAMA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005011",
+                "debug": "2"
+            },
+            {
+                "number": "016",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "OOYAMA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007016",
+                "debug": "1"
+            },
+            {
+                "number": "016",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "OOYAMA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007080",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7-026",
+        "cardID": "고래물220썰물200",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "썰물",
+                "cost": "(물)(물)(물)(물)",
+                "damage": "200-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 40데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "어찌 됐든 거대해서 인기가 있다. 고래왕 워칭은 각지에서 인기 있는 관광 코스다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9-019",
+        "cardID": "잉어물300수퍼180타워010",
+        "name": "잉어킹&고래왕 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "잉어킹",
+                "pokedexNumber": 129
+            },
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "수퍼스플래시",
+                "cost": "(물)(물)(물)(물)(물)",
+                "damage": "180",
+                "text": ""
+            },
+            {
+                "name": "타워링 스플래시 GX",
+                "cost": "(물)(플러스)",
+                "damage": "10",
+                "text": "(물) 에너지 7개가 추가로 붙어 있다면 상대의 벤치 포켓몬 전원에게도 각각 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001019",
+                "debug": "1"
+            },
+            {
+                "number": "098",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001098",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001099",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-020",
+        "cardID": "고래물200헤비090하이140",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            },
+            {
+                "name": "하이드로 스플래시",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "너무 많은 물고기포켓몬을 먹기 때문에 개체 수가 많이 늘어나면 어부들에게 내쫓긴다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SD-011",
+        "cardID": "고래물280퍼올000오션120",
+        "name": "고래왕 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "퍼올리기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (물) 에너지를 3장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "오션웨이브",
+                "cost": "(물)(물)(물)(물)",
+                "damage": "120×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 120데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-019",
+        "cardID": "고래물200수의하이010",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "수의베일",
+                "text": "자신의 패에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬의 특수 상태를 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "커다란 몸으로 파도 위에서 점프해서 그 충격으로 상대를 기절시킬 때가 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-026",
+        "cardID": "고래물200점보스페120",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스페셜웨이브",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "120+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "점보 사이즈",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "커다란 몸으로 파도 위에서 점프해서 그 충격으로 상대를 기절시킬 때가 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Shinya Komatsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-026",
+        "cardID": "고래물220버블080헤비180",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "버블드레인",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(물)(물)(무색)(무색)(무색)",
+                "damage": "180",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "커다란 몸으로 파도 위에서 점프해서 그 충격으로 상대를 기절시킬 때가 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016026",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs4-12",
+        "cardID": "고래물200잠듦깊이060",
+        "name": "고래왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "고래왕",
+                "pokedexNumber": 321
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "깊이 가라앉기",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "60",
+                "text": "자신에게 데미지 카운터가 올려져 있다면 자신을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "잠듦의고동",
+                "text": "포켓몬 체크 때 이 포켓몬이 잠듦에서 회복하지 않았다면 이 포켓몬의 데미지 카운터를 1개 제거한다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "제일 큰 포켓몬이다. 숨을 들이쉬지 않고 3000m의 깊이까지 잠수할 수 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "12",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_12.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004012",
+                "debug": "1"
+            }
+        ]
+    }
+]

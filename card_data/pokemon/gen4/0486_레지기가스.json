@@ -1,0 +1,650 @@
+[
+    {
+        "id": "bw3h-045",
+        "cardID": "레지무180기가060레이050",
+        "name": "레지기가스 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기가파워",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "원한다면 20데미지를 추가해도 좋다. 그 경우 이 포켓몬에게도 20데미지를 준다."
+            },
+            {
+                "name": "레이징해머",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "Shizurow",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001045",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001055",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy4-074",
+        "cardID": "레지무130풀죽080헤비100",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "풀죽이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-40」이 된다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특수한 빙산이나 암석 마그마에서 자신의 모습과 닮은 포켓몬을 만들었다고 전해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "074",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_074.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004074",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp2-023",
+        "cardID": "레지무130대지기가100",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기가스펀치",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "동전을 두 번 던져서 모두 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "대지의 각성",
+                "text": "자신의 패에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬의 HP를 「20」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "밧줄로 묶은 대륙을 당겨서 움직였다고 하는 전설이 남아 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_023.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-041",
+        "cardID": "레지무180옛봉자이160",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "자이언트 스탬프",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "옛 봉인",
+                "text": "자신의 벤치에 「레지락」「레지아이스」「레지스틸」이 없다면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특수한 빙산이나 암석, 마그마에서 자신의 모습과 닮은 포켓몬을 만들었다고 전해진다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011041",
+                "debug": "1"
+            },
+            {
+                "number": "055",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+                "artist": "Hasuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000078",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10D-054",
+        "cardID": "레지무150고대기간150",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기간트 브레이크",
+                "cost": "(무색)(무색)(무색)(무색)(무색)",
+                "damage": "150+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 VMAX」라면 150데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고대의 지혜",
+                "text": "자신의 필드에 「레지락」「레지아이스」「레지스틸」「레지에레키」「레지드래고」가 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 에너지를 3장까지 선택해서 자신의 포켓몬 1마리에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "밧줄로 묶은 대륙을 당겨서 움직였다고 하는 전설이 남아 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007054",
+                "debug": "1"
+            },
+            {
+                "number": "123",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yuya Oka",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001123",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S12a-124",
+        "cardID": "레지무240한방050분노100",
+        "name": "레지기가스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "분노의철퇴",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다. 이 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "124",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_124.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001124",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-125",
+        "cardID": "레지무300스타기가230",
+        "name": "레지기가스 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기가임팩트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타가디언",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 자신의 차례에 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬과 붙어 있는 모든 카드를 트래쉬한다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "125",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001125",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-157",
+        "cardID": "레지무150어깨020더블120",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어깨풀기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "더블임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "120×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 120데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "밧줄로 묶은 대륙을 당겨서 움직였다고 하는 전설이 남아 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "157",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "극장판 포켓몬스터DP 「기라티나와 하늘의 꽃다발 쉐이미」극장 선물",
+                "artist": "GOSSAN",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_157.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000157",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs10-34",
+        "cardID": "레지무120슬로묵사120",
+        "name": "레지기가스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "묵사발",
+                "cost": "(물)(격투)(강철)(무색)",
+                "damage": "120",
+                "text": "데미지를 줄 때 이미 상대에게 데미지 카운터가 올려져 있다면 이 기술의 데미지는 「40」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "슬로스타트",
+                "text": "이 포켓몬은 상대의 프라이즈의 장수가 3장 이하가 될 때까지 기술을 사용할 수 없다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "밧줄로 묶은 대륙을 당겨서 움직였다고 하는 전설이 남아있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "34",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Ryo Ueda",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_34.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs10-35",
+        "cardID": "레지무150새크기가100",
+        "name": "레지기가스 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 레지기가스에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "레지기가스",
+                "pokedexNumber": 486
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기가 블래스터",
+                "cost": "(물)(격투)(강철)(무색)",
+                "damage": "100",
+                "text": "상대의 덱의 카드를 위에서부터 1장 트래쉬한다. 상대의 패에서 앞면을 보지 않고 카드를 1장 선택하여 트래쉬한다. 자신의 다음 차례에 자신은 「기가 블래스터」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "새크리파이스",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 포켓몬 1마리를 기절시킨다. 그 뒤 자신의 트래쉬에 있는 기본 에너지를 2장까지 선택하여 이 포켓몬에게 붙이고 이 포켓몬의 데미지 카운터를 8개 제거한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "35",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Shizurow",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_35.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010035",
+                "debug": "1"
+            }
+        ]
+    }
+]

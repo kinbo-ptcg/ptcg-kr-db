@@ -1,0 +1,938 @@
+[
+    {
+        "id": "XY-P-021",
+        "cardID": "디그격050산파000진흙020",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "산파기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 보고 원래대로 되돌린다. 원한다면 그 덱을 섞어도 좋다."
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "Kanako Eo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_029.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501029",
+                "debug": "2"
+            },
+            {
+                "number": "021",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xyg-001",
+        "cardID": "디그격040부딪010",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "피부가 매우 얇아서 빛을 쪼이게 되면 혈액이 데워져 약해진다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "019",
+                "prodCode": "xyg",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyg.png",
+                "prodName": "XY BREAK 퍼펙트 배틀 60장 덱 「지가르데 EX」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYG/XYG_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016003001",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "cp6-055",
+        "cardID": "디그격040잠수파나000",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파나가기",
+                "cost": "(격투)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "잠수",
+                "text": "이 포켓몬은 벤치에 있는 한 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "땅속 얕은 곳을 이동한다. 땅을 판 후에는 지면이 튀어나와 있으므로 바로 알 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "Keiji Kinebuchi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_055.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-066",
+        "cardID": "디그강050구멍000진흙010",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "구멍더듬기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 3장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리에 돋아나 있는 것은 수염이 변화한 것으로 금속 질이다. 흔들거리며 동료와 교신한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "060",
+                "prodCode": "sm1s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1s.png",
+                "prodName": "썬&문 확장팩 제1탄 「썬 컬렉션」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1S/SM1S_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017001037",
+                "debug": "2"
+            },
+            {
+                "number": "066",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013066",
+                "debug": "1"
+            },
+            {
+                "number": "066",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_066.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011066",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-076",
+        "cardID": "디그강050아이010B",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언헤드",
+                "cost": "(0코)",
+                "damage": "10×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "Naoyo Kimura",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001032",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Naoyo Kimura",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002076",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-048",
+        "cardID": "디그강050동료000",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012035",
+                "debug": "2"
+            },
+            {
+                "number": "048",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-084",
+        "cardID": "디그강050부딪010",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "용암질의 지면도 거침없이 파며 나아갈 정도로 파워풀하지만 모습을 잘 드러내지 않는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Atsuko Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005030",
+                "debug": "2"
+            },
+            {
+                "number": "084",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Atsuko Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017084",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10-043",
+        "cardID": "디그격050지하걸기010",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "걸기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "지하 공작",
+                "text": "이 포켓몬이 「비주기의 추방」의 효과로 트래쉬되면 상대의 덱을 위에서부터 1장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지하에 터널을 파서 이동한다. 빛을 싫어해서 해가 진 후에 지상으로 나온다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SA_F-001",
+        "cardID": "디그격060할퀴010",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "디그다가 지나간 뒤의 대지는 알맞게 땅이 일궈져 최고의 밭이 된다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "024",
+                "prodCode": "SA_F",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_F.png",
+                "prodName": "소드&실드 스타터 세트 V 격투",
+                "artist": "Hasegawa Saki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_F_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001098",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-038",
+        "cardID": "디그격050할퀴020",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "디그다가 지나간 뒤의 대지는 알맞게 땅이 일궈져 최고의 밭이 된다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-206",
+        "cardID": "디그격050구멍010",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "구멍파기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "얕은 땅속을 이동한다. 굴을 파며 다닌 곳은 지면이 솟아 있기 때문에 바로 알 수 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003033",
+                "debug": "2"
+            },
+            {
+                "number": "206",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_206.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003206",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-044",
+        "cardID": "디그격050구멍030",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "구멍뚫기헤드",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "자신의 덱을 위에서부터 1장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "OKACHEKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-050",
+        "cardID": "디그격050머리010진흙030",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Miki Tanaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-24",
+        "cardID": "디그격050언더000진흙030",
+        "name": "디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "언더드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱의 아래에서 카드를 1장 뽑는다."
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "땅속에서 살고 있는 포켓몬이다. 어두운 지하에 있기 때문에 밝은 태양을 싫어한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "24",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Takao Unno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_24.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-065",
+        "cardID": "디그강050아이010A",
+        "name": "알로라디그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "디그다",
+                "pokedexNumber": 50,
+                "region": "알로라"
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언헤드",
+                "cost": "(0코)",
+                "damage": "10×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 프로모 팩 제3탄",
+                "artist": "Naoyo Kimura",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000089",
+                "debug": "1"
+            }
+        ]
+    }
+]

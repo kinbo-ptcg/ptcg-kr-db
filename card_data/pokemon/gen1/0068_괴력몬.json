@@ -1,0 +1,1137 @@
+[
+    {
+        "id": "bw9-041",
+        "cardID": "괴력격150단련인파120",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "인파이트",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「+30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "단련의증표",
+                "text": "이 포켓몬이 있는 한 자신의 (격투) 포켓몬 전원이 사용하는 기술의 데미지는 저항력 계산을 하지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "4개의 힘센 팔은 눈에 보이지 않을 정도로 빠르게 펀치와 당수를 날린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Naoki Saito",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_041.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005041",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy3-044",
+        "cardID": "괴력격150투혼괴력080",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "괴력크러셔",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-40」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "투혼",
+                "text": "이 포켓몬이 있는 한, 자신의 (격투)포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는「+20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "발달한 4개의 팔은 2초 동안 1000번의 펀치를 날릴 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_044.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003044",
+                "debug": "1"
+            },
+            {
+                "number": "067",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_067.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004067",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy7-037",
+        "cardID": "괴력격180깊은020크레080",
+        "name": "괴력몬 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "깊은분노",
+                "cost": "(격투)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다. 이 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "크레이지해머",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬이 특수 상태라면 80데미지를 추가한다. 그 뒤 이 포켓몬의 특수 상태를 모두 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_037.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005037",
+                "debug": "1"
+            },
+            {
+                "number": "088",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_088.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005088",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp6-059",
+        "cardID": "괴력격160반격지구120",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "지구던지기",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반격",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "발달한 4개의 팔은 2초 동안 1000번의 펀치를 날릴 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "Ken Sugimori",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_059.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009059",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp6-060",
+        "cardID": "괴력격190부메100",
+        "name": "괴력몬 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 괴력몬이 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "부메랑래리엇",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "100",
+                "prodCode": "cp6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp6.png",
+                "prodName": "XY BREAK 확장팩 BASE PACK 20th Anniversary",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP6/CP6_060.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016009060",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2k-030",
+        "cardID": "괴력격160앙갚020지옥150",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "앙갚음",
+                "cost": "(격투)(격투)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 상대가 가져간 프라이즈 장수 × 80데미지를 추가한다."
+            },
+            {
+                "name": "지옥의바퀴",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "메가톤급의 펀치를 날려 앞을 가로막는 적을 지평선 너머까지 날려버린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2plus-029",
+        "cardID": "괴력격250내리060암반130머슬180",
+        "name": "괴력몬 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "내리치기",
+                "cost": "(격투)(격투)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 60데미지를 추가한다."
+            },
+            {
+                "name": "암반허물기",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "130",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다."
+            },
+            {
+                "name": "머슬펀치 GX",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "180",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007029",
+                "debug": "1"
+            },
+            {
+                "number": "053",
+                "prodNumber": "049",
+                "prodCode": "sm2plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2plus.png",
+                "prodName": "썬&문 강화 확장팩 「새로운 시련」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2+/SM2plus_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017007053",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smp2-018",
+        "cardID": "괴력격160교통000크로080",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "교통정리",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 5장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "크로스촙",
+                "cost": "(격투)(격투)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "4개의 팔로 상대를 붙잡아 복잡한 모양으로 세게 조른다. 사람들은 괴력몬 스페셜이라고 부른다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008018",
+                "debug": "1"
+            },
+            {
+                "number": "018",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_mirror_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008039",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-067",
+        "cardID": "마샤격270리벤030백열160진정200",
+        "name": "마샤도&괴력몬 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "마샤도",
+                "pokedexNumber": 802
+            },
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(격투)(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "백열임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "160",
+                "text": ""
+            },
+            {
+                "name": "진정한호걸GX",
+                "cost": "(격투)(격투)(무색)(플러스)",
+                "damage": "200",
+                "text": "에너지 1개가 추가로 붙어 있다면 상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받아 기절할 때 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007042",
+                "debug": "2"
+            },
+            {
+                "number": "100",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007100",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "095",
+                "prodCode": "sm10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10.png",
+                "prodName": "썬&문 확장팩 「더블블레이즈」",
+                "artist": "You Iribi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10/SM10_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019007101",
+                "debug": "2"
+            },
+            {
+                "number": "067",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017067",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4-055",
+        "cardID": "괴력격170마초020다이200",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마초리벤지",
+                "cost": "(격투)(무색)",
+                "damage": "20×",
+                "text": "자신의 트래쉬에 있는 (격투) 포켓몬의 장수 × 20데미지를 준다."
+            },
+            {
+                "name": "다이너마이트 펀치",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "4개의 팔을 재빠르게 움직여서 모든 각도에서 쉬지 않고 펀치와 당수를 날린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014055",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10D-032",
+        "cardID": "괴력격220리벤050지구140",
+        "name": "괴력몬 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지버스터",
+                "cost": "(격투)(무색)",
+                "damage": "50+",
+                "text": "자신의 벤치 포켓몬에게 데미지 카운터가 올려져 있다면 50데미지를 추가한다."
+            },
+            {
+                "name": "지구던지기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "kawayoo",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007032",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007072",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "Shinya Komatsu",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007073",
+                "debug": "2"
+            },
+            {
+                "number": "071",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "kawayoo",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10D-033",
+        "cardID": "괴력격330리벤080거다240",
+        "name": "괴력몬 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지버스터",
+                "cost": "(격투)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치 포켓몬에게 데미지 카운터가 올려져 있다면 140데미지를 추가한다."
+            },
+            {
+                "name": "거다이회심격",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "240",
+                "text": "자신의 다음 차례에 이 포켓몬은 「거다이회심격」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007033",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007081",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001072",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10a-036",
+        "cardID": "괴력격150위기완강100",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "완강래리엇",
+                "cost": "(격투)(격투)",
+                "damage": "100+",
+                "text": "원한다면 100데미지를 추가한다. 그 경우, 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위기 극복 머슬",
+                "text": "상대의 남은 프라이즈 장수가 3장 이하라면 이 포켓몬의 최대 HP는 「150」커진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "4개의 팔을 재빠르게 움직여서 모든 각도에서 쉬지 않고 펀치와 당수를 날린다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Nisota Niso",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011061",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-068",
+        "cardID": "괴력격180근성마운100",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마운틴촙",
+                "cost": "(격투)(격투)",
+                "damage": "100",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            }
+        ],
+        "abilities": [
+            {
+                "name": "근성",
+                "text": "이 포켓몬이 기술의 데미지를 받아 기절할 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "4개의 팔은 생각하는 것보다 빠르게 반사적으로 움직이며 여러 발의 펀치를 날린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "068",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "Ryuta Fuse",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014068",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-28",
+        "cardID": "괴력격130리벤020폭발060",
+        "name": "괴력몬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(격투)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 상대의 기술에 의한 데미지로 자신의 포켓몬이 기절했다면 50데미지를 추가한다."
+            },
+            {
+                "name": "폭발펀치",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "60+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가하고 상대를 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "4개의 팔을 눈에 보이지 않을 정도로 빠르게 움직여 2초간 1000발의 펀치를 날린다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "28",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_28.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs8-29",
+        "cardID": "괴력격150노가강한020",
+        "name": "괴력몬 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 괴력몬에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "괴력몬",
+                "pokedexNumber": 68
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "강한 의지",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 기술의 데미지로 자신의 남은 HP가 없어진다면 동전을 한 번 던진다. 앞면이 나오면 자신은 기절하지 않고 남은 HP가 「10」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "노가드",
+                "text": "이 포켓몬이 배틀필드에 있는 한 이 포켓몬이 배틀 포켓몬에게 주는 기술의 데미지와 상대의 포켓몬으로부터 받는 기술의 데미지는 모두 「+60」이 된다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "40"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "29",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Ryo Ueda",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_29.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008029",
+                "debug": "1"
+            }
+        ]
+    }
+]

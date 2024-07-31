@@ -1,0 +1,838 @@
+[
+    {
+        "id": "bw2-012",
+        "cardID": "불카불110불꽃030열풍060",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃춤",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다."
+            },
+            {
+                "name": "열풍",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화산재로 지상이 캄캄하게 되었을 때 불카모스의 불꽃이 태양을 대신했다고 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw4-015",
+        "cardID": "불카불110불붙히트070",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트윈드",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불붙는인분",
+                "text": "이 포켓몬이 있는 한 상대의 화상 포켓몬은 포켓몬 체크 때 화상으로 올리는 데미지 카운터의 수가 4개가 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "싸울 때는 6개의 날개에서 불꽃 가루를 흩뿌려서 주변 일대를 불바다로 만든다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_015.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-012",
+        "cardID": "불카불100솔포000흡혈050",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "솔포터",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 5장 보고 그 중의 「플라스마단」의 카드를 모두 상대에게 보여주고 패로 가져온다. 남은 카드는 트래쉬한다."
+            },
+            {
+                "name": "흡혈",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태양의 화신으로 여겨진다. 추위가 혹독한 겨울에 나타나 떨고 있는 포켓몬들을 구했다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_012.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005012",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy7-017",
+        "cardID": "불카불100선버000화염060",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "선버스",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그 뒤 덱에서 기본 에너지를 2장까지 선택해서 내보낸 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화산재로 지상이 캄캄하게 되었을 때 불카모스의 불꽃이 태양을 대신했다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Kyoko Umemoto",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_017.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-018",
+        "cardID": "불카불110【θ불타020휠윈080",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불타는인분",
+                "cost": "(불꽃)",
+                "damage": "20+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "휠윈드",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【θ스톱】",
+                "text": "이 포켓몬은 상대 포켓몬으로부터의 특성의 효과를 받지 않는다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "화산재로 지상이 캄캄하게 되었을 때 불카모스의 불꽃이 태양을 대신했다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_018.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11h-010",
+        "cardID": "불카풀불110어른020파워120",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(풀)(불꽃)",
+        "attacks": [
+            {
+                "name": "어른거리는인분",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "파워허리케인",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "화산재로 지상이 캄캄하게 되었을 때 불카모스의 불꽃이 태양을 대신했다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-014",
+        "cardID": "불카불120뜨거히트060",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "뜨거운 회오리바람",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "싸울 때는 6개의 날개에서 불꽃 가루를 흩뿌려서 주변 일대를 불바다로 만든다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-013",
+        "cardID": "불카불210열화백파160대열000",
+        "name": "불카모스 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "백파이어",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 패로 되돌린다."
+            },
+            {
+                "name": "대열파GX",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬 전원에게 붙어 있는 에너지를 1개씩 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "열화탄",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 (불꽃) 에너지를 1장 트래쉬한다. 그 뒤, 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "Hiroyuki Yamamoto",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016013",
+                "debug": "1"
+            },
+            {
+                "number": "096",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016096",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-013",
+        "cardID": "불카불120상처080불꽃110",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "상처태우기",
+                "cost": "(불꽃)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있지 않다면 이 기술은 실패한다."
+            },
+            {
+                "name": "불꽃날개",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "타오르는 불꽃의 고치에서 태어나 추위에 괴로워하는 사람이나 포켓몬을 구했다는 전설이 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "NC Empire",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5a-010",
+        "cardID": "불카불130화염050회오170",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "회오리불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "타오르는 불꽃의 고치에서 태어나 추위에 괴로워하는 사람이나 포켓몬을 구했다는 전설이 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "070",
+                "prodCode": "S5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5a.png",
+                "prodName": "소드&실드 강화 확장팩 「쌍벽의 파이터」",
+                "artist": "Mika Pikazo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5a/S5a_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021003010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-065",
+        "cardID": "불카불210와류020불대160",
+        "name": "불카모스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "와류하는불꽃",
+                "cost": "(불꽃)",
+                "damage": "20+",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 모두 상대에게 보여주고 그 장수 × 20데미지를 추가한다. 그 뒤, 보여준 에너지를 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "kawayoo",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012015",
+                "debug": "2"
+            },
+            {
+                "number": "065",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-014",
+        "cardID": "불카불130도깨040볼케120",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "도깨비불",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "볼케닉히트",
+                "cost": "(불꽃)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃의 인분을 흩뿌려 화재를 일으킴으로써 추위에 고통받는 자들을 돕는다고도 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-019",
+        "cardID": "불카불140불꽃030히트130",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 「기본 (불꽃) 에너지」를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "더운 곳에서는 타오르는 몸 때문에 미움을 받지만, 추운 곳에서는 태양의 화신이라며 받들어진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "Yukiko Baba",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010013",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Yukiko Baba",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016019",
+                "debug": "1"
+            }
+        ]
+    }
+]

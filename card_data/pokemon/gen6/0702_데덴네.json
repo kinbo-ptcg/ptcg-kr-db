@@ -1,0 +1,975 @@
+[
+    {
+        "id": "xy3-032",
+        "cardID": "데덴번070동료000에너020",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "동료만들기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "에너지쇼트",
+                "cost": "(무색)",
+                "damage": "20x",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 x 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "수염이 안테나의 역할을 한다. 전파를 송수신해서 멀리 떨어진 동료와 서로 연락하는 것이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp2-010",
+        "cardID": "데덴번060전기010",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 발전소나 민가의 콘센트에서 전기를 흡수하여 수염에서 전격을 날린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "027",
+                "prodCode": "cp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp2.png",
+                "prodName": "XY 확장팩 「레전드 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP2/CP2_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015008010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp3-012",
+        "cardID": "데덴번060잠자000찌릿010",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "잠자기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬을 잠듦으로 만든다. 이 포켓몬의 HP를「30」회복한다."
+            },
+            {
+                "name": "찌릿",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "쿨… 쿠울… 뎃 데네넷…!? 쿠울…",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "kanahei",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-062",
+        "cardID": "데덴페060친구000일렉030",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 덱에 있는 포켓몬을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. "
+            },
+            {
+                "name": "일렉트릭 체인",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 벤치에 (번개) 포켓몬이 있다면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 발전소나 민가의\n콘센트에서 전기를 흡수하여\n수염에서 전격을 날린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004062",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-031",
+        "cardID": "데덴페070찌리010",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "찌리릿터치",
+                "cost": "(페어리)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 발전소나 민가의 콘센트에서 전기를 흡수하여 수염에서 전격을 날린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009031",
+                "debug": "1"
+            },
+            {
+                "number": "031",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009080",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-048",
+        "cardID": "데덴번160데데찌릿050찌리050",
+        "name": "데덴네 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "찌리리턴GX",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 마비로 만든다. 이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "데데체인지",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다. 이 차례에 이미 다른 「데데체인지」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003016",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003057",
+                "debug": "2"
+            },
+            {
+                "number": "048",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017048",
+                "debug": "1"
+            },
+            {
+                "number": "175",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "kanahei",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_175.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017175",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11-064",
+        "cardID": "데덴페070은혜020",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "은혜갚기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "원한다면 자신의 패가 6장이 되도록 덱을 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "민가에 숨어들어 콘센트에서 전기를 훔친다. 전기료가 이상할 때는 이 녀석의 소행이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Saya Tsuruta",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-113",
+        "cardID": "데덴초070매드020",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매드파티",
+                "cost": "(초)(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 트래쉬에 있는 기술 「매드파티」를 가진 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위쪽 수염은 주변을 살피는 센서이고 아래로 난 수염은 전기를 발산하는 기관이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Shibuzoh.",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010033",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shibuzoh.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016075",
+                "debug": "2"
+            },
+            {
+                "number": "250",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Mizue",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_250.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016250",
+                "debug": "2"
+            },
+            {
+                "number": "113",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 카드 게임 카드샵 구입 특전",
+                "artist": "Yuu Nishida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_113.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000113",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S3a-028",
+        "cardID": "데덴초070꼬리010",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "꼬리로 혼란시키기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위쪽 수염은 주변을 살피는 센서이고 아래로 난 수염은 전기를 발산하는 기관이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Yuka Morii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-045",
+        "cardID": "데덴초060꼬리010데데060",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "꼬리로때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "데데쇼트",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": "이 기술은 자신의 이전 차례에 「토게데마루」가 「가시대시」를 사용하지 않았다면 사용할 수 없다. 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "동료가 내뿜는 전파를 수염으로 감지한다. 먹이나 전기의 위치를 모두와 함께 공유한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Shiburingaru",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVAW-005",
+        "cardID": "데덴초070상처030",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "상처물기",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸집이 작고 발전 기관이 미숙하기 때문에 사람이 사는 집의 전기를 꼬리를 통해 흡수해서 충전한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "023",
+                "prodCode": "SVAW",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAW.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」",
+                "artist": "Nelnal",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAW_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023004005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-031",
+        "cardID": "데덴초070에너030",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지 갉아먹기",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸집이 작고 발전 기관이 미숙하기 때문에 사람이 사는 집의 전기를 꼬리를 통해 흡수해서 충전한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "zig",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-038",
+        "cardID": "데덴초170테라테일000원더170",
+        "name": "데덴네 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "테일스왑",
+                "cost": "(초)(초)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 선택한 포켓몬에게 올려져 있는 데미지 카운터를 모두 상대의 배틀 포켓몬에게 올린다."
+            },
+            {
+                "name": "원더샷",
+                "cost": "(초)(초)(초)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010038",
+                "debug": "1"
+            },
+            {
+                "number": "089",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010089",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVEM-009",
+        "cardID": "데덴초070작은000스핀050",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "작은 선물",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스핀턴",
+                "cost": "(초)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸집이 작고 발전 기관이 미숙하기 때문에 사람이 사는 집의 전기를 꼬리를 통해 흡수해서 충전한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "020",
+                "prodCode": "SVEM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+                "artist": "Tika Matsuno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-087",
+        "cardID": "데덴번070볼부000부비000",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "볼부비부비",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "부비부비탄",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 「볼부비부비」를 가진 포켓몬의 수 × 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 발전소나 민가의 콘센트에서 전기를 흡수하여 수염에서 전격을 날린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "087",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "짐 프로모팩 4탄",
+                "artist": "MAHOU",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_115.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000115",
+                "debug": "1"
+            }
+        ]
+    }
+]

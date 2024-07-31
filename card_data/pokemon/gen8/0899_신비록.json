@@ -1,0 +1,161 @@
+[
+    {
+        "id": "S9a-036",
+        "cardID": "신비초140급한신통040",
+        "name": "신비록",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "신비록",
+                "pokedexNumber": 899
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "신통력",
+                "cost": "(무색)(무색)",
+                "damage": "40+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "급한 걸음",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "눈에 보이지 않는 벽을 만들어 낼 때 검은 구슬이 신비하게 빛난다. 떨어진 수염은 따뜻해서 겨울옷의 귀중한 재료가 된다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Mizue",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004059",
+                "debug": "3"
+            },
+            {
+                "number": "070",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "kirisAki",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004115",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10D-059",
+        "cardID": "신비무220프런배리040",
+        "name": "신비록 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "신비록",
+                "pokedexNumber": 899
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "배리어러시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프런티어로드",
+                "text": "자신의 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007059",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007076",
+                "debug": "2"
+            },
+            {
+                "number": "131",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_131.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001131",
+                "debug": "2"
+            }
+        ]
+    }
+]

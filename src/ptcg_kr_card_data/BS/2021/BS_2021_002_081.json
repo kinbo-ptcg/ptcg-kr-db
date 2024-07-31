@@ -1,0 +1,3937 @@
+[
+    {
+        "id": "S5R-001",
+        "cardID": "모다풀050베놈010",
+        "name": "모다피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "모다피",
+                "pokedexNumber": 69
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "베놈쇼크",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 독이라면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람 얼굴 같은 봉오리 때문에 전설의 꽃 만드라고라의 일종이 아닐까 하는 소문이 돌고 있다.",
+        "number": "001",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Sekio",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002001"
+    },
+    {
+        "id": "S5R-002",
+        "cardID": "우츠풀080위험덩굴040",
+        "name": "우츠동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "우츠동",
+                "pokedexNumber": 70
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위험한 점액",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬을 독과 화상으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "우선 독가루를 뿌려 상대의 움직임을 멈추게 하고 나서 용해액으로 숨통을 끊는다.",
+        "number": "002",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Shibuzoh.",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002002"
+    },
+    {
+        "id": "S5R-003",
+        "cardID": "우츠풀150패닉040솔라120",
+        "name": "우츠보트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "우츠보트",
+                "pokedexNumber": 71
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "패닉바인",
+                "cost": "(풀)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "체내로 거둬들인 것은 아무리 단단할지라도 용해액으로 흔적도 없이 녹여버린다.",
+        "number": "003",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Tika Matsuno",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002003"
+    },
+    {
+        "id": "S5R-004",
+        "cardID": "귀뚤풀180익사시저080",
+        "name": "귀뚤톡크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "귀뚤톡크",
+                "pokedexNumber": 402
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "익사이팅 스테이지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 3장이 되도록 덱을 뽑는다. 이 포켓몬이 배틀필드에 있다면 4장이 되도록 뽑는다. 이 차례에 이미 다른 「익사이팅 스테이지」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Satoshi Shirai",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002004"
+    },
+    {
+        "id": "S5R-005",
+        "cardID": "체리풀050나뭇010",
+        "name": "체리버",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "체리버",
+                "pokedexNumber": 420
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸이 빨간 체리버일수록 영양이 많고 구슬의 맛도 달고 맛있다.",
+        "number": "005",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002005"
+    },
+    {
+        "id": "S5R-006",
+        "cardID": "체리풀080완연씨폭070",
+        "name": "체리꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "체리꼬",
+                "pokedexNumber": 421
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "완연한 봄",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (풀) 에너지를 1장 선택해서 자신의 포켓몬(「룰을 가진 포켓몬」은 제외)에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "만개한 꽃잎에서 감도는 희미한 향기가 벌레포켓몬을 끌어모은다.",
+        "number": "006",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Mina Nakai",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002006"
+    },
+    {
+        "id": "S5R-007",
+        "cardID": "무스풀110물고030삼연060",
+        "name": "무스틈니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "무스틈니",
+                "pokedexNumber": 455
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "물고늘어지기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "삼연속채찍",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "늪지대에서 자라는 나무에 엉겨 붙어 달콤한 냄새의 타액으로 먹이를 끌어들여 한입에 먹는다.",
+        "number": "007",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002007"
+    },
+    {
+        "id": "S5R-008",
+        "cardID": "짜랑풀060연속020",
+        "name": "짜랑랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "짜랑랑",
+                "pokedexNumber": 753
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "연속슬래시",
+                "cost": "(풀)",
+                "damage": "20×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "햇빛을 매우 좋아한다. 착실하게 일광욕을 하면 선명한 빛으로 자란다.",
+        "number": "008",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Yukiko Baba",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002008"
+    },
+    {
+        "id": "S5R-009",
+        "cardID": "라란풀120리프030솔라070",
+        "name": "라란티스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라란티스",
+                "pokedexNumber": 754
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프드레인",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "솔라커터",
+                "cost": "(풀)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "춤추듯 적을 베어 가른다. 우아한 모습 때문에 가장 아름다운 풀포켓몬이라 불린다.",
+        "number": "009",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002009"
+    },
+    {
+        "id": "S5R-010",
+        "cardID": "카푸풀130들이020자연080",
+        "name": "카푸브루루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "카푸브루루",
+                "pokedexNumber": 787
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "들이밀치기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "자연의심판",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "80+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 그 경우, 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "수호신으로 불리지만 적이라고 간주한 자는 철저하게 때려 부수는 격렬함을 갖고 있다.",
+        "number": "010",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ryota Murayama",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002010"
+    },
+    {
+        "id": "S5R-011",
+        "cardID": "두루풀050밟기010",
+        "name": "두루지벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "두루지벌레",
+                "pokedexNumber": 824
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "밭에서 자주 보이는 포켓몬이다. 몸에 난 털로 주위에서 일어나는 일을 감지한다.",
+        "number": "011",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002011"
+    },
+    {
+        "id": "S5R-012",
+        "cardID": "비크불190V불010플레120",
+        "name": "비크티니 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "V불릿",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 50데미지를 추가한다."
+            },
+            {
+                "name": "플레어슛",
+                "cost": "(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "012",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002012"
+    },
+    {
+        "id": "S5R-013",
+        "cardID": "비크불310퍼지000다이100",
+        "name": "비크티니 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "퍼지는불꽃",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (불꽃) 에너지를 3장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "다이빅토리",
+                "cost": "(불꽃)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "013",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002013"
+    },
+    {
+        "id": "S5R-014",
+        "cardID": "앤티불120불꽃020낼름070",
+        "name": "앤티골",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "앤티골",
+                "pokedexNumber": 631
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "낼름낼름버너",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "동전을 2번 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에게 붙어 있는 에너지를 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃을 혀처럼 사용한다. 아이앤트의 단단한 외골격을 조금씩 녹여 먹어 치운다.",
+        "number": "014",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Miki Tanaka",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002014"
+    },
+    {
+        "id": "S5R-015",
+        "cardID": "태우불070태워020",
+        "name": "태우지네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "태우지네",
+                "pokedexNumber": 850
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "태워그을리기",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발열된 몸으로 먹이를 세게 조른다. 알맞게 구워지면 우적우적 먹어버린다.",
+        "number": "015",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Yuka Morii",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002015"
+    },
+    {
+        "id": "S5R-016",
+        "cardID": "다태불130오버버스130",
+        "name": "다태우지네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "다태우지네",
+                "pokedexNumber": 851
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "버스트 인페르노",
+                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "오버히터",
+                "text": "이 포켓몬이 있는 한, 상대의 화상 포켓몬은 포켓몬 체크 때 던지는 동전이 앞면이 나와도 화상은 회복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "공격적인 성질을 가졌다. 탄 몸도 위험하지만 큰 이빨도 날카롭다.",
+        "number": "016",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002016"
+    },
+    {
+        "id": "S5R-017",
+        "cardID": "쏘드물060연막010",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "연막",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "산호의 그늘에 거처를 만든다. 위험을 느끼면 입에서 새까만 먹물을 내뿜고 도망간다.",
+        "number": "017",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002017"
+    },
+    {
+        "id": "S5R-018",
+        "cardID": "시드물090물대040",
+        "name": "시드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "시드라",
+                "pokedexNumber": 117
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개와 꼬리를 재빠르게 움직여 앞을 향한 채 뒤로 헤엄칠 수 있는 포켓몬이다.",
+        "number": "018",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "0313",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002018"
+    },
+    {
+        "id": "S5R-019",
+        "cardID": "킹드물150해저아쿠040",
+        "name": "킹드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "킹드라",
+                "pokedexNumber": 230
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아버스트",
+                "cost": "(물)",
+                "damage": "40×",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "해저의 주인",
+                "text": "자신의 배틀 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절할 때마다 1번 사용할 수 있다. 기절한 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 생물도 접근할 수 없는 깊은 해저에서 자면서 힘을 비축하고 있다고 한다.",
+        "number": "019",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "kawayoo",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002019"
+    },
+    {
+        "id": "S5R-020",
+        "cardID": "마임물080막치010찾아000",
+        "name": "가라르 마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "찾아맞추기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발바닥에서 냉기를 내뿜는다. 얼린 바닥 위에서 온종일 탭 댄스에 열중한다.",
+        "number": "020",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "kodama",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002020"
+    },
+    {
+        "id": "S5R-021",
+        "cardID": "마임물110볼저010프로080",
+        "name": "가라르 마임꽁꽁",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마임꽁꽁",
+                "pokedexNumber": 866,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "볼저글링",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 패에서 카드 이름에 「볼」이 적힌 아이템을 원하는 만큼 트래쉬하고 그 장수 × 40데미지를 추가한다."
+            },
+            {
+                "name": "프로스트 스매시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "유머러스한 움직임으로 모두에게 인기가 높다. 배의 무늬에서 사이코 파워를 방출한다.",
+        "number": "021",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002021"
+    },
+    {
+        "id": "S5R-022",
+        "cardID": "총어물060물대010날카020",
+        "name": "총어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "총어",
+                "pokedexNumber": 223
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "날카로운 지느러미",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "빨판처럼 변화한 등지느러미로 만타인에게 달라붙어 먹다 남은 것을 얻어먹고 있다.",
+        "number": "022",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002022"
+    },
+    {
+        "id": "S5R-023",
+        "cardID": "대포물110연격폭포050",
+        "name": "대포무노",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "대포무노",
+                "pokedexNumber": 224
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "폭포오르기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "연격서치",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「연격」의 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「연격서치」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리가 돌처럼 단단하다. 빨판이 붙어 있는 다리를 휘감아 끊임없이 머리로 세게 때린다.",
+        "number": "023",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002023"
+    },
+    {
+        "id": "S5R-024",
+        "cardID": "가재물070거품030",
+        "name": "가재군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "가재군",
+                "pokedexNumber": 341
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거품광선",
+                "cost": "(물)(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "외국에서 온 포켓몬이 야생화했다. 아무리 더러운 강이라도 적응해버린다.",
+        "number": "024",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "chibi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002024"
+    },
+    {
+        "id": "S5R-025",
+        "cardID": "가재물130탁쳐060찝게140",
+        "name": "가재장군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가재장군",
+                "pokedexNumber": 342
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "탁쳐서떨구기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "찝게햄머",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "싸움을 좋아하는 성격. 거처에 가까이 오는 상대를 가차 없이 때려눕힌다.",
+        "number": "025",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Hasegawa Saki",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002025"
+    },
+    {
+        "id": "S5R-026",
+        "cardID": "엠페물210엠페나선130",
+        "name": "엠페르트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "엠페르트",
+                "pokedexNumber": 395
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "나선베기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "엠페러 아이",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 필드의 기본 포켓몬(「룰을 가진 포켓몬」은 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "026",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002026"
+    },
+    {
+        "id": "S5R-027",
+        "cardID": "탱그물080HP000물뿌010",
+        "name": "탱그릴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "탱그릴",
+                "pokedexNumber": 592
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "HP회복",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 이 포켓몬의 HP를 모두 회복한다."
+            },
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "해저에 가라앉은 고대 도시의 주민이 포켓몬이 되었다는 전설이 남아 있다.",
+        "number": "027",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "miki kudo",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002027"
+    },
+    {
+        "id": "S5R-028",
+        "cardID": "탱탱물120세디010",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "세디먼트싱크",
+                "cost": "(물)(물)",
+                "damage": "10×",
+                "text": "자신의 트래쉬에 있는 (물) 에너지의 장수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "보름달이 뜨면 무리를 거느리고 해수면에 모습을 드러낸다. 먹이가 오기를 기다리는 것이다.",
+        "number": "028",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002028"
+    },
+    {
+        "id": "S5R-029",
+        "cardID": "치갈물110물기020파도110",
+        "name": "치갈기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "치갈기",
+                "pokedexNumber": 779
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "시마사리의 바늘도 뚫지 못할 정도로 두꺼운 피부를 가졌다. 튼튼한 이빨로 어적어적 바늘을 갉아서 먹는다.",
+        "number": "029",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Misa Tsutsui",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002029"
+    },
+    {
+        "id": "S5R-030",
+        "cardID": "꼬링번060뒤로020",
+        "name": "꼬링크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬링크",
+                "pokedexNumber": 403
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험을 느끼면 전신의 털이 빛난다. 그로 인해 상대가 앞을 보지 못하는 동안 도망친다.",
+        "number": "030",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002030"
+    },
+    {
+        "id": "S5R-031",
+        "cardID": "럭시번080뛰어000헤드050",
+        "name": "럭시오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "럭시오",
+                "pokedexNumber": 404
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "뛰어차기",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.",
+        "number": "031",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Megumi Higuchi",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002031"
+    },
+    {
+        "id": "S5R-032",
+        "cardID": "렌트번150일렉000스카100",
+        "name": "렌트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "렌트라",
+                "pokedexNumber": 405
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭스텝",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. 이 포켓몬을 벤치 포켓몬과 교체한다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스카비트",
+                "cost": "(번개)(무색)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "렌트라의 투시 능력은 위험한 것을 발견할 때 매우 도움이 된다.",
+        "number": "032",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Kazuma Koda",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002032"
+    },
+    {
+        "id": "S5R-033",
+        "cardID": "파치번070친구000갉기030",
+        "name": "파치리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파치리스",
+                "pokedexNumber": 417
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "갉기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "모인 전기를 나눠주려고 뺨의 주머니를 서로 비비는 파치리스가 발견되기도 한다.",
+        "number": "033",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002033"
+    },
+    {
+        "id": "S5R-034",
+        "cardID": "오뚝초060자폭060",
+        "name": "오뚝군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "오뚝군",
+                "pokedexNumber": 343
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "자폭",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게도 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "고대 유적에서 발견되었다. 회전하면서 이동한다. 밤에 잘 때도 다리 하나로 서 있다.",
+        "number": "034",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "sui",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002034"
+    },
+    {
+        "id": "S5R-035",
+        "cardID": "점토초120파워000사이100",
+        "name": "점토도리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "점토도리",
+                "pokedexNumber": 344
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "파워셰어",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지의 개수가 상대 필드의 포켓몬에게 붙어 있는 에너지의 개수와 같아질 때까지 자신의 트래쉬에서 (초) 에너지를 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "사이코숏",
+                "cost": "(초)(초)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "고대인의 진흙인형에서 태어난 것 같다. 염력을 사용해 공중을 떠다닌다.",
+        "number": "035",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Shibuzoh.",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002035"
+    },
+    {
+        "id": "S5R-036",
+        "cardID": "네크초220프리020스페100",
+        "name": "네크로즈마 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리즘레이",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스페셜레이저",
+                "cost": "(초)(초)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "036",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002036"
+    },
+    {
+        "id": "S5R-037",
+        "cardID": "레돔초070레이000부딪020",
+        "name": "레돔벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "레돔벌레",
+                "pokedexNumber": 825
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "레이더",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 4장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.",
+        "number": "037",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Midori Harada",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002037"
+    },
+    {
+        "id": "S5R-038",
+        "cardID": "이올초110이볼000사념120",
+        "name": "이올브",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "이올브",
+                "pokedexNumber": 826
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "이볼브컨트롤",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수만큼까지 자신의 덱에서 2진화 포켓몬(「이올브」는 제외)을 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사념의박치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "사이코 파워를 발산해 주위를 조사한다. 관측 범위는 주변 10km에 달한다.",
+        "number": "038",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Mizue",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002038"
+    },
+    {
+        "id": "S5R-039",
+        "cardID": "롱스격110돌떨060암석170",
+        "name": "롱스톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "롱스톤",
+                "pokedexNumber": 95
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "암석태클",
+                "cost": "(격투)(무색)(무색)(무색)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게도 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "크고 튼튼한 몸을 뒤틀고 꼬아서 시속 80km로 힘차게 땅을 파나간다.",
+        "number": "039",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002039"
+    },
+    {
+        "id": "S5R-040",
+        "cardID": "탕구격070때리010박치030",
+        "name": "탕구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "탕구리",
+                "pokedexNumber": 104
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "박치기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어미의 뼈를 뒤집어쓰고 있어서 얼굴도 표정도 알 수 없다. 그저 언제나 계속해서 울고 있다.",
+        "number": "040",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "You Iribi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002040"
+    },
+    {
+        "id": "S5R-041",
+        "cardID": "텅구격110전투뼈다090",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뼈다귀부메랑",
+                "cost": "(격투)(무색)",
+                "damage": "90×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 90데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전투무장",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "리드미컬하게 뼈다귀를 두들겨서 동료와 연락을 주고받는다. 그 패턴은 50개 가까이 존재한다.",
+        "number": "041",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Narumi Sato",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002041"
+    },
+    {
+        "id": "S5R-042",
+        "cardID": "으랏격080막치020",
+        "name": "으랏차",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "으랏차",
+                "pokedexNumber": 532
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자신의 3배 정도의 각목을 들 수 있게 된 으랏차는 머지않아 진화하게 된다.",
+        "number": "042",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Mina Nakai",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002042"
+    },
+    {
+        "id": "S5R-043",
+        "cardID": "토쇠격100막치030한방060",
+        "name": "토쇠골",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "토쇠골",
+                "pokedexNumber": 533
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "철골을 자유자재로 다룬다. 해체는 잘하지만 무언가를 조립하는 것은 서툴다.",
+        "number": "043",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Uta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002043"
+    },
+    {
+        "id": "S5R-044",
+        "cardID": "노보격160해머090메가150",
+        "name": "노보청",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "노보청",
+                "pokedexNumber": 534
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "해머프레셔",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은 진화 포켓몬은 기술을 사용할 수 없다."
+            },
+            {
+                "name": "메가톤펀치",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "정말 싸울 생각이면 콘크리트 기둥을 버리고 주먹 하나로 상대를 노리고 덤벼든다.",
+        "number": "044",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Miki Tanaka",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002044"
+    },
+    {
+        "id": "S5R-045",
+        "cardID": "비조격060두번030",
+        "name": "비조푸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "비조푸",
+                "pokedexNumber": 619
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "두번 찌르기",
+                "cost": "(격투)(무색)",
+                "damage": "30×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "산속에 들어가 무리의 동료와 수행에 힘쓴다. 무리에 따라 킥이나 촙의 방식이 다르다.",
+        "number": "045",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "NC Empire",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002045"
+    },
+    {
+        "id": "S5R-046",
+        "cardID": "비조격090막치020스피090",
+        "name": "비조도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "비조도",
+                "pokedexNumber": 620
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스피닝휩",
+                "cost": "(격투)(무색)",
+                "damage": "90",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다. 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기묘한 소리로 짖는다면 위험하다. 눈에 보이지도 않는 킥과 촙의 연속 공격이 시작된다.",
+        "number": "046",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Taira Akitsu",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002046"
+    },
+    {
+        "id": "S5R-047",
+        "cardID": "모래격080꼬리010머드060",
+        "name": "모래뱀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "모래뱀",
+                "pokedexNumber": 843
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "머드숏",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.",
+        "number": "047",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002047"
+    },
+    {
+        "id": "S5R-048",
+        "cardID": "사다격130모래060로케120",
+        "name": "사다이사",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "사다이사",
+                "pokedexNumber": 844
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래대포",
+                "cost": "(격투)",
+                "damage": "60×",
+                "text": "자신의 덱을 위에서부터 6장 트래쉬하고 그 중에 있는 (격투) 에너지의 장수 × 60데미지를 준다."
+            },
+            {
+                "name": "로케트박치기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "독특한 똬리 형태는 모래주머니의 모래를 더 효율적으로 분사하기 위함이다.",
+        "number": "048",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "hatachu",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002048"
+    },
+    {
+        "id": "S5R-049",
+        "cardID": "대여격110연격020",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "연격의진",
+                "cost": "(격투)(무색)",
+                "damage": "20×",
+                "text": "자신의 필드의 「연격」의 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+        "number": "049",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Hasuno",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002049"
+    },
+    {
+        "id": "S5R-050",
+        "cardID": "우라격220뒤집030백열150",
+        "name": "연격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "백열러시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "050",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002050"
+    },
+    {
+        "id": "S5R-051",
+        "cardID": "우라격330질풍030거다000",
+        "name": "연격 우라오스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "질풍찌르기",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 120데미지를 추가한다."
+            },
+            {
+                "name": "거다이연격",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 포켓몬 2마리에게 각각 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "051",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002051"
+    },
+    {
+        "id": "S5R-052",
+        "cardID": "강철강190강철080헤비200",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철스윙",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 80데미지를 준다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(강철)(무색)(무색)",
+                "damage": "200",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.",
+        "number": "052",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "NC Empire",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002052"
+    },
+    {
+        "id": "S5R-053",
+        "cardID": "자망강060칼춤000베어010",
+        "name": "자망칼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "자망칼",
+                "pokedexNumber": 624
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "칼춤",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 다음 차례에 이 포켓몬의 「베어가르기」의 데미지는 「+70」이 된다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "절각참을 보스로 둔 무리를 만든다. 무리를 이끄는 날을 꿈꾸며 날마다 단련을 계속한다.",
+        "number": "053",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "otumami",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002053"
+    },
+    {
+        "id": "S5R-054",
+        "cardID": "절각강110베어030강철090",
+        "name": "절각참",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "절각참",
+                "pokedexNumber": 625
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "강철베기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬이 (강철) 포켓몬이라면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "칼날을 가는 돌의 장소를 두고 액슨도와 격렬하게 싸움을 벌인다.",
+        "number": "054",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002054"
+    },
+    {
+        "id": "S5R-055",
+        "cardID": "아머강210꽉쥐030스카190",
+        "name": "아머까오 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "아머까오",
+                "pokedexNumber": 823
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "꽉쥐기",
+                "cost": "(강철)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "스카이 허리케인",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬은 「스카이 허리케인」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "055",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002055"
+    },
+    {
+        "id": "S5R-056",
+        "cardID": "아머강320러스거다240",
+        "name": "아머까오 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "아머까오",
+                "pokedexNumber": 823
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "거다이허리케인",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "240",
+                "text": "자신의 다음 차례에 이 포켓몬은 「거다이허리케인」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "러스터바디",
+                "text": "이 포켓몬은 상대의 포켓몬으로부터 특성의 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "056",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002056"
+    },
+    {
+        "id": "S5R-057",
+        "cardID": "나옹무060고양010발톱040",
+        "name": "나옹마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나옹마",
+                "pokedexNumber": 431
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "고양이킥",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기분이 좋은 나옹마는 꼬리로 리듬 체조의 리본처럼 아름다운 움직임을 보인다.",
+        "number": "057",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Shigenori Negishi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002057"
+    },
+    {
+        "id": "S5R-058",
+        "cardID": "몬냥무120고양000발톱120",
+        "name": "몬냥이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몬냥이",
+                "pokedexNumber": 432
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "고양이일상",
+                "cost": "(무색)",
+                "damage": "",
+                "text": " 자신의 덱을 3장 뽑는다. 그 뒤, 이 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸을 크게 보여서 상대를 위압하기 위해 두 갈래의 꼬리로 허리를 꼭 쥐고 있다.",
+        "number": "058",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002058"
+    },
+    {
+        "id": "S5R-059",
+        "cardID": "버프무120초식아프120",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "아프로브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "초식",
+                "text": "이 포켓몬이 사용하는 기술이 상대의 (풀) 포켓몬에게 주는 데미지는 「+60」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세찬 박치기를 당해도 탐스러운 털이 데미지를 흡수해 준다.",
+        "number": "059",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "nagimiso",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002059"
+    },
+    {
+        "id": "S5R-060",
+        "cardID": "에써무090가져000핸드010",
+        "name": "에써르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "에써르",
+                "pokedexNumber": 876
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "핸드키네시스",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "자신의 패의 장수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뿔로 가까이 있는 생명체의 기분을 읽는다. 긍정적인 감정이 힘의 원천이다.",
+        "number": "060",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002060"
+    },
+    {
+        "id": "S5R-061",
+        "cardID": "너울의 부채",
+        "name": "너울의 부채",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대 필드의 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 상대의 덱의 아래로 되돌린다."
+        ],
+        "number": "061",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "sadaji",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002061"
+    },
+    {
+        "id": "S5R-062",
+        "cardID": "레벨볼",
+        "name": "레벨볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 HP가 「90」이하인 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "062",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002062"
+    },
+    {
+        "id": "S5R-063",
+        "cardID": "에너지 리사이클",
+        "name": "에너지 리사이클",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 기본 에너지를 5장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "063",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002063"
+    },
+    {
+        "id": "S5R-064",
+        "cardID": "연격의 두루마리 소용돌이의 권",
+        "name": "연격의 두루마리 소용돌이의 권",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「연격」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)",
+            "상대의 포켓몬 전원에게 각각 30데미지를 준다.",
+            "(벤치는 약점, 저항력 계산을 하지 않는다.)"
+        ],
+        "attack": {
+            "name": "",
+            "cost": "(격투)(무색)(무색)",
+            "damage": "소용돌이무쌍",
+            "text": "\n상대의 포켓몬 전원에게 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+        },
+        "number": "064",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002064"
+    },
+    {
+        "id": "S5R-065",
+        "cardID": "툴재머",
+        "name": "툴재머",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」(「툴재머」는 제외)의 효과는 모두 없어진다."
+        ],
+        "number": "065",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "inose yukie",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002065"
+    },
+    {
+        "id": "S5R-066",
+        "cardID": "마스터드 연격의 태세",
+        "name": "마스터드 연격의 태세",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "연격"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "자신의 트래쉬에서 「연격」의 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그 뒤, 자신의 덱을 5장 뽑는다."
+        ],
+        "number": "066",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Naoki Saito",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002066"
+    },
+    {
+        "id": "S5R-067",
+        "cardID": "모미",
+        "name": "모미",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 진화 포켓몬 전원의 HP를 모두 회복한다.",
+            "그 뒤, 회복한 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+        ],
+        "number": "067",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002067"
+    },
+    {
+        "id": "S5R-068",
+        "cardID": "코르니의 기합",
+        "name": "코르니의 기합",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "068",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "kirisAki",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002068"
+    },
+    {
+        "id": "S5R-069",
+        "cardID": "물의 탑",
+        "name": "물의 탑",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 「연격」의 포켓몬 전원의 후퇴에 필요한 에너지는 각각 2개만큼 적어진다."
+        ],
+        "number": "069",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "5ban Graphics",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002069"
+    },
+    {
+        "id": "S5R-070",
+        "cardID": "연격 에너지",
+        "name": "연격 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지",
+            "연격"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 「연격」의 포켓몬에게만 붙일 수 있으며, 「연격」의 포켓몬 이외에 붙어 있다면 트래쉬한다.",
+            "이 카드는 포켓몬에게 붙어 있는 한, (물) (격투)  2가지 타입의 에너지 2개분으로 작용한다."
+        ],
+        "number": "070",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002070"
+    },
+    {
+        "id": "S5R-071",
+        "cardID": "귀뚤풀180익사시저080",
+        "name": "귀뚤톡크 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "귀뚤톡크",
+                "pokedexNumber": 402
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "시저크로스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "80+",
+                "text": "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "익사이팅 스테이지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 3장이 되도록 덱을 뽑는다. 이 포켓몬이 배틀필드에 있다면 4장이 되도록 뽑는다. 이 차례에 이미 다른 「익사이팅 스테이지」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "071",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Satoshi Shirai",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002071"
+    },
+    {
+        "id": "S5R-072",
+        "cardID": "비크불190V불010플레120",
+        "name": "비크티니 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "V불릿",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 50데미지를 추가한다."
+            },
+            {
+                "name": "플레어슛",
+                "cost": "(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "072",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Saki Hayashiro",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002072"
+    },
+    {
+        "id": "S5R-073",
+        "cardID": "엠페물210엠페나선130",
+        "name": "엠페르트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "엠페르트",
+                "pokedexNumber": 395
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "나선베기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "엠페러 아이",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 필드의 기본 포켓몬(「룰을 가진 포켓몬」은 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "073",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002073"
+    },
+    {
+        "id": "S5R-074",
+        "cardID": "엠페물210엠페나선130",
+        "name": "엠페르트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "엠페르트",
+                "pokedexNumber": 395
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "나선베기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "엠페러 아이",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 필드의 기본 포켓몬(「룰을 가진 포켓몬」은 제외)의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "074",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "chibi",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002074"
+    },
+    {
+        "id": "S5R-075",
+        "cardID": "네크초220프리020스페100",
+        "name": "네크로즈마 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리즘레이",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스페셜레이저",
+                "cost": "(초)(초)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "075",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002075"
+    },
+    {
+        "id": "S5R-076",
+        "cardID": "우라격220뒤집030백열150",
+        "name": "연격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "백열러시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "076",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002076"
+    },
+    {
+        "id": "S5R-077",
+        "cardID": "우라격220뒤집030백열150",
+        "name": "연격 우라오스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "연격"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "우라오스",
+                "pokedexNumber": 892
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "백열러시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "077",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Ryota Murayama",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002077"
+    },
+    {
+        "id": "S5R-078",
+        "cardID": "아머강210꽉쥐030스카190",
+        "name": "아머까오 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "아머까오",
+                "pokedexNumber": 823
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "꽉쥐기",
+                "cost": "(강철)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "스카이 허리케인",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "190",
+                "text": "자신의 다음 차례에 이 포켓몬은 「스카이 허리케인」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "078",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002078"
+    },
+    {
+        "id": "S5R-079",
+        "cardID": "마스터드 연격의 태세",
+        "name": "마스터드 연격의 태세",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "연격"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패가 이 카드 1장일 때만 사용할 수 있다.",
+            "_x000D_\n_x000D_\n자신의 트래쉬에서 「연격」의 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그 뒤, 자신의 덱을 5장 뽑는다."
+        ],
+        "number": "079",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Naoki Saito",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002079"
+    },
+    {
+        "id": "S5R-080",
+        "cardID": "모미",
+        "name": "모미",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 진화 포켓몬 전원의 HP를 모두 회복한다.",
+            "그 뒤, 회복한 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+        ],
+        "number": "080",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Yuu Nishida",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002080"
+    },
+    {
+        "id": "S5R-081",
+        "cardID": "코르니의 기합",
+        "name": "코르니의 기합",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "081",
+        "prodNumber": "070",
+        "prodCode": "S5R",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+        "prodName": "소드&실드 확장팩 「연격마스터」",
+        "artist": "Taira Akitsu",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002081"
+    }
+]

@@ -1,0 +1,455 @@
+[
+    {
+        "id": "smc-007",
+        "cardID": "전지번090저린020라이050",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "저린턱",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹은 먹이를 소화할 때 발생하는 전기 에너지를 전기 주머니에 저장하고 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001017",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Naoki Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002019",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003020",
+                "debug": "2"
+            },
+            {
+                "number": "020",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003075",
+                "debug": "2"
+            },
+            {
+                "number": "007",
+                "prodNumber": "021",
+                "prodCode": "smc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+                "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003007",
+                "debug": "3"
+            },
+            {
+                "number": "030",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013030",
+                "debug": "2"
+            },
+            {
+                "number": "030",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011030",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-017",
+        "cardID": "전지번080배터궤찌060",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "배터리",
+                "text": "이 카드가 패에 있다면 자신의 차례에 1번 사용할 수 있다. 이 카드를 특수 에너지로써 자신의 「투구뿌논(GX 포함)」에게 붙인다. 이 카드는 포켓몬에게 붙어 있는 한, (번개) 에너지 2개분으로 작용한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "낙엽에 묻혀 거의 움직이지 않고 그저 부엽토만 먹는다. 잘못 밟으면 찌릿찌릿하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003017",
+                "debug": "1"
+            },
+            {
+                "number": "017",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1a-029",
+        "cardID": "전지번090충전000번쩍070",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "충전",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "번쩍구슬",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "튼튼한 껍질로 몸을 보호한다. 턱의 끝부분에서 전기를 흘려보내 반격한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004029",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-032",
+        "cardID": "전지번100찝기030헤드060",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹은 낙엽을 소화할 때 전기가 발생하는 구조로 되어 있다. 배의 전기 주머니에 충전된다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-039",
+        "cardID": "전지번090찌리직격000",
+        "name": "찬란한 전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "찬란한"
+        ],
+        "rules": [
+            "찬란한 포켓몬은 덱에 1장만 넣을 수 있다."
+        ],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "찌리리블록",
+                "text": "이 포켓몬이 있는 한, 서로의 플레이어는 각각 자신의 패에서 에너지를 「포켓몬 V」에게 붙일 때마다 그 포켓몬에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "튼튼한 껍질로 몸을 보호한다. 턱의 끝부분에서 전기를 흘려보내 반격한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Mizue",
+                "rarity": "K",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-027",
+        "cardID": "전지번100찌릿060",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)(번개)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "튼튼한 껍질로 몸을 보호한다. 턱의 끝부분에서 전기를 흘려보내 반격한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Misa Tsutsui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005027",
+                "debug": "1"
+            },
+            {
+                "number": "076",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Mina Nakai",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005076",
+                "debug": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "id": "bw4-025",
+        "cardID": "라이번170번개030볼티000",
+        "name": "라이코 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "번개엄니",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "볼티지애로",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 100데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "shizurow",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_025.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003025",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_071.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-026",
+        "cardID": "라이번120빛나썬더050",
+        "name": "라이코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더랜스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50＋",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛나는몸",
+                "text": "이 포켓몬에게 (번개) 에너지가 붙어 있다면 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "체내에서 들끓는 힘을 전격으로 내보내면서 대지를 달리는 난폭한 포켓몬이다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_026.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007026",
+                "debug": "1"
+            },
+            {
+                "number": "033",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707033",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-033",
+        "cardID": "라이번120울려030라이090",
+        "name": "라이코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울려퍼지는 천둥",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "자신의 트래쉬에 있는 (번개) 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "비구름을 짊어지고 있어서 어떤 때라도 번개를 칠 수 있다. 번개와 함께 떨어졌다고 한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010033",
+                "debug": "1"
+            },
+            {
+                "number": "034",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002034",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm60b-007",
+        "cardID": "라이번170발톱030번개150썬더000",
+        "name": "라이코 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "발톱세우기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "150",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 50데미지를 준다."
+            },
+            {
+                "name": "썬더레인 GX",
+                "cost": "(번개)(번개)(번개)(번개)",
+                "damage": "",
+                "text": "에너지가 붙어 있는 상대의 포켓몬 전원에게 각각 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "022",
+                "prodCode": "sm60b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm60b.png",
+                "prodName": "썬&문 전격 스타터 세트 「라이코 GX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM60B/SM60B_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018008007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-044",
+        "cardID": "라이번120로스030",
+        "name": "라이코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "로스트볼티지",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "자신의 로스트존에 (번개) 에너지가 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에서 들끓는 힘을 전격으로 내보내면서 대지를 달리는 난폭한 포켓몬이다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010037",
+                "debug": "2"
+            },
+            {
+                "number": "044",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-015",
+        "cardID": "라이번110어메120",
+        "name": "라이코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "어메이징슛",
+                "cost": "(풀)(번개)(강철)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "체내에서 들끓는 힘을 전격으로 내보내면서 대지를 달리는 난폭한 포켓몬이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-137",
+        "cardID": "라이번200준족라이020",
+        "name": "라이코 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝론도",
+                "cost": "(번개)(무색)",
+                "damage": "20+",
+                "text": "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "준족",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "137",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_137.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003137",
+                "debug": "3"
+            },
+            {
+                "number": "038",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001038",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs8-17",
+        "cardID": "라이번080신뢰썬더050",
+        "name": "라이코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "라이코",
+                "pokedexNumber": 243
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "썬더클라임",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "50+",
+                "text": "자신의 덱의 카드를 위에서부터 3장 트래쉬하고 그 중의 (번개) 에너지의 장수 × 10데미지를 추가한다. 그 뒤 자신의 트래쉬에서 그 (번개) 에너지를 모두 선택해서 자신의 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "신뢰",
+                "text": "자신의 차례에 한 번 패에서 (번개) 에너지를 꺼내서 이 포켓몬에게 붙였을 때 사용할 수 있다. 상대의 벤치 포켓몬 1마리에게 데미지 카운터를 1개 올린다. 기술의 효과에 의해 에너지를 붙였다면 이 파워는 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개와 함께 떨어졌다고 전해진다. 등의 비구름에서 번개를 뿜어낼 수 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "17",
+                "prodNumber": "40",
+                "prodCode": "bs8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs8.png",
+                "prodName": "DP 확장팩 화려한 전설",
+                "artist": "Ryo Ueda",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS8/bs8_ko_17.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010008017",
+                "debug": "1"
+            }
+        ]
+    }
+]

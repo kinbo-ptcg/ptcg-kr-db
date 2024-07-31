@@ -1,0 +1,494 @@
+[
+    {
+        "id": "fsr-027",
+        "cardID": "버프무090뿔찌020더블030",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "더블스탬프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무작정 돌진하여 박치기를 한다. 달리고 있는 열차를 탈선시킬 정도의 파괴력이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "034",
+                "prodCode": "fsr",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsr.png",
+                "prodName": "BW 「퍼스트 세트 - 불꽃의 진화」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_f_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011002027",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "ebb-091",
+        "cardID": "버프무100리벤020아프080",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 70데미지를 추가한다."
+            },
+            {
+                "name": "아프로브레이크",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세찬 박치기를 당해도 탐스러운 털이 데미지를 흡수해 준다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_046.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001046",
+                "debug": "2"
+            },
+            {
+                "number": "091",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_091.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006091",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw5e-045",
+        "cardID": "버프무100아프골드060",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "골드브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 EX」라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아프로가드",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무작정 돌진하여 박치기를 한다. 달리고 있는 열차를 탈선시킬 정도의 파괴력이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Akira Komayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-057",
+        "cardID": "버프무110초식뒤엎080",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤엎기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "초식",
+                "text": "이 포켓몬이 사용하는 기술이 상대의 (풀) 포켓몬에게 주는 데미지는 「+40」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세찬 박치기를 당해도 탐스러운 털이 데미지를 흡수해 준다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Hiroki Asanuma",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_057.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-045",
+        "cardID": "버프무120아프030무너080",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "아프로헤드",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "무너뜨리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무작정 돌진하여 박치기를 한다. 달리고 있는 열차를 탈선시킬 정도의 파괴력이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "TOKIYA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5R-059",
+        "cardID": "버프무120초식아프120",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "아프로브레이크",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "초식",
+                "text": "이 포켓몬이 사용하는 기술이 상대의 (풀) 포켓몬에게 주는 데미지는 「+60」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "세찬 박치기를 당해도 탐스러운 털이 데미지를 흡수해 준다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "nagimiso",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002059",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-089",
+        "cardID": "버프무130로스050괴력120",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "로스트헤드",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 로스트존에 둔다."
+            },
+            {
+                "name": "괴력호른",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "박치기만으로 자동차를 부순다. 머리의 털이 풍성할수록 무리에서 지위가 올라간다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "089",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Nisota Niso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014089",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-098",
+        "cardID": "버프무120아프데미050",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데미지러쉬",
+                "cost": "(무색)(무색)",
+                "damage": "50+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아프로가드",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "20마리 정도가 무리 지어 산다. 무리를 배신한 버프론은 어째서인지 머리털이 빠진다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "098",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Yuya Oka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016098",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "id": "smc-004",
+        "cardID": "꼬시풀070단숨000부딪010",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "단숨에 도망가기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "겁이 많아서 많은 다리를 버둥거리며 필사적으로 도망친다. 도망간 자리는 반짝반짝 깨끗하다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "050",
+                "prodCode": "sm2k",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2k.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 햇빛」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2K/SM2K_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017004006",
+                "debug": "2"
+            },
+            {
+                "number": "004",
+                "prodNumber": "021",
+                "prodCode": "smc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+                "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+                "artist": "match",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003004",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "sm3n-006",
+        "cardID": "꼬시풀070도망갉기030",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "도망태세",
+                "text": "자신의 첫 번째 차례에 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "겁이 많아서 많은 다리를 버둥거리며 필사적으로 도망친다. 도망간 자리는 반짝반짝 깨끗하다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009006",
+                "debug": "1"
+            },
+            {
+                "number": "007",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002007",
+                "debug": "2"
+            },
+            {
+                "number": "164",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_164.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002164",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM11-020",
+        "cardID": "꼬시물070모래010",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "떨어져 있는 것은 뭐든지 줍는다. 동전을 갖고 있을 때도 있어 니로우나 나옹이 노리고 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-004",
+        "cardID": "꼬시풀070갉고010",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "갉고 도망가기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "상한 것이든 쓰레기든 닥치는 대로 먹어 치우는 자연의 청소부. 둥지 주변은 언제나 깨끗하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "MAHOU",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010009",
+                "debug": "2"
+            },
+            {
+                "number": "004",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "MAHOU",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-025",
+        "cardID": "꼬시물070저자갉기010",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "저자세",
+                "text": "상대의 필드에 「포켓몬 V」가 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "상한 것이든 쓰레기든 닥치는 대로 먹어 치우는 자연의 청소부. 둥지 주변은 언제나 깨끗하다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "Miki Tanaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-009",
+        "cardID": "꼬시물070숨기000갉기020",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "숨기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "갉기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무리가 모여 다니며 항상 주위를 경계한다. 적의 기척을 느끼면 뿔뿔이 흩어져 도망간다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-021",
+        "cardID": "꼬시물070몰래000부딪030",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "몰래먹기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무리가 모여 다니며 항상 주위를 경계한다. 적의 기척을 느끼면 뿔뿔이 흩어져 도망간다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021021",
+                "debug": "1"
+            },
+            {
+                "number": "069",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Oku",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021069",
+                "debug": "2"
+            }
+        ]
+    }
+]

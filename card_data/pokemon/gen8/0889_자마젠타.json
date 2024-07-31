@@ -1,0 +1,567 @@
+[
+    {
+        "id": "SJ-017",
+        "cardID": "자마강230불굴어솔130",
+        "name": "자마젠타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "어솔트태클",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불굴의방패",
+                "text": "이 포켓몬은 상대의 「포켓몬 VMAX」로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003044",
+                "debug": "2"
+            },
+            {
+                "number": "065",
+                "prodNumber": "060",
+                "prodCode": "S1H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1H.png",
+                "prodName": "소드&실드 확장팩 「실드」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1H/S1H_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020003065",
+                "debug": "2"
+            },
+            {
+                "number": "139",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_139.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016139",
+                "debug": "2"
+            },
+            {
+                "number": "017",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019017",
+                "debug": "1"
+            },
+            {
+                "number": "030",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "aky CG Works",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019030",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SP1-004",
+        "cardID": "자마강130강건헤드130",
+        "name": "자마젠타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "헤드뱅",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "강건한 방패",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "007",
+                "prodCode": "SP1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP1.png",
+                "prodName": "소드&실드 「자시안+자마젠타 BOX」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP1/SP1_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020006004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-044",
+        "cardID": "자마격110금속030어메180",
+        "name": "자마젠타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "금속무장",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "어메이징실드",
+                "cost": "(번개)(격투)(강철)",
+                "damage": "180",
+                "text": "상대의 다음 차례에 이 포켓몬은 「포켓몬 VMAX」로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "aky CG Works",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-138",
+        "cardID": "자마강120가드030파워120",
+        "name": "자마젠타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(강철)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "파워러시",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "138",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_138.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016138",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8a-019",
+        "cardID": "자마격220방패헤비150",
+        "name": "자마젠타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "방패의 울림",
+                "text": "이 포켓몬이 있는 한, 자신의 (격투) 포켓몬 전원이 상대의 「포켓몬 VMAX」로부터 받는 기술의 데미지는 「-20」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SP6-005",
+        "cardID": "자마강220왕의리벤120",
+        "name": "자마젠타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "리벤지버스트",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "왕의 자세",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 자신의 패를 모두 트래쉬하고 덱을 5장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "313",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_313.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003313",
+                "debug": "2"
+            },
+            {
+                "number": "005",
+                "prodNumber": "006",
+                "prodCode": "SP6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP6.png",
+                "prodName": "소드&실드「VSTAR 스페셜 세트」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP6/SP6_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022015005",
+                "debug": "3"
+            },
+            {
+                "number": "103",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001103",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SP6-006",
+        "cardID": "자마강270실드기가220",
+        "name": "자마젠타 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "기가임팩트",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "실드스타",
+                "text": "자신의 차례에 사용할 수 있다. 상대의 다음 차례에 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-100」이 된다. (새로 필드에 내보낸 포켓몬도 포함.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "006",
+                "prodCode": "SP6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP6.png",
+                "prodName": "소드&실드「VSTAR 스페셜 세트」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP6/SP6_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022015006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-053",
+        "cardID": "자마강130메탈원수100",
+        "name": "자마젠타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "원수갚기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100+",
+                "text": "상대의 이전 차례에 자신의 포켓몬이 기절했다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈실드",
+                "text": "이 포켓몬에게 에너지가 붙어 있다면 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "GIDORA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016053",
+                "debug": "1"
+            }
+        ]
+    }
+]

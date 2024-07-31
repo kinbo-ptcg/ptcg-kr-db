@@ -1,0 +1,221 @@
+[
+    {
+        "id": "SV2P-044",
+        "cardID": "킬라격130깨어독꽃000",
+        "name": "킬라플로르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "킬라플로르",
+                "pokedexNumber": 970
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "독꽃잎",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 6개가 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "깨어진 결정",
+                "text": "이 포켓몬이 기절했을 때 자신은 동전을 1번 던진다. 앞면이 나오면 상대는 프라이즈를 가져갈 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "위험을 감지하면 결정으로 된 꽃잎을 펼친 뒤 원뿔 모양의 몸에서 빔을 발사한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4a-111",
+        "cardID": "킬라격270더스포이140",
+        "name": "킬라플로르 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "킬라플로르",
+                "pokedexNumber": 970
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "포이즌젬",
+                "cost": "(격투)(격투)",
+                "damage": "140",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더스트 필드",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대가 벤치로 내보낼 수 있는 포켓몬의 수는 3마리가 된다. 상대 벤치에 4마리 이상 있다면 상대는 벤치가 3마리가 될 때까지 포켓몬을 트래쉬한다. (벤치의 수를 변경하는 효과는 적은 수를 우선한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015065",
+                "debug": "2"
+            },
+            {
+                "number": "124",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_124.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015124",
+                "debug": "2"
+            },
+            {
+                "number": "111",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_111.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001111",
+                "debug": "1"
+            },
+            {
+                "number": "329",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_329.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001329",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6-063",
+        "cardID": "킬라격130신경000베놈030",
+        "name": "킬라플로르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "킬라플로르",
+                "pokedexNumber": 970
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "신경독",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독과 마비로 만든다."
+            },
+            {
+                "name": "베놈쇼크",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬이 독이라면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "독 에너지가 결정화한 꽃잎은 테라스탈의 보석을 닮은 것으로 최근에 밝혀졌다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "063",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Kazumasa Yasukuni",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_063.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008063",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "id": "ubd-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005018"
+    },
+    {
+        "id": "ubd-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005019"
+    },
+    {
+        "id": "ubd-001",
+        "cardID": "고오초050졸음000",
+        "name": "고오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "고오스",
+                "pokedexNumber": 92
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "졸음독",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독과 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "가스에서 태어난 생명체다. 독을 포함한 가스로 된 몸에 둘러싸이면 누구든지 기절한다.",
+        "number": "001",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Shigenori Negishi",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005001"
+    },
+    {
+        "id": "ubd-002",
+        "cardID": "고우초070고딕포이000",
+        "name": "고우스트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "고우스트",
+                "pokedexNumber": 93
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "포이즌서클",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고딕피어",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 서로의 배틀 포켓몬을 각각 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "가스로 된 혓바닥으로 핥이게 되면 영혼을 빼앗겨 버린다. 어둠에 숨어 먹이를 노린다.",
+        "number": "002",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Midori Harada",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005002"
+    },
+    {
+        "id": "ubd-003",
+        "cardID": "조로악060어둠000다크030",
+        "name": "조로아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "조로아",
+                "pokedexNumber": 570
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "어둠속달리기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "다크에지",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 다른 포켓몬으로 둔갑한다. 자신의 정체를 감추어 위험으로부터 몸을 지키는 것이다.",
+        "number": "003",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005003"
+    },
+    {
+        "id": "ubd-004",
+        "cardID": "음번드100튜닝000에어120",
+        "name": "음번",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "음번",
+                "pokedexNumber": 715
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "튜닝",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다. 그 뒤 상대의 패의 장수만큼 자신의 덱을 뽑는다."
+            },
+            {
+                "name": "에어슬래시",
+                "cost": "(초)(악)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "귀에서 발생하는 초음파로 거대한 바위도 분쇄한다. 어둠을 틈타 공격한다.",
+        "number": "004",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005004"
+    },
+    {
+        "id": "ubd-005",
+        "cardID": "음번드130싱크070",
+        "name": "음번 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 음번이 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "음번",
+                "pokedexNumber": 715
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "싱크로우퍼",
+                "cost": "(초)(악)(무색)",
+                "damage": "70+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005005"
+    },
+    {
+        "id": "ubd-006",
+        "cardID": "페라무070노래000제비010",
+        "name": "페라페",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "페라페",
+                "pokedexNumber": 441
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "노래하기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "제비반환",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람의 말을 기억해서 운다. 동료가 한 장소에 모이면 모두 똑같은 말을 기억한다.",
+        "number": "006",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005006"
+    },
+    {
+        "id": "ubd-007",
+        "cardID": "음뱃무060이상000바람020",
+        "name": "음뱃",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "음뱃",
+                "pokedexNumber": 714
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "이상한빔",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "20만Hz의 초음파를 받으면 막강한 레슬러도 현기증이 나서 있을 수 없다.",
+        "number": "007",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005007"
+    },
+    {
+        "id": "ubd-008",
+        "cardID": "대단한낚싯대",
+        "name": "대단한낚싯대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬과 기본 에너지를 합계 3장 선택해서 상대에게 보여주고 덱으로 되돌린다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005008"
+    },
+    {
+        "id": "ubd-009",
+        "cardID": "레벨볼",
+        "name": "레벨볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 HP가 「90」이하인 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005009"
+    },
+    {
+        "id": "ubd-010",
+        "cardID": "리저브티켓",
+        "name": "리저브티켓",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에서 원하는 카드를 1장 선택한다.",
+            "남은 덱을 섞고 선택한 카드를 덱의 위로 되돌린다."
+        ],
+        "number": "010",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005010"
+    },
+    {
+        "id": "ubd-011",
+        "cardID": "박사의편지",
+        "name": "박사의편지",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005011"
+    },
+    {
+        "id": "ubd-012",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "012",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005012"
+    },
+    {
+        "id": "ubd-013",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "013",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005013"
+    },
+    {
+        "id": "ubd-014",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005014"
+    },
+    {
+        "id": "ubd-015",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 각자의 덱을 4장 뽑는다."
+        ],
+        "number": "015",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005015"
+    },
+    {
+        "id": "ubd-016",
+        "cardID": "털보박사의 관찰",
+        "name": "털보박사의 관찰",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "동전을 한 번 던져서 앞면이 나오면 7장 뒷면이 나오면 4장 자신의 덱을 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005016"
+    },
+    {
+        "id": "ubd-017",
+        "cardID": "풍란",
+        "name": "풍란",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "017",
+        "prodNumber": "017",
+        "prodCode": "ubd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ubd.png",
+        "prodName": "XY BREAK 30장 덱 「음번 BREAK」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/UBD/UBD_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015005017"
+    }
+]

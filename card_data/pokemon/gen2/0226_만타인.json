@@ -1,0 +1,386 @@
+[
+    {
+        "id": "xy11h-014",
+        "cardID": "만타물100치유000썰물090",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "치유의파도",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 패를 원하는 만큼 트래쉬하고 트래쉬한 장수 × 10데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "썰물",
+                "cost": "(물)(물)(물)",
+                "damage": "90?",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "유연하게 바다를 헤엄칠 때 먹다 남은 음식을 노린 총어가 지느러미에 달라붙지만 신경 안 쓴다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "DemizuPosuka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_014.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8-027",
+        "cardID": "만타물120만타파도100",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "만타인서핑",
+                "text": "이 포켓몬에게 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "유연하게 바다를 헤엄칠 때 먹다 남은 음식을 노린 총어가 지느러미에 달라붙지만 신경 안 쓴다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "095",
+                "prodCode": "sm8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8.png",
+                "prodName": "썬&문 확장팩 제8탄 「버스트임팩트」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8/SM8_0027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018010027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-004",
+        "cardID": "만타물110물담000스플060",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물담기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 (물) 에너지를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스플래시",
+                "cost": "(물)(물)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "헤엄쳐서 스피드가 빨라지면 파도 위로 뛰어올라 그대로 100m나 활공한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Jumpei Akasaka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002016",
+                "debug": "2"
+            },
+            {
+                "number": "004",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제1탄",
+                "artist": "0313",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000004",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-091",
+        "cardID": "만타물110뛰어020스플080",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "뛰어오르다",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "스플래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "여유롭게 바다를 헤엄친다. 먹다 남은 음식을 노린 총어가 달라붙어 있어도 신경 쓰지 않는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Saya Tsuruta",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007018",
+                "debug": "2"
+            },
+            {
+                "number": "091",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Saya Tsuruta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_091.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003091",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10D-014",
+        "cardID": "만타물110해안000아쿠100",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "해안으로 옮기기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신 또는 상대의 트래쉬에서 기본 포켓몬을 1장 선택해서 주인의 벤치로 내보낸다."
+            },
+            {
+                "name": "아쿠아에지",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "대해를 우아하게 헤엄치며 성질은 온화하다. 속도가 붙으면 수면에서 튀어나오는 까닭에 새포켓몬으로 혼동하는 일이 많다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "067",
+                "prodCode": "S10D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10D.png",
+                "prodName": "소드&실드 확장팩 「타임게이저」",
+                "artist": "OKACHEKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10D_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022007014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs5-15",
+        "cardID": "만타물080거대큰파050",
+        "name": "만타인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "만타인",
+                "pokedexNumber": 226
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "큰파도",
+                "cost": "(물)(물)",
+                "damage": "50",
+                "text": "자신의 다음 차례에 자신은 「큰파도」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "거대한 지느러미",
+                "text": "이 포켓몬의 진화 전에 「타만타」 카드가 있다면 자신의 (물) 포켓몬 전원의 후퇴 에너지는 각각 2개씩 적어진다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "파도가 조용할 때는 드넓은 창해를 나는 듯이 헤엄치는 만타인의 무리와 조우한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "15",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_15.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005015",
+                "debug": "1"
+            }
+        ]
+    }
+]

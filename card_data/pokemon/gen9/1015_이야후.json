@@ -1,0 +1,62 @@
+[
+    {
+        "id": "SV6-055",
+        "cardID": "이야초110아드사이060",
+        "name": "이야후",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "이야후",
+                "pokedexNumber": 1015
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코트립",
+                "cost": "(초)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아드레나 브레인",
+                "text": "이 포켓몬에게 (악) 에너지가 붙어 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 필드의 포켓몬 1마리에게 올려져 있는 데미지 카운터를 3개까지 선택해서 상대 필드의 포켓몬 1마리에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "안전한 장소에서 강한 현기증을 일으키는 염력을 사용해 적을 농락한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008055",
+                "debug": "3"
+            }
+        ]
+    }
+]

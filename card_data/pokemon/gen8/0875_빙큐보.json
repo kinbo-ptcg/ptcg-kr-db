@@ -1,0 +1,440 @@
+[
+    {
+        "id": "S2-028",
+        "cardID": "빙큐물120아이눈보070",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈보라",
+                "cost": "(물)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아이스페이스",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있지 않은 상태라면 이 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-60」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "매우 추운 곳에서 흘러 흘러 떠내려왔다. 항상 얼음으로 얼굴을 식히고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005028",
+                "debug": "1"
+            },
+            {
+                "number": "049",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016049",
+                "debug": "2"
+            },
+            {
+                "number": "234",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shigenori Negishi",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_234.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016234",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-123",
+        "cardID": "빙큐물120스노020블록070",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스노아이스",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "블록페이스",
+                "cost": "(물)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "더위에 약해서 얼굴을 언제나 얼음으로 식히고 있다. 머리의 털을 바다에 늘어뜨리고 먹이를 낚는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011009",
+                "debug": "2"
+            },
+            {
+                "number": "123",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003123",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-041",
+        "cardID": "빙큐물110블록000고드100",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "블록슬라이더",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 자신의 필드의 포켓몬에게 붙어 있는 「퓨전 에너지」의 수 × 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "고드름미사일",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리털은 뇌의 표면과 이어져 있다. 생각을 하면 냉기가 발생한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-019",
+        "cardID": "빙큐물110박치020아이100",
+        "name": "빙큐보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "아이스블록",
+                "cost": "(물)(물)(물)",
+                "damage": "100",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-100」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기온이 높은 날에는 동료들끼리 머리의 얼음을 맞대어 서로를 시원하게 하며 지낸다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "kawayoo",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011019",
+                "debug": "1"
+            },
+            {
+                "number": "074",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Nelnal",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_074.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011074",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3-020",
+        "cardID": "빙큐불210테라화끈160",
+        "name": "빙큐보 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화끈화끈블록",
+                "cost": "(물)(물)(물)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015020",
+                "debug": "1"
+            },
+            {
+                "number": "121",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_121.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015121",
+                "debug": "2"
+            },
+            {
+                "number": "133",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Toshinao Aoki",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_133.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015133",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-001",
+        "cardID": "빙큐물210냉기눈보120",
+        "name": "빙큐보 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "빙큐보",
+                "pokedexNumber": 875
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈보라",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "냉기흡수",
+                "text": "자신의 차례에 자신의 패에서 (물) 에너지를 이 포켓몬에게 붙일 때마다 이 포켓몬의 HP를 「30」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제1탄",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000001",
+                "debug": "3"
+            }
+        ]
+    }
+]

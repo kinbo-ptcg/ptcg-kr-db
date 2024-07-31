@@ -1,0 +1,605 @@
+[
+    {
+        "id": "bw6f-007",
+        "cardID": "비퀸풀100집결000데미020",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "집결지령",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 「세꿀버리」를 원하는 만큼 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "데미지비트",
+                "cost": "(풀)(무색)",
+                "damage": "20×",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸통은 아기들의 둥지다. 여러 페로몬을 내어 새끼들을 자유롭게 조종한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Hajime Kusajima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_007.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-010",
+        "cardID": "비퀸풀090정보010비리020",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "정보수집",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "원한다면 자신의 패가 6장이 되도록 덱을 뽑아도 좋다."
+            },
+            {
+                "name": "비 리벤지",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "자신의 트래쉬에 있는 포켓몬의 장수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005010",
+                "debug": "1"
+            },
+            {
+                "number": "011",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004011",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy7-011",
+        "cardID": "비퀸풀090【θ비드020마구030",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "비 드레인",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【θ더블】",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-009",
+        "cardID": "비퀸풀090고대비드020마구030",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "비 드레인",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "마구할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 세 번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고대능력【θ더블】",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-012",
+        "cardID": "비퀸풀120퀸커120",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "퀸커맨드",
+                "cost": "(풀)",
+                "damage": "120",
+                "text": "자신의 벤치에 (풀) 포켓몬이 5마리가 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "chibi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009012",
+                "debug": "1"
+            },
+            {
+                "number": "012",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "chibi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_067.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009067",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9a-009",
+        "cardID": "비퀸풀120허니060궤찌090",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "허니러시",
+                "cost": "(풀)",
+                "damage": "60×",
+                "text": "자신의 패에서 「달콤한꿀」을 원하는 만큼 상대에게 보여주고 그 장수 × 60데미지를 준다."
+            },
+            {
+                "name": "궤찌르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "새끼들을 자유자재로 조종하여 상대와 싸운다. 새끼들은 비퀸을 위해 목숨을 걸고 싸운다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_009.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004016",
+                "debug": "3"
+            },
+            {
+                "number": "009",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Yuya Oka",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_009_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004017",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV2P-004",
+        "cardID": "비퀸풀120두번030습격120",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "두번 찌르기",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "습격지령",
+                "cost": "(풀)",
+                "damage": "120",
+                "text": "자신의 벤치의 「세꿀버리」를 1마리 선택해서 그 포켓몬과 붙어 있는 모든 카드를 덱으로 되돌리고 섞는다. 덱으로 되돌릴 수 없다면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸통은 새끼들의 둥지다. 여러 페로몬을 내뿜어 새끼들을 자유롭게 조종한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "071",
+                "prodCode": "SV2P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2P.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스노해저드」",
+                "artist": "Megumi Higuchi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2P/SV2P_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023011004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-051",
+        "cardID": "비퀸초270테라회복000스펙200",
+        "name": "비퀸 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "회복페로몬",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 포켓몬 1마리의 HP를 「60」회복한다."
+            },
+            {
+                "name": "스펙터퀸",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "200",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 전원에게 각각 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015051",
+                "debug": "1"
+            },
+            {
+                "number": "123",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_123.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015123",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs1-07",
+        "cardID": "비퀸풀100리프000공격010",
+        "name": "비퀸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "비퀸",
+                "pokedexNumber": 416
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프허니",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 (풀) 에너지를 1개 트래쉬하고 자신의 벤치에 있는 (풀) 포켓몬 1마리로부터 데미지 카운터를 모두 제거한다."
+            },
+            {
+                "name": "공격지령",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "10x",
+                "text": "서로의 필드에 있는 (풀) 포켓몬의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸통이 새끼들의 둥지로 되어 있다. 세꿀버리가 모은 꿀로 새끼들을 키운다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "07",
+                "prodNumber": "60",
+                "prodCode": "bs1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+                "prodName": "DP 확장팩 모험의 시작",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_7.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001007",
+                "debug": "1"
+            }
+        ]
+    }
+]

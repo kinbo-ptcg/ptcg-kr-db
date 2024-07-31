@@ -1,0 +1,966 @@
+[
+    {
+        "id": "bw2-036",
+        "cardID": "샹델초130저주괴상050",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "괴상한등불",
+                "cost": "(초)(초)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 화상과 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "저주의 그림자",
+                "text": "데미지 카운터 3개를 상대의 포켓몬에게 원하는 대로 올린다. 이 특성은 이 포켓몬이 배틀필드에 있다면 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "영혼을 빨아들여 태운다. 불꽃을 흔들어서 상대를 최면 상태로 만든다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Naoyo Kimura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw3h-014",
+        "cardID": "샹델불120불꽃030연옥080",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃튀기기",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "연옥",
+                "cost": "(불꽃)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샹델라의 불꽃에 둘러싸이면 영혼이 빨려가 불타버린다. 빈 껍데기인 몸만 남는다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "052",
+                "prodCode": "bw3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3h.png",
+                "prodName": "BW 확장팩 제3탄 「헤일 블리자드」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_hb_014.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012001014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8s-009",
+        "cardID": "샹델불130플레생명070",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "생명흡수",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플레어 내비게이트",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그 뒤 붙인 포켓몬에게 데미지 카운터를 1개 올린다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴상한 불꽃으로 태워진 영혼은 갈 곳을 잃고 이승을 영원히 헤맨다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002009",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "ebb-061",
+        "cardID": "샹델초170저주000괴상070",
+        "name": "샹델라 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "저주의물방울",
+                "cost": "(초)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "괴상한등불",
+                "cost": "(초)(초)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 화상과 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Ryo Ueda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_061.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006061",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy4-042",
+        "cardID": "샹델초130죽음저주000",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "저주의물방울",
+                "cost": "(초)(무색)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 6개를 상대의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "죽음의선고",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 동전을 한 번 던진다. 앞면이 나오면 기술을 사용한 포켓몬을 기절시킨다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "샹델라의 불꽃에 둘러싸이면 영혼이 빨려가 불타버린다. 빈 껍데기인 몸만 남는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "PLANETA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004042",
+                "debug": "1"
+            },
+            {
+                "number": "059",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_059.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004059",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy11b-027",
+        "cardID": "샹델초130불길데드010",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "데드스톡",
+                "cost": "(초)(무색)",
+                "damage": "10＋",
+                "text": "자신의 트래쉬에 있는 서포트의 장수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "불길한선택",
+                "text": "자신의 덱을 위에서부터 2장 보고, 그 중 1장을 선택해서 패로 가져온다. 남은 카드는 트래쉬한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴상한 불꽃으로 태워진 영혼은 갈 곳을 잃고 이승을 영원히 헤맨다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "054",
+                "prodCode": "xy11b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11b.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「타오르는 투사」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11A_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016006027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4plus-017",
+        "cardID": "샹델불140섀도불꽃050",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃으로 그을리기",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "섀도무브",
+                "text": "자신의 차례에 1번 사용할 수 있다. 서로의 필드의 포켓몬에게 올려져 있는 데미지 카운터를 1개 서로의 필드의 다른 포켓몬에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "샹델라의 불꽃에 둘러싸이면 영혼이 빨려가 불타버린다. 빈 껍데기인 몸만 남는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005005",
+                "debug": "2"
+            },
+            {
+                "number": "017",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013017",
+                "debug": "1"
+            },
+            {
+                "number": "017",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011017",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7b-023",
+        "cardID": "샹델초140저주000고통020",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "저주의물방울",
+                "cost": "(초)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다."
+            },
+            {
+                "name": "고통의나선",
+                "cost": "(초)(초)",
+                "damage": "20×",
+                "text": "상대 필드의 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴상한 불꽃으로 태워진 영혼은 갈 곳을 잃고 이승을 영원히 헤맨다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "so-taro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-007",
+        "cardID": "샹델불140소울010",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "소울버너",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 포켓몬의 장수 × 60데미지를 추가한다. 그 뒤, 트래쉬된 (불꽃) 포켓몬을 원하는 만큼 벤치로 내보낸다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샹델라의 불꽃에 둘러싸이면 영혼이 빨려가 불타버린다. 빈 껍데기인 몸만 남는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "kirisAki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-018",
+        "cardID": "샹델불140수호미라110",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "미라주플레어",
+                "cost": "(불꽃)(무색)",
+                "damage": "110",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "수호의 등불",
+                "text": "이 포켓몬이 있는 한, 에너지가 붙어 있는 자신의 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래된 양옥집에 산다. 팔의 불꽃을 이상하게 흔들어서 상대에게 최면을 건다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Taira Akitsu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-014",
+        "cardID": "샹델불200이상000폴터040",
+        "name": "샹델라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "이상한빛",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "폴터가이스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "40×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Saki Hayashiro",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018014",
+                "debug": "1"
+            },
+            {
+                "number": "102",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Saki Hayashiro",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018102",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S8-015",
+        "cardID": "샹델불320속박다이070",
+        "name": "샹델라 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "다이폴터가이스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "70×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "속박의 아지랑이",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 「포켓몬의 도구」를 꺼내서 붙일 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S9a-014",
+        "cardID": "샹델불150산악히트090",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "산악태우기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 덱을 위에서부터 3장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "오래된 양옥집에 산다. 팔의 불꽃을 이상하게 흔들어서 상대에게 최면을 건다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "sui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004024",
+                "debug": "1"
+            },
+            {
+                "number": "069",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "chibi",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004114",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVD-017",
+        "cardID": "샹델불150연쇄010히트150",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "연쇄연소",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샹델라를 등불 대용으로 사용했던 저택에서는 장례식이 끊이지 않았다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Haru Akasaka",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016017",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-021",
+        "cardID": "샹델불130홀리마인030",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "마인드룰러",
+                "cost": "(불꽃)",
+                "damage": "30×",
+                "text": "상대의 패의 장수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "홀리는 불빛",
+                "text": "자신의 차례에 1번 사용할 수 있다. 서로의 플레이어는 각각 덱을 1장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "영혼을 빨아들여 태운다. 불꽃을 흔들어서 상대를 최면 상태로 만든다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "saino misaki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008021",
+                "debug": "1"
+            }
+        ]
+    }
+]

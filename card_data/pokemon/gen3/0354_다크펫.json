@@ -1,0 +1,537 @@
+[
+    {
+        "id": "xy6-027",
+        "cardID": "다크초080도구사이060",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "도구숨기기",
+                "text": "이 포켓몬이 있는 한 서로의 필드에 있는 「포켓몬의 도구」의 효과는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 원념이 인형을 포켓몬으로 바꿨다. 입을 열면 저주의 에너지가 빠져나간다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Aya Kusube",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_027.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-028",
+        "cardID": "다크초090【Δ진화020깊은000",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "진화재머",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 상대는 패에서 포켓몬을 꺼내서 진화시킬 수 없다."
+            },
+            {
+                "name": "깊은저주",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터를 5개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【Δ진화】",
+                "text": "이 카드는 자신의 첫 번째 차례나 배틀에 처음 나온 포켓몬이라도 패에서 진화할 수 있다.",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 원념이 인형을 포켓몬으로 바꿨다. 입을 열면 저주의 에너지가 빠져나간다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_028.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-221",
+        "cardID": "다크초190섀도그림030툼헌000",
+        "name": "다크펫 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자주문",
+                "cost": "(초)",
+                "damage": "30+",
+                "text": "자신의 트래쉬에 있는 서포트의 장수 × 10데미지를 추가한다. 추가할 수 있는 데미지는 서포트 10장까지이다."
+            },
+            {
+                "name": "툼헌트 GX",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "섀도무브",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 서로의 필드의 포켓몬에게 올려져 있는 데미지 카운터를 1개 서로의 필드의 다른 포켓몬에게 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006031",
+                "debug": "2"
+            },
+            {
+                "number": "070",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006070",
+                "debug": "2"
+            },
+            {
+                "number": "221",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_221.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002221",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7-041",
+        "cardID": "다크초090빨간에너000",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너미쇼",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬의 수만큼의 데미지 카운터를 상대의 포켓몬에게 원하는 대로 올린다. "
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빨간눈",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 트래쉬에 있는 기본 포켓몬을 1장 상대의 벤치로 내보낸다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "강한 원념이 인형을 포켓몬으로 바꿨다. 입을 열면 저주의 에너지가 빠져나간다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Eri Yamaki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007041",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-027",
+        "cardID": "다크초090퇴화홀로040",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퇴화의 저주",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 진화한 벤치 포켓몬을 1마리 선택해서 「진화카드」를 1장 떼어내서 퇴화시킨다. 떼어낸 카드는 상대의 패로 되돌린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "kodama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6H-037",
+        "cardID": "다크초080각오020괴상050",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "각오의원한",
+                "cost": "(초)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 데미지 카운터를 7개까지 올리고 올린 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "괴상한빛",
+                "cost": "(초)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "Megumi Higuchi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-046",
+        "cardID": "다크초100인형홀로050",
+        "name": "다크펫",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "홀로숏",
+                "cost": "(초)(초)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "인형 공양",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그 뒤, 이 포켓몬을 로스트존에 둔다. (포켓몬 이외의 카드는 모두 트래쉬한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014046",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-041",
+        "cardID": "다크초250깜깜030폴터060",
+        "name": "다크펫 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "다크펫",
+                "pokedexNumber": 354
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "깜깜나라",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "폴터가이스트",
+                "cost": "(초)(무색)",
+                "damage": "60×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007041",
+                "debug": "1"
+            },
+            {
+                "number": "095",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007095",
+                "debug": "2"
+            }
+        ]
+    }
+]

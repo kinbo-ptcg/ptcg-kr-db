@@ -1,0 +1,790 @@
+[
+    {
+        "id": "SEK-001",
+        "cardID": "거북물220물대030급류200",
+        "name": "거북왕 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "거북왕",
+                "pokedexNumber": 9
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "급류포",
+                "cost": "(물)(물)(물)",
+                "damage": "200",
+                "text": "자신의 다음 차례에 이 포켓몬은 「급류포」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002001"
+    },
+    {
+        "id": "SEK-002",
+        "cardID": "거북물330그랜120거다220",
+        "name": "거북왕 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "거북왕",
+                "pokedexNumber": 9
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "그랜드폴",
+                "cost": "(물)(물)(물)",
+                "damage": "120",
+                "text": "자신의 덱에서 (물) 에너지를 3장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "거다이봄바드",
+                "cost": "(물)(물)(물)(물)",
+                "damage": "220",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002002"
+    },
+    {
+        "id": "SEK-003",
+        "cardID": "쏘드물040물대010",
+        "name": "쏘드라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "쏘드라",
+                "pokedexNumber": 116
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "산호의 그늘에 거처를 만든다. 위험을 느끼면 입에서 새까만 먹물을 내뿜고 도망간다.",
+        "number": "003",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Taira Akitsu",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002003"
+    },
+    {
+        "id": "SEK-004",
+        "cardID": "브이물070물뿌020",
+        "name": "브이젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "브이젤",
+                "pokedexNumber": 418
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "목의 부낭을 부풀려 수면에서 얼굴을 내밀어 주변의 상황을 살피고 있다.",
+        "number": "004",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "ryoma uratsuka",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002004"
+    },
+    {
+        "id": "SEK-005",
+        "cardID": "플로물110파도050",
+        "name": "플로젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "플로젤",
+                "pokedexNumber": 419
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다.",
+        "number": "005",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002005"
+    },
+    {
+        "id": "SEK-006",
+        "cardID": "마나물070바다스플030",
+        "name": "마나피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마나피",
+                "pokedexNumber": 490
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "바다수색",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 본다. 그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+        "number": "006",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Narumi Sato",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002006"
+    },
+    {
+        "id": "SEK-007",
+        "cardID": "볼케물130한방050다이120",
+        "name": "볼케니온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "볼케니온",
+                "pokedexNumber": 721
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "다이너마이트 스팀",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "120×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 120데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+        "number": "007",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002007"
+    },
+    {
+        "id": "SEK-008",
+        "cardID": "깨물물080몸통010물기030",
+        "name": "깨물부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "깨물부기",
+                "pokedexNumber": 833
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물기",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리 뿔은 바위처럼 단단하다. 뿔로 싸우다가 풀이 죽은 틈에 덥석 물고 놓지 않는다.",
+        "number": "008",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002008"
+    },
+    {
+        "id": "SEK-009",
+        "cardID": "갈가물140딱딱로케130",
+        "name": "갈가부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "갈가부기",
+                "pokedexNumber": 834
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "로케트박치기",
+                "cost": "(물)(물)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+        "number": "009",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002009"
+    },
+    {
+        "id": "SEK-010",
+        "cardID": "윽우물090토해000",
+        "name": "윽우지",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "윽우지",
+                "pokedexNumber": 845
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "토해내기샷",
+                "cost": "(물)(물)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹보이다. 먹이인 찌로꼬치를 통째로 삼키지만 가끔 실수로 다른 포켓몬을 먹어버린다.",
+        "number": "010",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002010"
+    },
+    {
+        "id": "SEK-011",
+        "cardID": "진화향로",
+        "name": "진화향로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002011"
+    },
+    {
+        "id": "SEK-012",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002012"
+    },
+    {
+        "id": "SEK-013",
+        "cardID": "크래시 해머",
+        "name": "크래시 해머",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대 필드의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+        ],
+        "number": "013",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002013"
+    },
+    {
+        "id": "SEK-014",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002014"
+    },
+    {
+        "id": "SEK-015",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002015"
+    },
+    {
+        "id": "SEK-016",
+        "cardID": "마리",
+        "name": "마리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 자신은 5장 상대는 4장 덱을 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002016"
+    },
+    {
+        "id": "SEK-017",
+        "cardID": "박사의 연구(주박사)",
+        "name": "박사의 연구(주박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002017"
+    },
+    {
+        "id": "SEK-018",
+        "cardID": "보스의 지령(플라드리)",
+        "name": "보스의 지령(플라드리)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002018"
+    },
+    {
+        "id": "SEK-019",
+        "cardID": "야청",
+        "name": "야청",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 (물) 포켓몬과 (물) 에너지를 합계 4장까지 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "019",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "take",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002019"
+    },
+    {
+        "id": "SEK-020",
+        "cardID": "호브",
+        "name": "호브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "020",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002020"
+    },
+    {
+        "id": "SEK-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SEK",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEK.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「거북왕」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEK_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021002021"
+    }
+]

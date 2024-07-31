@@ -1,0 +1,116 @@
+[
+    {
+        "id": "SV4M-022",
+        "cardID": "에레번030팡팡000",
+        "name": "에레키드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "에레키드",
+                "pokedexNumber": 239
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "팡팡샷",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "아직 전기를 모으는 게 서툴다. 전기를 먹기 위해 민가에 숨어들어 콘센트를 찾는다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "aoki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022022",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs2-19",
+        "cardID": "에레번040베이콘센000",
+        "name": "에레키드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "에레키드",
+                "pokedexNumber": 239
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "콘센트",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 (번개) 에너지를 1장 상대 플레이어에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「에레브」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "양팔을 빙글빙글 휘둘러서 전기를 발생시킨다. 그러나 만들어낸 전기는 모아둘 수 없다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "19",
+                "prodNumber": "40",
+                "prodCode": "bs2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs2.png",
+                "prodName": "DP 확장팩 불꽃 튀는 대결",
+                "artist": "Kagemaru Himeno",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS2/bs2_kr_19.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010002019",
+                "debug": "1"
+            }
+        ]
+    }
+]

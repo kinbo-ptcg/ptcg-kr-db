@@ -1,0 +1,621 @@
+[
+    {
+        "id": "bgt-001",
+        "cardID": "파쪼번040갉기010",
+        "name": "파쪼옥",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "파쪼옥",
+                "pokedexNumber": 595
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "거리에서 사는 파쪼옥은 민가의 콘센트에서 전기를 빨아들이는 방법을 알고 있다.",
+        "number": "001",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005001"
+    },
+    {
+        "id": "bgt-002",
+        "cardID": "전툴번080갉기020저리030",
+        "name": "전툴라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "전툴라",
+                "pokedexNumber": 596
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "저리침",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "상대에게 공격당하면 전기를 띤 실을 무수히 뿜어내서 전기 배리어를 만든다.",
+        "number": "002",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005002"
+    },
+    {
+        "id": "bgt-003",
+        "cardID": "심보초090퀵턴010사이040",
+        "name": "심보러",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "심보러",
+                "pokedexNumber": 561
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "퀵턴",
+                "cost": "(초)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            },
+            {
+                "name": "사이코데미지",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "고대 도시를 지키던 기억이 남아 있어서 언제나 같은 루트를 날아다닌다고 한다.",
+        "number": "003",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005003"
+    },
+    {
+        "id": "bgt-004",
+        "cardID": "고디초060수벽020",
+        "name": "고디탱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "고디탱",
+                "pokedexNumber": 574
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "수벽치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "포켓몬이나 트레이너를 가만히 관찰한다. 고디탱만 볼 수 있는 무언가를 바라보고 있는 것 같다.",
+        "number": "004",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005004"
+    },
+    {
+        "id": "bgt-005",
+        "cardID": "단굴격060박치010돌격030",
+        "name": "단굴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "단굴",
+                "pokedexNumber": 524
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌격",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "100년 전 대지진 때 갈라진 땅에서 발견되었다. 체내에 에너지 코어를 가지고 있다.",
+        "number": "005",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005005"
+    },
+    {
+        "id": "bgt-006",
+        "cardID": "암트격090박치030헤비060",
+        "name": "암트르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "암트르",
+                "pokedexNumber": 525
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "헤비폴",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "체내에서 처리되지 못하고 빠져나온 에너지가 덩어리져서 주황색 결정이 되었다.",
+        "number": "006",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005006"
+    },
+    {
+        "id": "bgt-007",
+        "cardID": "두더격060진흙040",
+        "name": "두더류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "두더류",
+                "pokedexNumber": 529
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "양손의 손톱을 깍지 끼워서 몸을 고속 회전 시키면서 맹렬한 속도로 땅속을 헤쳐나간다.",
+        "number": "007",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Midori Harada",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005007"
+    },
+    {
+        "id": "bgt-008",
+        "cardID": "수퍼볼",
+        "name": "수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져와도 좋다.",
+            "남은 카드는 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005008"
+    },
+    {
+        "id": "bgt-009",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005009"
+    },
+    {
+        "id": "bgt-010",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "010",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005010"
+    },
+    {
+        "id": "bgt-011",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "011",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005011"
+    },
+    {
+        "id": "bgt-012",
+        "cardID": "체렌",
+        "name": "체렌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "012",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005012"
+    },
+    {
+        "id": "bgt-013",
+        "cardID": "테라격120록스040성스100",
+        "name": "테라키온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "테라키온",
+                "pokedexNumber": 639
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "록스매시",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "성스러운칼",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 이 포켓몬은 「성스러운칼」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "인간들 간에 벌어진 전쟁으로 거처를 잃은 포켓몬들을 지키기 위하여 인간과 싸웠다.",
+        "number": "013",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005013"
+    },
+    {
+        "id": "bgt-014",
+        "cardID": "벨",
+        "name": "벨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "014",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "BW",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005014"
+    },
+    {
+        "id": "bgt-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_en_04.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005015"
+    },
+    {
+        "id": "bgt-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_en_05.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005016"
+    },
+    {
+        "id": "bgt-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "bgt",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgt.png",
+        "prodName": "BW 「배틀 강화덱 - 테라키온 덱」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BG_terrakion/bw1_terrakion_en_06.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011005017"
+    }
+]

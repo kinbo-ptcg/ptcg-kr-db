@@ -1,0 +1,682 @@
+[
+    {
+        "id": "bw6f-035",
+        "cardID": "글라격100포이020깜짝040",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "포이즌서클",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "깜짝베기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "소리 내지 않고 하늘을 날아 먹이에 가까이 가면 한순간에 급소를 공격한다!",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy4-046",
+        "cardID": "글라격090관절020독찌060",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "관절묶기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 패에서 에너지를 꺼내서 붙일 수 없다."
+            },
+            {
+                "name": "독찌르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 나뭇가지에 매달려 먹이를 관찰한다. 틈을 봐서 상공에서 덮친다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Naoyo Kimura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_046.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004046",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy6-033",
+        "cardID": "글라격090스톤020베어040",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤샤워",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Hajime Kusajima",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_033.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004033",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2l-024",
+        "cardID": "글라격110마지070가위090",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마지막일침",
+                "cost": "(격투)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있지 않다면 이 기술은 실패한다."
+            },
+            {
+                "name": "가위자르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 나뭇가지에 매달려 먹이를 관찰한다. 틈을 봐서 상공에서 덮친다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm9a-024",
+        "cardID": "글라격110가져000독찌070",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "독찌르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 나뭇가지에 매달려 먹이를 관찰한다. 틈을 봐서 상공에서 덮친다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003024",
+                "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "055",
+                "prodCode": "sm9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9a.png",
+                "prodName": "썬&문 강화 확장팩 「나이트유니슨」",
+                "artist": "Mizue",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9A/SM9a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019003081",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S5I-031",
+        "cardID": "글라격120애크020가위090",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "애크러뱃",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 추가한다. "
+            },
+            {
+                "name": "가위자르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "ryoma uratsuka",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S7D-021",
+        "cardID": "글라격110잘라030베놈100",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "잘라내기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "베놈히트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "100",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "SATOSHI NAKAI",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10a-039",
+        "cardID": "글라격120허리050",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "허리케인쇼크",
+                "cost": "(격투)(격투)",
+                "damage": "50×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다. 앞면이 2번 이상 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Shiburingaru",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011066",
+                "debug": "1"
+            },
+            {
+                "number": "039",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Shiburingaru",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_039_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011067",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3a-023",
+        "cardID": "글라격120궤찌040맹독080",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "맹독침",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 2개가 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "062",
+                "prodCode": "SV3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「레이징서프」",
+                "artist": "GOSSAN",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3a/SV3a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023020023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs6-38",
+        "cardID": "글라격080버닝000추격040",
+        "name": "글라이온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "버닝포이즌",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "독 또는 화상을 선택해서 상대를 그 특수 상태로 만든다. 원한다면 자신과 자신에게 붙어 있는 모든 카드를 자신의 패로 되돌려도 좋다."
+            },
+            {
+                "name": "추격",
+                "cost": "(격투)(무색)",
+                "damage": "40+",
+                "text": "상대가 특수 상태라면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 나뭇가지에 매달려 먹이를 관찰한다. 틈을 봐서 상공에서 덮친다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "38",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Kent Konetsuna",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_38.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs6-39",
+        "cardID": "글라격110스핏깜짝060",
+        "name": "글라이온 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 글라이온에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "글라이온",
+                "pokedexNumber": 472
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "깜짝베기",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": "원한다면 자신을 자신의 벤치 포켓몬과 교체해도 좋다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스핏 포이즌",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 포켓몬을 레벨업시켰을 때 한 번 사용할 수 있다. 상대의 배틀 포켓몬을 독과 마비로 만든다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "39",
+                "prodNumber": "60",
+                "prodCode": "bs6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs6.png",
+                "prodName": "DP 확장팩 암흑의 초승달",
+                "artist": "Ryo Ueda",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS6/bs6_ko_39.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010006039",
+                "debug": "1"
+            }
+        ]
+    }
+]

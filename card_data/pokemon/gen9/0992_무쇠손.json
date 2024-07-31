@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SV4M-027",
+        "cardID": "무쇠번230암프160감사120",
+        "name": "무쇠손 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "미래"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "무쇠손",
+                "pokedexNumber": 992
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "암프레스",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "160",
+                "text": ""
+            },
+            {
+                "name": "감사 앰플리파이",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 기술의 데미지로 상대의 포켓몬이 기절했다면 프라이즈를 1장 더 가져온다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022027",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022079",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Toshinao Aoki",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022088",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVHM-006",
+        "cardID": "무쇠번140쇼크030초합080",
+        "name": "무쇠손",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "무쇠손",
+                "pokedexNumber": 992
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "쇼크웨이브",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "초합금핸드",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 ex ・ V」라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "어느 탐험기에 기록된 \"무쇠손\"이라는 물체와 닮은 점이 많은 포켓몬.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003006",
+                "debug": "3"
+            }
+        ]
+    }
+]

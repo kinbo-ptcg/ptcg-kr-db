@@ -1,0 +1,130 @@
+[
+    {
+        "id": "SV4M-020",
+        "cardID": "무쇠물100하이냉각080",
+        "name": "무쇠보따리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "무쇠보따리",
+                "pokedexNumber": 991
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "냉각제트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 진화 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하이퍼 블로어",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다(배틀필드로 내보낼 포켓몬은 상대가 선택한다). 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "오래된 서적에 등장하는 정체불명의 물체를 닮은 포켓몬. 목격된 사례는 과거에 단 2건뿐이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Oswaldo KATO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022020",
+                "debug": "1"
+            },
+            {
+                "number": "071",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Teeziro",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_071.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022071",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6-037",
+        "cardID": "무쇠물090인터060",
+        "name": "무쇠보따리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "미래"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "무쇠보따리",
+                "pokedexNumber": 991
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "인터제트",
+                "cost": "(물)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤, 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "오래된 서적에 등장하는 정체불명의 물체를 닮은 포켓몬. 목격된 사례는 과거에 단 2건뿐이다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "nagimiso",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008037",
+                "debug": "3"
+            }
+        ]
+    }
+]

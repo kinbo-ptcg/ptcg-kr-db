@@ -1,0 +1,852 @@
+[
+    {
+        "id": "SVJL-000",
+        "cardID": "기본 불꽃   에너지",
+        "name": "기본 불꽃   에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIR",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009022"
+    },
+    {
+        "id": "SVJL-001",
+        "cardID": "파이불070통째000불토030",
+        "name": "파이리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파이리",
+                "pokedexNumber": 4
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "통째로태우기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다. "
+            },
+            {
+                "name": "불토하기",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009001"
+    },
+    {
+        "id": "SVJL-002",
+        "cardID": "리자불100화염020불대090",
+        "name": "리자드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "리자드",
+                "pokedexNumber": 5
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(불꽃)(불꽃)",
+                "damage": "90",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009002"
+    },
+    {
+        "id": "SVJL-003",
+        "cardID": "리자불160익사화염250",
+        "name": "찬란한 리자몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "찬란한"
+        ],
+        "rules": [
+            "찬란한 포켓몬은 덱에 1장만 넣을 수 있다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염폭",
+                "cost": "(불꽃)(무색)(무색)(무색)(무색)",
+                "damage": "250",
+                "text": "자신의 다음 차례에 이 포켓몬은 「화염폭」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "익사이팅하트",
+                "text": "상대가 이미 가져간 프라이즈의 장수만큼 이 포켓몬이 기술을 사용하기 위한 (무색) 에너지는 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "암석도 태워버릴 정도로 작열하는 화염을 뿜어 산불을 일으킬 때가 있다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009003"
+    },
+    {
+        "id": "SVJL-004",
+        "cardID": "파이불120플레염상000",
+        "name": "파이어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "염상비행",
+                "cost": "(불꽃)(불꽃)(불꽃)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 트래쉬하고 상대의 벤치 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플레어 플로트",
+                "text": "이 포켓몬에게 (불꽃) 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "아름답게 타오르는 날개로 산길을 비춰 조난자를 도왔다고 전해져 오고 있다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009004"
+    },
+    {
+        "id": "SVJL-005",
+        "cardID": "앤테불130프레블레060",
+        "name": "앤테이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "앤테이",
+                "pokedexNumber": 244
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "블레이즈볼",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프레셔",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "앤테이가 울부짖으면 세계 어딘가의 화산이 분화한다고 전해진다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "toriyufu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009005"
+    },
+    {
+        "id": "SVJL-006",
+        "cardID": "리자악330테라버닝180",
+        "name": "리자몽 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "리자몽",
+                "pokedexNumber": 6
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "버닝다크",
+                "cost": "(불꽃)(불꽃)",
+                "damage": "180+",
+                "text": "상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "연옥 지배",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱에서 「기본 (불꽃) 에너지」를 3장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009006"
+    },
+    {
+        "id": "SVJL-007",
+        "cardID": "비버무060태연필살030",
+        "name": "비버니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "비버니",
+                "pokedexNumber": 399
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "필살앞니",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "태연한 얼굴",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 큰 나무나 돌을 갉아서 튼튼한 앞니를 갈아 내고 있다. 물가에 둥지를 만들어 산다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009007"
+    },
+    {
+        "id": "SVJL-008",
+        "cardID": "비버무120일하테일100",
+        "name": "비버통",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "비버통",
+                "pokedexNumber": 400
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "테일스매시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일하는 앞니",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패가 5장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강을 나무줄기나 진흙의 댐으로 막아서 거처를 만든다. 부지런한 일꾼으로 알려져 있다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "OKACHEKE",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009008"
+    },
+    {
+        "id": "SVJL-009",
+        "cardID": "아르무220트리000파워130",
+        "name": "아르세우스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "아르세우스",
+                "pokedexNumber": 493
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티차지",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 3장까지 선택해서 자신의 「포켓몬 V」에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "파워에지",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009009"
+    },
+    {
+        "id": "SVJL-010",
+        "cardID": "아르무280스타트리200",
+        "name": "아르세우스 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "아르세우스",
+                "pokedexNumber": 493
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트리니티노바",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "200",
+                "text": "자신의 덱에서 기본 에너지를 3장까지 선택해서 자신의 「포켓몬 V」에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스타버스",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009010"
+    },
+    {
+        "id": "SVJL-011",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009011"
+    },
+    {
+        "id": "SVJL-012",
+        "cardID": "대단한낚싯대",
+        "name": "대단한낚싯대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬과 기본 에너지를 합계 3장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009012"
+    },
+    {
+        "id": "SVJL-013",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009013"
+    },
+    {
+        "id": "SVJL-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009014"
+    },
+    {
+        "id": "SVJL-015",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009015"
+    },
+    {
+        "id": "SVJL-016",
+        "cardID": "난천의 패기",
+        "name": "난천의 패기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 8장이 되도록 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009016"
+    },
+    {
+        "id": "SVJL-017",
+        "cardID": "모야모",
+        "name": "모야모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 각각 자신의 남은 프라이즈 장수만큼 덱을 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009017"
+    },
+    {
+        "id": "SVJL-018",
+        "cardID": "박사의 연구",
+        "name": "박사의 연구",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009018"
+    },
+    {
+        "id": "SVJL-019",
+        "cardID": "보스의 지령",
+        "name": "보스의 지령",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "NC Empire",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009019"
+    },
+    {
+        "id": "SVJL-020",
+        "cardID": "보울마을",
+        "name": "보울마을",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 플레이어는 자신의 차례마다 1번 자신의 덱에서 기본 포켓몬(「룰을 가진 포켓몬」은 제외)을 1장 선택해서 벤치로 내보내도 좋다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "artist": "Oswaldo KATO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009020"
+    },
+    {
+        "id": "SVJL-021",
+        "cardID": "더블 터보 에너지",
+        "name": "더블 터보 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 2개분으로 작용한다.",
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 포켓몬에게 주는 데미지는 「-20」이 된다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "SVJL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVJL.png",
+        "prodName": "스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009021"
+    }
+]

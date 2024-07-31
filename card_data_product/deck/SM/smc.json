@@ -1,0 +1,842 @@
+[
+    {
+        "id": "smc-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003022"
+    },
+    {
+        "id": "smc-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003023"
+    },
+    {
+        "id": "smc-001",
+        "cardID": "모다풀060덩굴030",
+        "name": "모다피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "모다피",
+                "pokedexNumber": 69
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "덩굴채찍",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "홀쭉한 체격이지만 먹이를 잡을 때의 움직임은 눈에 보이지 않을 정도로 빠르다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Aya Kusube",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003001"
+    },
+    {
+        "id": "smc-002",
+        "cardID": "우츠풀080진흙040",
+        "name": "우츠동",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "우츠동",
+                "pokedexNumber": 70
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "진흙액",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "잎사귀 부분은 칼날이 되어 상대를 베어버린다. 입에서는 무엇이든 녹이는 액체를 뿜어낸다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Mina Nakai",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003002"
+    },
+    {
+        "id": "smc-003",
+        "cardID": "턱지풀070찝기020",
+        "name": "턱지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "턱지충이",
+                "pokedexNumber": 736
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "새포켓몬에게 공격받지 않도록 전류포켓몬이 사는 장소에 모여있는 일이 많다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003003"
+    },
+    {
+        "id": "smc-004",
+        "cardID": "꼬시풀070단숨000부딪010",
+        "name": "꼬시레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "꼬시레",
+                "pokedexNumber": 767
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "단숨에 도망가기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "겁이 많아서 많은 다리를 버둥거리며 필사적으로 도망친다. 도망간 자리는 반짝반짝 깨끗하다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003004"
+    },
+    {
+        "id": "smc-005",
+        "cardID": "카푸풀180뿔찌030자연120카푸150",
+        "name": "카푸브루루 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "카푸브루루",
+                "pokedexNumber": 787
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "뿔찌르기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "자연의심판",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120+",
+                "text": "원한다면 이 포켓몬에 붙어 있는 에너지를 모두 트래쉬한다. 그 경우 , 60데미지를 추가한다."
+            },
+            {
+                "name": "카푸와일드 GX",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "PLANETA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003005"
+    },
+    {
+        "id": "smc-006",
+        "cardID": "목도번060전기010",
+        "name": "목도리키텔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "목도리키텔",
+                "pokedexNumber": 694
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사막에서 생활한다. 태양의 빛을 쬐고 발전하면 먹이를 먹지 않아도 괜찮다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003006"
+    },
+    {
+        "id": "smc-007",
+        "cardID": "전지번090저린020라이050",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "저린턱",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹은 먹이를 소화할 때 발생하는 전기 에너지를 전기 주머니에 저장하고 있다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003007"
+    },
+    {
+        "id": "smc-008",
+        "cardID": "투구번150스트일렉150",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트로캐논",
+                "cost": "(번개)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "스트롱차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱에 있는 (풀) 에너지와 (번개) 에너지를 1장씩 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "배에 있는 발전기관에서 전기를 일으킨다. 전격 빔으로 새포켓몬도 압도한다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003008"
+    },
+    {
+        "id": "smc-009",
+        "cardID": "카푸번110회전000라이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003009"
+    },
+    {
+        "id": "smc-010",
+        "cardID": "럭키무110상처000한방080",
+        "name": "럭키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "럭키",
+                "pokedexNumber": 113
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "상처치료",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 자신의 포켓몬 1마리의 HP를 「30」회복한다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "럭키가 낳는 알은 영양이 듬뿍 들어있다. 많은 포켓몬들이 아주 좋아한다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003010"
+    },
+    {
+        "id": "smc-011",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003011"
+    },
+    {
+        "id": "smc-012",
+        "cardID": "에너지 리사이클",
+        "name": "에너지 리사이클",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에 있는 기본 에너지를 5장, 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003012"
+    },
+    {
+        "id": "smc-013",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장, 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려서 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 기본 포켓몬에게도 사용할 수 없다.)"
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003013"
+    },
+    {
+        "id": "smc-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003014"
+    },
+    {
+        "id": "smc-015",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003015"
+    },
+    {
+        "id": "smc-016",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003016"
+    },
+    {
+        "id": "smc-017",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003017"
+    },
+    {
+        "id": "smc-018",
+        "cardID": "마마네",
+        "name": "마마네",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱을 4장 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003018"
+    },
+    {
+        "id": "smc-019",
+        "cardID": "일리마",
+        "name": "일리마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 서로의 플레이어는 각각 동전을 1번 던져서 앞면이 나오면 6장, 뒷면이 나오면 3장, 덱을 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003019"
+    },
+    {
+        "id": "smc-020",
+        "cardID": "하우",
+        "name": "하우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003020"
+    },
+    {
+        "id": "smc-021",
+        "cardID": "할라",
+        "name": "할라",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 4장 뽑는다.",
+            "자신이 이미 GX 기술을 사용했다면 뽑는 장수는 7장이 된다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "smc",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smc.png",
+        "prodName": "썬&문 개조 스타터 세트 「카푸브루루 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMC/SMC_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017003021"
+    }
+]

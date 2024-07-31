@@ -1,0 +1,494 @@
+[
+    {
+        "id": "x30-005",
+        "cardID": "플라페070꽃보000잎날030",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "꽃보라",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃밭을 날아다니며 말라가는 꽃을 보살핀다. 꽃의 숨겨진 힘을 끌어내어 싸운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "014",
+                "prodCode": "x30",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/x30.png",
+                "prodName": "XY 「제르네아스 덱」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY30/X30_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014002005",
+                "debug": "3"
+            },
+            {
+                "number": "022",
+                "prodNumber": "032",
+                "prodCode": "cp3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp3.png",
+                "prodName": "XY BREAK 확장팩 「포켓심쿵 컬렉션」",
+                "artist": "Eske Yoshinob",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP3/CP3_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016003022",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy2-052",
+        "cardID": "플라페070플라요정020",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(페어리)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "플라워베일",
+                "text": "이 포켓몬이 있는 한, 자신의 (풀) 포켓몬 전원의 최대 HP는 각각 「20」씩 커진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃밭을 날아다니며 말라가는 꽃을 보살핀다. 꽃의 숨겨진 힘을 끌어내어 싸운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_052.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-131",
+        "cardID": "플라페070아로000메지020",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "아로마테라피",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「30」회복한다."
+            },
+            {
+                "name": "메지컬리프",
+                "cost": "(페어리)(페어리)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가하고 이 포켓몬의 HP를 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "빈틈없이 손질한 화단의 꽃이 피면 모습을 드러내어 아름다운 댄스로 축복한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "059",
+                "prodCode": "xy8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8b.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「푸른 충격」",
+                "artist": "Midori Harada",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_BLUE_041.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015006041",
+                "debug": "2"
+            },
+            {
+                "number": "131",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_131.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001131",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-059",
+        "cardID": "플라페070꽃잎000",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "꽃잎빙글빙글",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "빈틈없이 손질한 화단의\n꽃이 피면 모습을 드러내어\n아름다운 댄스로 축복한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004059",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-060",
+        "cardID": "플라페070꽃따매지030",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "매지컬숏",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "꽃따기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 패에서 앞면을 보지 않고 1장 선택해서 그 카드의 앞면을 보고 나서 상대의 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃을 길러 자신의 무기로 이용한다. 아름답게 핀 꽃일수록 강력한 파워를 간직하고 있다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "miki kudo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016060",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-038",
+        "cardID": "플라초070요정020더블050",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "더블스핀",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신의 파워를 꽃에 주고 진심을 담아 돌본다. 화단을 어지럽히는 자는 용서하지 않는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "chibi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1V-043",
+        "cardID": "플라초070매지030",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "매지컬리프",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가하고 이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신의 에너지를 빨간 파장에 실어 꽃에 보내는 것으로 잠재 능력을 끌어올린다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "078",
+                "prodCode": "SV1V",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1V.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「바이올렛 ex」",
+                "artist": "saino misaki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1V/SV1V_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023007043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-037",
+        "cardID": "플라초070작은000회전040",
+        "name": "플라엣테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "플라엣테",
+                "pokedexNumber": 670
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "작은 선물",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "mingo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007037",
+                "debug": "1"
+            }
+        ]
+    }
+]

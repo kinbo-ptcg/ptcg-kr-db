@@ -1,0 +1,699 @@
+[
+    {
+        "id": "bw6c-011",
+        "cardID": "폭타불130불의060화염080",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불의뭉치",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다. 동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로도 만든다."
+            },
+            {
+                "name": "화염방사",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등의 혹 모양 화산은 10년마다 대분화하나 심하게 화가 나도 분화한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "059",
+                "prodCode": "bw6c",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6c.png",
+                "prodName": "BW 확장팩 제6탄 「콜드플레어」",
+                "artist": "Akira Komayama",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_coldflare_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012009011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5g-021",
+        "cardID": "폭타불180롤링030폭발050",
+        "name": "폭타 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "롤링어택",
+                "cost": "(불꽃)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "폭발분사",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (불꽃) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 장수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001021",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_072.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001072",
+                "debug": "2"
+            },
+            {
+                "number": "012",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707012",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "cp1-002",
+        "cardID": "폭타불110번드화염060",
+        "name": "마그마단의 폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염구슬",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "번드래프트",
+                "text": "자신의 트래쉬에서 (불꽃)  또는 (격투) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "불꽃에 강한 폭타는 마그마 단원을 구출할 때도 대활약 했었어.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy9-011",
+        "cardID": "폭타불130부딪030분화080",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "분화",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "서로의 덱의 카드를 위에서부터 1장씩 트래쉬하고 그 중의 에너지의 장수 × 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "화나면 작열하는 마그마를 등의 혹에서 분출한다. 화산의 분화구에 거처가 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Shigenori Negishi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smxy-013",
+        "cardID": "폭타불230마그120",
+        "name": "M폭타 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "마그마이럽션",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "120+",
+                "text": "원한다면 서로의 덱을 위에서부터 3장씩 트래쉬해도 좋다. 그 경우 , 그 트래쉬한 것 중에 있는 에너지의 장수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707013",
+                "debug": "1"
+            },
+            {
+                "number": "172",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_172.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707172",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-008",
+        "cardID": "폭타불140연속080태워120",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "연속박치기",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "80×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 80데미지를 준다."
+            },
+            {
+                "name": "태워그을리기",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등의 혹 모양 화산은 10년마다 대분화하나 심하게 화가 나도 분화한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm10b-010",
+        "cardID": "폭타불140몸통050스트150",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스트롱플레어",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "등의 혹 모양 화산은 10년마다 대분화하나 심하게 화가 나도 분화한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "054",
+                "prodCode": "sm10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm10b.png",
+                "prodName": "썬&문 강화 확장팩 「스카이레전드」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10b/SM10b_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019011010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-014",
+        "cardID": "폭타불140폭렬000히트120",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "폭렬탄",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "화나면 작열하는 마그마를 등의 혹에서 분출한다. 화산의 분화구에 거처가 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "yuu",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010014",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-011",
+        "cardID": "폭타불140분화050타오120",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "분화",
+                "cost": "(불꽃)(무색)",
+                "damage": "50+",
+                "text": "서로의 덱을 위에서부터 1장씩 트래쉬하고 그 중에 있는 에너지의 장수 × 100데미지를 추가한다."
+            },
+            {
+                "name": "타오르는 스탬프",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "화산의 분화구에서 생활한다. 10년마다 등의 혹이 대분화하는 것으로 유명하다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Shiburingaru",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-012",
+        "cardID": "폭타불130불꽃000분석120",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃으로 그을리기",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 화상으로 만든다."
+            },
+            {
+                "name": "분석캐논",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 (격투) 에너지를 1개 선택해서 트래쉬한다. 그 경우, 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "화산의 분화구에서 생활한다. 10년마다 등의 혹이 대분화하는 것으로 유명하다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "satoma",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs9-05",
+        "cardID": "폭타불100분화030돌진080",
+        "name": "폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "분화",
+                "cost": "(불꽃)(무색)",
+                "damage": "30+",
+                "text": "서로의 덱의 위에서부터 카드를 각각 1장씩 트래쉬하고 그 중의 에너지의 장수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "돌진",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "80",
+                "text": "자신에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등에 화산을 가진 포켓몬이다. 체내의 마그마가 불어나면 흔들린 뒤에 대폭발을 한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "05",
+                "prodNumber": "40",
+                "prodCode": "bs9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs9.png",
+                "prodName": "DP 확장팩 호수의 기적",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS9/bs9_ko_5.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010009005",
+                "debug": "1"
+            }
+        ]
+    }
+]

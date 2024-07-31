@@ -1,0 +1,827 @@
+[
+    {
+        "id": "SEF-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001022"
+    },
+    {
+        "id": "SEF-001",
+        "cardID": "이상풀220리프050이판190",
+        "name": "이상해꽃 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "이상해꽃",
+                "pokedexNumber": 3
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프드레인",
+                "cost": "(풀)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "이판사판태클",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001001"
+    },
+    {
+        "id": "SEF-002",
+        "cardID": "이상풀330포레030거다210",
+        "name": "이상해꽃 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "이상해꽃",
+                "pokedexNumber": 3
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "포레스트스톰",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 30데미지를 준다."
+            },
+            {
+                "name": "거다이블룸",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001002"
+    },
+    {
+        "id": "SEF-003",
+        "cardID": "왕자풀080몸통010날개030",
+        "name": "왕자리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "왕자리",
+                "pokedexNumber": 193
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "날개치기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "고속으로 날개를 치면 충격파가 발생해서 주변의 유리창이 깨진다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001003"
+    },
+    {
+        "id": "SEF-004",
+        "cardID": "메가풀120벌레030급강120",
+        "name": "메가자리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "메가자리",
+                "pokedexNumber": 469
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "벌레먹음",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "급강하",
+                "cost": "(풀)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "6개의 다리로 어른을 껴안고도 너끈히 날 수 있다. 꼬리의 날개로 균형을 잡는다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001004"
+    },
+    {
+        "id": "SEF-005",
+        "cardID": "세레풀070숲산리프040",
+        "name": "세레비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "세레비",
+                "pokedexNumber": 251
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프스텝",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "숲산책",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 본다. 그 중에서 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "시간을 초월하는 힘을 사용한다. 평화스러운 시대에만 모습을 보인다고 한다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001005"
+    },
+    {
+        "id": "SEF-006",
+        "cardID": "선인풀070궤찌050",
+        "name": "선인왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "선인왕",
+                "pokedexNumber": 331
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사막 같은 혹독한 환경을 좋아한다. 몸속에 축적된 물로 30일간 살 수 있다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Uta",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001006"
+    },
+    {
+        "id": "SEF-007",
+        "cardID": "트로풀110잎사000바람030",
+        "name": "트로피우스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "트로피우스",
+                "pokedexNumber": 357
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "잎사귀붙이기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (풀) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "목에 난 송이는 맛있어서 인기다. 따뜻한 장소에는 트로피우스를 키우는 목장이 많다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001007"
+    },
+    {
+        "id": "SEF-008",
+        "cardID": "꼬모풀060나뭇010",
+        "name": "꼬모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬모카",
+                "pokedexNumber": 829
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "나뭇잎",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "산들바람에 빙글빙글 돌면서 즐겁게 노래하는 귀여운 모습에 반해서 키우는 사람이 많다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Yukiko Baba",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001008"
+    },
+    {
+        "id": "SEF-009",
+        "cardID": "백솜풀090풀회000허찌050",
+        "name": "백솜모카",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "백솜모카",
+                "pokedexNumber": 830
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "풀회복씨",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 HP를 모두 회복한다."
+            },
+            {
+                "name": "허찌르기",
+                "cost": "(풀)",
+                "damage": "50",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001009"
+    },
+    {
+        "id": "SEF-010",
+        "cardID": "자루풀120흡착030정글110",
+        "name": "자루도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자루도",
+                "pokedexNumber": 893
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡착덩굴",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "정글봄버",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001010"
+    },
+    {
+        "id": "SEF-011",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001011"
+    },
+    {
+        "id": "SEF-012",
+        "cardID": "진화향로",
+        "name": "진화향로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001012"
+    },
+    {
+        "id": "SEF-013",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001013"
+    },
+    {
+        "id": "SEF-014",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001014"
+    },
+    {
+        "id": "SEF-015",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001015"
+    },
+    {
+        "id": "SEF-016",
+        "cardID": "마리",
+        "name": "마리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 자신은 5장 상대는 4장 덱을 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001016"
+    },
+    {
+        "id": "SEF-017",
+        "cardID": "박사의 연구(주박사)",
+        "name": "박사의 연구(주박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001017"
+    },
+    {
+        "id": "SEF-018",
+        "cardID": "보스의 지령(플라드리)",
+        "name": "보스의 지령(플라드리)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001018"
+    },
+    {
+        "id": "SEF-019",
+        "cardID": "비트",
+        "name": "비트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 기본 에너지를 1장 선택해서 벤치 포켓몬에게 붙인다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001019"
+    },
+    {
+        "id": "SEF-020",
+        "cardID": "아킬",
+        "name": "아킬",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 2장까지 트래쉬하고 그 장수 × 2장만큼 자신의 덱을 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "take",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001020"
+    },
+    {
+        "id": "SEF-021",
+        "cardID": "호브",
+        "name": "호브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "SEF",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SEF.png",
+        "prodName": "소드&실드 스타터 세트 VMAX 「이상해꽃」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SE/SEF_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2021001021"
+    }
+]

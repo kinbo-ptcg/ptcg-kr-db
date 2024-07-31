@@ -1,0 +1,644 @@
+[
+    {
+        "id": "sc-018",
+        "cardID": "치라무060스위010",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "스위프뺨치기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로의 꼬리로 상대를 철저히 깨끗하게 만드는 것이 치라미끼리의 인사다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "053",
+                "prodCode": "bw1b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1b.png",
+                "prodName": "BW 확장팩 제1탄 「블랙 컬렉션」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_black_044.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011001044",
+                "debug": "2"
+            },
+            {
+                "number": "018",
+                "prodNumber": "025",
+                "prodCode": "sc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sc.png",
+                "prodName": "BW 확장팩 「샤이니 컬렉션」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/SC/sc_018.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013004018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "ebb-088",
+        "cardID": "치라무060동료000꼬리020",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "꼬리로 때리기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "깨끗함을 좋아하는 포켓몬이다. 꼬리를 빗자루 대신 써서 항상 거처의 먼지를 쓸어낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Tomohiro Kitakaze",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_047.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002047",
+                "debug": "2"
+            },
+            {
+                "number": "088",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Midori Harada",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_088.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006088",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "hrk-009",
+        "cardID": "치라무060막치010돌격030",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌격",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 서로의 몸을 쓰다듬어 인사를 나눈다. 자주 꼬리를 손질하여 항상 깨끗이 해둔다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "015",
+                "prodCode": "hrk",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/hrk.png",
+                "prodName": "BW 「한카리아스 덱」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_hkr_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012006009",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy10-064",
+        "cardID": "치라무060청소000",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "청소",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 「포켓몬의 도구」를 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "깨끗함을 좋아하는 포켓몬이다. 꼬리를 빗자루 대신 써서 항상 거처의 먼지를 쓸어낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "kirisAki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xyh-013",
+        "cardID": "치라무050꼬리020",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꼬리로 때리기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "깨끗함을 좋아하는 포켓몬이다. \n꼬리를 빗자루 대신 써서 항상\n 거처의 먼지를 쓸어낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "026",
+                "prodCode": "xyh",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyh.png",
+                "prodName": "XY BREAK 메가 배틀 60장 덱 「M다부니 EX」",
+                "artist": "Mizue",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYH/XYH_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016004013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-042",
+        "cardID": "치라무060간지010",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "간지르기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "서로의 꼬리로 상대를 철저히 깨끗하게 만드는 것이 치라미끼리의 인사다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "kodama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SA_R-010",
+        "cardID": "치라무060꼬리030",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "023",
+                "prodCode": "SA_R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_R.png",
+                "prodName": "소드&실드 스타터 세트 V 불꽃",
+                "artist": "sowsow",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_R_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001034",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-047",
+        "cardID": "치라무070흘끗000스위020",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "흘끗보기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 보고 원래대로 되돌린다."
+            },
+            {
+                "name": "스위프뺨치기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Sekio",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002047",
+                "debug": "1"
+            },
+            {
+                "number": "142",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Sekio",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_142.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016142",
+                "debug": "2"
+            },
+            {
+                "number": "292",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "MAHOU",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_292.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016292",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9-085",
+        "cardID": "치라무060동료000막치010",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "085",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002085",
+                "debug": "1"
+            },
+            {
+                "number": "025",
+                "prodNumber": "049",
+                "prodCode": "SVG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVG.png",
+                "prodName": "스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVG/SVG_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023023025",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-059",
+        "cardID": "치라무070때리010청소000",
+        "name": "치라미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "치라미",
+                "pokedexNumber": 572
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "청소",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 「포켓몬의 도구」를 2장까지 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Yuka Morii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004059",
+                "debug": "1"
+            },
+            {
+                "number": "082",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Shibuzoh.",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_082.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004082",
+                "debug": "2"
+            }
+        ]
+    }
+]

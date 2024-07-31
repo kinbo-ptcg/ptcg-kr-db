@@ -1,0 +1,773 @@
+[
+    {
+        "id": "SVEM-001",
+        "cardID": "뮤츠번230테라트랜000포톤010",
+        "name": "뮤츠 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "뮤츠",
+                "pokedexNumber": 150
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "트랜스차지",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「기본 (초) 에너지」를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "포톤키네시스",
+                "cost": "(초)(초)",
+                "damage": "10+",
+                "text": "자신의 포켓몬 전원에게 붙어 있는 (초) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018001"
+    },
+    {
+        "id": "SVEM-002",
+        "cardID": "아라초060최면000구르030",
+        "name": "아라리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "아라리",
+                "pokedexNumber": 102
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "6마리가 아니면 진정하지 못한다. 1마리라도 없어지면 바로 도망태세가 된다.",
+        "number": "002",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Kariya",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018002"
+    },
+    {
+        "id": "SVEM-003",
+        "cardID": "나시초130최면030사이160",
+        "name": "나시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "나시",
+                "pokedexNumber": 103
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면파동",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "사이킥루프",
+                "cost": "(초)(초)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "3개의 머리가 똘똘 뭉쳐서 쏘는 사이코 파워는 강력하다. 날씨가 흐리면 움직임이 둔하다.",
+        "number": "003",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Yoriyuki Ikegami",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018003"
+    },
+    {
+        "id": "SVEM-004",
+        "cardID": "네이초050삼연010",
+        "name": "네이티",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "네이티",
+                "pokedexNumber": 177
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "삼연속찌르기",
+                "cost": "(초)",
+                "damage": "10×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개가 아직 잘 발달하지 못해서 점프하듯 이동한다. 항상 뭔가를 바라보고 있다.",
+        "number": "004",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "ryoma uratsuka",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018004"
+    },
+    {
+        "id": "SVEM-005",
+        "cardID": "네이초100아카초염080",
+        "name": "네이티오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "네이티오",
+                "pokedexNumber": 178
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "초염동력",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아카식 센스",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 「기본 (초) 에너지」를 1장 선택해서 벤치 포켓몬에게 붙인다. 그 뒤, 자신의 덱을 2장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "과거와 미래를 내다볼 수 있다. 매일 태양의 움직임을 관찰하는 이상한 포켓몬이다.",
+        "number": "005",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Tetsu Kayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018005"
+    },
+    {
+        "id": "SVEM-006",
+        "cardID": "테오초120사이030게놈120",
+        "name": "테오키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코펀치",
+                "cost": "(초)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "게놈스파이럴",
+                "cost": "(초)(초)(초)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 벤치 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "우주 바이러스가 돌연변이를 일으켜 포켓몬이 되었다. 오로라 근처에 나타난다.",
+        "number": "006",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018006"
+    },
+    {
+        "id": "SVEM-007",
+        "cardID": "소미초060변덕030",
+        "name": "소미안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "소미안",
+                "pokedexNumber": 546
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "변덕공격",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "소미안과 백솜모카의 솜을 섞어 짠 천은 아름다워서 고급 브랜드에 사용된다.",
+        "number": "007",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "kurumitsu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018007"
+    },
+    {
+        "id": "SVEM-008",
+        "cardID": "엘풍초090요정050",
+        "name": "엘풍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "엘풍",
+                "pokedexNumber": 547
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "요정의바람",
+                "cost": "(초)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "햇빛을 받을수록 솜이 부풀어 오른다. 너무 부풀면 찢어져 주위로 흩어진다.",
+        "number": "008",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "KYUPIYAMA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018008"
+    },
+    {
+        "id": "SVEM-009",
+        "cardID": "데덴초070작은000스핀050",
+        "name": "데덴네",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데덴네",
+                "pokedexNumber": 702
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "작은 선물",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "스핀턴",
+                "cost": "(초)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸집이 작고 발전 기관이 미숙하기 때문에 사람이 사는 집의 전기를 꼬리를 통해 흡수해서 충전한다.",
+        "number": "009",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018009"
+    },
+    {
+        "id": "SVEM-010",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "010",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018010"
+    },
+    {
+        "id": "SVEM-011",
+        "cardID": "대단한낚싯대",
+        "name": "대단한낚싯대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬과 기본 에너지를 합계 3장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018011"
+    },
+    {
+        "id": "SVEM-012",
+        "cardID": "안개의 수정",
+        "name": "안개의 수정",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (초) 타입의 기본 포켓몬 또는 (초) 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018012"
+    },
+    {
+        "id": "SVEM-013",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018013"
+    },
+    {
+        "id": "SVEM-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018014"
+    },
+    {
+        "id": "SVEM-015",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018015"
+    },
+    {
+        "id": "SVEM-016",
+        "cardID": "용기의부적",
+        "name": "용기의부적",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 기본 포켓몬의 최대 HP는 「+50」이 된다."
+        ],
+        "number": "016",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018016"
+    },
+    {
+        "id": "SVEM-017",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018017"
+    },
+    {
+        "id": "SVEM-018",
+        "cardID": "모야모",
+        "name": "모야모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 각각 자신의 남은 프라이즈 장수만큼 덱을 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018018"
+    },
+    {
+        "id": "SVEM-019",
+        "cardID": "박사의 연구",
+        "name": "박사의 연구",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018019"
+    },
+    {
+        "id": "SVEM-020",
+        "cardID": "보스의 지령",
+        "name": "보스의 지령",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "020",
+        "prodNumber": "020",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVEM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "artist": "NC Empire",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018020"
+    },
+    {
+        "id": "SVEM-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "PSY",
+        "prodCode": "SVEM",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 스타터 세트 테라스탈 「뮤츠 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVEM/SVEM_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023018021"
+    }
+]

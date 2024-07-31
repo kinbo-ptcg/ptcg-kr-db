@@ -1,0 +1,5426 @@
+[
+    {
+        "id": "S8-001",
+        "cardID": "캐터풀050무리000벌레010",
+        "name": "캐터피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "캐터피",
+                "pokedexNumber": 10
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "무리짓기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「캐터피」를 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "벌레먹음",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다리는 짧지만 빨판으로 되어 있어 비탈길이나 벽에서도 지치지 않고 나아간다.",
+        "number": "001",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018001"
+    },
+    {
+        "id": "S8-002",
+        "cardID": "단데풀080딱딱부딪010",
+        "name": "단데기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "단데기",
+                "pokedexNumber": 11
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "단단한 껍질로 둘러싸여 있지만 안은 부드럽기 때문에 강한 공격에는 버티지 못한다.",
+        "number": "002",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018002"
+    },
+    {
+        "id": "S8-003",
+        "cardID": "버터풀120삼색바람090",
+        "name": "버터플",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버터플",
+                "pokedexNumber": 12
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "바람일으키기",
+                "cost": "(풀)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "삼색인분",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬을 독과 화상과 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "매일 꿀을 모으러 다닌다. 다리의 솜털에 꿀을 발라 둥지로 가지고 가는 습성이 있다.",
+        "number": "003",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "ryoma uratsuka",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018003"
+    },
+    {
+        "id": "S8-004",
+        "cardID": "버섯풀060몸통010씨폭020",
+        "name": "버섯꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "버섯꼬",
+                "pokedexNumber": 285
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 정수리에서 독 포자를 뿜어낸다. 포자를 들이마시면 몸의 마디마디가 아파진다.",
+        "number": "004",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018004"
+    },
+    {
+        "id": "S8-005",
+        "cardID": "버섯풀120박치030임팩150",
+        "name": "버섯모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버섯모",
+                "pokedexNumber": 286
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "임팩트블로",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 「임팩트블로」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "독 포자를 뿌려 들이마시고 괴로워하는 상대에게 강렬한 펀치를 날린다.",
+        "number": "005",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yukiko Baba",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018005"
+    },
+    {
+        "id": "S8-006",
+        "cardID": "마라풀110쪼기020휙휙050",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "휙휙셰이크",
+                "cost": "(풀)(무색)",
+                "damage": "50×",
+                "text": "자신의 패에서 「포켓몬의 도구」를 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "일 년에 한 번 씨를 뿌린다. 꽃의 씨는 영양이 매우 풍부해 사막의 귀중한 식량이다.",
+        "number": "006",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "0313",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018006"
+    },
+    {
+        "id": "S8-007",
+        "cardID": "쪼마풀070스핏020",
+        "name": "쪼마리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "쪼마리",
+                "pokedexNumber": 616
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스핏빔",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "전기 에너지에 반응하는 신비한 체질을 지녔다. 딱정곤과 함께 있으면 무슨 이유인지 진화한다.",
+        "number": "007",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shibuzoh.",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018007"
+    },
+    {
+        "id": "S8-008",
+        "cardID": "어지풀090닌자120",
+        "name": "어지리더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "어지리더",
+                "pokedexNumber": 617
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "닌자토네이도",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "120",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 이 기술은 (풀) 에너지 1개로 사용할 수 있다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "껍질을 벗어 몸이 가벼워졌다. 띠 형태의 점막을 몸에 둘러 건조해지는 것을 방지한다.",
+        "number": "008",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "nagimiso",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018008"
+    },
+    {
+        "id": "S8-009",
+        "cardID": "비리풀110구해000솔라090",
+        "name": "비리디온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "비리디온",
+                "pokedexNumber": 640
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "구해내기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "솔라빔",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "재빠른 몸놀림으로 상대를 농락해 포켓몬을 지킨다고 전설로 전해져 온다.",
+        "number": "009",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018009"
+    },
+    {
+        "id": "S8-010",
+        "cardID": "턱지풀070하전000허찌050",
+        "name": "턱지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "턱지충이",
+                "pokedexNumber": 736
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "하전",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "허찌르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "커다란 턱으로 숲에서 땅을 파고 굴을 만든다. 달콤한 수액을 매우 좋아한다.",
+        "number": "010",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Asako Ito",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018010"
+    },
+    {
+        "id": "S8-011",
+        "cardID": "달코풀200퀸오020",
+        "name": "달코퀸 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "달코퀸",
+                "pokedexNumber": 763
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "퀸오더",
+                "cost": "(풀)(무색)",
+                "damage": "20+",
+                "text": "자신의 벤치 포켓몬을 원하는 만큼 트래쉬하고 트래쉬한 벤치 포켓몬의 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "011",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018011"
+    },
+    {
+        "id": "S8-012",
+        "cardID": "가디불080데우000화염030",
+        "name": "가디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "가디",
+                "pokedexNumber": 58
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "데우기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다.",
+        "number": "012",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Narumi Sato",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018012"
+    },
+    {
+        "id": "S8-013",
+        "cardID": "윈디불130불꽃040히트160",
+        "name": "윈디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "윈디",
+                "pokedexNumber": 59
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃의발톱",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "히트태클",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 마치 나는 것처럼 경쾌하게 달린다.",
+        "number": "013",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yuu Nishida",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018013"
+    },
+    {
+        "id": "S8-014",
+        "cardID": "샹델불200이상000폴터040",
+        "name": "샹델라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "이상한빛",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "폴터가이스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "40×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "014",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Saki Hayashiro",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018014"
+    },
+    {
+        "id": "S8-015",
+        "cardID": "샹델불320속박다이070",
+        "name": "샹델라 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "다이폴터가이스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "70×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "속박의 아지랑이",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 「포켓몬의 도구」를 꺼내서 붙일 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018015"
+    },
+    {
+        "id": "S8-016",
+        "cardID": "앤티불110불꽃020익사090",
+        "name": "앤티골",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "앤티골",
+                "pokedexNumber": 631
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": "자신의 트래쉬에서 (불꽃) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "익사이팅 플레임",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90",
+                "text": "이 기술을 사용하기 위한 에너지보다 3개 많은 에너지가 붙어 있다면 상대의 벤치 포켓몬 1마리에게도 180데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃을 혀처럼 사용한다. 아이앤트의 단단한 외골격을 조금씩 녹여 먹어 치운다.",
+        "number": "016",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Oswaldo KATO",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018016"
+    },
+    {
+        "id": "S8-017",
+        "cardID": "춤추불090열혈정열000",
+        "name": "춤추새",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "춤추새",
+                "pokedexNumber": 741
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "정열물방울",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 5개를 상대의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "열혈레슨",
+                "text": "이 포켓몬이 있는 한, 자신의 「퓨전」의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-20」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "다홍꿀을 빨아들인 춤추새. 트레이너가 틀린 지시를 내리면 격렬하게 화를 내는 격정적인 성격이다.",
+        "number": "017",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Oswaldo KATO",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018017"
+    },
+    {
+        "id": "S8-018",
+        "cardID": "별가물060물에000회전010",
+        "name": "별가사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "별가사리",
+                "pokedexNumber": 120
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물에잠기기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 (물) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "회전어택",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "아무리 상처를 입어도 문제없다. 재생 능력이 높아서 한나절이면 원래대로 돌아온다.",
+        "number": "018",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018018"
+    },
+    {
+        "id": "S8-019",
+        "cardID": "아쿠물090연속000",
+        "name": "아쿠스타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "아쿠스타",
+                "pokedexNumber": 121
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "연속탄스타",
+                "cost": "(물)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 원하는 만큼 트래쉬하고 그 장수만큼 상대의 포켓몬을 선택한다(1마리를 2번 이상 선택할 수 있다). 그 뒤, 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기하학적인 몸을 회전시켜 수중에서 헤엄친다. 항상 의문의 전파를 발신하고 있다고 한다.",
+        "number": "019",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Uta",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018019"
+    },
+    {
+        "id": "S8-020",
+        "cardID": "리아물070물뿌020",
+        "name": "리아코",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "리아코",
+                "pokedexNumber": 158
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발달한 턱은 파워풀해서 뭐든지 깨물어 부수기 때문에 어버이 트레이너라도 주의해야 한다.",
+        "number": "020",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Mizue",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018020"
+    },
+    {
+        "id": "S8-021",
+        "cardID": "엘리물100스플030파도060",
+        "name": "엘리게이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "엘리게이",
+                "pokedexNumber": 159
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스플래시",
+                "cost": "(물)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "한번 물면 이빨이 빠질 때까지 절대 놓지 않는다. 빠진 이빨은 바로 자라난다.",
+        "number": "021",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018021"
+    },
+    {
+        "id": "S8-022",
+        "cardID": "장크물170난동깨물140",
+        "name": "장크로다일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "장크로다일",
+                "pokedexNumber": 160
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(물)(물)(무색)",
+                "damage": "140",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "난동꾼",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 반드시 1번 사용한다. 동전을 1번 던져서 앞면이 나오면 상대의 덱을 위에서부터 5장 트래쉬한다. 뒷면이 나오면 자신의 덱을 위에서부터 5장 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "크고 힘센 턱으로 한번 물면 그대로 목을 흔들어 상대를 갈기갈기 찢는다.",
+        "number": "022",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018022"
+    },
+    {
+        "id": "S8-023",
+        "cardID": "진주물060거품010",
+        "name": "진주몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "진주몽",
+                "pokedexNumber": 366
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "거품튀기기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "진주몽의 진주는 매우 귀하다. 셀러의 진주의 10배 이상 가치가 있다고도 한다.",
+        "number": "023",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Anesaki Dynamic",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018023"
+    },
+    {
+        "id": "S8-024",
+        "cardID": "헌테물110일격쩍바080",
+        "name": "헌테일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "헌테일",
+                "pokedexNumber": 367
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "쩍바이트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "일격방해",
+                "text": "이 포켓몬이 있는 한, 상대의 「일격」의 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "심해에 서식한다. 헌테일이 해변에 올라오면 불길한 일이 일어난다는 전설이 있다.",
+        "number": "024",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "otumami",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018024"
+    },
+    {
+        "id": "S8-025",
+        "cardID": "분홍물110연격드레050",
+        "name": "분홍장이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "분홍장이",
+                "pokedexNumber": 368
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "드레인키스",
+                "cost": "(물)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "연격캔슬러",
+                "text": "이 포켓몬이 있는 한, 상대 필드의 「연격」의 포켓몬의 특성은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹이의 체액을 빨아들인다. 고기는 바다 밑으로 가라앉아 다른 포켓몬의 먹이가 된다.",
+        "number": "025",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Misa Tsutsui",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018025"
+    },
+    {
+        "id": "S8-026",
+        "cardID": "모단물220사태000디스090",
+        "name": "모단단게 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "사태일으키기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            },
+            {
+                "name": "디스트로이어 펀치",
+                "cost": "(물)(물)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "026",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "MUGENUP",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018026"
+    },
+    {
+        "id": "S8-027",
+        "cardID": "해무물080해무꿀밤050",
+        "name": "해무기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "해무기",
+                "pokedexNumber": 771
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "꿀밤",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "해무기던지기",
+                "text": "이 카드가 패에 있다면 자신의 차례에 1번 사용할 수 있다. 이 카드를 덱의 아래로 되돌린다. 그 뒤, 자신의 덱을 1장 뽑는다. 이 차례에 이미 다른 「해무기던지기」를 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "보습 효과가 뛰어난 점액이 피부를 감싸고 있어 며칠을 육지에 있어도 마르지 않는다.",
+        "number": "027",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Tomokazu Komiya",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018027"
+    },
+    {
+        "id": "S8-028",
+        "cardID": "누니물040아이000",
+        "name": "누니머기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "누니머기",
+                "pokedexNumber": 872
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아이스콜",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 (물) 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "땅에 쌓인 눈을 먹는다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자란다.",
+        "number": "028",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yuka Morii",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018028"
+    },
+    {
+        "id": "S8-029",
+        "cardID": "모스물090얼다000블리160",
+        "name": "모스노우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "모스노우",
+                "pokedexNumber": 873
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "얼다바람",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "블리자드루프",
+                "cost": "(물)(물)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "산과 들을 황폐하게 만들면 용서하지 않는다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징한다.",
+        "number": "029",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "chibi",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018029"
+    },
+    {
+        "id": "S8-030",
+        "cardID": "목도번070갉기010일렉020",
+        "name": "목도리키텔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "목도리키텔",
+                "pokedexNumber": 694
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "태양광 발전 구조를 가졌다. 발전을 방해하면 스트레스를 받아서 약해진다.",
+        "number": "030",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Mina Nakai",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018030"
+    },
+    {
+        "id": "S8-031",
+        "cardID": "일레번110갉기020일렉060",
+        "name": "일레도리자드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "일레도리자드",
+                "pokedexNumber": 695
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(무색)",
+                "damage": "60",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "깃을 펼쳐 태양광을 받으면 대도시에서 사용할 수 있는 전기를 혼자서 발전한다.",
+        "number": "031",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Kagemaru Himeno",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018031"
+    },
+    {
+        "id": "S8-032",
+        "cardID": "전지번100찝기030헤드060",
+        "name": "전지충이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "전지충이",
+                "pokedexNumber": 737
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹은 낙엽을 소화할 때 전기가 발생하는 구조로 되어 있다. 배의 전기 주머니에 충전된다.",
+        "number": "032",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "sowsow",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018032"
+    },
+    {
+        "id": "S8-033",
+        "cardID": "투구번150물기070일렉000",
+        "name": "투구뿌논",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "투구뿌논",
+                "pokedexNumber": 738
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 블래스터",
+                "cost": "(번개)(번개)(무색)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 200데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "예비 배터리로서 전지충이를 안고 날면 높은 전력의 전자빔을 연사할 수 있다.",
+        "number": "033",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "nagimiso",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018033"
+    },
+    {
+        "id": "S8-034",
+        "cardID": "펄스번200스매030일렉120",
+        "name": "펄스멍 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스매시턴",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "034",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shin Nagasawa",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018034"
+    },
+    {
+        "id": "S8-035",
+        "cardID": "펄스번320라이030다이230",
+        "name": "펄스멍 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "라이트닝스톰",
+                "cost": "(번개)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (번개) 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "다이볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "230",
+                "text": "자신의 다음 차례에 이 포켓몬은 「다이볼트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "035",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018035"
+    },
+    {
+        "id": "S8-036",
+        "cardID": "일레번060울음000프티010",
+        "name": "일레즌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "일레즌",
+                "pokedexNumber": 848
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "프티볼트",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독소를 화학 변화시켜 전기를 만들어 낸다. 전력은 약하지만 찌릿찌릿 마비된다.",
+        "number": "036",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "kodama",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018036"
+    },
+    {
+        "id": "S8-037",
+        "cardID": "스트번120맥스헤드090",
+        "name": "스트린더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "스트린더",
+                "pokedexNumber": 849
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "맥스다우너",
+                "text": "자신의 필드의 포켓몬 전원이 「퓨전」의 포켓몬이라면 작용한다. 이 포켓몬이 있는 한, 상대 필드의 「포켓몬 VMAX」 전원의 최대 HP는 각각 「30」작아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "발전 기관이 가슴에 있다. 전기가 만들어질 때 베이스 기타 같은 소리가 울린다.",
+        "number": "037",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "nagimiso",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018037"
+    },
+    {
+        "id": "S8-038",
+        "cardID": "루주초100더블000미혹030",
+        "name": "루주라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "루주라",
+                "pokedexNumber": 124
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "미혹댄스",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "인간의 언어를 닮은 이상한 울음소리를 가졌다. 루주라가 부르는 곡을 만드는 음악가도 있다.",
+        "number": "038",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shigenori Negishi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018038"
+    },
+    {
+        "id": "S8-039",
+        "cardID": "뮤우초180에너000사이070",
+        "name": "뮤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지믹스",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 에너지를 1장 선택해서 자신의 「퓨전」의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사이코점프",
+                "cost": "(초)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. "
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "039",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018039"
+    },
+    {
+        "id": "S8-040",
+        "cardID": "뮤우초310크로000다이130",
+        "name": "뮤 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "크로스퓨전",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 벤치의 「퓨전」의 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다."
+            },
+            {
+                "name": "다이미라클",
+                "cost": "(초)(초)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "040",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "5ban Graphics",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018040"
+    },
+    {
+        "id": "S8-041",
+        "cardID": "블루초070박치010물기030",
+        "name": "블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "블루",
+                "pokedexNumber": 209
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겉보기와 다르게 겁쟁이라 다른 강아지포켓몬과 함께 있으면 괴롭힘을 당할 때도 있다.",
+        "number": "041",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Kyoko Umemoto",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018041"
+    },
+    {
+        "id": "S8-042",
+        "cardID": "그랑초120움켜물기090",
+        "name": "그랑블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "그랑블루",
+                "pokedexNumber": 210
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "움켜잡기",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 트래쉬에서 「포켓몬의 도구」를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "젊은 여성에게 인기가 많지만 겁쟁이인데다가 섬세하기 때문에 지킴이로는 무능하다.",
+        "number": "042",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Akira Komayama",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018042"
+    },
+    {
+        "id": "S8-043",
+        "cardID": "코산초070몸통030",
+        "name": "가라르 코산호",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "코산호",
+                "pokedexNumber": 222,
+                "region": "가라르"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "갑작스러운 환경 변화로 죽은 태고의 코산호. 가지로 사람의 생기를 빨아들인다.",
+        "number": "043",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018043"
+    },
+    {
+        "id": "S8-044",
+        "cardID": "산호초100강압000홀로080",
+        "name": "가라르 산호르곤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "산호르곤",
+                "pokedexNumber": 864,
+                "region": "가라르"
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "강압재생",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 트래쉬에서 기본 포켓몬인 「포켓몬 V」를 1장 선택해서 상대의 벤치로 내보낸다. 그 뒤, 그 포켓몬의 남은 HP가 「30」이 되도록 데미지 카운터를 올린다."
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "혼을 감싸는 영체의 몸은 주의가 필요하다. 만지면 돌처럼 움직일 수 없게 된다.",
+        "number": "044",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018044"
+    },
+    {
+        "id": "S8-045",
+        "cardID": "테오초120포톤080",
+        "name": "테오키스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전",
+            "일격",
+            "연격"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "포톤부스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "이 포켓몬에게 「퓨전 에너지」가 붙어 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "우주 바이러스가 돌연변이를 일으켜 포켓몬이 되었다. 오로라 근처에 나타난다.",
+        "number": "045",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018045"
+    },
+    {
+        "id": "S8-046",
+        "cardID": "몽나초080부딪010",
+        "name": "몽나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "몽나",
+                "pokedexNumber": 517
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "꿈을 먹고 연기를 내뿜는다. 즐거운 꿈이면 핑크색이고 악몽이면 거무스름하다.",
+        "number": "046",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "miki kudo",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018046"
+    },
+    {
+        "id": "S8-047",
+        "cardID": "몽얌초120잠듦000사이030",
+        "name": "몽얌나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몽얌나",
+                "pokedexNumber": 518
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "잠듦유인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬을 잠듦으로 만든다. "
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "언제나 선잠을 자며 꿈을 꾼다. 잠에서 깨면 매우 불쾌해하므로 가만히 내버려 두자.",
+        "number": "047",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Tika Matsuno",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018047"
+    },
+    {
+        "id": "S8-048",
+        "cardID": "메로초090멜로070",
+        "name": "메로엣타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "메로엣타",
+                "pokedexNumber": 648
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "멜로디어스 에코",
+                "cost": "(초)(무색)",
+                "damage": "70×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 「퓨전 에너지」의 수 × 70데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다.",
+        "number": "048",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "kirisAki",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018048"
+    },
+    {
+        "id": "S8-049",
+        "cardID": "드라초060엉겨010",
+        "name": "드라꼰",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "드라꼰",
+                "pokedexNumber": 885
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "엉겨붙기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "1마리로는 아이에게도 질 정도로 힘이 약하지만 동료의 협력으로 단련하고 진화하면 강해진다.",
+        "number": "049",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Teeziro",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018049"
+    },
+    {
+        "id": "S8-050",
+        "cardID": "드래초090홀로020유턴030",
+        "name": "드래런치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "드래런치",
+                "pokedexNumber": 886
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "홀로숏",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "유턴",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "보살피는 드라꼰을 머리에 태우지 않으면 진정하지 못하고 다른 포켓몬을 태우려고 한다.",
+        "number": "050",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018050"
+    },
+    {
+        "id": "S8-051",
+        "cardID": "드래초150퓨전030스피120",
+        "name": "드래펄트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "드래펄트",
+                "pokedexNumber": 887
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "퓨전어설트",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "자신의 필드의 「퓨전」의 포켓몬의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "스피드어택",
+                "cost": "(초)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "뿔에 들어간 드라꼰은 마하의 속도로 날려지기를 기대하고 있는 것 같다.",
+        "number": "051",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Souichirou Gunjima",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018051"
+    },
+    {
+        "id": "S8-052",
+        "cardID": "꼬마격080구르010치기020",
+        "name": "꼬마돌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "꼬마돌",
+                "pokedexNumber": 74
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "양손을 사용해서 험한 절벽을 오른다. 그 모습을 본 사람이 볼더링을 시작했다고 한다.",
+        "number": "052",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "OKACHEKE",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018052"
+    },
+    {
+        "id": "S8-053",
+        "cardID": "데구격110몸통030록스070",
+        "name": "데구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "데구리",
+                "pokedexNumber": 75
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "록스매시",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "절벽을 굴러서 이동한다. 실수로 강에 떨어지면 최후의 발악으로 대폭발한다.",
+        "number": "053",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018053"
+    },
+    {
+        "id": "S8-054",
+        "cardID": "딱구격180자포이판160",
+        "name": "딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "딱구리",
+                "pokedexNumber": 76
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "이판사판태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "자포자기봄버",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 기술을 사용한 포켓몬에게 데미지 카운터를 10개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "스스로 몸을 폭발시킨다. 그 파워로 가파른 산길도 굉장한 스피드로 올라간다.",
+        "number": "054",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018054"
+    },
+    {
+        "id": "S8-055",
+        "cardID": "롱스격110가드030돌떨090",
+        "name": "롱스톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "롱스톤",
+                "pokedexNumber": 95
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "크고 튼튼한 몸을 뒤틀고 꼬아서 시속 80km로 힘차게 땅을 파나간다.",
+        "number": "055",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018055"
+    },
+    {
+        "id": "S8-056",
+        "cardID": "강철격190파워020지진180",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파워레이지",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.",
+        "number": "056",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Ryuta Fuse",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018056"
+    },
+    {
+        "id": "S8-057",
+        "cardID": "두더격060할퀴020",
+        "name": "두더류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "두더류",
+                "pokedexNumber": 529
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "손톱으로 땅속을 파고 다니면서 키우는 채소를 해치기 때문에 농업 종사자들이 싫어한다.",
+        "number": "057",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "tetsuya koizumi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018057"
+    },
+    {
+        "id": "S8-058",
+        "cardID": "대여격090박치030벼랑060",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "벼랑끝의진",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 160데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+        "number": "058",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Akira Komayama",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018058"
+    },
+    {
+        "id": "S8-059",
+        "cardID": "지그악060핥기010",
+        "name": "가라르 지그제구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "지그제구리",
+                "pokedexNumber": 263,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "핥기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "이 모습이 가장 오래된 지그제구리의 모습인 듯하다. 지그재그로 움직이며 주변을 엉망으로 만든다.",
+        "number": "059",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Eri Yamaki",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018059"
+    },
+    {
+        "id": "S8-060",
+        "cardID": "직구악090뒤로030",
+        "name": "가라르 직구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "직구리",
+                "pokedexNumber": 264,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "매우 호전적인 성질을 가졌다. 자신보다 강한 상대에게도 개의치 않고 무모하게 덤빈다.",
+        "number": "060",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "sowsow",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018060"
+    },
+    {
+        "id": "S8-061",
+        "cardID": "가로악170조용030무자060",
+        "name": "가라르 가로막구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "가로막구리",
+                "pokedexNumber": 862,
+                "region": "가라르"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "조용히시키기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다."
+            },
+            {
+                "name": "무자비한일격",
+                "cost": "(악)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "싸움을 반복하면서 진화한다. 팔을 크로스하고 우렁차게 외치면 어떤 상대라도 풀죽게 된다.",
+        "number": "061",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "kodama",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018061"
+    },
+    {
+        "id": "S8-062",
+        "cardID": "깨봉악070동료000독의020",
+        "name": "깨봉이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깨봉이",
+                "pokedexNumber": 568
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "독의숨",
+                "cost": "(악)(무색)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "쓰레기가 가득 담긴 쓰레기봉투에서 태어났다. 내뿜는 독가스는 가라르의 또도가스가 매우 좋아한다.",
+        "number": "062",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shibuzoh.",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018062"
+    },
+    {
+        "id": "S8-063",
+        "cardID": "더스악120독가030오물130",
+        "name": "더스트나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "더스트나",
+                "pokedexNumber": 569
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독가스",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "오물회오리",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "오른팔에서 내보내는 독액은 약한 생물이 맞으면 즉사할 정도로 위험하다.",
+        "number": "063",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "sui",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018063"
+    },
+    {
+        "id": "S8-064",
+        "cardID": "벌차악060날카010에어030",
+        "name": "벌차이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "벌차이",
+                "pokedexNumber": 629
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "날카로운날개",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "에어슬래시",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "금방 크게 성장하므로 엉덩이의 해골은 둥지 안에서 대물림되어 계속 사용된다.",
+        "number": "064",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shigenori Negishi",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018064"
+    },
+    {
+        "id": "S8-065",
+        "cardID": "버랜악120뼈다020다크070",
+        "name": "버랜지나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버랜지나",
+                "pokedexNumber": 630
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "뼈다귀봉인",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 패에서 포켓몬을 꺼내서 진화시킬 수 없다."
+            },
+            {
+                "name": "다크커터",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "주운 뼈로 몸을 장식한다. 몸에 두르는 뼈의 모양은 유행이 있는 듯하다.",
+        "number": "065",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Narumi Sato",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018065"
+    },
+    {
+        "id": "S8-066",
+        "cardID": "후파악220더블섀도170",
+        "name": "후파 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "섀도임팩트",
+                "cost": "(악)(악)(무색)",
+                "damage": "170",
+                "text": "자신의 포켓몬 1마리에게 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블페이스",
+                "text": "이 포켓몬은 필드에 있는 한, (초) 와 (악) 의 2가지 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "066",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "takuyoa",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018066"
+    },
+    {
+        "id": "S8-067",
+        "cardID": "몰드강130메탈050암석120",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈크로우",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "암석봉인",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.",
+        "number": "067",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Lee HyunJung",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018067"
+    },
+    {
+        "id": "S8-068",
+        "cardID": "아이강070역경070",
+        "name": "아이앤트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "아이앤트",
+                "pokedexNumber": 632
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "역경의턱",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬이 (불꽃) 포켓몬이라면 그 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "큰 턱은 암석도 깨물어 부순다. 사다이사로부터 알을 지키기 위해 무리 지어 싸운다.",
+        "number": "068",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Shin Nagasawa",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018068"
+    },
+    {
+        "id": "S8-069",
+        "cardID": "게노강190퓨전테크210",
+        "name": "게노세크트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "테크노버스터",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퓨전시스템",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패의 장수가 자신의 필드의 「퓨전」의 포켓몬의 수와 같은 장수가 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "069",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018069"
+    },
+    {
+        "id": "S8-070",
+        "cardID": "토게강080다함020볼어050",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "다함께구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "볼어택",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댄다.",
+        "number": "070",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Oswaldo KATO",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018070"
+    },
+    {
+        "id": "S8-071",
+        "cardID": "멜탄강070철분000박치020",
+        "name": "멜탄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멜탄",
+                "pokedexNumber": 808
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "철분섭취",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            },
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "걸쭉하게 녹은 강철의 몸을 가졌다. 땅속의 철분이나 금속을 녹여서 흡수한다.",
+        "number": "071",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Teeziro",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018071"
+    },
+    {
+        "id": "S8-072",
+        "cardID": "멜메강150잉곳080블라150",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "잉곳스윙",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬은 특성을 가진 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "블라스트해머",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.",
+        "number": "072",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Hasuno",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018072"
+    },
+    {
+        "id": "S8-073",
+        "cardID": "아머강170강철050파워160",
+        "name": "아머까오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "아머까오",
+                "pokedexNumber": 823
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철날개",
+                "cost": "(강철)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "파워사이클론",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "비행 능력이 뛰어나고 매우 영리해 가라르지방에서 하늘의 택시로 활약한다.",
+        "number": "073",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Ryuta Fuse",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018073"
+    },
+    {
+        "id": "S8-074",
+        "cardID": "라티드120레드다이070",
+        "name": "라티아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라티아스",
+                "pokedexNumber": 380
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "다이너배리어",
+                "cost": "(불꽃)(초)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬은 「포켓몬 VMAX」로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "레드어시스트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 (초) 에너지를 1장 선택해서 자신의 「라티오스」에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "텔레파시로 인간과 마음을 교감한다. 빛을 굴절시키는 깃털로 다른 모습으로 변신한다.",
+        "number": "074",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yuu Nishida",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018074"
+    },
+    {
+        "id": "S8-075",
+        "cardID": "라티드130블루라스210",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "퓨전"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "라스트버지",
+                "cost": "(물)(물)(초)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "블루어시스트",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 (초) 에너지를 1장 선택해서 자신의 「라티아스」에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "높은 지능을 가졌기 때문에 인간의 말을 이해한다. 다툼을 싫어하는 상냥한 포켓몬이다.",
+        "number": "075",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "hatachu",
+        "rarity": "R",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018075"
+    },
+    {
+        "id": "S8-076",
+        "cardID": "미끄드050몸통010녹이020",
+        "name": "미끄메라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미끄메라",
+                "pokedexNumber": 704
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "녹이기",
+                "cost": "(물)(초)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "뿔은 뛰어난 감각 기관이다. 적의 기척을 느끼면 바로 숨어들어 살아남아 왔다.",
+        "number": "076",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Miki Tanaka",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018076"
+    },
+    {
+        "id": "S8-077",
+        "cardID": "미끄드080녹이020누르050",
+        "name": "미끄네일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "미끄네일",
+                "pokedexNumber": 705
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "녹이기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "누르기",
+                "cost": "(물)(초)",
+                "damage": "50",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등의 돌기 안에 작은 뇌가 있다. 먹이에 대한 생각과 적으로부터 도망치는 생각만 한다.",
+        "number": "077",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Saya Tsuruta",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018077"
+    },
+    {
+        "id": "S8-078",
+        "cardID": "미끄드160매끌버스120",
+        "name": "미끄래곤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "미끄래곤",
+                "pokedexNumber": 706
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "버스터테일",
+                "cost": "(물)(초)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "매끌매끌룸",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 에너지를 포켓몬에게 붙일 때 붙이기 전에 동전을 1번 던진다. 뒷면이 나오면 그 에너지는 붙인 것이 되지 않고 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "긴 뿔을 기세 좋게 늘여서 공격한다. 위력은 헤비급 복서 펀치의 100배다.",
+        "number": "078",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Nagomi Nijo",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018078"
+    },
+    {
+        "id": "S8-079",
+        "cardID": "노고무060이상구르030",
+        "name": "노고치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "노고치",
+                "pokedexNumber": 206
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이상한굴",
+                "text": "이 포켓몬이 있는 한, 서로의 필드의 (무색) 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람의 모습을 보면 꼬리로 구멍을 파서 도망가 버린다. 만났다면 운이 좋은 것이다.",
+        "number": "079",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "ryoma uratsuka",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018079"
+    },
+    {
+        "id": "S8-080",
+        "cardID": "루브무070트래000꼬리080",
+        "name": "루브도",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "루브도",
+                "pokedexNumber": 235
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트래쉬스케치",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 「퓨전」의 트레이너스를 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "꼬리로 막치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리 끝에서 나오는 체액으로 마크를 그린다. 마크에 따라서는 마니아에게 비싼 값에 거래된다.",
+        "number": "080",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018080"
+    },
+    {
+        "id": "S8-081",
+        "cardID": "에나무060변덕030",
+        "name": "에나비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "에나비",
+                "pokedexNumber": 300
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "변덕 태클",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "자신의 꼬리를 쫓아서 놀고 있으면 눈이 핑 돌고 마는 귀여운 일면을 보인다.",
+        "number": "081",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yukiko Baba",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018081"
+    },
+    {
+        "id": "S8-082",
+        "cardID": "델케무100멋대000연속050",
+        "name": "델케티",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "델케티",
+                "pokedexNumber": 301
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "멋대로돌보기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 패를 보고 그 중에서 카드를 1장 선택해서 상대의 덱의 아래로 되돌린다."
+            },
+            {
+                "name": "연속뺨치기",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "아름다운 털을 가지고 있어서 여성 트레이너들에게 매우 인기 있다. 정해진 거처를 갖고 있지 않다.",
+        "number": "082",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "kirisAki",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_082.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018082"
+    },
+    {
+        "id": "S8-083",
+        "cardID": "파르무060친구000돌진030",
+        "name": "파르빗",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "파르빗",
+                "pokedexNumber": 659
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "돌진",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "위험에 민감하다. 아머까오의 날갯소리를 들으면 눈 깜짝할 사이에 구멍을 파고 땅으로 숨어든다.",
+        "number": "083",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "sui",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_083.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018083"
+    },
+    {
+        "id": "S8-084",
+        "cardID": "파르무140한방080돌진150",
+        "name": "파르토",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "파르토",
+                "pokedexNumber": 660
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "돌진",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "배의 털은 보온성이 뛰어나다. 옛날 사람들은 파르토의 몸에서 빠진 털로 방한복을 만들었다.",
+        "number": "084",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "MAHOU",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_084.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018084"
+    },
+    {
+        "id": "S8-085",
+        "cardID": "요씽무210누르040걸신120",
+        "name": "요씽리스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "요씽리스",
+                "pokedexNumber": 820
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "누르기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "걸신앞니",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 덱을 3장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "085",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Yamashita",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_085.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018085"
+    },
+    {
+        "id": "S8-086",
+        "cardID": "요씽무320통째030다이160",
+        "name": "요씽리스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "요씽리스",
+                "pokedexNumber": 820
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "통째로득보기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "이 기술의 데미지로 상대의 기본 포켓몬이 기절했다면 프라이즈를 2장 더 가져온다."
+            },
+            {
+                "name": "다이탐욕",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "자신의 덱을 3장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "086",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_086.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018086"
+    },
+    {
+        "id": "S8-087",
+        "cardID": "파라무060마구010",
+        "name": "파라꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "파라꼬",
+                "pokedexNumber": 821
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "작은 몸을 기민하게 날려 틈을 노리는 전법으로 몸집이 큰 상대를 농락한다.",
+        "number": "087",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "OKACHEKE",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_087.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018087"
+    },
+    {
+        "id": "S8-088",
+        "cardID": "파크무080마구030",
+        "name": "파크로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "파크로우",
+                "pokedexNumber": 822
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "혹독한 싸움을 헤쳐 나와 상대의 역량을 정확히 판단하는 힘을 습득했다.",
+        "number": "088",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Naoyo Kimura",
+        "rarity": "C",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_088.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018088"
+    },
+    {
+        "id": "S8-089",
+        "cardID": "배틀VIP패스",
+        "name": "배틀VIP패스",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 첫 번째 차례에만 사용할 수 있다.",
+            "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "089",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_089.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018089"
+    },
+    {
+        "id": "S8-090",
+        "cardID": "크로스 스위처 ",
+        "name": "크로스 스위처 ",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "「크로스 스위처」는 2장을 동시에 사용해야 한다.",
+            "(효과는 2장으로 1번 작용한다.)",
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+            "그 뒤, 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "090",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "inose yukie",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_090.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018090"
+    },
+    {
+        "id": "S8-091",
+        "cardID": "크로스 시버",
+        "name": "크로스 시버",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "「크로스 시버」는 2장을 동시에 사용해야 한다.",
+            "(효과는 2장으로 1번 작용한다.)",
+            "자신의 트래쉬에서 포켓몬 또는 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "091",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_091.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018091"
+    },
+    {
+        "id": "S8-092",
+        "cardID": "파워태블릿 ",
+        "name": "파워태블릿 ",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 「퓨전」의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "092",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_092.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018092"
+    },
+    {
+        "id": "S8-093",
+        "cardID": "스펀지글러브",
+        "name": "스펀지글러브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 (물) 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "093",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_093.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018093"
+    },
+    {
+        "id": "S8-094",
+        "cardID": "흔적의 큰방울",
+        "name": "흔적의 큰방울",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「포켓몬 VMAX」가 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "094",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_094.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018094"
+    },
+    {
+        "id": "S8-095",
+        "cardID": "댄서",
+        "name": "댄서",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 2장 뽑는다.",
+            "후공 플레이어의 첫 차례에 사용하면 3장 더 뽑는다."
+        ],
+        "number": "095",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_095.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018095"
+    },
+    {
+        "id": "S8-096",
+        "cardID": "카밀레의 반짝임\n",
+        "name": "카밀레의 반짝임\n",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "096",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_096.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018096"
+    },
+    {
+        "id": "S8-097",
+        "cardID": "팟과 덴트와 콘\n",
+        "name": "팟과 덴트와 콘\n",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「퓨전」의 포켓몬을 3장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "097",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_097.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018097"
+    },
+    {
+        "id": "S8-098",
+        "cardID": "혁진",
+        "name": "혁진",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 패를 보고 그 중에서 「포켓몬의 도구」「스타디움」「특수 에너지」를 2장까지 선택해서 트래쉬한다."
+        ],
+        "number": "098",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018098"
+    },
+    {
+        "id": "S8-099",
+        "cardID": "스케이터스 파크",
+        "name": "스케이터스 파크",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 배틀 포켓몬이 후퇴할 때 트래쉬하는 에너지가 기본 에너지라면 그 에너지는 트래쉬하지 않고 자신의 패로 되돌린다."
+        ],
+        "number": "099",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Oswaldo KATO",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018099"
+    },
+    {
+        "id": "S8-100",
+        "cardID": "퓨전 에너지\n",
+        "name": "퓨전 에너지\n",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지",
+            "퓨전"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 「퓨전」의 포켓몬에게만 붙일 수 있으며, 「퓨전」의 포켓몬 이외에 붙어 있다면 트래쉬한다.",
+            "이 카드는 포켓몬에게 붙어 있는 한, 모든 타입의 에너지 1개분으로 작용하고 이 카드를 붙이고 있는 포켓몬은 상대의 포켓몬으로부터 특성의 효과를 받지 않는다."
+        ],
+        "number": "100",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "rarity": "U",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_100.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018100"
+    },
+    {
+        "id": "S8-101",
+        "cardID": "달코풀200퀸오020",
+        "name": "달코퀸 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "달코퀸",
+                "pokedexNumber": 763
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "퀸오더",
+                "cost": "(풀)(무색)",
+                "damage": "20+",
+                "text": "자신의 벤치 포켓몬을 원하는 만큼 트래쉬하고 트래쉬한 벤치 포켓몬의 수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "101",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_101.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018101"
+    },
+    {
+        "id": "S8-102",
+        "cardID": "샹델불200이상000폴터040",
+        "name": "샹델라 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "이상한빛",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "폴터가이스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "40×",
+                "text": "상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "102",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Saki Hayashiro",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_102.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018102"
+    },
+    {
+        "id": "S8-103",
+        "cardID": "모단물220사태000디스090",
+        "name": "모단단게 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "모단단게",
+                "pokedexNumber": 740
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "사태일으키기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 2장 트래쉬한다. "
+            },
+            {
+                "name": "디스트로이어 펀치",
+                "cost": "(물)(물)(무색)",
+                "damage": "90+",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "103",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "MUGENUP",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_103.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018103"
+    },
+    {
+        "id": "S8-104",
+        "cardID": "펄스번200스매030일렉120",
+        "name": "펄스멍 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "펄스멍",
+                "pokedexNumber": 836
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스매시턴",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "120",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "104",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Eske Yoshinob",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_104.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018104"
+    },
+    {
+        "id": "S8-105",
+        "cardID": "뮤우초180에너000사이070",
+        "name": "뮤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지믹스",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 에너지를 1장 선택해서 자신의 「퓨전」의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사이코점프",
+                "cost": "(초)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. "
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "105",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "aky CG Works",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_105.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018105"
+    },
+    {
+        "id": "S8-106",
+        "cardID": "뮤우초180에너000사이070",
+        "name": "뮤 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지믹스",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 에너지를 1장 선택해서 자신의 「퓨전」의 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "사이코점프",
+                "cost": "(초)(무색)",
+                "damage": "70",
+                "text": "원한다면 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다. "
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "106",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Naoki Saito",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_106.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018106"
+    },
+    {
+        "id": "S8-107",
+        "cardID": "후파악220더블섀도170",
+        "name": "후파 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "후파",
+                "pokedexNumber": 720
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "섀도임팩트",
+                "cost": "(악)(악)(무색)",
+                "damage": "170",
+                "text": "자신의 포켓몬 1마리에게 데미지 카운터를 3개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블페이스",
+                "text": "이 포켓몬은 필드에 있는 한, (초) 와 (악) 의 2가지 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "107",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "takuyoa",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_107.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018107"
+    },
+    {
+        "id": "S8-108",
+        "cardID": "게노강190퓨전테크210",
+        "name": "게노세크트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "테크노버스터",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퓨전시스템",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패의 장수가 자신의 필드의 「퓨전」의 포켓몬의 수와 같은 장수가 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "108",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_108.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018108"
+    },
+    {
+        "id": "S8-109",
+        "cardID": "게노강190퓨전테크210",
+        "name": "게노세크트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "테크노버스터",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퓨전시스템",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패의 장수가 자신의 필드의 「퓨전」의 포켓몬의 수와 같은 장수가 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "109",
+        "prodNumber": "100",
+        "prodCode": "S8",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+        "prodName": "소드&실드 확장팩 「퓨전아츠」",
+        "artist": "Akira Komayama",
+        "rarity": "SR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_109.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018109"
+    }
+]

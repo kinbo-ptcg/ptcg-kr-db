@@ -1,0 +1,524 @@
+[
+    {
+        "id": "bw7-003",
+        "cardID": "토대풀150가드060럼블080",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "럼블스톰프",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "80+",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "토대부기 등에서 태어나 토대부기 등에서 일생을 다하는 포켓몬도 있다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5s-008",
+        "cardID": "토대풀180기가050지진180",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "기가드레인",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "지진",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "180",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우 가 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm5plus-024",
+        "cardID": "토대격180기가050지진180",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "기가드레인",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "180",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003024",
+                "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003087",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9-008",
+        "cardID": "토대풀190이볼050한방160",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "이볼브프레스",
+                "cost": "(풀)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 진화 포켓몬의 수 × 50데미지를 준다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(풀)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "100",
+                "prodCode": "S9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9.png",
+                "prodName": "소드&실드 확장팩 「스타버스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9/S9_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022002008",
+                "debug": "1"
+            },
+            {
+                "number": "008",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Oswaldo KATO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001008",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5K-005",
+        "cardID": "토대풀340숲의030정글150",
+        "name": "토대부기 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 340,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "숲의행진",
+                "cost": "(풀)",
+                "damage": "30×",
+                "text": "자신의 필드의 (풀) 포켓몬의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "정글해머",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬의 HP를 「50」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_005.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004005",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_084.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004084",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "st1-05",
+        "cardID": "토대풀140누르030리프060",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "누르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            },
+            {
+                "name": "리프스톰",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 (풀) 포켓몬 전원으로부터 데미지 카운터를 각각 2개씩 제거한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "05",
+                "prodNumber": "55",
+                "prodCode": "st1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/st1.png",
+                "prodName": "DP 랜덤 구축덱",
+                "artist": "Masahiko Ishii",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/ST1/st1_kr_5.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2010001005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bs1-04",
+        "cardID": "토대풀140지진060하드100",
+        "name": "토대부기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "지진",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다."
+            },
+            {
+                "name": "하드플랜트",
+                "cost": "(풀)(풀)(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 다음 차례에 자신은 「하드플랜트」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "이동하는 숲의 정체는 물을 찾아서 거처를 옮기는 토대부기의 무리다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "04",
+                "prodNumber": "60",
+                "prodCode": "bs1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+                "prodName": "DP 확장팩 모험의 시작",
+                "artist": "Daisuke Ito",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_4.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs1-05",
+        "cardID": "토대풀160숲의맥진100",
+        "name": "토대부기 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 토대부기에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "토대부기",
+                "pokedexNumber": 389
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "맥진",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. 자신에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "숲의 웅성거림",
+                "text": "자신의 프라이즈의 장수가 상대의 프라이즈의 장수보다 많으면 자신의 차례에 한 번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체한다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "05",
+                "prodNumber": "60",
+                "prodCode": "bs1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs1.png",
+                "prodName": "DP 확장팩 모험의 시작",
+                "artist": "Shizurow",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS1/bs1_kr_5.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010001005",
+                "debug": "1"
+            }
+        ]
+    }
+]

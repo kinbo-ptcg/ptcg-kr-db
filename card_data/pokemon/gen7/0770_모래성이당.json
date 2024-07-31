@@ -1,0 +1,612 @@
+[
+    {
+        "id": "sm1plus-035",
+        "cardID": "모래격130모래생기050",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "생기흡수",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "모래방벽",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "입안에 손을 넣은 자를 조종한다. 모래언덕의 몸집을 크게 만들기 위해서다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002034",
+                "debug": "2"
+            },
+            {
+                "number": "035",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003035",
+                "debug": "1"
+            },
+            {
+                "number": "035",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003088",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013060",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011060",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3h-026",
+        "cardID": "모래초130모래080모래100",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "모래지옥",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "모래먼지바람",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "100",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 카드를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "사람을 조종하여 모래언덕을 모래성으로까지 진화시켰다. 저주의 힘도 깊어졌다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-050",
+        "cardID": "모래격140가드080지진150",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "한 알의 모래에도 의지가 있다. 작은 포켓몬을 산 채로 삼켜서 생기를 뺏는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "OOYAMA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-043",
+        "cardID": "모래초140샌드000초흡090",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "샌드싱크",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다. 이 포켓몬에게 「저주의삽」이 붙어 있다면 2장 더 트래쉬한다."
+            },
+            {
+                "name": "초흡수",
+                "cost": "(초)(무색)(무색)",
+                "damage": "90",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "모래바람을 일으켜서 상대의 움직임을 봉인하고 생기를 뺏는 무서운 포켓몬이다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-196",
+        "cardID": "모래초140샌드120모래000",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "샌드할로우",
+                "cost": "(초)(초)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "모래먼지압박",
+                "cost": "(초)(초)(초)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬이 기본 포켓몬이라면 그 포켓몬을 기절시킨다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "모래바람을 일으켜서 상대의 움직임을 봉인하고 생기를 뺏는 무서운 포켓몬이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "Shibuzoh.",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007043",
+                "debug": "2"
+            },
+            {
+                "number": "196",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Shibuzoh.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_196.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003196",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S11-064",
+        "cardID": "모래격140모래000랜드120",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "모래항아리 지옥",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "랜드크래시",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "해변의 악몽이라고도 불린다. 모래를 조종하여 먹이를 가라앉힌 뒤 영혼을 흡수한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV2D-030",
+        "cardID": "모래초150홀로040그라080",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "그라운드파워",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80+",
+                "text": "필드에 자신의 스타디움이 나와 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "작은 포켓몬을 모래로 된 몸 안으로 끌어들인 뒤, 자신이 원할 때 생기를 빨아들이는 무서운 포켓몬.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-054",
+        "cardID": "모래초150모래060샌드150",
+        "name": "모래성이당",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "모래뿌리기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
+            },
+            {
+                "name": "샌드할로우",
+                "cost": "(초)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "생명 에너지를 흡수하여 바싹 마른 자들의 뼈를 팔의 움푹한 부분을 통해 발사한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Uta",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-030",
+        "cardID": "모래격210괴상060생명100샌드060",
+        "name": "모래성이당 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "모래성이당",
+                "pokedexNumber": 770
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "괴상한빛",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "생명흡수",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "샌드피어 GX",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "60×",
+                "text": "상대의 덱을 위에서부터 13장 보고 그 중에 있는 포켓몬을 원하는 만큼 트래쉬하고 그 장수 × 60데미지를 준다. 남은 카드는 덱으로 되돌리고 섞는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제2탄",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000036",
+                "debug": "1"
+            }
+        ]
+    }
+]

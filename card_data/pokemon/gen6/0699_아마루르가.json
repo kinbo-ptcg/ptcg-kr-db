@@ -1,0 +1,185 @@
+[
+    {
+        "id": "xy3-026",
+        "cardID": "아마물130아이얼다070",
+        "name": "아마루르가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "아마루르가",
+                "pokedexNumber": 699
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "얼다바람",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아이스월",
+                "text": "이 포켓몬이 있는 한, (물)에너지가 붙어 있는 자신의 (물)포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "마이너스 150도의 냉기를 마름모꼴의 결정에서 내뿜어 적을 감싸 얼어붙게 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "096",
+                "prodCode": "xy3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy3.png",
+                "prodName": "XY 확장팩 제3탄 「라이징피스트」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY3/XY3_026.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014003026",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6-024",
+        "cardID": "아마물160프로050블리150",
+        "name": "아마루르가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "아마루르가",
+                "pokedexNumber": 699
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "프로스트월",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 포켓몬은 진화 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "블리자드번",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "150",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "마름모꼴의 결정으로\n얼음벽을 순간적으로 만들어\n적의 공격을 막는다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "Suwama Chiaki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004024",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-128",
+        "cardID": "아마물180얼어크리160",
+        "name": "아마루르가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "아마루르가",
+                "pokedexNumber": 699
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "크리스털 브레스",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "얼어붙는부적",
+                "text": "이 포켓몬이 있는 한, (물) 에너지가 붙어 있는 자신의 포켓몬 전원은 마비가 되지 않는다. (받고 있는 마비는 모두 회복한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "128",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Toyste Beach",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_128.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001128",
+                "debug": "3"
+            }
+        ]
+    }
+]

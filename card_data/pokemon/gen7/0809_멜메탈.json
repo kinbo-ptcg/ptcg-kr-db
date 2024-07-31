@@ -1,0 +1,794 @@
+[
+    {
+        "id": "SM12a-083",
+        "cardID": "루카강260강철050헤비150풀메000",
+        "name": "루카리오&멜메탈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            },
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "강철주먹",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "자신의 덱에 있는 (강철) 에너지를 1장 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            },
+            {
+                "name": "풀메탈월GX",
+                "cost": "(무색)(플러스)",
+                "damage": "",
+                "text": "이 대전이 종료될 때까지 자신의 (강철) 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 모두「-30」이 된다. 에너지 1개가 추가로 붙어 있다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005029",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005058",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "nagimiso",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005059",
+                "debug": "2"
+            },
+            {
+                "number": "083",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017083",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-093",
+        "cardID": "멜메강150메탈헤비130",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "메탈이터",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 (강철) 포켓몬을 1장 트래쉬한다. 그 뒤, 이 포켓몬의 HP를 「100」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005038",
+                "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "TOKIYA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017093",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-184",
+        "cardID": "멜메강220하드메탈110펀처000",
+        "name": "멜메탈 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈블라스트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "110+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "펀처포스GX",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (강철) 에너지를 원하는 만큼 이 포켓몬에게 붙인다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "하드코트",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "184",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 확장팩 세트 「멜메탈 GX」",
+                "artist": "PLANETA Otani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_315.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000236",
+                "debug": "2"
+            },
+            {
+                "number": "184",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "sadaji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_184.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017184",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SJ-014",
+        "cardID": "멜메강150에너030헤비130",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "에너지커넥터",
+                "cost": "(강철)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "수명이 다하면 몸이 녹슬고 붕괴한다. 이윽고 작은 파편이 멜탄으로 부활한다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "031",
+                "prodCode": "SD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SD.png",
+                "prodName": "소드&실드 확장팩 세트 V",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SD/SD_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020013027",
+                "debug": "2"
+            },
+            {
+                "number": "014",
+                "prodNumber": "028",
+                "prodCode": "SJ",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SJ.png",
+                "prodName": "소드&실드 스페셜 덱 세트 「자시안·자마젠타 VS 무한다이노」",
+                "artist": "NC Empire",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SJ/SJ_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021019014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-072",
+        "cardID": "멜메강150잉곳080블라150",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "잉곳스윙",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 다음 차례에 이 포켓몬은 특성을 가진 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "블라스트해머",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "072",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018072",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-165",
+        "cardID": "멜메강220암차050메가140",
+        "name": "멜메탈 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "암차지",
+                "cost": "(강철)(강철)",
+                "damage": "50",
+                "text": "원한다면 자신의 패에서 (강철) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "메가톤펀치",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "sadaji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010047",
+                "debug": "2"
+            },
+            {
+                "number": "077",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "sadaji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010077",
+                "debug": "2"
+            },
+            {
+                "number": "165",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "포켓몬 GO 프로모 카드 기프트 캠페인",
+                "artist": "sadaji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_165.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000165",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S10b-046",
+        "cardID": "멜메강160박치060스윙030",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "스윙스매시",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "Shigenori Negishi",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_046.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S10b-048",
+        "cardID": "멜메강330거다160",
+        "name": "멜메탈 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "거다이펀처",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "160+",
+                "text": "이 기술을 사용하기 위한 에너지보다 많이 붙어 있는 (강철) 에너지의 개수 × 60데미지를 추가한다. 추가할 수 있는 데미지는 (강철) 에너지 2개까지이다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010048",
+                "debug": "1"
+            },
+            {
+                "number": "085",
+                "prodNumber": "071",
+                "prodCode": "S10b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10b.png",
+                "prodName": "소드&실드 강화 확장팩 「Pokémon GO」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10b/S10b_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022010085",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVD-085",
+        "cardID": "멜메강300금속000풀메090",
+        "name": "멜메탈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "금속흡수",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (강철) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "풀메탈너클",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "085",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "PLANETA Igarashi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016085",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-050",
+        "cardID": "멜메강160한방120아이230",
+        "name": "멜메탈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "아이언배시",
+                "cost": "(강철)(강철)(강철)(강철)(무색)",
+                "damage": "230",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "수명이 다하면 몸이 녹슬고 붕괴한다. 이윽고 작은 파편이 멜탄으로 부활한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Oswaldo KATO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVI-041",
+        "cardID": "멜메강280아이100",
+        "name": "멜메탈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언스윙",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "takuyoa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_041_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006081",
+                "debug": "1"
+            }
+        ]
+    }
+]

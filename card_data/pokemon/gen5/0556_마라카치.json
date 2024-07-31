@@ -1,0 +1,482 @@
+[
+    {
+        "id": "fsg-005",
+        "cardID": "마라풀080메가020바늘020",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메가드레인",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "템포가 빠른 춤과 소리로 꽃씨를 노리는 천적인 새포켓몬을 쫓아버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "005",
+                "prodNumber": "034",
+                "prodCode": "fsg",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fsg.png",
+                "prodName": "BW 「퍼스트 세트 - 풀의 진화」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/FS/bw1_fs_g_005.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2011001005",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "bw1w-008",
+        "cardID": "마라풀090연속000기가050",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "연속셰이크",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "동전을 세 번 던진다. 앞면이 나온 수가 한 번이라면 10데미지 앞면이 나온 수가 두 번이라면 30데미지 모두 앞면이 나오면 60데미지를 상대의 배틀 포켓몬에게 준다."
+            },
+            {
+                "name": "기가드레인",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "건조한 땅에서 산다. 몸을 리드미컬하게 움직이면 마라카스 같은 소리를 낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "053",
+                "prodCode": "bw1w",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw1w.png",
+                "prodName": "BW 확장팩 제1탄 「화이트 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW1/bw1_white_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011002008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw5e-006",
+        "cardID": "마라풀090저리020강화040",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "저리침",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "강화바늘",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "건조한 땅에서 산다. 몸을 리드미컬하게 움직이면 마라카스 같은 소리를 낸다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw7-006",
+        "cardID": "마라풀090미혹010덮치020",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "미혹댄스",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "덮치기",
+                "cost": "(풀)(무색)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(물)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "리드미컬하게 몸을 흔들면 마라카스와 비슷한 소리가 울려 퍼져 놀란 포켓몬은 도망을 간다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "Shigenori Negishi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy2-010",
+        "cardID": "마라풀090익사000따끔020",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "익사이팅 셰이크",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 다음 차례에 이 포켓몬이「따끔따끔니들」로 던지는 동전의 수는 6번이 된다."
+            },
+            {
+                "name": "따끔따끔니들",
+                "cost": "(무색)(무색)",
+                "damage": "20x",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 x20데미지를 준다"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "템포가 빠른 춤과 소리로 꽃씨를 노리는 천적인 새포켓몬을 쫓아버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "match",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-003",
+        "cardID": "마라풀110따끔020파워060",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "따끔",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "파워풀니들",
+                "cost": "(풀)(무색)",
+                "damage": "60×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "마라카스 같은 소리를 낸다. 리듬이 경쾌해서 새포켓몬은 깜짝 놀라 허둥지둥 날아가버린다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Atsuko Nishida",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8-006",
+        "cardID": "마라풀110쪼기020휙휙050",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "휙휙셰이크",
+                "cost": "(풀)(무색)",
+                "damage": "50×",
+                "text": "자신의 패에서 「포켓몬의 도구」를 원하는 만큼 트래쉬하고 그 장수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "일 년에 한 번 씨를 뿌린다. 꽃의 씨는 영양이 매우 풍부해 사막의 귀중한 식량이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "0313",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-003",
+        "cardID": "마라풀110더블000바늘030",
+        "name": "마라카치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "마라카치",
+                "pokedexNumber": 556
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "일 년에 한 번 씨를 뿌린다. 꽃의 씨는 영양이 매우 풍부해 사막의 귀중한 식량이다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Masako Tomii",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021003",
+                "debug": "1"
+            }
+        ]
+    }
+]

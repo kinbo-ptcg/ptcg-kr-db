@@ -1,0 +1,560 @@
+[
+    {
+        "id": "SI-125",
+        "cardID": "버드물210궤찌040블리200",
+        "name": "백마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(물)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "블리자드랜스",
+                "cost": "(물)(물)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "D.A.G Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004027",
+                "debug": "2"
+            },
+            {
+                "number": "072",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004072",
+                "debug": "2"
+            },
+            {
+                "number": "073",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "OKACHEKE",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004073",
+                "debug": "2"
+            },
+            {
+                "number": "043",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "D.A.G Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001043",
+                "debug": "2"
+            },
+            {
+                "number": "125",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "D.A.G Inc.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003125",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SI-126",
+        "cardID": "버드물320엠페010다이010",
+        "name": "백마 버드렉스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "엠페러라이드",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "다이랜스",
+                "cost": "(물)(물)",
+                "damage": "10+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 2장까지 선택해서 트래쉬한다. 그 경우, 트래쉬한 장수 × 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "070",
+                "prodCode": "S6H",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6H.png",
+                "prodName": "소드&실드 확장팩 「백은의 랜스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6H_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021004028",
+                "debug": "2"
+            },
+            {
+                "number": "044",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001044",
+                "debug": "2"
+            },
+            {
+                "number": "126",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_126.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003126",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-203",
+        "cardID": "버드초210섀도010아스000",
+        "name": "흑마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도미스트",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 상대는 패에서 「특수 에너지」를 꺼내서 붙일 수 없으며 「스타디움」도 내려놓을 수 없다."
+            },
+            {
+                "name": "아스트랄비트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 데미지 카운터를 5개 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "D.A.G Inc.",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005036",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005075",
+                "debug": "2"
+            },
+            {
+                "number": "076",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "kodama",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_076.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005076",
+                "debug": "2"
+            },
+            {
+                "number": "203",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "D.A.G Inc.",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_203.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003203",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-204",
+        "cardID": "버드초320명계다이010",
+        "name": "흑마 버드렉스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다이가이스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (초) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "명계의 문",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 (초) 에너지를 1장 선택해서 자신의 벤치의 (초) 포켓몬에게 붙인다. 그 뒤, 자신의 덱을 2장 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005037",
+                "debug": "2"
+            },
+            {
+                "number": "204",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_204.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003204",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SP3-001",
+        "cardID": "버드물210눈보040프로140",
+        "name": "백마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "눈보라",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "프로스트 스탬프",
+                "cost": "(물)(물)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "006",
+                "prodCode": "SP3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+                "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SP3-002",
+        "cardID": "버드초210어둠000할로130",
+        "name": "흑마 버드렉스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "어둠두르기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (초) 에너지를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "할로우바인드",
+                "cost": "(초)(초)(무색)",
+                "damage": "130",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "006",
+                "prodCode": "SP3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SP3.png",
+                "prodName": "소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP3/SP3_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021006002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-011",
+        "cardID": "버드풀110왕의030블룸090",
+        "name": "버드렉스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "버드렉스",
+                "pokedexNumber": 898
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "왕의지휘",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "원한다면 자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "블룸샤인",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "치유와 은총의 힘을 가진 자애로운 포켓몬. 먼 옛날 가라르에 군림했었다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Nurikabe",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016011",
+                "debug": "1"
+            }
+        ]
+    }
+]

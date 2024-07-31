@@ -1,0 +1,890 @@
+[
+    {
+        "id": "sm4plus-050",
+        "cardID": "네크초180빛의프리010블랙000",
+        "name": "네크로즈마 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리즘버스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지를 모두 트래쉬하고 그 장수 × 60데미지를 추가한다."
+            },
+            {
+                "name": "블랙레이 GX",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 「포켓몬 GX ･ EX」전원에게 각각 100데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛의 끝",
+                "text": "이 포켓몬은 (무색) 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "026",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_026.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009026",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "051",
+                "prodCode": "sm3n",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3n.png",
+                "prodName": "썬&문 확장팩 제3탄 「빛을 삼킨 어둠」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3N/SM3N_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017009053",
+                "debug": "2"
+            },
+            {
+                "number": "050",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017013050",
+                "debug": "1"
+            },
+            {
+                "number": "050",
+                "prodNumber": "114",
+                "prodCode": "sm4plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4plus.png",
+                "prodName": "썬&문 강화 확장팩 「GX 배틀부스트 REMASTER」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4+/SM4plus_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018011050",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-049",
+        "cardID": "네크초180인베어둠120이클180",
+        "name": "네크로즈마 새벽의 날개 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "어둠의섬광",
+                "cost": "(초)(초)(초)",
+                "damage": "120",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "이클립스문 GX",
+                "cost": "(초)(초)(초)",
+                "damage": "180",
+                "text": "이 기술은 자신의 남은 프라이즈 장수가 상대보다 많을 때만 사용할 수 있다. 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "인베이전",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬을 자신의 배틀 포켓몬과 교체한다",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002033",
+                "debug": "2"
+            },
+            {
+                "number": "068",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002068",
+                "debug": "2"
+            },
+            {
+                "number": "049",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_049.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002049",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-086",
+        "cardID": "네크강190발톱060메테220이클250",
+        "name": "네크로즈마 황혼의 갈기 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "발톱 베어가르기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "메테오 템페스트",
+                "cost": "(강철)(강철)(강철)(무색)",
+                "damage": "220",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬한다."
+            },
+            {
+                "name": "이클립스썬 GX",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "250",
+                "text": "이 기술은 자신의 남은 프라이즈 장수가 상대보다 많을 때만 사용할 수 있다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001044",
+                "debug": "2"
+            },
+            {
+                "number": "068",
+                "prodNumber": "066",
+                "prodCode": "sm5s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5s.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라썬」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5S/SM5S_068.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018001068",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002086",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-048",
+        "cardID": "네크초130걸프020새벽130",
+        "name": "네크로즈마 새벽의 날개",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "걸프스트림",
+                "cost": "(초)",
+                "damage": "20+",
+                "text": "자신의 남은 프라이즈 장수가 6장이라면 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 추가한다."
+            },
+            {
+                "name": "새벽의칼날",
+                "cost": "(초)(초)(초)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "루나아라의 의식은 어느새 사라졌다. 네크로즈마에게 지배되어 모든 에너지를 방출하고 있다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003021",
+                "debug": "2"
+            },
+            {
+                "number": "048",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002048",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "SM 점보 카드 세트 「울트라문」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000110",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-085",
+        "cardID": "네크강130황혼000러스100",
+        "name": "네크로즈마 황혼의 갈기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "황혼의탄환",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "상대의 「포켓몬 GX・EX」 1마리에게 60데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다."
+            },
+            {
+                "name": "러스티네일",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "100+",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "솔가레오의 빛을 먹어치우는 모습이다. 적에게 덤벼들어 등과 사지를 발톱으로 상대를 베어 가른다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "050",
+                "prodCode": "sm5plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5plus.png",
+                "prodName": "썬&문 강화 확장팩 「울트라포스」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5+/SM5plus_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018003036",
+                "debug": "2"
+            },
+            {
+                "number": "085",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "nagimiso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002085",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "SM 점보 카드 세트 「울트라썬」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_109.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000109",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-101",
+        "cardID": "네크드190포톤020멸망000",
+        "name": "울트라네크로즈마 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "포톤가이저",
+                "cost": "(초)(강철)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 붙어 있는 기본 (초) 에너지를 모두 트래쉬하고 그 장수 × 80데미지를 추가한다."
+            },
+            {
+                "name": "멸망의빛GX",
+                "cost": "(초)(강철)",
+                "damage": "",
+                "text": "이 기술은 서로의 남은 프라이즈 장수의 합계가 6장 이하일 때만 사용할 수 있다. 상대의 포켓몬 전원에게 각각 데미지 카운터를 6개 올린다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "069",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "PLANETA Otani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004069",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004099",
+                "debug": "2"
+            },
+            {
+                "number": "104",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "PLANETA Otani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002104",
+                "debug": "2"
+            },
+            {
+                "number": "101",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "PLANETA Otani",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017101",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11-042",
+        "cardID": "네크초130배리030스페100",
+        "name": "네크로즈마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "배리어어택",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "스페셜레이저",
+                "cost": "(초)(초)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "에너지인 빛을 찾아 날뛰는 모습은 어딘지 모르게 괴로워 보인다. 다른 세계의 존재인 듯하다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "094",
+                "prodCode": "SM11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11.png",
+                "prodName": "썬&문 확장팩 제11탄 「미라클트윈」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11/SM11_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019013042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-072",
+        "cardID": "네크드110울트멸망170",
+        "name": "울트라네크로즈마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "멸망의반짝임",
+                "cost": "(초)(강철)",
+                "damage": "170",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "울트라버스트",
+                "text": "이 포켓몬은 상대의 남은 프라이즈 장수가 2장 이하가 아니라면 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "압도적인 빛 에너지를 흡수하여 변화한 모습이다. 전신에서 레이저를 내뿜는다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "072",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016072",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-198",
+        "cardID": "네크초220프리020스페100",
+        "name": "네크로즈마 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리즘레이",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스페셜레이저",
+                "cost": "(초)(초)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 특수 에너지가 붙어 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002036",
+                "debug": "2"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002075",
+                "debug": "2"
+            },
+            {
+                "number": "198",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_198.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003198",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-079",
+        "cardID": "네크초180빛의프리030",
+        "name": "네크로즈마 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX",
+            "GX"
+        ],
+        "rules": [
+            "상대의 「포켓몬 GX ・ EX」전원에게 각각 100데미지를 준다. 이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "프리즘버스트",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지를 모두 트래쉬하고 그 장수 × 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛의 끝",
+                "text": "이 포켓몬은 (무색) 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "079",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "금단의 빛 발매 기념 프로모 팩",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_104.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000104",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-111",
+        "cardID": "네크드130샤이100",
+        "name": "울트라네크로즈마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "네크로즈마",
+                "pokedexNumber": 800
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "샤이닝버스트",
+                "cost": "(초)(초)(강철)(강철)",
+                "damage": "100+",
+                "text": "서로의 남은 프라이즈 장수의 합계가 6장 이하라면 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬하고 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "압도적인 빛 에너지를 흡수하여 변화한 모습이다. 전신에서 레이저를 내뿜는다",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "111",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "팀배틀 시즌5 참가상",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SM-P_156.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000156",
+                "debug": "1"
+            }
+        ]
+    }
+]

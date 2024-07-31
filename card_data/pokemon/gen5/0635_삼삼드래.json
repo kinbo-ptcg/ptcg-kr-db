@@ -1,0 +1,782 @@
+[
+    {
+        "id": "bw2-052",
+        "cardID": "삼삼악150다크광기060",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "광기의칼날",
+                "cost": "(악)(악)(악)(악)",
+                "damage": "60",
+                "text": "상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 40데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "다크오라",
+                "text": "이 포켓몬에게 붙어 있는 에너지는 모두 (악) 타입이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_052.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "ssd-009",
+        "cardID": "삼삼드150먹어040디스090",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "먹어치우기",
+                "cost": "(악)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복한다."
+            },
+            {
+                "name": "디스트로이빔",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "90",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "009",
+                "prodNumber": "015",
+                "prodCode": "ssd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ssd.png",
+                "prodName": "BW 「삼삼드래 덱」",
+                "artist": "Naoki Saito",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw_ssd_009.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2012005009",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "ebb-083",
+        "cardID": "삼삼드150다크드래140",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤 블라스트",
+                "cost": "(초)(악)(악)(무색)",
+                "damage": "140",
+                "text": "이 포켓몬에게 붙어 있는 (악) 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "다크트랜스",
+                "text": "자신의 포켓몬에게 붙어 있는 (악) 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "6개의 날개로 하늘을 날며 움직이는 것을 적으로 간주하고 덮치는 난폭한 포켓몬이다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005042",
+                "debug": "2"
+            },
+            {
+                "number": "083",
+                "prodNumber": "093",
+                "prodCode": "ebb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/ebb.png",
+                "prodName": "BW 확장팩 「EX 배틀 부스트」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/EBB/ebb_083.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013006083",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw8v-036",
+        "cardID": "삼삼악150트랙000다크000",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "트랙터빔",
+                "cost": "(악)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤 새로 나온 포켓몬에게 40데미지를 준다."
+            },
+            {
+                "name": "다크팽",
+                "cost": "(악)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "데미지를 주기 전에 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "움직이는 것에 반응하여 덮쳐서 3개의 머리로 먹어치우는 무시무시한 포켓몬.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "051",
+                "prodCode": "bw8v",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8v.png",
+                "prodName": "BW 확장팩 제8탄 「볼트너클」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_vn_036.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013003036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy4-065",
+        "cardID": "삼삼드140악의크레130",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "크레이지헤드",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "악의충동",
+                "text": "자신의 트래쉬에서 (악) 에너지를 1장 선택해서 자신의 배틀 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_065.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-050",
+        "cardID": "삼삼드180드래찢기080",
+        "name": "삼삼드래 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(초)(악)(무색)",
+                "damage": "80",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "드래곤로드",
+                "text": "이 특성은 필드에 스타디움이 나와 있다면 작용한다. 이 포켓몬이 있는 한 자신의 (드래곤) 포켓몬 전원의 후퇴에 필요한 에너지는 각각 2개씩 적어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_050.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004050",
+                "debug": "1"
+            },
+            {
+                "number": "084",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_084.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004084",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707099",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy11h-042",
+        "cardID": "삼삼드150냉혹040다크050",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "냉혹한엄니",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-40」이 된다."
+            },
+            {
+                "name": "다크번",
+                "cost": "(초)(악)(무색)",
+                "damage": "50×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (악) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 (악) 에너지의 수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "움직이는 것에 반응하여 덮쳐서 3개의 머리로 먹어치우는 무시무시한 포켓몬.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_042.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007042",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy11h-043",
+        "cardID": "삼삼드190컬래150",
+        "name": "삼삼드래 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 삼삼드래가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "컬래머티 블라스트",
+                "cost": "(초)(악)(악)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 트래쉬하고 상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "054",
+                "prodCode": "xy11h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy11h.png",
+                "prodName": "XY BREAK 확장팩 제11탄 「냉혹한 반역자」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY11/XY11B_043.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016007043",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4a-032",
+        "cardID": "삼삼악160흔들다크120",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크 디스트로이",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다. 그 경우 , 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "흔들어떨구기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 벤치 포켓몬을 3마리 선택한다. 그 뒤, 선택하지 않은 자신의 벤치 포켓몬 전원과 붙어 있는 모든 카드를 트래쉬한다. ",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "050",
+                "prodCode": "sm4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4a.png",
+                "prodName": "썬&문 확장팩 제4탄 「초차원의 침략자」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4A/SM4A_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017012032",
+                "debug": "1"
+            },
+            {
+                "number": "073",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002073",
+                "debug": "2"
+            },
+            {
+                "number": "054",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 컬렉터즈 프로모 팩 4",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000077",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SC_D-004",
+        "cardID": "삼삼악160다크칠흑130",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "칠흑엄니",
+                "cost": "(악)(악)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "다크스콜",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 (악) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "움직이는 모든 것을 먹어 치운다. 삼삼드래에게 마을이 파괴되었다는 이야기는 많이 전해 내려온다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "020",
+                "prodCode": "SC_D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SC_D.png",
+                "prodName": "소드&실드 스타터 세트 VMAX 오롱털",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SC/SCD_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2020002004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S7D-044",
+        "cardID": "삼삼드170드래020칠흑210",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤카운터",
+                "cost": "(초)(악)",
+                "damage": "20+",
+                "text": "상대의 이전 차례에 상대가 가져간 프라이즈 장수 × 100데미지를 추가한다."
+            },
+            {
+                "name": "칠흑엄니",
+                "cost": "(초)(악)(무색)(무색)",
+                "damage": "210",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "3개의 머리로 번갈아 가며 물어뜯는다. 상대가 쓰러질 때까지 공격을 멈추지 않는다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "hatachu",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011044",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV1a-059",
+        "cardID": "삼삼악180트라다크160",
+        "name": "삼삼드래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "삼삼드래",
+                "pokedexNumber": 635
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "다크커터",
+                "cost": "(악)(악)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "트라이 하울",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 3장 보고 그 중에서 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "본체의 머리만이 뇌를 가지고 있다. 지능은 높지만 파괴하는 일만 생각하고 있다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "073",
+                "prodCode": "SV1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1a.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 강화 확장팩 「트리플렛비트」",
+                "artist": "Teeziro",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1a/SV1a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023010059",
+                "debug": "1"
+            }
+        ]
+    }
+]

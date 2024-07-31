@@ -1,0 +1,542 @@
+[
+    {
+        "id": "xy1x-028",
+        "cardID": "나목초060놀래000걸기030",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "놀래키기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택한다. 그 뒤 그 카드를 보고 나서 상대의 덱으로 되돌리고 덱을 섞는다."
+            },
+            {
+                "name": "걸기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "썩은 그루터기에 혼이 깃들어 포켓몬이 되었다. 사람이 가까이 가지 않는 숲에 산다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "060",
+                "prodCode": "xy1x",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1x.png",
+                "prodName": "XY 확장팩 제1탄 「X컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_X_028.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014001028",
+                "debug": "3"
+            },
+            {
+                "number": "060",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_060.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004060",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smxy-053",
+        "cardID": "나목초050각성000",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "각성",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "숲에서 헤매다 죽은 아이의 영혼이 나무 그루터기에 씌어 포켓몬이 되었다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "080",
+                "prodCode": "xy9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy9.png",
+                "prodName": "XY BREAK 확장팩 제9탄 「천공의 분노」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY9/XY9_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016001045",
+                "debug": "2"
+            },
+            {
+                "number": "053",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm2l-001",
+        "cardID": "나목풀060몸통010이상000",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "이상한빛",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "숲에서 죽은 어린아이의 영혼이 그루터기에 깃들었다. 비명 같은 기분 나쁜 목소리로 운다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "050",
+                "prodCode": "sm2l",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm2l.png",
+                "prodName": "썬&문 확장팩 제2탄 「알로라의 달빛」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM2L/SM2L_001.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017005001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-027",
+        "cardID": "나목초060중얼010홀로020",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "중얼거리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "홀로숏",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "아이 목소리를 흉내 내어 사람을 숲 깊숙이 유인해 길을 잃게 한다. 자신의 동료로 삼을 생각이다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "027",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "miki kudo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014027",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-008",
+        "cardID": "나목풀060어둠000씨폭030",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "어둠안내",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다."
+            },
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "숲속을 헤매다 목숨을 잃은 아이의 영혼이 나무 그루터기에 씌어 포켓몬으로 다시 태어났다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SH-001",
+        "cardID": "나목풀060몸통010씨폭020",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "씨폭탄",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "인간의 어린이를 닮은 목소리로 울어 어른을 숲속으로 유인하여 길을 잃게 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "001",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "OKACHEKE",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_001_R.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013001",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-011",
+        "cardID": "나목풀070걸기010",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "걸기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "숲속을 헤매다 목숨을 잃은 아이의 영혼이 나무 그루터기에 씌어 포켓몬으로 다시 태어났다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV3-007",
+        "cardID": "나목풀060가지020",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가지찌르기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "인간의 어린이를 닮은 목소리로 울어 어른을 숲속으로 유인하여 길을 잃게 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Narumi Sato",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-006",
+        "cardID": "나목풀070씨뿌020",
+        "name": "나목령",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나목령",
+                "pokedexNumber": 708
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "씨뿌리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": "이 포켓몬의 HP를 「20」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "죽은 아이의 영혼이 그루터기에 깃든 포켓몬. 숲을 떠돌며 동료를 찾는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Katsunori Sato",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008006",
+                "debug": "1"
+            }
+        ]
+    }
+]

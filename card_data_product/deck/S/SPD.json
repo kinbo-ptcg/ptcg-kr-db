@@ -1,0 +1,764 @@
+[
+    {
+        "id": "SPD-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "PSY",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013021"
+    },
+    {
+        "id": "SPD-001",
+        "cardID": "별가물060더블010",
+        "name": "별가사리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "별가사리",
+                "pokedexNumber": 120
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "더블스핀",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "늦여름 해변에 가면 규칙적인 리듬으로 빛나는 별가사리의 무리를 볼 수 있다.",
+        "number": "001",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013001"
+    },
+    {
+        "id": "SPD-002",
+        "cardID": "네오물170루미아쿠120",
+        "name": "네오라이트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "네오라이트",
+                "pokedexNumber": 457
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아리턴",
+                "cost": "(물)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "루미너스사인",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "002",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "takuyoa",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013002"
+    },
+    {
+        "id": "SPD-003",
+        "cardID": "아쿠초090사이010파워060",
+        "name": "아쿠스타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "아쿠스타",
+                "pokedexNumber": 121
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "파워젬",
+                "cost": "(초)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "강렬한 사이코 파워를 발산할 때 코어라고 불리는 기관이 일곱 색깔로 빛난다.",
+        "number": "003",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013003"
+    },
+    {
+        "id": "SPD-004",
+        "cardID": "키링초090더블000환상030",
+        "name": "키링키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "키링키",
+                "pokedexNumber": 203
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "환상빔",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리에도 작은 뇌가 있다. 다가가면 냄새에 반응해서 물어서 공격하므로 주의하자.",
+        "number": "004",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Mina Nakai",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013004"
+    },
+    {
+        "id": "SPD-005",
+        "cardID": "테오초210사이030파워140",
+        "name": "테오키스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "파워에지",
+                "cost": "(초)(초)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013005"
+    },
+    {
+        "id": "SPD-006",
+        "cardID": "테오초330프로다이160",
+        "name": "테오키스 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다이드레인",
+                "cost": "(초)(무색)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프로텍트DNA",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 「포켓몬 VSTAR」로부터 받는 기술의 데미지는 「-30」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "006",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013006"
+    },
+    {
+        "id": "SPD-007",
+        "cardID": "테오초270사이190스타060",
+        "name": "테오키스 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "테오키스",
+                "pokedexNumber": 386
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코재블린",
+                "cost": "(초)(초)(무색)",
+                "damage": "190",
+                "text": "상대 벤치의 「포켓몬 V」 1마리에게도 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "스타포스",
+                "cost": "(초)",
+                "damage": "60×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 60데미지를 준다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013007"
+    },
+    {
+        "id": "SPD-008",
+        "cardID": "크레초120크레000포톤030",
+        "name": "크레세리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "크레세리아",
+                "pokedexNumber": 488
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "크레센트글로",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 (초) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다. 후공 플레이어의 첫 차례라면 붙일 수 있는 장수는 3장까지이며, 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "포톤레이저",
+                "cost": "(초)(초)",
+                "damage": "30+",
+                "text": "자신의 필드에 에너지가 5개 이상 있다면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "크레세리아의 날개를 가지고 자면 즐거운 꿈을 꿀 수 있다고 한다. 초승달의 화신으로 불리고 있다.",
+        "number": "008",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013008"
+    },
+    {
+        "id": "SPD-009",
+        "cardID": "안개의 수정",
+        "name": "안개의 수정",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 (초) 타입의 기본 포켓몬 또는 (초) 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013009"
+    },
+    {
+        "id": "SPD-010",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "010",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013010"
+    },
+    {
+        "id": "SPD-011",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013011"
+    },
+    {
+        "id": "SPD-012",
+        "cardID": "구애벨트",
+        "name": "구애벨트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 V」에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "012",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013012"
+    },
+    {
+        "id": "SPD-013",
+        "cardID": "잎새숨기 판초",
+        "name": "잎새숨기 판초",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「포켓몬 VSTAR・VMAX」는 상대가 패에서 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다."
+        ],
+        "number": "013",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013013"
+    },
+    {
+        "id": "SPD-014",
+        "cardID": "난천의 패기",
+        "name": "난천의 패기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 8장이 되도록 뽑는다."
+        ],
+        "number": "014",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013014"
+    },
+    {
+        "id": "SPD-015",
+        "cardID": "도정",
+        "name": "도정",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 포켓몬을 2장까지, 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "(포켓몬 또는 기본 에너지 중 어느 한쪽만이라도 좋다.)"
+        ],
+        "number": "015",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013015"
+    },
+    {
+        "id": "SPD-016",
+        "cardID": "모험가의 발견",
+        "name": "모험가의 발견",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「포켓몬 V」를 3장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Taira Akitsu",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013016"
+    },
+    {
+        "id": "SPD-017",
+        "cardID": "박사의 연구(마박사)",
+        "name": "박사의 연구(마박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013017"
+    },
+    {
+        "id": "SPD-018",
+        "cardID": "보스의 지령(태홍)",
+        "name": "보스의 지령(태홍)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013018"
+    },
+    {
+        "id": "SPD-019",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013019"
+    },
+    {
+        "id": "SPD-020",
+        "cardID": "용식",
+        "name": "용식",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "020",
+        "prodCode": "SPD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SPD.png",
+        "prodName": "소드&실드 VSTAR&VMAX 하이클래스 덱 「테오키스」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SP/SPD_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022013020"
+    }
+]

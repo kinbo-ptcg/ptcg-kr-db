@@ -1,0 +1,923 @@
+[
+    {
+        "id": "SVAM-001",
+        "cardID": "버섯풀060흡수010",
+        "name": "버섯꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "버섯꼬",
+                "pokedexNumber": 285
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡수",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "습한 장소를 좋아해서 낮에는 숲의 그늘에서 가만히 있는다. 머리에서 독 가루를 뿌린다.",
+        "number": "001",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "kurumitsu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002001"
+    },
+    {
+        "id": "SVAM-002",
+        "cardID": "버섯풀110마하060",
+        "name": "버섯모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "버섯모",
+                "pokedexNumber": 286
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "마하스트레이트",
+                "cost": "(풀)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독 포자를 뿌려 들이마시고 괴로워하는 상대에게 강렬한 펀치를 날린다.",
+        "number": "002",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002002"
+    },
+    {
+        "id": "SVAM-003",
+        "cardID": "트로풀100갓딴000잎날050",
+        "name": "트로피우스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "트로피우스",
+                "pokedexNumber": 357
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "갓딴후르츠",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬 1마리의 HP를 「60」회복한다."
+            },
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "열대 정글에 서식한다. 목에 달린 송이는 달고 맛있다. 1년에 2번 열매를 맺는다.",
+        "number": "003",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "aoki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002003"
+    },
+    {
+        "id": "SVAM-004",
+        "cardID": "나오풀070할퀴010나뭇020",
+        "name": "나오하",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나오하",
+                "pokedexNumber": 906
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "나뭇잎",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "복슬복슬한 털은 식물에 가까운 성분으로 이루어져 있다. 수시로 세수를 하면서 건조해지는 것을 방지한다.",
+        "number": "004",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002004"
+    },
+    {
+        "id": "SVAM-005",
+        "cardID": "나로풀090베어020리프060",
+        "name": "나로테",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "나로테",
+                "pokedexNumber": 907
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "리프스텝",
+                "cost": "(풀)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "긴 털 아래 숨긴 덩굴을 능숙하게 다뤄서 단단한 꽃봉오리로 상대를 가격한다.",
+        "number": "005",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002005"
+    },
+    {
+        "id": "SVAM-006",
+        "cardID": "마스풀160트릭040플라130",
+        "name": "마스카나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "마스카나",
+                "pokedexNumber": 908
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "트릭망토",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "원한다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 패로 되돌린다."
+            },
+            {
+                "name": "플라워봄",
+                "cost": "(풀)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃이 떠 있는 것처럼 보이는 것은 망토 뒷면의 털이 빛을 반사해서 줄기를 보이지 않게 하기 때문이다.",
+        "number": "006",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Ryota Murayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002006"
+    },
+    {
+        "id": "SVAM-007",
+        "cardID": "타랜풀040실로000벌레010",
+        "name": "타랜툴라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "타랜툴라",
+                "pokedexNumber": 917
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "실로잡아끌기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "벌레먹기",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸을 감싸고 있는 실타래는 천적인 스라크의 낫을 튕겨 낼 정도의 탄력을 자랑한다.",
+        "number": "007",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002007"
+    },
+    {
+        "id": "SVAM-008",
+        "cardID": "리오격070잽잽010안다020",
+        "name": "리오르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "리오르",
+                "pokedexNumber": 447
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "잽",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "안다리걸기",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "파동을 내서 동료끼리 의사소통을 한다. 밤새도록 계속 달릴 수 있다.",
+        "number": "008",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002008"
+    },
+    {
+        "id": "SVAM-009",
+        "cardID": "루카격260로킥060파동160",
+        "name": "루카리오 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "로킥",
+                "cost": "(격투)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "파동탄",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "160",
+                "text": "상대의 벤치 포켓몬 1마리에게도 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "009",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002009"
+    },
+    {
+        "id": "SVAM-010",
+        "cardID": "돌헨격130딱딱메가100",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸의 암석 성분이 서식지에서 멀리 떨어진 땅의 암반과 일치했다.",
+        "number": "010",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002010"
+    },
+    {
+        "id": "SVAM-011",
+        "cardID": "맛보무060가져000몸통030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "number": "011",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002011"
+    },
+    {
+        "id": "SVAM-012",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002012"
+    },
+    {
+        "id": "SVAM-013",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 「30」회복한다."
+        ],
+        "number": "013",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002013"
+    },
+    {
+        "id": "SVAM-014",
+        "cardID": "에너지 갈아 달기",
+        "name": "에너지 갈아 달기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다."
+        ],
+        "number": "014",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002014"
+    },
+    {
+        "id": "SVAM-015",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002015"
+    },
+    {
+        "id": "SVAM-016",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002016"
+    },
+    {
+        "id": "SVAM-017",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "017",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002017"
+    },
+    {
+        "id": "SVAM-018",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002018"
+    },
+    {
+        "id": "SVAM-019",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "019",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002019"
+    },
+    {
+        "id": "SVAM-020",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002020"
+    },
+    {
+        "id": "SVAM-021",
+        "cardID": "박사의 연구(올림박사)",
+        "name": "박사의 연구(올림박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "021",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002021"
+    },
+    {
+        "id": "SVAM-022",
+        "cardID": "반바지 꼬마",
+        "name": "반바지 꼬마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "022",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002022"
+    },
+    {
+        "id": "SVAM-023",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "023",
+        "prodNumber": "023",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002023"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "GRA",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002024"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIG",
+        "prodCode": "SVAM",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002025"
+    }
+]

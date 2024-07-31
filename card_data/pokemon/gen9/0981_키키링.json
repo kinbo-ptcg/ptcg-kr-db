@@ -1,0 +1,214 @@
+[
+    {
+        "id": "SV2D-060",
+        "cardID": "키키무140어느000파워130",
+        "name": "키키링",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "키키링",
+                "pokedexNumber": 981
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "어느쪽페이스",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신 또는 상대 중 하나를 선택해서 선택된 플레이어는 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 선택된 플레이어는 덱을 4장 뽑는다."
+            },
+            {
+                "name": "파워빔",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리와 꼬리 2개의 뇌파가 동기화하여 에스퍼 파워가 키링키의 10배로 강화되었다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "060",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012060",
+                "debug": "1"
+            },
+            {
+                "number": "083",
+                "prodNumber": "071",
+                "prodCode": "SV2D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2D.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「클레이버스트」",
+                "artist": "Mina Nakai",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2D/SV2D_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023012083",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-042",
+        "cardID": "키키악260테라더티160",
+        "name": "키키링 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "키키링",
+                "pokedexNumber": 981
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "더티빔",
+                "cost": "(초)(무색)(무색)",
+                "damage": "160",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            },
+            {
+                "name": "테일아머",
+                "text": "이 포켓몬은 상대의 기본 포켓몬인 「포켓몬 ex」로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "042",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005042",
+                "debug": "3"
+            },
+            {
+                "number": "088",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005088",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5a-035",
+        "cardID": "키키초140미드040음산080",
+        "name": "키키링",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "키키링",
+                "pokedexNumber": 981
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "미드럼블",
+                "cost": "(무색)(무색)",
+                "damage": "40×",
+                "text": "자신의 필드의 1진화 포켓몬의 수 × 40데미지를 준다."
+            },
+            {
+                "name": "음산한염력파",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "066",
+                "prodCode": "SV5a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「크림슨헤이즈」",
+                "artist": "Dsuke",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5a/SV5a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024007035",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "id": "SV4a-131",
+        "cardID": "부르강140럼블띄워090",
+        "name": "부르르룸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "럼블엔진",
+                "text": "자신의 차례에 자신의 패에서 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "061",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_061.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006061",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016087",
+                "debug": "2"
+            },
+            {
+                "number": "131",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "DOM",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_131.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001131",
+                "debug": "1"
+            },
+            {
+                "number": "301",
+                "prodNumber": "190",
+                "prodCode": "SV4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4a.png",
+                "prodName": "스칼렛&바이올렛 하이클래스팩 「샤이니트레저 ex」",
+                "artist": "GOSSAN",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4a/SV4a_301.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024001301",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV3-085",
+        "cardID": "부르강280튠업와일170",
+        "name": "부르르룸 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "와일드 드리프트",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "170",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "튠 업",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 4장까지 붙일 수 있다. (이 특성이 없어졌을 때 자신은 「포켓몬의 도구」를 1장이 되도록 트래쉬한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "085",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015085",
+                "debug": "1"
+            },
+            {
+                "number": "127",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "takuyoa",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_127.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015127",
+                "debug": "2"
+            },
+            {
+                "number": "135",
+                "prodNumber": "108",
+                "prodCode": "SV3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV3.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「흑염의 지배자」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV3/SV3_135.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023015135",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SVI-043",
+        "cardID": "부르강150우락100",
+        "name": "부르르룸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "우락부락대시",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "GOSSAN",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_043_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006083",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-078",
+        "cardID": "부르강140반격030내닫100",
+        "name": "부르르룸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "반격하기",
+                "cost": "(무색)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다."
+            },
+            {
+                "name": "내닫기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "100×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "배기음을 내어 거세게 위협한다. 원통형의 입을 통해 혀를 꺼내고는 독액을 흩뿌린다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "078",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Hasuno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_078.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008078",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV-P-047",
+        "cardID": "부르강140뽐내000휴지070",
+        "name": "부르르룸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "뽐내기",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "휴지태클",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70+",
+                "text": "자신의 패의 장수가 상대의 패의 장수보다 많다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "SV-P",
+                "prodCode": "SV-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "스칼렛&바이올렛 프로모 카드 팩 제3탄",
+                "artist": "Nisota Niso",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV-P/SV-P_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SVP000000047",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "id": "sma-018",
+        "cardID": "토게번070웅크000방전030",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "웅크리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "방전",
+                "cost": "(번개)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 모두 트래쉬하고 트래쉬한 장수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등의 기다란 털은 피뢰침이다. 낙뢰를 끌어들여 번개를 맞으면 전기 주머니에 저장한다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "Megumi Mizutani",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001018",
+                "debug": "3"
+            },
+            {
+                "number": "021",
+                "prodNumber": "060",
+                "prodCode": "sm1m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1m.png",
+                "prodName": "썬&문 확장팩 제1탄 「문 컬렉션」",
+                "artist": "Megumi Mizutani",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1M/SM1M_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017002021",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smd-006",
+        "cardID": "토게번070찌리030",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌리리따끔따끔",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등의 가시 털은 평소에 누워 있다가 흥분하면 곤두서 덮쳐오는 적을 찌른다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "026",
+                "prodCode": "smd",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smd.png",
+                "prodName": "썬&문 30장 덱 대전 세트 「지우 VS 로켓단」",
+                "artist": "Yasuda Shuhei",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMD/SMD_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017004006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smL-022",
+        "cardID": "토게번070전기030",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등에 난 14개의 바늘 털은 놀라거나 흥분했을 때 멋대로 곤두선다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「라이츄 GX 덱」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006005",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12-028",
+        "cardID": "토게번080동료000전자000",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "전자 스파크",
+                "cost": "(번개)",
+                "damage": "",
+                "text": "상대 포켓몬 1마리에게 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등에 난 14개의 바늘 털은 놀라거나 흥분했을 때 멋대로 곤두선다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "sowsow",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-308",
+        "cardID": "토게강080다함020볼어050",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "다함께구르기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다."
+            },
+            {
+                "name": "볼어택",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댄다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "070",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Oswaldo KATO",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018070",
+                "debug": "2"
+            },
+            {
+                "number": "308",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Oswaldo KATO",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_308.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003308",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-069",
+        "cardID": "토게강080가시010",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가시대시",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬이 기절해도 상대는 프라이즈를 가져갈 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "등에 난 긴 털로 번개나 전기포켓몬의 전격을 받아 전기 주머니에 충전한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "069",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "kawayoo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017069",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-083",
+        "cardID": "토게강080웅크000구르050",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "웅크리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댄다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "083",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "Sekio",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016083",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-006",
+        "cardID": "토게번080구르020일렉040",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "구르기",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭 스매시",
+                "cost": "(번개)(무색)",
+                "damage": "40+",
+                "text": "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "등의 가시 털은 평소에 누워 있다가 흥분하면 곤두서 덮쳐오는 적을 찌른다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 처음 배우는 교실 30장 덱 「토게데마루 덱」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_006.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000006",
+                "debug": "1"
+            }
+        ]
+    }
+]

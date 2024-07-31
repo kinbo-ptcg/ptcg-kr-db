@@ -1,0 +1,6579 @@
+[
+    {
+        "id": "SVD-001",
+        "cardID": "피콘풀060가드010",
+        "name": "피콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피콘",
+                "pokedexNumber": 204
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "입에서 내뿜는 액체는 나무껍질을 붙이는 접착제 역할을 한다. 공기에 닿으면 굳어 버린다.",
+        "number": "001",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Shigenori Negishi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016001"
+    },
+    {
+        "id": "SVD-002",
+        "cardID": "헤라풀130몸통050스매110",
+        "name": "헤라크로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "헤라크로스",
+                "pokedexNumber": 214
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(풀)(풀)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스매시혼",
+                "cost": "(풀)(풀)(풀)",
+                "damage": "110",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "달콤한 꿀을 아주 좋아해서 혼자 독차지하기 위해 자랑스런 뿔을 써서 상대를 내동댕이친다.",
+        "number": "002",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "GOSSAN",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016002"
+    },
+    {
+        "id": "SVD-003",
+        "cardID": "선인풀060반격치기030",
+        "name": "선인왕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "선인왕",
+                "pokedexNumber": 331
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "치기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반격가시",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 3개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "사막 같은 혹독한 환경을 좋아한다. 몸속에 축적된 물로 30일간 살 수 있다.",
+        "number": "003",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016003"
+    },
+    {
+        "id": "SVD-004",
+        "cardID": "깜놀풀050무늬000때리020",
+        "name": "깜놀버슬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "깜놀버슬",
+                "pokedexNumber": 590
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "무늬꾀기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 (풀) 타입의 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "때리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몬스터볼의 개발자가 깜놀버슬을 좋아했다는 설이 있지만, 진위는 불명하다.",
+        "number": "004",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "You Iribi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016004"
+    },
+    {
+        "id": "SVD-005",
+        "cardID": "뽀록풀110위험060",
+        "name": "뽀록나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "뽀록나",
+                "pokedexNumber": 591
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "위험한포자",
+                "cost": "(풀)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독과 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "내뿜는 독 포자를 조심해야 한다. 포자에 닿은 부분에서 뽀록나의 갓을 닮은 버섯이 자라기 때문이다.",
+        "number": "005",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nobuhiro Imagawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016005"
+    },
+    {
+        "id": "SVD-006",
+        "cardID": "나몰풀070날카020",
+        "name": "나몰빼미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "나몰빼미",
+                "pokedexNumber": 722
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "날카로운날개",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "좁고 어두운 곳을 편안해한다. 트레이너의 품이나 가방을 둥지로 삼을 때도 있다.",
+        "number": "006",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tomokazu Komiya",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016006"
+    },
+    {
+        "id": "SVD-007",
+        "cardID": "빼미풀090빠져040",
+        "name": "빼미스로우",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "빼미스로우",
+                "pokedexNumber": 723
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "빠져나가기",
+                "cost": "(풀)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "기척에 매우 민감하다. 뒤에 서 있는 상대를 기척으로 감지하고 날카로운 날개를 날려서 처리한다.",
+        "number": "007",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "sui",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016007"
+    },
+    {
+        "id": "SVD-008",
+        "cardID": "모크풀320종횡헌팅130",
+        "name": "모크나이퍼 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "헌팅애로",
+                "cost": "(풀)(무색)",
+                "damage": "130",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "종횡무진",
+                "text": "자신의 차례에 1번 사용할 수 있다. 벤치에 있는 이 포켓몬을 배틀 포켓몬과 교체한다. 또는 배틀필드에 있는 이 포켓몬을 벤치 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "008",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016008"
+    },
+    {
+        "id": "SVD-009",
+        "cardID": "미니풀050흡수010",
+        "name": "미니브",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "미니브",
+                "pokedexNumber": 928
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "흡수",
+                "cost": "(풀)",
+                "damage": "10",
+                "text": "이 포켓몬의 HP를 「10」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "머리의 열매에서 오일을 나오게 해서 적으로부터 몸을 지킨다. 오일은 펄쩍 뛸 만큼 떫고 쓰다.",
+        "number": "009",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Masako Tomii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016009"
+    },
+    {
+        "id": "SVD-010",
+        "cardID": "올리풀080해님030",
+        "name": "올리뇨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "올리뇨",
+                "pokedexNumber": 929
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "해님윈드",
+                "cost": "(풀)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "신선한 향기가 나는 맛있는 오일을 나눠 준다. 오래전부터 인간과 공존해 왔다.",
+        "number": "010",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016010"
+    },
+    {
+        "id": "SVD-011",
+        "cardID": "올리풀140치유000오일090",
+        "name": "올리르바",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "올리르바",
+                "pokedexNumber": 930
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "치유과일",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬 1마리의 HP를 모두 회복한다."
+            },
+            {
+                "name": "오일샷",
+                "cost": "(풀)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "온화하면서도 매우 자비롭다. 영양이 풍부한 맛있는 오일을 약해진 포켓몬에게 나눠 준다.",
+        "number": "011",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016011"
+    },
+    {
+        "id": "SVD-012",
+        "cardID": "켄타불130분노020블레120",
+        "name": "팔데아 켄타로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "켄타로스",
+                "pokedexNumber": 128,
+                "region": "팔데아"
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "분노의뿔",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "블레이즈대시",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "고온의 콧김을 불어 대는 까닭에 블레이즈종이라는 이름이 붙었다. 세 개의 꼬리를 한데 묶고 있다.",
+        "number": "012",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016012"
+    },
+    {
+        "id": "SVD-013",
+        "cardID": "코터불130밟기030집중080",
+        "name": "코터스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "코터스",
+                "pokedexNumber": 324
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "밟기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "집중포화",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "80×",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 80데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "등껍질 안에서 석탄을 태운다. 적에게 공격받으면 검은 연기를 흩뿌리고 도망친다.",
+        "number": "013",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kurata So",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016013"
+    },
+    {
+        "id": "SVD-014",
+        "cardID": "비크불190뒤집030빅토220",
+        "name": "비크티니 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "비크티니",
+                "pokedexNumber": 494
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "빅토리플레임",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "220",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "014",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Saki Hayashiro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016014"
+    },
+    {
+        "id": "SVD-015",
+        "cardID": "불켜불060불내010",
+        "name": "불켜미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "불켜미",
+                "pokedexNumber": 607
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불내뿜기",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "흡수하는 생명이 젊으면 젊을수록 머리의 불꽃은 크고 괴이하게 타오른다.",
+        "number": "015",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nagomi Nijo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016015"
+    },
+    {
+        "id": "SVD-016",
+        "cardID": "램프불080불꽃020유인000",
+        "name": "램프라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "램프라",
+                "pokedexNumber": 608
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "유인불구슬",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "램프인 척 마을 안으로 숨어든다. 죽음이 다가온 사람을 발견하면 조용히 뒤를 쫓는다.",
+        "number": "016",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Aya Kusube",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016016"
+    },
+    {
+        "id": "SVD-017",
+        "cardID": "샹델불150연쇄010히트150",
+        "name": "샹델라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "샹델라",
+                "pokedexNumber": 609
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "연쇄연소",
+                "cost": "(불꽃)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "샹델라를 등불 대용으로 사용했던 저택에서는 장례식이 끊이지 않았다고 한다.",
+        "number": "017",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Haru Akasaka",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016017"
+    },
+    {
+        "id": "SVD-018",
+        "cardID": "활화불080불꽃010돌진040",
+        "name": "활화르바",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "활화르바",
+                "pokedexNumber": 636
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃",
+                "cost": "(불꽃)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌진",
+                "cost": "(불꽃)(무색)",
+                "damage": "40",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "태양을 훔친 유충이라 불렸었다. 뿔을 통해 분출하는 불꽃은 철판도 끊어 버릴 수 있다.",
+        "number": "018",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016018"
+    },
+    {
+        "id": "SVD-019",
+        "cardID": "불카불140불꽃030히트130",
+        "name": "불카모스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "불카모스",
+                "pokedexNumber": 637
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃두르기",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "자신의 트래쉬에서 「기본 (불꽃) 에너지」를 1장 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "더운 곳에서는 타오르는 몸 때문에 미움을 받지만, 추운 곳에서는 태양의 화신이라며 받들어진다.",
+        "number": "019",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yukiko Baba",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016019"
+    },
+    {
+        "id": "SVD-020",
+        "cardID": "카르불070치기010화염020",
+        "name": "카르본",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "카르본",
+                "pokedexNumber": 935
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "화염",
+                "cost": "(불꽃)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "불탄 숯에 영혼이 깃들어서 포켓몬이 되었다. 타오르는 투지로 강한 상대에게도 싸움을 건다.",
+        "number": "020",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016020"
+    },
+    {
+        "id": "SVD-021",
+        "cardID": "카디불120작열타오070",
+        "name": "카디나르마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "카디나르마",
+                "pokedexNumber": 936
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "타오르는대포",
+                "cost": "(불꽃)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "작열하는 갑옷",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 화상으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "많은 무공을 세운 전사의 갑옷에 의해 진화한 모습. 충성심이 강한 포켓몬이다.",
+        "number": "021",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Souichirou Gunjima",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016021"
+    },
+    {
+        "id": "SVD-022",
+        "cardID": "라프물110싸라000프리100",
+        "name": "라프라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "싸라기눈",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "프리즈윈드",
+                "cost": "(물)(물)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "추위에 강해서 얼음 바다에서도 끄떡없다. 피부는 매끈매끈하고 조금 차갑다.",
+        "number": "022",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "matazo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016022"
+    },
+    {
+        "id": "SVD-023",
+        "cardID": "딜리물090더블000아이030",
+        "name": "딜리버드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "딜리버드",
+                "pokedexNumber": 225
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "아이스윙",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "온종일 먹이를 운반한다. 조난당한 사람이 딜리버드의 먹이로 살아났다는 이야기도 있다.",
+        "number": "023",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "miki kudo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016023"
+    },
+    {
+        "id": "SVD-024",
+        "cardID": "브이물070전광010",
+        "name": "브이젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "브이젤",
+                "pokedexNumber": 418
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "전광석화",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리를 스크루처럼 돌려서 수중을 헤엄치는 것뿐만 아니라 엉겨 붙는 해초도 자를 수 있다.",
+        "number": "024",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Jerky",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016024"
+    },
+    {
+        "id": "SVD-025",
+        "cardID": "플로물110소용000폭포060",
+        "name": "플로젤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "플로젤",
+                "pokedexNumber": 419
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "소용돌이테일",
+                "cost": "(물)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 패로 되돌린다."
+            },
+            {
+                "name": "폭포오르기",
+                "cost": "(물)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "부낭을 부풀리면 사람을 등에 태울 수 있다. 부낭을 오그라들게 하여 잠수한다.",
+        "number": "025",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016025"
+    },
+    {
+        "id": "SVD-026",
+        "cardID": "맘복물120파도030아쿠120",
+        "name": "맘복치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "맘복치",
+                "pokedexNumber": 594
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "아쿠아슬래시",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "상처 입거나 약해진 포켓몬을 지느러미로 부드럽게 안으며 특수한 점막으로 치료한다.",
+        "number": "026",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Shinji Kanda",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016026"
+    },
+    {
+        "id": "SVD-027",
+        "cardID": "개구물070튀어030",
+        "name": "개구마르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "개구마르",
+                "pokedexNumber": 656
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "튀어올라보기",
+                "cost": "(물)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "섬세한 거품으로 몸을 감싸 피부를 보호한다. 태평한 척하면서 빈틈없이 주위를 살핀다.",
+        "number": "027",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Atsuya Uki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016027"
+    },
+    {
+        "id": "SVD-028",
+        "cardID": "개굴물090뒤집040",
+        "name": "개굴반장",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "개굴반장",
+                "pokedexNumber": 657
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "뒤집기",
+                "cost": "(물)(물)",
+                "damage": "40",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "누구보다도 가벼운 몸을 갖고 있다. 600m를 넘는 타워의 꼭대기까지 1분이면 올라간다.",
+        "number": "028",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tonji Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016028"
+    },
+    {
+        "id": "SVD-029",
+        "cardID": "개굴물300은밀000급류120",
+        "name": "개굴닌자 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "개굴닌자",
+                "pokedexNumber": 658
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "은밀수리검",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "급류베기",
+                "cost": "(물)(물)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "029",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "takuyoa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016029"
+    },
+    {
+        "id": "SVD-030",
+        "cardID": "바다물060물뿌010",
+        "name": "바다그다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "바다그다",
+                "pokedexNumber": 960
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물뿌리기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "20m 떨어진 가비루사에게서 나는 냄새도 맡을 수 있어서 모래 속에 몸을 숨긴다.",
+        "number": "030",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Pani Kobayashi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016030"
+    },
+    {
+        "id": "SVD-031",
+        "cardID": "바닥물090감아050",
+        "name": "바닥트리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "바닥트리오",
+                "pokedexNumber": 961
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "감아서짜기",
+                "cost": "(물)",
+                "damage": "50",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겉보기와 다르게 성질이 사납다. 기다란 몸으로 먹잇감을 죄어서 굴 안으로 끌고 들어간다.",
+        "number": "031",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016031"
+    },
+    {
+        "id": "SVD-032",
+        "cardID": "터벅물100고드010날카060",
+        "name": "터벅고래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "터벅고래",
+                "pokedexNumber": 974
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "고드름",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "날카로운 지느러미",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "한랭지에서 5마리 정도가 무리를 이루며 산다. 눈과 얼음에 포함된 미네랄을 좋아한다.",
+        "number": "032",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016032"
+    },
+    {
+        "id": "SVD-033",
+        "cardID": "우락물180한방050스위200",
+        "name": "우락고래",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "우락고래",
+                "pokedexNumber": 975
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "스위핑태클",
+                "cost": "(물)(무색)(무색)",
+                "damage": "200-",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지만큼 이 기술의 데미지는 작아진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "얼음 에너지를 집중시키면 위턱의 뿔이 초저온이 되어 주위를 얼려 버린다.",
+        "number": "033",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016033"
+    },
+    {
+        "id": "SVD-034",
+        "cardID": "피카번070울음000피카030",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울음소리",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "피카볼트",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "양 볼에는 전기를 저장하는 주머니가 있다. 화가 나면 저장한 전기를 단숨에 방출한다.",
+        "number": "034",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "OKACHEKE",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016034"
+    },
+    {
+        "id": "SVD-035",
+        "cardID": "라이번140일렉00010200",
+        "name": "라이츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭차지",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (번개) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "10만볼트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리가 어스 역할을 하여 전기를 지면으로 흘려보내므로 자신은 감전되거나 하지 않는다.",
+        "number": "035",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Teeziro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016035"
+    },
+    {
+        "id": "SVD-036",
+        "cardID": "코일번060부딪010스피020",
+        "name": "코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코일",
+                "pokedexNumber": 81
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "스피드볼",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "좌우에 있는 유닛에서 나오는 전자파를 이용해 중력을 거슬러 하늘에 떠 있다.",
+        "number": "036",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016036"
+    },
+    {
+        "id": "SVD-037",
+        "cardID": "레어번090몸통030일렉060",
+        "name": "레어코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "레어코일",
+                "pokedexNumber": 82
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "몸통박치기",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "3개의 코일은 강한 자력으로 연결되어 있다. 가까이 다가가면 강한 귀울림에 시달리게 된다.",
+        "number": "037",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kurumitsu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016037"
+    },
+    {
+        "id": "SVD-038",
+        "cardID": "자포번170마그050번개180",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "마그넷리젝트",
+                "cost": "(번개)",
+                "damage": "50",
+                "text": "원한다면 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "번개",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "180",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "괴전파를 발신하며 하늘을 날면서 미지의 전파를 수신한다고 한다.",
+        "number": "038",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016038"
+    },
+    {
+        "id": "SVD-039",
+        "cardID": "로토번080정크000전기020",
+        "name": "로토무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "로토무",
+                "pokedexNumber": 479
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "정크헌트",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 모터를 움직이는 동력원으로서 긴 시간 동안 연구되었던 포켓몬이다.",
+        "number": "039",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016039"
+    },
+    {
+        "id": "SVD-040",
+        "cardID": "찌르번090저리020추격100",
+        "name": "찌르성게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "찌르성게",
+                "pokedexNumber": 871
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "저리침",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "추격바늘일침",
+                "cost": "(번개)",
+                "damage": "100",
+                "text": "이 기술은 자신의 이전 차례에 이 포켓몬이 「저리침」을 사용하지 않았다면 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "먹이를 소화시킬 때 전기를 만들어 낸다. 5개의 단단한 이빨로 해초를 갉아 먹는다.",
+        "number": "040",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "miki kudo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016040"
+    },
+    {
+        "id": "SVD-041",
+        "cardID": "빈나번060전격040",
+        "name": "빈나두",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "빈나두",
+                "pokedexNumber": 938
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전격",
+                "cost": "(번개)(무색)",
+                "damage": "40",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꼬리를 흔들어서 전기를 발생시킨다. 위험을 감지하면 머리를 깜빡여서 동료에게 알린다.",
+        "number": "041",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016041"
+    },
+    {
+        "id": "SVD-042",
+        "cardID": "찌리번130일렉070",
+        "name": "찌리배리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "찌리배리",
+                "pokedexNumber": 939
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)(무색)",
+                "damage": "70",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "말랑말랑한 몸을 늘였다 줄였다 하면 배에 달린 배꼽 발전기가 큰 전력을 발생시킨다.",
+        "number": "042",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_042.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016042"
+    },
+    {
+        "id": "SVD-043",
+        "cardID": "찌리번050가져000활공020",
+        "name": "찌리비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "찌리비",
+                "pokedexNumber": 940
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "활공",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개의 뼈는 바람을 받으면 전기를 만들어 낸다. 바다에 뛰어들어 먹이를 감전시켜서 잡는다.",
+        "number": "043",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_043.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016043"
+    },
+    {
+        "id": "SVD-044",
+        "cardID": "찌리번060불어000홰치040",
+        "name": "찌리비",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "찌리비",
+                "pokedexNumber": 940
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "불어휩쓸기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대는 상대 자신의 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 상대는 덱을 4장 뽑는다."
+            },
+            {
+                "name": "홰치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개의 뼈는 바람을 받으면 전기를 만들어 낸다. 바다에 뛰어들어 먹이를 감전시켜서 잡는다.",
+        "number": "044",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_044.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016044"
+    },
+    {
+        "id": "SVD-045",
+        "cardID": "찌리번120직격000썬더140",
+        "name": "찌리비크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "찌리비크",
+                "pokedexNumber": 941
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "직격비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "썬더블라스트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "140",
+                "text": "이 포켓몬에게 붙어 있는 (번개) 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "목의 주머니를 부풀려서 전기를 증폭시킨다. 바람을 타고 하루에 700km를 비행할 수 있다.",
+        "number": "045",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_045.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016045"
+    },
+    {
+        "id": "SVD-046",
+        "cardID": "미라번220퀵드020테크150",
+        "name": "미라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "미라이돈",
+                "pokedexNumber": 1008
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "퀵드로",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "테크노터보",
+                "cost": "(번개)(번개)(번개)",
+                "damage": "150",
+                "text": "자신의 트래쉬에서 「기본 (번개) 에너지」를 1장 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "046",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_046.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016046"
+    },
+    {
+        "id": "SVD-047",
+        "cardID": "삐삐초060두번030",
+        "name": "삐삐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "삐삐",
+                "pokedexNumber": 35
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "두번뺨치기",
+                "cost": "(초)(초)",
+                "damage": "30×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "애교 있는 몸동작과 울음소리로 귀엽다고 많은 인기를 누리는 포켓몬. 그러나 좀처럼 눈에 띄지 않는다.",
+        "number": "047",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_047.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016047"
+    },
+    {
+        "id": "SVD-048",
+        "cardID": "픽시초260월면문원170",
+        "name": "픽시 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "픽시",
+                "pokedexNumber": 36
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "문원더",
+                "cost": "(초)(초)(초)",
+                "damage": "170",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (초) 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "월면 존",
+                "text": "이 포켓몬이 있는 한, (초) 에너지가 붙어 있는 자신의 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "048",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Satoshi Shirai",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_048.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016048"
+    },
+    {
+        "id": "SVD-049",
+        "cardID": "블루초080갉기010이판030",
+        "name": "블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "블루",
+                "pokedexNumber": 209
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "이판사판태클",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "겉보기와 다르게 겁쟁이라 다른 강아지포켓몬과 함께 있으면 괴롭힘을 당할 때도 있다.",
+        "number": "049",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Sekio",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_049.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016049"
+    },
+    {
+        "id": "SVD-050",
+        "cardID": "그랑초130진검050와일160",
+        "name": "그랑블루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "그랑블루",
+                "pokedexNumber": 210
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "진검승부",
+                "cost": "(초)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "와일드태클",
+                "cost": "(초)(초)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "젊은 여성에게 인기가 많지만 겁쟁이인데다가 섬세하기 때문에 지킴이로는 무능하다.",
+        "number": "050",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Lee HyunJung",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_050.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016050"
+    },
+    {
+        "id": "SVD-051",
+        "cardID": "입치초100짓궂030",
+        "name": "입치트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "입치트",
+                "pokedexNumber": 303
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "짓궂은크런치",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지의 개수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강철의 뿔이 변형되어 생긴 큰 턱으로 상대를 덥석 문다.",
+        "number": "051",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "0313",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_051.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016051"
+    },
+    {
+        "id": "SVD-052",
+        "cardID": "흔들초070바람010벌룬030",
+        "name": "흔들풍손",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "흔들풍손",
+                "pokedexNumber": 425
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "벌룬봄",
+                "cost": "(초)(초)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "풍선으로 착각해 흔들풍손을 가지고 있었던 어린아이가 사라지는 경우가 있다고 한다.",
+        "number": "052",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Taira Akitsu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_052.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016052"
+    },
+    {
+        "id": "SVD-053",
+        "cardID": "둥실초110바람030저주000",
+        "name": "둥실라이드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "둥실라이드",
+                "pokedexNumber": 426
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "저주뿌리기",
+                "cost": "(초)(초)(초)",
+                "damage": "",
+                "text": "데미지 카운터 8개를 상대의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸 안에서 가스를 만들거나 토해 내며 하늘을 나는 높이를 조절한다.",
+        "number": "053",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_053.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016053"
+    },
+    {
+        "id": "SVD-054",
+        "cardID": "하랑초120책사030초염080",
+        "name": "하랑우탄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "하랑우탄",
+                "pokedexNumber": 765
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "책사의부채",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다."
+            },
+            {
+                "name": "초염동력",
+                "cost": "(초)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "숲의 포켓몬들에게 계속해서 지시를 내리는 모습 때문에 옛날에는 인간이었던 것으로 여겨지고 있다.",
+        "number": "054",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toshinao Aoki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_054.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016054"
+    },
+    {
+        "id": "SVD-055",
+        "cardID": "하느초040회전020",
+        "name": "하느라기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "하느라기",
+                "pokedexNumber": 955
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "회전어택",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "배의 하늘하늘한 부분에서 나오는 사이코 파워를 통해, 겨우 1cm지만 발끝이 지상에 떠 있다.",
+        "number": "055",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_055.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016055"
+    },
+    {
+        "id": "SVD-056",
+        "cardID": "클레초110안력020사이030",
+        "name": "클레스퍼트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "클레스퍼트라",
+                "pokedexNumber": 956
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "안력",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "사이코키네시스",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.",
+        "number": "056",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_056.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016056"
+    },
+    {
+        "id": "SVD-057",
+        "cardID": "어리초060가져000쥐어020",
+        "name": "어리짱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "어리짱",
+                "pokedexNumber": 957
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "쥐어박기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손수 만든 해머를 휘둘러 몸을 지키려 하나 금속을 먹는 포켓몬에게 자주 빼앗기고 만다.",
+        "number": "057",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Mizue",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_057.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016057"
+    },
+    {
+        "id": "SVD-058",
+        "cardID": "꼬지격110치고020팔꿈090",
+        "name": "꼬지모",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "꼬지모",
+                "pokedexNumber": 185
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "치고숨기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "팔꿈치치기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "항상 나무인 척하고 있다. 몸의 구조는 식물보다 돌이나 바위에 가까운 듯하다.",
+        "number": "058",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Jerky",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_058.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016058"
+    },
+    {
+        "id": "SVD-059",
+        "cardID": "리오격070펀치010돌격050",
+        "name": "리오르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "리오르",
+                "pokedexNumber": 447
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "펀치",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "돌격",
+                "cost": "(격투)(무색)",
+                "damage": "50",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "파동을 내서 동료끼리 의사소통을 한다. 밤새도록 계속 달릴 수 있다.",
+        "number": "059",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "chibi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_059.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016059"
+    },
+    {
+        "id": "SVD-060",
+        "cardID": "루카격130어벤030가속120",
+        "name": "루카리오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "어벤지너클",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 (격투) 포켓몬이 기절했다면 120데미지를 추가한다."
+            },
+            {
+                "name": "가속찌르기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「가속찌르기」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "파동을 포착하여 보이지 않는 상대의 모습도 볼 수 있다고 전해진다.",
+        "number": "060",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nurikabe",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_060.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016060"
+    },
+    {
+        "id": "SVD-061",
+        "cardID": "두더격070밀어010",
+        "name": "두더류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "두더류",
+                "pokedexNumber": 529
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "밀어올리기",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 1번 던져서 앞면이 나오면 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "손톱으로 땅속을 파고 다니면서 키우는 채소를 해치기 때문에 농업 종사자들이 싫어한다.",
+        "number": "061",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_061.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016061"
+    },
+    {
+        "id": "SVD-062",
+        "cardID": "깜눈격070갉기010부딪030",
+        "name": "깜눈크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "깜눈크",
+                "pokedexNumber": 551
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "모래 속에 숨어서 헤엄치는 것처럼 이동한다. 적에게 들키지 않으면서 체온이 내려가지 않기 위한 지혜다.",
+        "number": "062",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tomokazu Komiya",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_062.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016062"
+    },
+    {
+        "id": "SVD-063",
+        "cardID": "악비격100보복030쥐어060",
+        "name": "악비르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "악비르",
+                "pokedexNumber": 552
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "보복",
+                "cost": "(격투)",
+                "damage": "30+",
+                "text": "상대의 남은 프라이즈 장수가 1장이라면 90데미지를 추가한다."
+            },
+            {
+                "name": "쥐어박기",
+                "cost": "(격투)(격투)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "얇은 막으로 덮여 있는 두 눈은 한밤중에도 잘 보인다. 몇 마리가 무리 지어 생활한다.",
+        "number": "063",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kantaro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_063.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016063"
+    },
+    {
+        "id": "SVD-064",
+        "cardID": "악비격170우걱050지진180",
+        "name": "악비아르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "악비아르",
+                "pokedexNumber": 553
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "우걱우걱 바이트",
+                "cost": "(격투)",
+                "damage": "50",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에게 붙어 있는 에너지를 선택해서 트래쉬한다."
+            },
+            {
+                "name": "지진",
+                "cost": "(격투)(격투)",
+                "damage": "180",
+                "text": "자신의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "강력한 턱으로 물고 그대로 힘껏 몸을 비틀어 먹이를 절단한다.",
+        "number": "064",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_064.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016064"
+    },
+    {
+        "id": "SVD-065",
+        "cardID": "들눈격060걷어010진흙020",
+        "name": "들눈해",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "들눈해",
+                "pokedexNumber": 948
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "걷어차기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "축축한 숲속에 산다. 떨어져 나온 몸의 하늘하늘한 부분은 쫄깃쫄깃하고 아주 맛있다.",
+        "number": "065",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Oswaldo KATO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_065.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016065"
+    },
+    {
+        "id": "SVD-066",
+        "cardID": "육파격130때리040더블100",
+        "name": "육파리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "육파리",
+                "pokedexNumber": 949
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "더블휩",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.",
+        "number": "066",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_066.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016066"
+    },
+    {
+        "id": "SVD-067",
+        "cardID": "절벼격130찝기050아드130",
+        "name": "절벼게",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "절벼게",
+                "pokedexNumber": 950
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "찝기",
+                "cost": "(격투)(격투)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "아드레나해머",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "130",
+                "text": "이 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.",
+        "number": "067",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_067.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016067"
+    },
+    {
+        "id": "SVD-068",
+        "cardID": "코라격230스플020가이230",
+        "name": "코라이돈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "코라이돈",
+                "pokedexNumber": 1007
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스플릿빔",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "가이아프레스",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "230",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "068",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_068.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016068"
+    },
+    {
+        "id": "SVD-069",
+        "cardID": "우파악060독액000",
+        "name": "팔데아 우파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "우파",
+                "pokedexNumber": 194,
+                "region": "팔데아"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독액",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "영역 다툼에서 밀려 육지에 살게 되면서 독성을 띠는 점막으로 몸을 보호하도록 변화했다.",
+        "number": "069",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Shibuzoh.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_069.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016069"
+    },
+    {
+        "id": "SVD-070",
+        "cardID": "토오악140포이020흙탕100",
+        "name": "팔데아 토오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "토오",
+                "pokedexNumber": 980,
+                "region": "팔데아"
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌서클",
+                "cost": "(악)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "흙탕해머",
+                "cost": "(악)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "적에게 공격을 받으면 몸에서 굵은 가시를 내지르며 반격한다. 몸이 끊어질 각오가 필요한 위험한 기술이다.",
+        "number": "070",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_070.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016070"
+    },
+    {
+        "id": "SVD-071",
+        "cardID": "델빌악070물기010어둠070",
+        "name": "델빌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "델빌",
+                "pokedexNumber": 228
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "어둠엄니",
+                "cost": "(악)(악)(악)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "수많은 울음소리를 가려 써서 동료들과 의사소통을 하며 사냥을 하는 지능을 가지고 있다.",
+        "number": "071",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kurata So",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_071.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016071"
+    },
+    {
+        "id": "SVD-072",
+        "cardID": "헬가악270이블090하운220",
+        "name": "헬가 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "헬가",
+                "pokedexNumber": 229
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "이블클로",
+                "cost": "(악)(악)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 기술을 받은 기본 포켓몬은 기술을 사용할 수 없다."
+            },
+            {
+                "name": "하운드팽",
+                "cost": "(악)(악)(악)",
+                "damage": "220",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "072",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "PLANETA Tsuji",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_072.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016072"
+    },
+    {
+        "id": "SVD-073",
+        "cardID": "세비악110예리020내리050",
+        "name": "세비퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "세비퍼",
+                "pokedexNumber": 336
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "내리치기",
+                "cost": "(악)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 진화 포켓몬이라면 50데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "단단한 바위로 칼날 같은 꼬리를 간다. 수풀에 숨어서 먹이에 접근한 다음 독 이빨로 공격한다.",
+        "number": "073",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nisota Niso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_073.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016073"
+    },
+    {
+        "id": "SVD-074",
+        "cardID": "야도악070가스010할퀴030",
+        "name": "야도뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "야도뇽",
+                "pokedexNumber": 757
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "가스로감싸기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(악)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먹잇감을 도발해서 좁은 암석 지대로 유인한 뒤 어지러워지는 독가스를 뿜어서 마무리한다.",
+        "number": "074",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Shiburingaru",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_074.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016074"
+    },
+    {
+        "id": "SVD-075",
+        "cardID": "염뉴악120가스040세게070",
+        "name": "염뉴트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "염뉴트",
+                "pokedexNumber": 758
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "가스로감싸기",
+                "cost": "(악)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "세게때리기",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "독가스에 어질어질해진 상대를 요염한 몸놀림으로 유혹해서 충실한 부하로 만들어 버린다.",
+        "number": "075",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Shigenori Negishi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_075.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016075"
+    },
+    {
+        "id": "SVD-076",
+        "cardID": "오라악080깨물030",
+        "name": "오라티프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "오라티프",
+                "pokedexNumber": 942
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(악)(악)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "발달된 턱과 이빨은 바위도 분쇄할 정도로 강하다. 두꺼운 지방은 우수한 방어력을 자랑한다.",
+        "number": "076",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_076.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016076"
+    },
+    {
+        "id": "SVD-077",
+        "cardID": "마피악130위협와일160",
+        "name": "마피티프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "마피티프",
+                "pokedexNumber": 943
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "와일드태클",
+                "cost": "(악)(악)(무색)",
+                "damage": "160",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위협의 멀리짖기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "아이들과 노는 것을 좋아한다. 평소에는 온화하지만 가족을 지킬 때는 인상이 바뀐다.",
+        "number": "077",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_077.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016077"
+    },
+    {
+        "id": "SVD-078",
+        "cardID": "땃쭈악050나무000할퀴010",
+        "name": "땃쭈르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "땃쭈르",
+                "pokedexNumber": 944
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "나무열매찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "할퀴기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "온화하지만 화가 나게 하면 독이 밴 날카로운 앞니로 물어서 상대를 마비시킨다.",
+        "number": "078",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_078.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016078"
+    },
+    {
+        "id": "SVD-079",
+        "cardID": "떨구악120딜리000다크120",
+        "name": "떨구새",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "떨구새",
+                "pokedexNumber": 962
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "딜리버리포켓",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "다크에지",
+                "cost": "(악)(악)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "가슴의 깃털과 떨어진 깃털로 만든 주머니에 물건을 넣고는 높은 곳에서 떨어뜨리며 논다.",
+        "number": "079",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Sekio",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_079.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016079"
+    },
+    {
+        "id": "SVD-080",
+        "cardID": "쏘콘강120연속050셸롤090",
+        "name": "쏘콘",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "쏘콘",
+                "pokedexNumber": 205
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "연속스핀",
+                "cost": "(강철)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
+            },
+            {
+                "name": "셸롤링",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-50」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "강철 같은 단단한 껍질로 전신을 싸고 있다. 내용물의 정체는 수수께끼다.",
+        "number": "080",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Lee HyunJung",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_080.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016080"
+    },
+    {
+        "id": "SVD-081",
+        "cardID": "무장강120쪼기020슬래120",
+        "name": "무장조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "무장조",
+                "pokedexNumber": 227
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "쪼기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "슬래시스틸",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「슬래시스틸」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "빠진 깃털로 검을 만들 수 있어서 문장 도안으로 인기가 많다.",
+        "number": "081",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Takeshi Nakamura",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_081.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016081"
+    },
+    {
+        "id": "SVD-082",
+        "cardID": "몰드강120궤찌060",
+        "name": "몰드류",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "몰드류",
+                "pokedexNumber": 530
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "궤찌르기",
+                "cost": "(강철)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.",
+        "number": "082",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_082.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016082"
+    },
+    {
+        "id": "SVD-083",
+        "cardID": "토게강080웅크000구르050",
+        "name": "토게데마루",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "토게데마루",
+                "pokedexNumber": 777
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "웅크리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(강철)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댄다.",
+        "number": "083",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Sekio",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_083.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016083"
+    },
+    {
+        "id": "SVD-084",
+        "cardID": "멜탄강070녹이020",
+        "name": "멜탄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멜탄",
+                "pokedexNumber": 808
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "녹이기",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리 지어 생활하지만 때가 되면 1마리의 강한 멜탄이 동료들을 흡수해 진화한다.",
+        "number": "084",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nobuhiro Imagawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_084.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016084"
+    },
+    {
+        "id": "SVD-085",
+        "cardID": "멜메강300금속000풀메090",
+        "name": "멜메탈 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "멜메탈",
+                "pokedexNumber": 809
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "금속흡수",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (강철) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "풀메탈너클",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "085",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "PLANETA Igarashi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_085.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016085"
+    },
+    {
+        "id": "SVD-086",
+        "cardID": "부르강080한방060",
+        "name": "부르롱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "부르롱",
+                "pokedexNumber": 965
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "한방 먹이기",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "고철 처리장에 방치된 엔진에 정체불명의 독포켓몬이 들어가 탄생한 것으로 전해지고 있다.",
+        "number": "086",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_086.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016086"
+    },
+    {
+        "id": "SVD-087",
+        "cardID": "부르강140럼블띄워090",
+        "name": "부르르룸",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "부르르룸",
+                "pokedexNumber": 966
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "띄워날리기",
+                "cost": "(강철)(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 90데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "럼블엔진",
+                "text": "자신의 차례에 자신의 패에서 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.",
+        "number": "087",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Anesaki Dynamic",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_087.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016087"
+    },
+    {
+        "id": "SVD-088",
+        "cardID": "미뇽드070꼬리020",
+        "name": "미뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "미뇽",
+                "pokedexNumber": 147
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "꼬리채찍",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "세차게 떨어지는 폭포의 보호를 받으며 탈피를 거듭해 점점 크게 자란다.",
+        "number": "088",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "satoma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_088.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016088"
+    },
+    {
+        "id": "SVD-089",
+        "cardID": "신뇽드100부딪030드래070",
+        "name": "신뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "신뇽",
+                "pokedexNumber": 148
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "드래곤테일",
+                "cost": "(물)(번개)",
+                "damage": "70×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "전신에서 오라를 발산하면 주변 날씨가 순식간에 변한다고 한다.",
+        "number": "089",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_089.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016089"
+    },
+    {
+        "id": "SVD-090",
+        "cardID": "망나드330테라날개070용성140",
+        "name": "망나뇽 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "망나뇽",
+                "pokedexNumber": 149
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "날개치기",
+                "cost": "(무색)",
+                "damage": "70",
+                "text": ""
+            },
+            {
+                "name": "용성브레이크",
+                "cost": "(물)(번개)",
+                "damage": "140+",
+                "text": "동전을 1번 던져서 앞면이 나오면 140데미지를 추가한다. 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "090",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_090.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016090"
+    },
+    {
+        "id": "SVD-091",
+        "cardID": "할비드120역린060",
+        "name": "할비롱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "할비롱",
+                "pokedexNumber": 780
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람을 잘 따르고 마음이 착하지만 한번 화가 나면 강풍을 일으켜 모든 것을 쓰러뜨려 버린다.",
+        "number": "091",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "hatachu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_091.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016091"
+    },
+    {
+        "id": "SVD-092",
+        "cardID": "노고무070친구000물기050",
+        "name": "노고치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "노고치",
+                "pokedexNumber": 206
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "어두운 장소에 미로를 만든다. 누군가에게 발견되면 꼬리로 땅을 파서 도망가려 한다.",
+        "number": "092",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Nagomi Nijo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_092.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016092"
+    },
+    {
+        "id": "SVD-093",
+        "cardID": "쟝고무090베어040",
+        "name": "쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "세비퍼와는 사연이 깊은 사이. 만나면 곧바로 앞발의 발톱을 펼쳐 위협한다.",
+        "number": "093",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuya Oka",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_093.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016093"
+    },
+    {
+        "id": "SVD-094",
+        "cardID": "요테무050뒤로020",
+        "name": "요테리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "요테리",
+                "pokedexNumber": 506
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "또래의 아이보다 훨씬 영리하다. 사랑받은 것도 혼난 것도 잊지 않는다.",
+        "number": "094",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_094.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016094"
+    },
+    {
+        "id": "SVD-095",
+        "cardID": "하데무090뒤로030한방050",
+        "name": "하데리어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "하데리어",
+                "pokedexNumber": 507
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뒤로 차기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸을 뒤덮은 검은 털은 두껍고 탄력이 있다. 날카로운 이빨도 튕겨낸다.",
+        "number": "095",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Kariya",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_095.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016095"
+    },
+    {
+        "id": "SVD-096",
+        "cardID": "바랜무160우걱050예리140",
+        "name": "바랜드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "바랜드",
+                "pokedexNumber": 508
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "우걱우걱패닉",
+                "cost": "(무색)",
+                "damage": "50×",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 50데미지를 준다."
+            },
+            {
+                "name": "예리한이빨",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "훌륭한 수염이 특징인 포켓몬이다. 그 길이로 동료들과 우열을 가린다고 한다.",
+        "number": "096",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Keisin",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_096.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016096"
+    },
+    {
+        "id": "SVD-097",
+        "cardID": "다부무100친구000뺨치080",
+        "name": "다부니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "다부니",
+                "pokedexNumber": 531
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "뺨치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마음 착한 포켓몬이다. 더듬이를 갖다 대어 상대의 마음과 몸 상태를 파악한다.",
+        "number": "097",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Tika Matsuno",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_097.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016097"
+    },
+    {
+        "id": "SVD-098",
+        "cardID": "버프무120아프데미050",
+        "name": "버프론",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "버프론",
+                "pokedexNumber": 626
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "데미지러쉬",
+                "cost": "(무색)(무색)",
+                "damage": "50+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아프로가드",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "20마리 정도가 무리 지어 산다. 무리를 배신한 버프론은 어째서인지 머리털이 빠진다.",
+        "number": "098",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Yuya Oka",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_098.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016098"
+    },
+    {
+        "id": "SVD-099",
+        "cardID": "탐리무060훔쳐000세게010",
+        "name": "탐리스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "탐리스",
+                "pokedexNumber": 819
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "훔쳐먹기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 덱을 위에서부터 1장 트래쉬한다."
+            },
+            {
+                "name": "세게때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼에 나무열매를 비축한다. 나무열매가 없어서 입이 심심할 때는 조약돌을 물면서 견딘다.",
+        "number": "099",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Taiga Kayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_099.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016099"
+    },
+    {
+        "id": "SVD-100",
+        "cardID": "요씽무260테라무진000꽈당210",
+        "name": "요씽리스 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 260,
+        "pokemons": [
+            {
+                "name": "요씽리스",
+                "pokedexNumber": 820
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "무진장 욕심내기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 3장 본다. 그 카드를 패로 가져온다. 또는 그 카드를 트래쉬하고 자신의 덱을 3장 뽑는다."
+            },
+            {
+                "name": "꽈당롤링",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 「꽈당롤링」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "100",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_100.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016100"
+    },
+    {
+        "id": "SVD-101",
+        "cardID": "맛보무060가져000몸통030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "number": "101",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_101.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016101"
+    },
+    {
+        "id": "SVD-102",
+        "cardID": "맛보무070머리010머드020",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "머리박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "머드샷",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "number": "102",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Atsuko Nishida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_102.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016102"
+    },
+    {
+        "id": "SVD-103",
+        "cardID": "퍼퓨무120흔들030박히160",
+        "name": "퍼퓨돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "퍼퓨돈",
+                "pokedexNumber": 916
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "흔들흔들퍼퓸",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "박히는킥",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 60데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "곱고 윤기가 흐르는 피부를 자랑한다. 꼬리 끝에서 응축된 향기를 내보낸다.",
+        "number": "103",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Pani Kobayashi",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_103.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016103"
+    },
+    {
+        "id": "SVD-104",
+        "cardID": "두리무030가져000세게030",
+        "name": "두리쥐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "두리쥐",
+                "pokedexNumber": 924
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "세게때리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "호흡이 척척 맞는 콤비네이션으로 집의 재료가 될 만한 것을 앞니로 잘라 내어 가지고 간다.",
+        "number": "104",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Oswaldo KATO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_104.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016104"
+    },
+    {
+        "id": "SVD-105",
+        "cardID": "두리무040더블030",
+        "name": "두리쥐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "두리쥐",
+                "pokedexNumber": 924
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "더블어택",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "언제나 두 마리가 함께한다. 발견한 먹이는 정확히 반으로 나눠서 사이좋게 먹는다.",
+        "number": "105",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "yuu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_105.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016105"
+    },
+    {
+        "id": "SVD-106",
+        "cardID": "파밀무070뺨치040패밀070",
+        "name": "파밀리쥐",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "파밀리쥐",
+                "pokedexNumber": 925
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "뺨치기",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "패밀리어택",
+                "cost": "(무색)(무색)",
+                "damage": "70×",
+                "text": "자신의 필드의 「파밀리쥐」의 수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "큰 두 마리가 아이들을 지키며 싸운다. 강한 상대에게는 모두가 맞서 싸운다.",
+        "number": "106",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_106.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016106"
+    },
+    {
+        "id": "SVD-107",
+        "cardID": "시비무070동료000공중060",
+        "name": "시비꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "시비꼬",
+                "pokedexNumber": 931
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "공중날기",
+                "cost": "(무색)(무색)",
+                "damage": "60",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "녹색 깃털의 시비꼬가 가장 세력이 크다. 먹이를 찾는 아침과 밤에는 매우 시끄럽다.",
+        "number": "107",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Oswaldo KATO",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_107.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016107"
+    },
+    {
+        "id": "SVD-108",
+        "cardID": "모토무110돌격070",
+        "name": "모토마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "모토마",
+                "pokedexNumber": 967
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "돌격",
+                "cost": "(무색)(무색)",
+                "damage": "70",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "먼 옛날부터 인간을 등에 태우고 다녔다고 한다. 1만 년 전 벽화에도 그 모습이 그려져 있다.",
+        "number": "108",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_108.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016108"
+    },
+    {
+        "id": "SVD-109",
+        "cardID": "꼬이무110홰치030급강110",
+        "name": "꼬이밍고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "꼬이밍고",
+                "pokedexNumber": 973
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "급강하",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "싱크로라 불리는 습성으로 인해 무리 전체가 일사불란하게 움직여 일제히 공격한다.",
+        "number": "109",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kantaro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_109.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016109"
+    },
+    {
+        "id": "SVD-110",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "110",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_110.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016110"
+    },
+    {
+        "id": "SVD-111",
+        "cardID": "딜리버리드론",
+        "name": "딜리버리드론",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 2번 던져서 모두 앞면이 나오면 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "111",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "inose yukie",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_111.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016111"
+    },
+    {
+        "id": "SVD-112",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬 1마리의 HP를 「30」회복한다."
+        ],
+        "number": "112",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_112.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016112"
+    },
+    {
+        "id": "SVD-113",
+        "cardID": "슈퍼볼",
+        "name": "슈퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "113",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_113.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016113"
+    },
+    {
+        "id": "SVD-114",
+        "cardID": "에너지 갈아 달기",
+        "name": "에너지 갈아 달기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다."
+        ],
+        "number": "114",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_114.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016114"
+    },
+    {
+        "id": "SVD-115",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "115",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_115.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016115"
+    },
+    {
+        "id": "SVD-116",
+        "cardID": "에너지 회수",
+        "name": "에너지 회수",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "116",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_116.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016116"
+    },
+    {
+        "id": "SVD-117",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "117",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_117.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016117"
+    },
+    {
+        "id": "SVD-118",
+        "cardID": "일렉트릭 제너레이터",
+        "name": "일렉트릭 제너레이터",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 5장 보고 그 중에서 「기본 (번개) 에너지」를 2장까지 선택해서 벤치의 (번개) 포켓몬에게 원하는 대로 붙인다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "118",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_118.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016118"
+    },
+    {
+        "id": "SVD-119",
+        "cardID": "크래시 해머",
+        "name": "크래시 해머",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대 필드의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+        ],
+        "number": "119",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_119.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016119"
+    },
+    {
+        "id": "SVD-120",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "120",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_120.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016120"
+    },
+    {
+        "id": "SVD-121",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "121",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_121.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016121"
+    },
+    {
+        "id": "SVD-122",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "122",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_122.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016122"
+    },
+    {
+        "id": "SVD-123",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "123",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_123.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016123"
+    },
+    {
+        "id": "SVD-124",
+        "cardID": "기력의머리띠",
+        "name": "기력의머리띠",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+10」이 된다."
+        ],
+        "number": "124",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_124.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016124"
+    },
+    {
+        "id": "SVD-125",
+        "cardID": "바위 가슴보호대",
+        "name": "바위 가슴보호대",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 (격투) 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-30」이 된다."
+        ],
+        "number": "125",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_125.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016125"
+    },
+    {
+        "id": "SVD-126",
+        "cardID": "울퉁불퉁멧",
+        "name": "울퉁불퉁멧",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 2개 올린다."
+        ],
+        "number": "126",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_126.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016126"
+    },
+    {
+        "id": "SVD-127",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "127",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_127.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016127"
+    },
+    {
+        "id": "SVD-128",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "128",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_128.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016128"
+    },
+    {
+        "id": "SVD-129",
+        "cardID": "박사의 연구(올림박사)",
+        "name": "박사의 연구(올림박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "129",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_129.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016129"
+    },
+    {
+        "id": "SVD-130",
+        "cardID": "박사의 연구(투로박사)",
+        "name": "박사의 연구(투로박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "130",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_130.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016130"
+    },
+    {
+        "id": "SVD-131",
+        "cardID": "반바지 꼬마",
+        "name": "반바지 꼬마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "131",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_131.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016131"
+    },
+    {
+        "id": "SVD-132",
+        "cardID": "보스의 지령(게치스)",
+        "name": "보스의 지령(게치스)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "132",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "NC Empire",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_132.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016132"
+    },
+    {
+        "id": "SVD-133",
+        "cardID": "사구아로",
+        "name": "사구아로",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 2마리까지 선택해서 HP를 각각 「50」회복한다."
+        ],
+        "number": "133",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_133.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016133"
+    },
+    {
+        "id": "SVD-134",
+        "cardID": "스타단의 조무래기",
+        "name": "스타단의 조무래기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 덱의 위로 되돌린다."
+        ],
+        "number": "134",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_134.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016134"
+    },
+    {
+        "id": "SVD-135",
+        "cardID": "운향",
+        "name": "운향",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 선택해서 덱의 아래로 되돌린다.",
+            "그 뒤, 자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "(자신의 패가 이 카드 1장 뿐이라면 이 카드는 사용할 수 없다.)"
+        ],
+        "number": "135",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "yuu",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_135.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016135"
+    },
+    {
+        "id": "SVD-136",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "136",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_136.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016136"
+    },
+    {
+        "id": "SVD-137",
+        "cardID": "지니어",
+        "name": "지니어",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "137",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_137.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016137"
+    },
+    {
+        "id": "SVD-138",
+        "cardID": "페퍼",
+        "name": "페퍼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「아이템」과 「포켓몬의 도구」를 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "138",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_138.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016138"
+    },
+    {
+        "id": "SVD-139",
+        "cardID": "리버설 에너지",
+        "name": "리버설 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 1개분으로 작용한다.",
+            "자신의 남은 프라이즈 장수가 상대의 남은 프라이즈 장수보다 많다면 이 카드는 진화 포켓몬(「룰을 가진 포켓몬」은 제외)에게 붙어 있는 한, 모든 타입의 에너지 3개분으로 작용한다."
+        ],
+        "number": "139",
+        "prodNumber": "139",
+        "prodCode": "SVD",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_139.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016139"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "GRA",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_140.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016140"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIR",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_141.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016141"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "WAT",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_142.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016142"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_143.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016143"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "PSY",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_144.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016144"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIG",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_145.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016145"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 악 에너지",
+        "name": "기본 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "DAR",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_146.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016146"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "MET",
+        "prodCode": "SVD",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_147.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016147"
+    }
+]

@@ -1,0 +1,582 @@
+[
+    {
+        "id": "dc-008",
+        "cardID": "보만드140거만찢기090",
+        "name": "보만다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "90",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "거만한바람",
+                "text": "상대는 상대 자신의 패가 4장이 될 때까지 패를 트래쉬한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "하늘을 나는 것을 계속 바라왔던 결과 몸의 세포가 변화해서 날개가 자라났다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "020",
+                "prodCode": "dc",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dc.png",
+                "prodName": "BW 확장팩 「드래곤 컬렉션」",
+                "artist": "BERUBURI",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/DC/dc_008.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012004008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy6-047",
+        "cardID": "보만드160깨부060파워020스팀170",
+        "name": "보만다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "깨부수기",
+                "cost": "(불꽃)",
+                "damage": "60",
+                "text": "필드에 나와 있는 스타디움을 트래쉬한다."
+            },
+            {
+                "name": "파워하울",
+                "cost": "(물)(무색)(무색)",
+                "damage": "20×",
+                "text": "상대의 패의 장수 × 20데미지를 준다."
+            },
+            {
+                "name": "스팀블라스트",
+                "cost": "(불꽃)(불꽃)(물)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "한번 화내면 크게 난동을 부린다. 하늘을 날며 지상의 산과 들을 불꽃으로 모조리 태운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "078",
+                "prodCode": "xy6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy6.png",
+                "prodName": "XY 확장팩 제6탄 「에메랄드 브레이크」",
+                "artist": "TOKIYA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY6/XY6_047.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015004047",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-045",
+        "cardID": "보만드250드래홍련200화염000",
+        "name": "보만다 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "화염비행 GX",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "드래곤플로트",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원(「포켓몬 GX ・ EX」는 제외)의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006045",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_072.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006072",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7-065",
+        "cardID": "보만드150용의드래100",
+        "name": "보만다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤크루",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "용의 바람",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "드디어 자라난 날개로 넓은 하늘을 날아다닌다. 기쁜 마음에 화염을 뿜어 일대를 불태워 버린다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3-080",
+        "cardID": "보만무220횡단000헤비160",
+        "name": "보만다 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "횡단비행",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤비스톰",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "080",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Saki Hayashiro",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011080",
+                "debug": "1"
+            },
+            {
+                "number": "108",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Saki Hayashiro",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011108",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S3-081",
+        "cardID": "보만무320트윈000다이240",
+        "name": "보만다 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "트윈소닉",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "다이윙",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "240",
+                "text": "자신의 다음 차례에 이 포켓몬은 「다이윙」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "081",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011081",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S7R-045",
+        "cardID": "보만드170위협드래100",
+        "name": "보만다",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "드래곤새비지",
+                "cost": "(불꽃)(물)",
+                "damage": "100+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "위협의 부르짖기",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강하게 바라고 바란 결과 몸의 세포가 돌연변이를 일으켜서 염원하던 날개를 손에 넣었다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "067",
+                "prodCode": "S7R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7R.png",
+                "prodName": "소드&실드 확장팩 「창공스트림」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7R_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021012045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-177",
+        "cardID": "보만드180비스010드래130",
+        "name": "보만다 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "비스트팽",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "10+",
+                "text": "상대 필드의 「포켓몬 EX」의 수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "드래곤 스트라이크",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 「드래곤 스트라이크」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "177",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2016 코리안리그 프로모",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYP_177.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2016001001",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-178",
+        "cardID": "보만드230새비100",
+        "name": "M보만다 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화"
+        ],
+        "rules": [],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "보만다",
+                "pokedexNumber": 373
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "새비지윙",
+                "cost": "(불꽃)(물)(무색)(무색)",
+                "damage": "100+",
+                "text": "이 포켓몬에게 붙어 있는 기본 (불꽃) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 (불꽃) 에너지의 개수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "178",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "2016 코리안리그 프로모",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYP_178.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2016001002",
+                "debug": "1"
+            }
+        ]
+    }
+]

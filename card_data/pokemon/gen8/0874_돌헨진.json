@@ -1,0 +1,531 @@
+[
+    {
+        "id": "SA_F-011",
+        "cardID": "돌헨격120와일070",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "와일드태클",
+                "cost": "(격투)(격투)",
+                "damage": "70",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "넓은 초원 한복판에 우뚝 서서 해가 기우는 것을 바라보며 지낸다. 다이내믹한 발차기 기술이 특기다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "024",
+                "prodCode": "SA_F",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_F.png",
+                "prodName": "소드&실드 스타터 세트 V 격투",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_F_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001108",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-034",
+        "cardID": "돌헨격220가드040메가150",
+        "name": "돌헨진 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_034.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002034",
+                "debug": "1"
+            },
+            {
+                "number": "064",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S1W-035",
+        "cardID": "돌헨격330스톤000다이200",
+        "name": "돌헨진 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "스톤기프트",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 패에서 (격투) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그 뒤, 그 포켓몬의 HP를 「120」회복한다."
+            },
+            {
+                "name": "다이록",
+                "cost": "(격투)(격투)(격투)",
+                "damage": "200",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-062",
+        "cardID": "돌헨격140메가080파워120",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "파워프레스",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "120+",
+                "text": "이 기술을 사용하기 위한 에너지보다 1개 많은 에너지가 붙어 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "넓은 초원 한복판에 우뚝 서서 해가 기우는 것을 바라보며 지낸다. 다이내믹한 발차기 기술이 특기다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "062",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005062",
+                "debug": "1"
+            },
+            {
+                "number": "103",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_103.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016103",
+                "debug": "2"
+            },
+            {
+                "number": "274",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_274.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016274",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SI-246",
+        "cardID": "돌헨격130대지030기가120",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "일격"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "대지의고동",
+                "cost": "(격투)(무색)",
+                "damage": "30+",
+                "text": "필드에 스타디움이 나와 있다면 30데미지를 추가한다."
+            },
+            {
+                "name": "기가해머",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「기가해머」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "1년에 1번 정해진 일시에 어디선가 모여 둥글게 늘어서는 습성이 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001035",
+                "debug": "2"
+            },
+            {
+                "number": "246",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_246.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003246",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-065",
+        "cardID": "돌헨격140파워000로스120",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파워스톤",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패에서 (격투) 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "로스트슛",
+                "cost": "(격투)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "상대의 덱을 위에서부터 1장 로스트존에 둔다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "넓은 초원 한복판에 우뚝 서서 해가 기우는 것을 바라보며 지낸다. 다이내믹한 발차기 기술이 특기다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "065",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "HYOGONOSUKE",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_065.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014065",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-055",
+        "cardID": "돌헨격130돌떨020미스060",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌떨구기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "미스터리 프레스",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "자신의 트래쉬에 서포트가 1장도 없다면 130데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "넓은 초원 한복판에 우뚝 서서 해가 기우는 것을 바라보며 지낸다. 다이내믹한 발차기 기술이 특기다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Hataya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017055",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SVAM-010",
+        "cardID": "돌헨격130딱딱메가100",
+        "name": "돌헨진",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "돌헨진",
+                "pokedexNumber": 874
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "메가톤킥",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "딱딱한몸",
+                "text": "이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸의 암석 성분이 서식지에서 멀리 떨어진 땅의 암반과 일치했다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "023",
+                "prodCode": "SVAM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAM.png",
+                "prodName": "스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」",
+                "artist": "Yuka Morii",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAM_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023002010",
+                "debug": "1"
+            }
+        ]
+    }
+]

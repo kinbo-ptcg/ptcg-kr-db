@@ -1,0 +1,873 @@
+[
+    {
+        "id": "SA_G-000",
+        "cardID": "기본 풀 에너지",
+        "name": "기본 풀 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_Energy.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001024"
+    },
+    {
+        "id": "SA_G-001",
+        "cardID": "세레풀180친구000라인050",
+        "name": "세레비 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "세레비",
+                "pokedexNumber": 251
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "친구찾기",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 덱에서 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "라인포스",
+                "cost": "(풀)(무색)",
+                "damage": "50+",
+                "text": "자신의 벤치 포켓몬의 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "PLANETA Igarashi",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001001"
+    },
+    {
+        "id": "SA_G-002",
+        "cardID": "로젤풀070달콤000따끔020",
+        "name": "로젤리아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "로젤리아",
+                "pokedexNumber": 315
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "달콤한향기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+            },
+            {
+                "name": "따끔따끔찌르기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "꽃향기를 맡으면 기분이 편안해진다. 향이 강하면 건강한 로젤리아라는 뜻이다.",
+        "number": "002",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Naoyo Kimura",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001002"
+    },
+    {
+        "id": "SA_G-003",
+        "cardID": "소미풀060들러010",
+        "name": "소미안",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "소미안",
+                "pokedexNumber": 546
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "들러붙기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "솜을 날려 몸을 지킨다. 태풍의 바람에 휩쓸려 지구 반대편까지 갈 때도 있다.",
+        "number": "003",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "ryoma uratsuka",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001003"
+    },
+    {
+        "id": "SA_G-004",
+        "cardID": "엘풍풀100솜날000리프050",
+        "name": "엘풍",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "엘풍",
+                "pokedexNumber": 547
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "솜날리기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "리프스텝",
+                "cost": "(풀)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "솜을 흩뿌리며 장난을 친다. 물을 끼얹으면 무거워져서 움직일 수 없게 되어 포기한다.",
+        "number": "004",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001004"
+    },
+    {
+        "id": "SA_G-005",
+        "cardID": "아이풀110다같030",
+        "name": "아이앤트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "아이앤트",
+                "pokedexNumber": 632
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "다같이물기",
+                "cost": "(풀)(무색)",
+                "damage": "30+",
+                "text": "자신의 벤치에 「아이앤트」가 있다면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "굴속 깊은 곳에 알을 낳는다. 앤티골에게 공격받으면 커다란 턱으로 물어서 반격한다.",
+        "number": "005",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Miki Tanaka",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001005"
+    },
+    {
+        "id": "SA_G-006",
+        "cardID": "흥나풀070할퀴010때리020",
+        "name": "흥나숭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "흥나숭",
+                "pokedexNumber": 810
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "할퀴기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "때리기",
+                "cost": "(풀)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특별한 스틱으로 리듬을 타면 화초를 생생하게 만드는 힘이 음파가 되어 퍼진다.",
+        "number": "006",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001006"
+    },
+    {
+        "id": "SA_G-007",
+        "cardID": "채키풀100때리030덮치050",
+        "name": "채키몽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "채키몽",
+                "pokedexNumber": 811
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(풀)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "덮치기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "50+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "2개의 스틱으로 격렬한 비트를 만드는 채키몽일수록 동료들에게 존경받는다.",
+        "number": "007",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001007"
+    },
+    {
+        "id": "SA_G-008",
+        "cardID": "고릴풀190드럼090드럼180",
+        "name": "고릴타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "고릴타",
+                "pokedexNumber": 812
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "드럼치기",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "드럼어택",
+                "cost": "(풀)(풀)(풀)(무색)",
+                "damage": "180",
+                "text": "자신의 다음 차례에 이 포켓몬은 「드럼어택」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.",
+        "number": "008",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001008"
+    },
+    {
+        "id": "SA_G-009",
+        "cardID": "두루풀040동료000",
+        "name": "두루지벌레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "두루지벌레",
+                "pokedexNumber": 824
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "언제나 부지런히 정보를 모으기 때문에 똑똑하다. 단, 힘은 그저 그렇다.",
+        "number": "009",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Mina Nakai",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001009"
+    },
+    {
+        "id": "SA_G-010",
+        "cardID": "잠만무150구르080헤비130",
+        "name": "잠만보",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "잠만보",
+                "pokedexNumber": 143
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "구르기 태클",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "헤비임팩트",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "하루에 400kg의 음식을 먹지 않으면 성에 차지 않는다. 다 먹으면 잠이 들어 버린다.",
+        "number": "010",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "chibi",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001010"
+    },
+    {
+        "id": "SA_G-011",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "011",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001011"
+    },
+    {
+        "id": "SA_G-012",
+        "cardID": "수퍼볼",
+        "name": "수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001012"
+    },
+    {
+        "id": "SA_G-013",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "013",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001013"
+    },
+    {
+        "id": "SA_G-014",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001014"
+    },
+    {
+        "id": "SA_G-015",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "015",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001015"
+    },
+    {
+        "id": "SA_G-016",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "016",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001016"
+    },
+    {
+        "id": "SA_G-017",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "017",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001017"
+    },
+    {
+        "id": "SA_G-018",
+        "cardID": "커다란부적",
+        "name": "커다란부적",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬의 최대 HP는 「30」커진다."
+        ],
+        "number": "018",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "inose yukie",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001018"
+    },
+    {
+        "id": "SA_G-019",
+        "cardID": "마리",
+        "name": "마리",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 패를 모두 뒷면으로 하여 섞고 덱의 아래로 되돌린다.",
+            "그 뒤, 자신은 5장 상대는 4장 덱을 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001019"
+    },
+    {
+        "id": "SA_G-020",
+        "cardID": "박사의 연구(매그놀리아박사)",
+        "name": "박사의 연구(매그놀리아박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001020"
+    },
+    {
+        "id": "SA_G-021",
+        "cardID": "포켓몬놀이",
+        "name": "포켓몬놀이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "021",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001021"
+    },
+    {
+        "id": "SA_G-022",
+        "cardID": "포켓몬센터 직원",
+        "name": "포켓몬센터 직원",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 그 포켓몬의 HP를 「60」회복하고 특수 상태를 모두 회복한다."
+        ],
+        "number": "022",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001022"
+    },
+    {
+        "id": "SA_G-023",
+        "cardID": "호브",
+        "name": "호브",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "023",
+        "prodNumber": "023",
+        "prodCode": "SA_G",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_G.png",
+        "prodName": "소드&실드 스타터 세트 V 풀",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_G_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001023"
+    }
+]

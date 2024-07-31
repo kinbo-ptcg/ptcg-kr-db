@@ -1,0 +1,62 @@
+[
+    {
+        "id": "S11-055",
+        "cardID": "레이초120밤의000스펙120",
+        "name": "레이스포스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "레이스포스",
+                "pokedexNumber": 897
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "밤의발소리",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 데미지 카운터를 2개 올린다."
+            },
+            {
+                "name": "스펙터 스트라이크",
+                "cost": "(초)(초)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「스펙터 스트라이크」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "시각 이외의 오감을 사용해서 동태를 살핀다. 발에 차인 자는 영혼이 빠져나가 버린다고 한다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "055",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Narumi Sato",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_055.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014055",
+                "debug": "3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "id": "xy5g-034",
+        "cardID": "요가격050수벽020",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "수벽치기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "034",
+                "prodNumber": "070",
+                "prodCode": "xy5g",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5g.png",
+                "prodName": "XY 확장팩 제5탄 「가이아 볼케이노」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_GV_034.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015001034",
+                "debug": "1"
+            },
+            {
+                "number": "070",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_070.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004070",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707059",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm7-045",
+        "cardID": "요가격070참기000킥킥030",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "참기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받아 기절할 때 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다."
+            },
+            {
+                "name": "킥",
+                "cost": "(격투)(격투)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Shibuzoh.",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007045",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-020",
+        "cardID": "요가격060기합040",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "기합박치기",
+                "cost": "(격투)",
+                "damage": "40",
+                "text": "자신의 다음 차례에 이 포켓몬은 「기합박치기」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "평상시는 깊은 산속에서 수행한다. 명상을 하고 정신력을 높이면 몸이 떠오른다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2-052",
+        "cardID": "요가격070요가010",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "요가쇼크",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Yukiko Baba",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SLL-002",
+        "cardID": "요가격070기합030",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "기합찌르기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "021",
+                "prodCode": "SLL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+                "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+                "artist": "0313",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_002.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005002",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12-037",
+        "cardID": "요가초060요가사이020",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코숏",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "요가가드",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 나무열매 한 개만 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아 간다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "098",
+                "prodCode": "S12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12.png",
+                "prodName": "소드&실드 확장팩 「패러다임트리거」",
+                "artist": "Jiro Sasumo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12/S12_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022017037",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV1S-038",
+        "cardID": "요가격060페인010",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "페인트",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "매일 요가 수행을 거르지 않는다. 명상을 통해서 정신력을 높인다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "078",
+                "prodCode": "SV1S",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV1S.png",
+                "prodName": "포켓몬 카드 게임 스칼렛&바이올렛 확장팩 「스칼렛 ex」",
+                "artist": "miki kudo",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV1S/SV1S_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023006038",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-037",
+        "cardID": "요가격070뺨치010킥킥030",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뺨치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "킥",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "명상으로 정신력을 높여 공중에 뜬다. 하루에 나무열매 하나만 먹는다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "037",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Natsumi Miyanose",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_037.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005037",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVI-029",
+        "cardID": "요가격070때리010",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때리기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "매일 요가 수행을 거르지 않는다. 명상을 통해서 정신력을 높인다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "066",
+                "prodCode": "SVI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVI.png",
+                "prodName": "스칼렛&바이올렛 「배틀 아카데미」",
+                "artist": "GOTO minori",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVI/SVI_029_L.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024006074",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs5-27",
+        "cardID": "요가격050판별000요가010",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "판별",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술에 의한 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "요가포즈",
+                "cost": "(격투)(무색)",
+                "damage": "10+",
+                "text": "상대의 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "27",
+                "prodNumber": "40",
+                "prodCode": "bs5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs5.png",
+                "prodName": "DP 확장팩 7개의 신비",
+                "artist": "Masakazu Fukuda",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS5/bs5_ko_27.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010005027",
+                "debug": "1"
+            }
+        ]
+    }
+]

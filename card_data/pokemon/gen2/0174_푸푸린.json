@@ -1,0 +1,151 @@
+[
+    {
+        "id": "SM12a-094",
+        "cardID": "토게페240구르120슈프000",
+        "name": "토게피&삐&푸푸린 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "토게피",
+                "pokedexNumber": 175
+            },
+            {
+                "name": "삐",
+                "pokedexNumber": 173
+            },
+            {
+                "name": "푸푸린",
+                "pokedexNumber": 174
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "구르기패닉",
+                "cost": "(페어리)(페어리)(무색)",
+                "damage": "120+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "슈프림GX",
+                "cost": "(페어리)(페어리)(플러스)",
+                "damage": "",
+                "text": "이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. (페어리) 에너지 14개가 추가로 붙어 있다면 상대의 벤치 포켓몬 전원과 그 포켓몬에게 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "094",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_094.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017094",
+                "debug": "3"
+            },
+            {
+                "number": "185",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_185.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017185",
+                "debug": "2"
+            },
+            {
+                "number": "186",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "0313",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_186.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017186",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-181",
+        "cardID": "푸푸무060새근없음000",
+        "name": "푸푸린",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "푸푸린",
+                "pokedexNumber": 174
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "새근새근 보이스",
+                "text": "자신의 차례에 1번 사용할 수 있으며 사용하면 자신의 차례는 끝난다. 동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "노래를 잘하고 싶어서 계속 연습을 한다. 잘 때도 꿈속에서 노래를 부른다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "181",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 제9탄",
+                "artist": "Kagemaru Himeno",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_321.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000242",
+                "debug": "1"
+            }
+        ]
+    }
+]

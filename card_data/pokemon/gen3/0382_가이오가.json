@@ -1,0 +1,856 @@
+[
+    {
+        "id": "bw3p-015",
+        "cardID": "가이물170스매030듀얼000",
+        "name": "가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "스매시턴",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "원한다면 이 포켓몬을 벤치 포켓몬과 교체해도 좋다."
+            },
+            {
+                "name": "듀얼 스플래시",
+                "cost": "(물)(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 2마리 선택해서 각각 50데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Shizurow",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_015.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002015",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_054.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002054",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-031",
+        "cardID": "가이물180물의030거대140",
+        "name": "가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물의파동",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "거대한 소용돌이",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "140",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 2개 선택해서 패로 되돌린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Ryota Murayama",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_031.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002031",
+                "debug": "1"
+            },
+            {
+                "number": "072",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_072.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002072",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-032",
+        "cardID": "가이물240【α타이000",
+        "name": "원시가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "원시가이오가 EX로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "타이달스톰",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 자신의 벤치 포켓몬 1마리에게 붙인다. 상대의 벤치에 있는 「포켓몬 EX」 전원에게도 각각 30데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【α그로우】",
+                "text": "이 포켓몬에게 패에서 에너지를 붙일 때 동시에 2장까지 붙일 수 있다. (기술 특성 트레이너스로 붙일 때는 제외한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_032.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002032",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-073",
+        "cardID": "가이물240【α타이150",
+        "name": "원시가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "M진화",
+            "EX"
+        ],
+        "rules": [
+            "원시가이오가 EX로 진화하면 자신의 차례는 끝난다.",
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "타이달스톰",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 자신의 벤치 포켓몬 1마리에게 붙인다. 상대의 벤치에 있는 「포켓몬 EX」 전원에게도 각각 30데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "【α그로우】",
+                "text": "이 포켓몬에게 패에서 에너지를 붙일 때 동시에 2장까지 붙일 수 있다. (기술 특성 트레이너스로 붙일 때는 제외한다.)",
+                "type": "고대능력"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_073.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002073",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp1-006",
+        "cardID": "가이물190파워아쿠080",
+        "name": "아쿠아단의 가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아임팩트",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워세이버",
+                "text": "서로의 필드에 있는 「아쿠아단」의 포켓몬의 합이 4마리 이하라면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "006",
+                "prodNumber": "034",
+                "prodCode": "cp1",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+                "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+                "artist": "nagimiso",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_006.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003006",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM30A-019",
+        "cardID": "가이물130듀얼000그랜120",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "듀얼 스플래시",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "그랜드웨이브",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「그랜드웨이브」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "096",
+                "prodCode": "sm7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7.png",
+                "prodName": "썬&문 확장팩 제7탄 「창공의 카리스마」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7/SM7_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018007032",
+                "debug": "2"
+            },
+            {
+                "number": "010",
+                "prodNumber": "038",
+                "prodCode": "SMI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+                "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000010",
+                "debug": "2"
+            },
+            {
+                "number": "019",
+                "prodNumber": "080",
+                "prodCode": "SM30A",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM30A.png",
+                "prodName": "썬&문 「랜덤30장덱」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM30A/SM30A_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019018019",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM11a-021",
+        "cardID": "가이물130만조000소용130",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "만조",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 (물) 에너지를 2장 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "소용돌이파도",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비와 큰 해일로 바다를 넓힌 신화의 포켓몬이다. 그란돈과 격하게 싸웠다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "064",
+                "prodCode": "SM11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM11a.png",
+                "prodName": "썬&문 강화 확장팩 「리믹스바우트」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM11a/SM11a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019014021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-036",
+        "cardID": "가이물120어메000",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "어메이징서지",
+                "cost": "(물)(번개)(강철)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 80데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "A",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8a-007",
+        "cardID": "가이물130아쿠000파도120",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아스톰",
+                "cost": "(물)(물)(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 에너지의 장수 × 50데미지를 상대의 벤치 포켓몬 2마리에게 각각 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "028",
+                "prodCode": "S8a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+                "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+                "artist": "Ryuta Fuse",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015007",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-030",
+        "cardID": "가이물140너울000다이000",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "너울부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 (물) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "다이내믹 웨이브",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 3개 패로 되돌리고 상대의 포켓몬 1마리에게 180데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S-P-177",
+        "cardID": "가이물230듀얼000아쿠210",
+        "name": "가이오가 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "듀얼 스플래시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "아쿠아타이푼",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 「아쿠아타이푼」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "177",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제11탄",
+                "artist": "PLANETA Tsuji",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_177.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000177",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "XY-P-075",
+        "cardID": "가이물130한사030오션080",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "한사리",
+                "cost": "(물)(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "오션사이클론",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "80",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Mitsuhiro\nArita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001075",
+                "debug": "1"
+            },
+            {
+                "number": "090",
+                "prodNumber": "XY-P",
+                "prodCode": "XY-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "XY 프로모 카드",
+                "artist": "Mitsuhiro\nArita",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2015001090",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bs10-14",
+        "cardID": "가이물100잔비000하이060",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "잔비",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 패에 있는 (물)  기본 에너지를 2장까지 선택해서 자신의 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "하이타이드",
+                "cost": "(물)(물)(무색)",
+                "damage": "60",
+                "text": "자신의 (물) 에너지를 2개 트래쉬하고 상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "14",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Kent Kanetsuna",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_14.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010014",
+                "debug": "1"
+            }
+        ]
+    }
+]

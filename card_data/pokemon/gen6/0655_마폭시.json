@@ -1,0 +1,456 @@
+[
+    {
+        "id": "xy1x-015",
+        "cardID": "마폭불140매지블레050",
+        "name": "마폭시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "블레이즈볼",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "매지컬플레임",
+                "text": "자신의 패가 6장이 되도록 덱을 뽑는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "지팡이 끝의 타오르는 불꽃을 바라보며 정신을 통일하면 미래에 일어날 일을 내다볼 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "060",
+                "prodCode": "xy1x",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1x.png",
+                "prodName": "XY 확장팩 제1탄 「X컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_X_015.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014001015",
+                "debug": "1"
+            },
+            {
+                "number": "019",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_019.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004019",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "fxyr-010",
+        "cardID": "마폭불140도깨030불대120",
+        "name": "마폭시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "도깨비불",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "지팡이 끝의 타오르는 불꽃을 바라보며 정신을 통일하면 미래에 일어날 일을 내다볼 수 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "036",
+                "prodCode": "fxyr",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/fxyr.png",
+                "prodName": "XY 퍼스트세트 「푸호꼬의 진화」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/FXY/FXY_R_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014001010",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy10-011",
+        "cardID": "마폭불140흔들040사이020",
+        "name": "마폭시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "흔들리는불꽃",
+                "cost": "(불꽃)",
+                "damage": "40",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "사이코스톰",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "20×",
+                "text": "서로의 필드의 포켓몬에게 붙어 있는 에너지를 합한 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "섭씨 3000도의 불꽃 소용돌이를 초능력으로 조종한다. 적을 소용돌이로 감싸 불태운다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy10-012",
+        "cardID": "마폭불180플레없음000",
+        "name": "마폭시 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 마폭시가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [],
+        "abilities": [
+            {
+                "name": "플레어위치",
+                "text": "자신의 덱에서 (불꽃) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020012",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm8b-021",
+        "cardID": "마폭불150매지회오150",
+        "name": "마폭시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "회오리불꽃",
+                "cost": "(불꽃)(불꽃)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "매지컬토치",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 화상으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "섭씨 3000도의 불꽃 소용돌이를 초능력으로 조종한다. 적을 소용돌이로 감싸 불태운다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "094",
+                "prodCode": "sm6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6.png",
+                "prodName": "썬&문 확장팩 제6탄 「금단의 빛」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6/SM6_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018004014",
+                "debug": "2"
+            },
+            {
+                "number": "021",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "kawayoo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-017",
+        "cardID": "마폭불210괴상000매지120",
+        "name": "마폭시 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "괴상한등불",
+                "cost": "(불꽃)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 화상과 혼란으로 만든다."
+            },
+            {
+                "name": "매지컬파이어",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 로스트존에 두고 상대의 벤치 포켓몬 1마리에게도 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014017",
+                "debug": "1"
+            },
+            {
+                "number": "101",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_101.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014101",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S11a-018",
+        "cardID": "마폭불150플레060에너050",
+        "name": "마폭시",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "마폭시",
+                "pokedexNumber": 655
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "플레어 퍼레이드",
+                "cost": "(무색)",
+                "damage": "60×",
+                "text": "자신의 트래쉬에 있는 「세레나」의 장수 × 60데미지를 준다."
+            },
+            {
+                "name": "에너지크래시",
+                "cost": "(무색)(무색)",
+                "damage": "50×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "섭씨 3000도의 불꽃 소용돌이를 초능력으로 조종한다. 적을 소용돌이로 감싸 불태운다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "Uta",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016018",
+                "debug": "1"
+            }
+        ]
+    }
+]

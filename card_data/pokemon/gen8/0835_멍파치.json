@@ -1,0 +1,284 @@
+[
+    {
+        "id": "SA_L-007",
+        "cardID": "멍파번070물기010일렉020",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭킥",
+                "cost": "(번개)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 낸다. 가라르에서는 양치기로 인기가 많다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "007",
+                "prodNumber": "024",
+                "prodCode": "SA_L",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SA_L.png",
+                "prodName": "소드&실드 스타터 세트 V 번개",
+                "artist": "Saya Tsuruta",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SA/SA_L_007.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020001079",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1W-020",
+        "cardID": "멍파번070울부000찌릿010",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "울부짖기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 낸다. 가라르에서는 양치기로 인기가 많다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Akira Komayama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002020",
+                "debug": "1"
+            },
+            {
+                "number": "054",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Akira Komayama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016054",
+                "debug": "2"
+            },
+            {
+                "number": "238",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "sowsow",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_238.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016238",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SN-004",
+        "cardID": "멍파번060볼찾돌아020",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "돌아다니며 뛰기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "볼찾기",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 트래쉬에서 「몬스터볼」과 「수퍼볼」을 각각 1장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "간식에 끌려 사람의 일을 돕는 먹보다. 탁탁 튀는 전기를 두르고 계속 달린다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "019",
+                "prodNumber": "070",
+                "prodCode": "S5I",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5I.png",
+                "prodName": "소드&실드 확장팩 「일격마스터」",
+                "artist": "sui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5I_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021001019",
+                "debug": "2"
+            },
+            {
+                "number": "153",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_153.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003153",
+                "debug": "2"
+            },
+            {
+                "number": "004",
+                "prodNumber": "024",
+                "prodCode": "SN",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SN.png",
+                "prodName": "소드&실드 「스타트 덱 100 피카츄 V & 이브이 V」",
+                "artist": "sui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SN/SN_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022009004",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SVHM-004",
+        "cardID": "멍파번070변덕020",
+        "name": "멍파치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "멍파치",
+                "pokedexNumber": 835
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "변덕 태클",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 낸다. 가라르에서는 양치기로 인기가 많다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "053",
+                "prodCode": "SVHM",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVHM.png",
+                "prodName": "스칼렛&바이올렛 스타터 덱&강화 세트 「미래의 미라이돈 ex」",
+                "artist": "kurumitsu",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVHM/SVHM_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024003004",
+                "debug": "1"
+            }
+        ]
+    }
+]

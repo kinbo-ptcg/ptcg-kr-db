@@ -1,0 +1,1093 @@
+[
+    {
+        "id": "bw8s-023",
+        "cardID": "마임초070벤치염동020",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동력",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "벤치배리어",
+                "text": "이 포켓몬이 있는 한 자신의 벤치 포켓몬 전원은 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "손가락을 잘게 흔들어서 공기 중의 분자 운동을 멈추게 하고 보이지 않는 벽을 만든다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "051",
+                "prodCode": "bw8s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw8s.png",
+                "prodName": "BW 확장팩 제8탄 「스파이럴포스」",
+                "artist": "Hiroki Asanuma",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW8/bw8_sf_023.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013002023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "x30-003",
+        "cardID": "마임페080쓰담000슬랩040",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "쓰담쓰담",
+                "cost": "(페어리)(무색)",
+                "damage": "",
+                "text": "자신의 벤치 포켓몬을 1마리 선택해서 HP를 「60」회복한다."
+            },
+            {
+                "name": "슬랩다운",
+                "cost": "(페어리)(무색)(무색)",
+                "damage": "40+",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "손가락 끝에서 내는 파동이 공기를 굳혀서 벽을 만든다. 격렬한 공격도 튕겨 낸다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "014",
+                "prodCode": "x30",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/x30.png",
+                "prodName": "XY 「제르네아스 덱」",
+                "artist": "Mizue",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY30/X30_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2014002003",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-046",
+        "cardID": "마임페080트릭000가두030",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "트릭",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신 또는 상대의 필드의 포켓몬에게 붙어 있는 「포켓몬의 도구」를 1장 선택해서 선택한 쪽의 포켓몬에게 붙인다. (선택한 「포켓몬의 도구」를 붙일 수 있는 포켓몬이 없다면 이 기술은 실패한다.)"
+            },
+            {
+                "name": "가두기",
+                "cost": "(페어리)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람 속이기를 잘한다. 팬터마임으로 만든 벽이 정말로 나타난다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "046",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "TOKIYA",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_046.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002046",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy8r-045",
+        "cardID": "마임페070벤치저글010",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "저글링",
+                "cost": "(페어리)(무색)",
+                "damage": "10×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "벤치배리어",
+                "text": "이 포켓몬이 있는 한 자신의 벤치 포켓몬 전원은 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람 속이기를 잘한다. 팬터마임으로 만든 벽이 정말로 나타난다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "059",
+                "prodCode": "xy8r",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy8r.png",
+                "prodName": "XY BREAK 확장팩 제8탄 「붉은 섬광」",
+                "artist": "kirisAki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY8/XY8_RED_045.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015007045",
+                "debug": "1"
+            },
+            {
+                "number": "090",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "kirisAki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_090.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707090",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "xyh-004",
+        "cardID": "마임페080흉내000저글020",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "흉내내기",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다. 그 뒤, 상대의 패의 장수만큼 자신의 덱을 뽑는다."
+            },
+            {
+                "name": "저글링",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람 속이기를 잘한다. \n팬터마임으로 만든 벽이 \n정말로 나타난다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "026",
+                "prodCode": "xyh",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xyh.png",
+                "prodName": "XY BREAK 메가 배틀 60장 덱 「M다부니 EX」",
+                "artist": "Sumiyoshi Kizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XYH/XYH_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2016004004",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6b-025",
+        "cardID": "마임초150펄배브레000라이000",
+        "name": "마임맨 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "브레이크다운",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 패의 장수만큼의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다. "
+            },
+            {
+                "name": "라이프트릭 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "펄배리어",
+                "text": "이 포켓몬은 상대의 포켓몬으로부터 「20 ・ 40 ・ 60 ・ 80 ・ 100 ・ 120 ・ 140 ・ 160 ・ 180 ・ 200 ・ 220 ・ 240 ・ 260」의 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006025",
+                "debug": "1"
+            },
+            {
+                "number": "069",
+                "prodNumber": "066",
+                "prodCode": "sm6b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6b.png",
+                "prodName": "썬&문 강화 확장팩 「챔피언로드」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6B/SM6B_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018006069",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9-050",
+        "cardID": "마임초080회수염동020",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "염동력",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "회수봉인",
+                "text": "이 포켓몬이 있는 한, 데미지 카운터가 올려져 있는 상대의 포켓몬과 그 포켓몬에게 붙어 있는 모든 카드는 패로 되돌릴 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "팬터마임 실력이 굉장하다. 넋을 놓고 보다 보면 어느새 진짜 벽이 나타난다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "050",
+                "prodNumber": "095",
+                "prodCode": "sm9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9.png",
+                "prodName": "썬&문 확장팩 「태그볼트」",
+                "artist": "Atsuko Nishida",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9/SM9_050.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019001050",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "smp2-015",
+        "cardID": "마임초080팬터저글020",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "저글링",
+                "cost": "(초)(무색)",
+                "damage": "20×",
+                "text": "동전을 4번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "팬터마임",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 뒷면으로 된 자신의 프라이즈를 1장 자신의 덱의 가장 위에 있는 카드와 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "팬터마임 실력이 굉장하다. 넋을 놓고 보다 보면 어느새 진짜 벽이 나타난다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "015",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008015",
+                "debug": "1"
+            },
+            {
+                "number": "015",
+                "prodNumber": "024",
+                "prodCode": "smp2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smp2.png",
+                "prodName": "썬&문 영화 스페셜 팩 「명탐정 피카츄」",
+                "artist": "MPC Film",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMP2/SMP2_mirror_015.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019008037",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smL-033",
+        "cardID": "마임페090해피000연속040",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(페어리)",
+        "attacks": [
+            {
+                "name": "해피마임",
+                "cost": "(페어리)",
+                "damage": "",
+                "text": "서로의 플레이어는 각각 덱을 1장 뽑는다."
+            },
+            {
+                "name": "연속뺨치기",
+                "cost": "(페어리)(페어리)",
+                "damage": "40×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(악)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "팬터마임 실력이 굉장하다. 넋을 놓고 보다 보면 어느새 진짜 벽이 나타난다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "051",
+                "prodCode": "smL",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smL.png",
+                "prodName": "패밀리 포켓몬 카드 게임 「라이츄 GX 덱」",
+                "artist": "Hideki Ishikawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SML_/SML_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019006010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S1a-018",
+        "cardID": "마임물080얼다010트리020",
+        "name": "가라르 마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "얼다바람",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "트리플스핀",
+                "cost": "(물)(무색)",
+                "damage": "20×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "탭 댄스가 특기다. 냉기로 만든 얼음 바닥을 차올려서 배리어처럼 몸을 지킨다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "070",
+                "prodCode": "S1a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1a.png",
+                "prodName": "소드&실드 강화 확장팩 「VMAX라이징」",
+                "artist": "kirisAki",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1a/S1a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020004018",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-029",
+        "cardID": "마임물080리플000스노030",
+        "name": "가라르 마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "리플렉터",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "스노아이스",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "탭 댄스가 특기다. 냉기로 만든 얼음 바닥을 차올려서 배리어처럼 몸을 지킨다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Misa Tsutsui",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_018.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010018",
+                "debug": "2"
+            },
+            {
+                "number": "029",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_029.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016029",
+                "debug": "1"
+            },
+            {
+                "number": "219",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_219.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016219",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S-P-085",
+        "cardID": "마임물080막치010찾아000",
+        "name": "가라르 마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122,
+                "region": "가라르"
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "찾아맞추기",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "발바닥에서 냉기를 내뿜는다. 얼린 바닥 위에서 온종일 탭 댄스에 열중한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "kodama",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_020.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002020",
+                "debug": "2"
+            },
+            {
+                "number": "027",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "kodama",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_027.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001027",
+                "debug": "2"
+            },
+            {
+                "number": "085",
+                "prodNumber": "S-P",
+                "prodCode": "S-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "소드&실드 프로모팩 제5탄",
+                "artist": "Shigenori Negishi",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S-P/S-P_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SP000000085",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S10a-024",
+        "cardID": "마임초090막치020트릭090",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "트릭뺨치기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "90",
+                "text": "상대 플레이어와 가위바위보를 해서 자신이 이기면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "무언극을 하듯이 행동한다. 어릿광대를 연상시키는 모습으로 손끝에서 나오는 기력으로 투명한 벽을 만든다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "024",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_024.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011041",
+                "debug": "1"
+            },
+            {
+                "number": "024",
+                "prodNumber": "071",
+                "prodCode": "S10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10a.png",
+                "prodName": "소드&실드 강화 확장팩 「다크판타스마」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10a/S10a_024_m.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022011042",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV2a-122",
+        "cardID": "마임초090흉내사이000",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코파워",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "데미지 카운터 3개를 상대의 포켓몬에게 원하는 대로 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "흉내내기 배리어",
+                "text": "이 포켓몬과 상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수가 같으면 이 포켓몬은 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "팬터마임이 특기다. 손가락에서 내보내는 파동으로 벽을 만들어 갖은 공격으로부터 몸을 지킨다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "122",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "OOYAMA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_122.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014122",
+                "debug": "1"
+            },
+            {
+                "number": "179",
+                "prodNumber": "165",
+                "prodCode": "SV2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV2a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「포켓몬 카드 151」",
+                "artist": "OKACHEKE",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV2a/SV2a_179.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023014179",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV5M-031",
+        "cardID": "마임초090흉내000음산020",
+        "name": "마임맨",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "흉내쇼",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 패를 본다. 원한다면 그 중에 있는 서포트를 1장 선택해서 그 효과를 이 기술의 효과로써 사용한다."
+            },
+            {
+                "name": "음산한염력파",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "커다란 손바닥은 팬터마임을 하기 위해 발달했다고 생각하는 학자도 많다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "071",
+                "prodCode": "SV5M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「사이버저지」",
+                "artist": "Nelnal",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5M/SV5M_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024005031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-106",
+        "cardID": "마임초150인펄브레000라이000",
+        "name": "마임맨 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 [기절]한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 150,
+        "pokemons": [
+            {
+                "name": "마임맨",
+                "pokedexNumber": 122
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "브레이크다운",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 패의 장수만큼의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다. "
+            },
+            {
+                "name": "라이프트릭 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬의 HP를 모두 회복한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "인펄베리어",
+                "text": "이 포켓몬은 상대의 포켓몬으로부터 「10 ・ 30 ・ 50 ・ 70 ・ 90 ・ 110 ・ 130 ・ 150 ・ 170 ・ 190 ・ 210 ・ 230 ・ 250」의 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "106",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모팩 5탄",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_147.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP000000147",
+                "debug": "1"
+            }
+        ]
+    }
+]

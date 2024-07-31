@@ -1,0 +1,847 @@
+[
+    {
+        "id": "-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIR",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003022"
+    },
+    {
+        "id": "-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003023"
+    },
+    {
+        "id": "SVAL-001",
+        "cardID": "가디불070연속030",
+        "name": "가디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "가디",
+                "pokedexNumber": 58
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "연속파이어",
+                "cost": "(불꽃)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람을 잘 따르는 충실한 성격이다. 적을 보면 짖거나 물어서 쫓아내려고 한다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003001"
+    },
+    {
+        "id": "SVAL-002",
+        "cardID": "뜨아불080갉기010화염050",
+        "name": "뜨아거",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "뜨아거",
+                "pokedexNumber": 909
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "화염",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "불꽃 주머니가 작기 때문에 흘러넘친 에너지가 머리의 움푹한 곳을 통해 새어 나와 일렁거린다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Akira Komayama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003002"
+    },
+    {
+        "id": "SVAL-003",
+        "cardID": "악뜨불100물기050구르100",
+        "name": "악뜨거",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "악뜨거",
+                "pokedexNumber": 910
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(불꽃)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "구르기 태클",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "성대와 불꽃 주머니는 밀접하게 관계되어 있다. 탁한 소리를 내며 불꽃을 토해 낸다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "kantaro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003003"
+    },
+    {
+        "id": "SVAL-004",
+        "cardID": "라우불180열창050블레190",
+        "name": "라우드본",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "라우드본",
+                "pokedexNumber": 911
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "열창",
+                "cost": "(불꽃)",
+                "damage": "50",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "블레이즈 샤우팅",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "고운 노랫소리는 듣는 이의 영혼을 치유한다. 3000도의 불꽃으로 적을 불태운다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "nagimiso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003004"
+    },
+    {
+        "id": "SVAL-005",
+        "cardID": "메리번060찌릿010일렉040",
+        "name": "메리프",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "메리프",
+                "pokedexNumber": 179
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "찌릿찌릿",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸의 털은 점점 자란다. 여름이 되면 전부 빠지지만 일주일 정도면 원래대로 자라난다.",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Narumi Sato",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003005"
+    },
+    {
+        "id": "SVAL-006",
+        "cardID": "보송번090전기020일렉060",
+        "name": "보송송",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "보송송",
+                "pokedexNumber": 180
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "전기가 통하지 않는 맨살은 고무처럼 매끈하지만 털은 전기를 모으기 쉽다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Kurata So",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003006"
+    },
+    {
+        "id": "SVAL-007",
+        "cardID": "전룡번330일렉060라이140",
+        "name": "전룡 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "전룡",
+                "pokedexNumber": 181
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "라이트닝테일",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "140+",
+                "text": "원한다면 이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "PLANETA Tsuji",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003007"
+    },
+    {
+        "id": "SVAL-008",
+        "cardID": "로토번060직격000",
+        "name": "로토무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "로토무",
+                "pokedexNumber": 479
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "특수한 모터를 움직이는 동력원으로서 긴 시간 동안 연구되었던 포켓몬이다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Nisota Niso",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003008"
+    },
+    {
+        "id": "SVAL-009",
+        "cardID": "맛보무060가져000몸통030",
+        "name": "맛보돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "맛보돈",
+                "pokedexNumber": 915
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "가져오기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "kodama",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003009"
+    },
+    {
+        "id": "SVAL-010",
+        "cardID": "꼬이무110홰치030급강110",
+        "name": "꼬이밍고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "꼬이밍고",
+                "pokedexNumber": 973
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "홰치기",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "급강하",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "110",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "싱크로라 불리는 습성으로 인해 무리 전체가 일사불란하게 움직여 일제히 공격한다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "kantaro",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003010"
+    },
+    {
+        "id": "SVAL-011",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003011"
+    },
+    {
+        "id": "SVAL-012",
+        "cardID": "에너지 전송",
+        "name": "에너지 전송",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003012"
+    },
+    {
+        "id": "SVAL-013",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003013"
+    },
+    {
+        "id": "SVAL-014",
+        "cardID": "포켓기어3.0",
+        "name": "포켓기어3.0",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 보고 그 중에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "남은 카드는 덱으로 되돌리고 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003014"
+    },
+    {
+        "id": "SVAL-015",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003015"
+    },
+    {
+        "id": "SVAL-016",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Ayaka Yoshida",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003016"
+    },
+    {
+        "id": "SVAL-017",
+        "cardID": "네모",
+        "name": "네모",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003017"
+    },
+    {
+        "id": "SVAL-018",
+        "cardID": "박사의 연구(투로박사)",
+        "name": "박사의 연구(투로박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003018"
+    },
+    {
+        "id": "SVAL-019",
+        "cardID": "반바지 꼬마",
+        "name": "반바지 꼬마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003019"
+    },
+    {
+        "id": "SVAL-020",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "Hideki Ishikawa",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003020"
+    },
+    {
+        "id": "SVAL-021",
+        "cardID": "지니어",
+        "name": "지니어",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 진화 포켓몬을 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "SVAL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVAL.png",
+        "prodName": "스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "G",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVA/SVAL_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023003021"
+    }
+]

@@ -1,0 +1,835 @@
+[
+    {
+        "id": "sme-001",
+        "cardID": "뮤츠초120프레초염100",
+        "name": "뮤츠",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "뮤츠",
+                "pokedexNumber": 150
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "초염동력",
+                "cost": "(초)(초)(초)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "프레셔",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬이 사용하는 기술의 데미지는 모두 「-20」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "뮤의 유전자를 재구성해서 만들어졌다. 포켓몬 중에서 가장 난폭한 마음을 가지고 있다고 한다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005001"
+    },
+    {
+        "id": "sme-002",
+        "cardID": "라티초110브레030라군070",
+        "name": "라티오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "라티오스",
+                "pokedexNumber": 381
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "브레이크스루",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라군플라이트",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005002"
+    },
+    {
+        "id": "sme-003",
+        "cardID": "코스초060먼지000",
+        "name": "코스모그",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코스모그",
+                "pokedexNumber": 789
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "먼지모으기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 1장 뽑는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "연약한 가스 상태의 몸이다. 대기의 먼지를 모으며 천천히 성장한다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005003"
+    },
+    {
+        "id": "sme-004",
+        "cardID": "코스초090순간000",
+        "name": "코스모움",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "코스모움",
+                "pokedexNumber": 790
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "순간이동",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "이 포켓몬을 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "죽은 것처럼 전혀 움직이지 않지만 만지면 어렴풋이 따뜻하다. 아주 옛날에는 달의 고치로 불렸다.",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005004"
+    },
+    {
+        "id": "sme-005",
+        "cardID": "루나초230활공050루나200레퀴250",
+        "name": "루나아라 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "루나아라",
+                "pokedexNumber": 792
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "활공",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "루나재블린",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "200",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "레퀴엠 GX",
+                "cost": "(초)(초)(초)(무색)",
+                "damage": "250",
+                "text": "(대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "PLANETA",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005005"
+    },
+    {
+        "id": "sme-006",
+        "cardID": "입치강080동료000깨물030",
+        "name": "입치트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "입치트",
+                "pokedexNumber": 303
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "얌전한 얼굴로 상대를 방심하게 만들고 큰 턱으로 덥석 문다. 한번 물면 절대로 놓지 않는다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "tetsuya koizumi",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005006"
+    },
+    {
+        "id": "sme-007",
+        "cardID": "솔가강250빛나터보120프로000",
+        "name": "솔가레오 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "터보스트라이크",
+                "cost": "(무색)(무색)",
+                "damage": "120",
+                "text": "자신의 트래쉬에 있는 기본 에너지를 2장 자신의 벤치 포켓몬 1마리에게 붙인다."
+            },
+            {
+                "name": "프로미넌스 GX",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 모두 회복한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛나는갈기",
+                "text": "이 포켓몬이 있는 한, 자신의 포켓몬 전원의 약점은 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "PLANETA",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005007"
+    },
+    {
+        "id": "sme-008",
+        "cardID": "얼루무080흔들030",
+        "name": "얼루기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "얼루기",
+                "pokedexNumber": 327
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "흔들흔들펀치",
+                "cost": "(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "휘청휘청 불안한 걸음걸이지만 얼루기 본인은 똑바로 걷고 있다고 생각한다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Shigenori Negishi",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005008"
+    },
+    {
+        "id": "sme-009",
+        "cardID": "타입무110아머030슬래070",
+        "name": "타입:널",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "타입:널",
+                "pokedexNumber": 772
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "아머프레스",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다."
+            },
+            {
+                "name": "슬래시크루",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "무거운 제어마스크를 쓰고 있어 본래의 능력을 발휘할 수 없다. 특별한 힘을 숨기고 있다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005009"
+    },
+    {
+        "id": "sme-010",
+        "cardID": "실버무130기어000시저090",
+        "name": "실버디",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "실버디",
+                "pokedexNumber": 773
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "기어스캔",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 아이템을 1장 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "시저크로스",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "90+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "그 이름은 타입:널을 처음으로 이 모습으로 진화시킨 소년에 의해 지어졌다.",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005010"
+    },
+    {
+        "id": "sme-011",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005011"
+    },
+    {
+        "id": "sme-012",
+        "cardID": "레스큐탱크",
+        "name": "레스큐탱크",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에 있는 포켓몬을 1장 상대에게 보여주고 패로 가져온다.",
+            "또는 자신의 트래쉬에 있는 포켓몬을 3장 상대에게 보여주고 덱으로 되돌리고 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Yoshinobu Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005012"
+    },
+    {
+        "id": "sme-013",
+        "cardID": "이상한사탕",
+        "name": "이상한사탕",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패에서 2진화 포켓몬을 1장, 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려서 진화시킨다.",
+            "(자신의 첫 번째 차례와 이번 차례에 내보낸 기본 포켓몬에게도 사용할 수 없다.)"
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005013"
+    },
+    {
+        "id": "sme-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005014"
+    },
+    {
+        "id": "sme-015",
+        "cardID": "포켓몬 캐처",
+        "name": "포켓몬 캐처",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005015"
+    },
+    {
+        "id": "sme-016",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005016"
+    },
+    {
+        "id": "sme-017",
+        "cardID": "난천",
+        "name": "난천",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 6장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005017"
+    },
+    {
+        "id": "sme-018",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005018"
+    },
+    {
+        "id": "sme-019",
+        "cardID": "마마네",
+        "name": "마마네",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱을 4장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005019"
+    },
+    {
+        "id": "sme-020",
+        "cardID": "하우",
+        "name": "하우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005020"
+    },
+    {
+        "id": "sme-021",
+        "cardID": "더블 무색 에너지",
+        "name": "더블 무색 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 (무색) 에너지 2개분으로 작용한다.",
+            "이 카드는 (무색) 에너지 2개분으로 작용한다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005021"
+    },
+    {
+        "id": "sme-000",
+        "cardID": "기본 초 에너지",
+        "name": "기본 초 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "sme",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sme.png",
+        "prodName": "썬&문 전설 스타터 세트 「솔가레오 GX ･ 루나아라 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SME/SME_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017005022"
+    }
+]

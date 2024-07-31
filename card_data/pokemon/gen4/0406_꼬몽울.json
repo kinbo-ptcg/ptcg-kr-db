@@ -1,0 +1,62 @@
+[
+    {
+        "id": "bs4-03",
+        "cardID": "꼬몽풀040베이심부000",
+        "name": "꼬몽울",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "꼬몽울",
+                "pokedexNumber": 406
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "심부름",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "자신의 덱에 있는 「트레이너」를 1장 상대 플레이어에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「로젤리아」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "겨울 동안 봉오리를 닫고 추위를 견딘다. 봄이 되면 봉오리를 펴서 꽃가루를 날린다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "03",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_3.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004003",
+                "debug": "3"
+            }
+        ]
+    }
+]

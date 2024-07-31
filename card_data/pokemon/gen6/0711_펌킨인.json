@@ -1,0 +1,320 @@
+[
+    {
+        "id": "xy1y-028",
+        "cardID": "펌킨초100기분000소울000",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "기분나쁜 노랫소리",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 데미지 카운터를 각각 2개씩 올린다."
+            },
+            {
+                "name": "소울스크림",
+                "cost": "(초)(초)",
+                "damage": "",
+                "text": "서로의 배틀 포켓몬의 남은 HP가 「10」이 되도록 데미지 카운터를 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "초승달이 뜬 밤에 기분 나쁜 목소리로 노래를 부르며 마을 안을 헤맨다. 그 노래를 들으면 저주를 받는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "060",
+                "prodCode": "xy1y",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy1y.png",
+                "prodName": "XY 확장팩 제1탄 「Y컬렉션」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY1/K1_Y_028.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014501028",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy4-044",
+        "cardID": "펌킨초100빅펌호러010",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "호러노트",
+                "cost": "(초)(무색)(무색)",
+                "damage": "10×",
+                "text": "자신의 패의 장수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빅펌킨",
+                "text": "이 포켓몬에게 (풀) 에너지가 붙어 있다면 이 포켓몬의 최대 HP는 「200」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "초승달이 뜬 밤에 기분 나쁜 목소리로 노래를 부르며 마을 안을 헤맨다. 그 노래를 들으면 저주를 받는다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Kanako Eo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_044.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004044",
+                "debug": "3"
+            },
+            {
+                "number": "063",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "Kanako Eo",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_063.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004063",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-025",
+        "cardID": "펌킨초120이상000펌프010",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "이상한빛",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "펌프킨봄",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "데미지를 주기 전에 자신의 필드에 있는 「포켓몬의 도구」를 원하는 만큼 트래쉬하고 그 장수 × 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "초승달이 뜬 밤에 기분 나쁜 목소리로 노래를 부르며 마을 안을 헤맨다. 그 노래를 들으면 저주를 받는다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "025",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "kirisAki",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_025.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011025",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-062",
+        "cardID": "펌킨초120백귀060",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "백귀야행",
+                "cost": "(무색)(무색)",
+                "damage": "60×",
+                "text": "자신의 덱을 위에서부터 6장 앞면으로 한다. 그 중에 있는 (초) 포켓몬의 수 × 60데미지를 준다. 앞면으로 한 (초) 포켓몬은 덱으로 되돌리고 섞는다. 남은 카드는 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "초승달이 뜨는 밤이 되면 펌킨인이 현관문을 노크한다. 그리고는 열어준 사람을 저세상으로 데리고 간다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "067",
+                "prodCode": "S7D",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S7D.png",
+                "prodName": "소드&실드 확장팩 「마천퍼펙트」",
+                "artist": "Megumi Higuchi",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S7/S7D_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021011017",
+                "debug": "2"
+            },
+            {
+                "number": "062",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Megumi Higuchi",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_062.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001062",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-030",
+        "cardID": "펌킨초110깜짝그림100",
+        "name": "펌킨인",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "펌킨인",
+                "pokedexNumber": 711
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "그림자묶기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "깜짝 펌프킨",
+                "text": "이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 상대의 패에서 앞면을 보지 않고 2장 선택해서 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "초승달이 뜨는 밤이 되면 펌킨인이 현관문을 노크한다. 그리고는 열어준 사람을 저세상으로 데리고 간다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "nisimono",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022030",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1623 @@
+[
+    {
+        "id": "SMI-000",
+        "cardID": "기본 불꽃 에너지",
+        "name": "기본 불꽃 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIR",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_039.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000039"
+    },
+    {
+        "id": "SMI-000",
+        "cardID": "기본 물 에너지",
+        "name": "기본 물 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "WAT",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_040.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000040"
+    },
+    {
+        "id": "SMI-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "LIG",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_041.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000041"
+    },
+    {
+        "id": "SMI-001",
+        "cardID": "부스불210히트030홍련190파워020",
+        "name": "부스터 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "부스터",
+                "pokedexNumber": 136
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트스테이지",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "원한다면 자신의 패에 있는 (불꽃) 에너지를 3장까지 자신의 포켓몬에게 원하는 대로 붙인다. "
+            },
+            {
+                "name": "홍련의 불꽃",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "190",
+                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 2개 트래쉬한다."
+            },
+            {
+                "name": "파워버너 GX",
+                "cost": "(불꽃)",
+                "damage": "20x",
+                "text": "자신의 트래쉬에 있는 (불꽃) 에너지의 장수 × 20데미지를 준다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "001",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000001"
+    },
+    {
+        "id": "SMI-002",
+        "cardID": "파이불120어시030불꽃090",
+        "name": "파이어",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "파이어",
+                "pokedexNumber": 146
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "어시스트히터",
+                "cost": "(불꽃)",
+                "damage": "30",
+                "text": "원한다면 자신의 패에 있는 (불꽃) 에너지를 1장 벤치 포켓몬에게 붙인다."
+            },
+            {
+                "name": "불꽃날개",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전설의 새포켓몬 중의 1마리다.\n파이어가 모습을 보이면\n봄이 찾아온다고 전해진다.",
+        "number": "002",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Misa Tsutsui",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000002"
+    },
+    {
+        "id": "SMI-003",
+        "cardID": "레시불130역린020작열130",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "역린",
+                "cost": "(무색)(무색)",
+                "damage": "20+",
+                "text": "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다."
+            },
+            {
+                "name": "작열하는숨결",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "130",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "불꽃으로 세상을 태워버릴 수 있는\n전설의 포켓몬. 진실의 세계를\n구축하는 사람을 도와준다.",
+        "number": "003",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000003"
+    },
+    {
+        "id": "SMI-004",
+        "cardID": "레오불070박치020",
+        "name": "레오꼬",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "레오꼬",
+                "pokedexNumber": 667
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "강해지기 위해 무리를 벗어나\n홀로 생활하게 된다.\n혈기 왕성하여 쉽게 싸우려 든다.",
+        "number": "004",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Yuka Morii",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000004"
+    },
+    {
+        "id": "SMI-005",
+        "cardID": "화염불130깨물030히트090",
+        "name": "화염레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "화염레오",
+                "pokedexNumber": 668
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "깨물어부수기",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "섭씨 6000도의 숨을 내뿜어\n격렬하게 상대를 위협한다.\n암컷이 무리의 새끼를 지킨다.",
+        "number": "005",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Hasuno",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000005"
+    },
+    {
+        "id": "SMI-006",
+        "cardID": "라프물120아쿠020하이070",
+        "name": "라프라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "라프라스",
+                "pokedexNumber": 131
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)",
+                "damage": "20",
+                "text": "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "70+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "밀렵으로 멸종 위기에 처했다가\n소중히 보호한 결과\n오히려 수가 너무 늘었다고 한다.",
+        "number": "006",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Saya Tsuruta",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000006"
+    },
+    {
+        "id": "SMI-007",
+        "cardID": "샤미물210촉촉하이040힐샤000",
+        "name": "샤미드 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "샤미드",
+                "pokedexNumber": 134
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "힐샤워 GX",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 (물) 포켓몬 전원의 HP를 모두 회복한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "촉촉한 물방울",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 (물) 포켓몬의 HP를 「30」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "007",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000007"
+    },
+    {
+        "id": "SMI-008",
+        "cardID": "우파물070부딪010물뿌020",
+        "name": "우파",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "우파",
+                "pokedexNumber": 194
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "부딪치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "물뿌리기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "해질녘 시원해지면\n물에서 올라온 우파들은\n먹이를 찾으러 물가를 걷는다.",
+        "number": "008",
+        "prodNumber": "095",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Shibuzoh.",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000008"
+    },
+    {
+        "id": "SMI-009",
+        "cardID": "누오물120흘려하이060",
+        "name": "누오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "누오",
+                "pokedexNumber": 195
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는  (물) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "흘려보내기",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 벤치 포켓몬에게 붙어 있는 (물) 에너지를 1개 배틀 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "느긋한 성격으로\n제멋대로 헤엄치고는 늘\n배의 밑바닥에 머리를 들이받곤 한다.",
+        "number": "009",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000009"
+    },
+    {
+        "id": "SMI-010",
+        "cardID": "가이물130듀얼000그랜120",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "듀얼 스플래시",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "그랜드웨이브",
+                "cost": "(물)(물)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 「그랜드웨이브」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "많은 비를 내리게 하는 능력으로\n바다를 넓혔다고 전해진다.\n해구의 밑바닥에서 잠들어 있었다.",
+        "number": "010",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000010"
+    },
+    {
+        "id": "SMI-011",
+        "cardID": "찌리번060일렉010",
+        "name": "찌리리공",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "찌리리공",
+                "pokedexNumber": 100
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭볼",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "몬스터볼이 팔리기 시작했을 때와\n같은 시기에 발견되었다.\n뭔가 관계가 있다고 전해진다.",
+        "number": "011",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "match",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000011"
+    },
+    {
+        "id": "SMI-012",
+        "cardID": "붐볼번090스피060",
+        "name": "붐볼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "붐볼",
+                "pokedexNumber": 101
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "스피드스타",
+                "cost": "(번개)",
+                "damage": "60",
+                "text": "이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "작은 자극에도 반응해서\n폭발한다. 폭탄볼이라 불리며\n두려움의 대상이 되고 있다.",
+        "number": "012",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "Kyoko Umemoto",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000012"
+    },
+    {
+        "id": "SMI-013",
+        "cardID": "쥬피번200일렉030헤드110스피110",
+        "name": "쥬피썬더 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "쥬피썬더",
+                "pokedexNumber": 135
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "일렉트릭불릿",
+                "cost": "(번개)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "헤드볼트",
+                "cost": "(번개)(무색)",
+                "damage": "110",
+                "text": ""
+            },
+            {
+                "name": "스피드런 GX",
+                "cost": "(번개)(무색)",
+                "damage": "110",
+                "text": "상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "013",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000013"
+    },
+    {
+        "id": "SMI-014",
+        "cardID": "썬더번110어솔010",
+        "name": "썬더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "썬더",
+                "pokedexNumber": 145
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "어솔트썬더",
+                "cost": "(번개)",
+                "damage": "10+",
+                "text": "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 70데미지를 추가한다. 이 기술의 데미지는 약점 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "번개 구름 안에 있다고\n전해지는 전설의 포켓몬이다.\n번개를 자유로이 조종한다.",
+        "number": "014",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "kawayoo",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000014"
+    },
+    {
+        "id": "SMI-015",
+        "cardID": "카푸번110회전000라이100",
+        "name": "카푸꼬꼬꼭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "카푸꼬꼬꼭",
+                "pokedexNumber": 785
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "회전비행",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "라이트닝볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "호기심 왕성한 멜레멜레의\n수호신이다. 번개 구름을 불러\n우레를 몸에 비축한다.",
+        "number": "015",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000015"
+    },
+    {
+        "id": "SMI-016",
+        "cardID": "이브무060갉기020",
+        "name": "이브이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "지금까지 조사에 의하면\n무려 8종류의 포켓몬으로\n진화할 가능성을 갖고 있다.",
+        "number": "016",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Atsuko Nishida",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000016"
+    },
+    {
+        "id": "SMI-017",
+        "cardID": "이브무160각성부스100해피000",
+        "name": "이브이 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부스트대시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "해피메이커 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "각성DNA",
+                "text": "이 포켓몬은 자신의 차례에 「이브이」에서 진화하는 카드를 패에서 꺼내서 이 포켓몬에 겹쳐서 진화할 수 있다(자신의 첫 번째 차례와 이 포켓몬을 필드로 내보낸 차례는 제외한다). 진화 전에 이 포켓몬의 HP를 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "017",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000017"
+    },
+    {
+        "id": "SMI-018",
+        "cardID": "이브무160각성부스100해피000",
+        "name": "이브이 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부스트대시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "해피메이커 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "각성DNA",
+                "text": "이 포켓몬은 자신의 차례에 「이브이」에서 진화하는 카드를 패에서 꺼내서 이 포켓몬에 겹쳐서 진화할 수 있다(자신의 첫 번째 차례와 이 포켓몬을 필드로 내보낸 차례는 제외한다). 진화 전에 이 포켓몬의 HP를 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "018",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000018"
+    },
+    {
+        "id": "SMI-019",
+        "cardID": "이브무160각성부스100해피000",
+        "name": "이브이 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "이브이",
+                "pokedexNumber": 133
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "부스트대시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            },
+            {
+                "name": "해피메이커 GX",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "각성DNA",
+                "text": "이 포켓몬은 자신의 차례에 「이브이」에서 진화하는 카드를 패에서 꺼내서 이 포켓몬에 겹쳐서 진화할 수 있다(자신의 첫 번째 차례와 이 포켓몬을 필드로 내보낸 차례는 제외한다). 진화 전에 이 포켓몬의 HP를 모두 회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "019",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "PLANETA Otani",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000019"
+    },
+    {
+        "id": "SMI-020",
+        "cardID": "쉐이무070동료000활공020",
+        "name": "쉐이미",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "쉐이미",
+                "pokedexNumber": 492
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "활공",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "그라시데아꽃이 피는 계절에\n감사의 마음을 전하기 위해\n날아오른다고 전해진다.",
+        "number": "020",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000020"
+    },
+    {
+        "id": "SMI-021",
+        "cardID": "교체플로트",
+        "name": "교체플로트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀필드의 (물) 포켓몬을 벤치 포켓몬과 교체한다.",
+            "그 뒤, 벤치로 교체한 포켓몬의 HP를 「30」회복한다."
+        ],
+        "number": "021",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Yoshinobu Saito",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000021"
+    },
+    {
+        "id": "SMI-022",
+        "cardID": "네스트볼",
+        "name": "네스트볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "022",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000022"
+    },
+    {
+        "id": "SMI-023",
+        "cardID": "부싯돌",
+        "name": "부싯돌",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 (불꽃) 에너지를 4장까지 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "023",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000023"
+    },
+    {
+        "id": "SMI-024",
+        "cardID": "아쿠아패치",
+        "name": "아쿠아패치",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에 있는 (물) 에너지를 1장 벤치의 (물) 포켓몬에게 붙인다."
+        ],
+        "number": "024",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000024"
+    },
+    {
+        "id": "SMI-025",
+        "cardID": "일렉트릭파워",
+        "name": "일렉트릭파워",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 차례에 자신의 (번개) 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "025",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000025"
+    },
+    {
+        "id": "SMI-026",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "026",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_026.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000026"
+    },
+    {
+        "id": "SMI-027",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에 있는 포켓몬을 1장 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "027",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_027.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000027"
+    },
+    {
+        "id": "SMI-028",
+        "cardID": "구애머리띠",
+        "name": "구애머리띠",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 배틀필드의 「포켓몬 GX・EX」에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "028",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_028.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000028"
+    },
+    {
+        "id": "SMI-029",
+        "cardID": "구애멧",
+        "name": "구애멧",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 상대의 「포켓몬 GX・EX」로부터 받는 기술의 데미지는 「-30」이 된다."
+        ],
+        "number": "029",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_029.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000029"
+    },
+    {
+        "id": "SMI-030",
+        "cardID": "구즈마",
+        "name": "구즈마",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+            "그 뒤, 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "030",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_030.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000030"
+    },
+    {
+        "id": "SMI-031",
+        "cardID": "난천",
+        "name": "난천",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 6장 뽑는다."
+        ],
+        "number": "031",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_031.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000031"
+    },
+    {
+        "id": "SMI-032",
+        "cardID": "릴리에",
+        "name": "릴리에",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 6장이 되도록 덱을 뽑는다.",
+            "자신의 첫 번째 차례에 사용하면 8장이 되도록 뽑는다."
+        ],
+        "number": "032",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_032.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000032"
+    },
+    {
+        "id": "SMI-033",
+        "cardID": "맥실러",
+        "name": "맥실러",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패에 있는 (물) 에너지를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 원하는 카드를 2장까지 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "033",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「물의 샤미드 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_033.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000033"
+    },
+    {
+        "id": "SMI-034",
+        "cardID": "이수재의 해석",
+        "name": "이수재의 해석",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 7장 본다.",
+            "그 중에 있는 트레이너스를 2장까지 상대에게 보여주고 패로 가져와도 좋다.",
+            "남은 카드는 덱으로 되돌리고 덱을 섞는다."
+        ],
+        "number": "034",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "C",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_034.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000034"
+    },
+    {
+        "id": "SMI-035",
+        "cardID": "저지맨",
+        "name": "저지맨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 각각 덱을 4장 뽑는다."
+        ],
+        "number": "035",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_035.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000035"
+    },
+    {
+        "id": "SMI-036",
+        "cardID": "전진",
+        "name": "전진",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에 있는 아이템과 (번개) 에너지를 1장씩 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "036",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「번개의 쥬피썬더 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "B",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_036.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000036"
+    },
+    {
+        "id": "SMI-037",
+        "cardID": "키아웨",
+        "name": "키아웨",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 사용하면 자신의 차례는 끝난다.",
+            "자신의 덱에 있는 (불꽃) 에너지를 4장까지 자신의 포켓몬 1마리에게 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "037",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_037.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000037"
+    },
+    {
+        "id": "SMI-038",
+        "cardID": "하우",
+        "name": "하우",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "038",
+        "prodNumber": "038",
+        "prodCode": "SMI",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SMI.png",
+        "prodName": "썬&문 스타터 세트 「불꽃의 부스터 GX」",
+        "artist": "TOKIYA",
+        "rarity": "N",
+        "regulationMark": "A",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMI/SMI_038.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019000038"
+    }
+]

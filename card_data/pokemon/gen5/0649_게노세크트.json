@@ -1,0 +1,659 @@
+[
+    {
+        "id": "bw9-010",
+        "cardID": "게노풀170레드메갈100",
+        "name": "게노세크트 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX",
+            "플라스마단"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "메갈로캐논",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "100",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "레드시그널",
+                "text": "이 특성은 자신의 패에서 「플라스마 에너지」를 이 포켓몬에게 붙일 때마다 한 번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_010.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005010",
+                "debug": "1"
+            },
+            {
+                "number": "078",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_078.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005078",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "MG-008",
+        "cardID": "게노풀110베어020가이050",
+        "name": "게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "베어가르기",
+                "cost": "(풀)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "가이블라스터",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "3억 년 전에 있었던 포켓몬. 플라스마단에 개조당해 등에 대포가 붙여졌다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "016",
+                "prodCode": "MG",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/MG.png",
+                "prodName": "포켓몬 카드 게임 BW 「30장 덱 대전 set 뮤츠VS게노세크트」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/MG/MG_G_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013006025",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "smxy-086",
+        "cardID": "게노강180카세래피100",
+        "name": "게노세크트 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "래피드블래스터",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "100＋",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 (강철) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "카세트체인지",
+                "text": "이 포켓몬에게 붙어 있는 「포켓몬의 도구」를 자신의 패로 되돌린다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "Eske Yoshinob",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020051",
+                "debug": "2"
+            },
+            {
+                "number": "083",
+                "prodNumber": "078",
+                "prodCode": "xy10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy10.png",
+                "prodName": "XY BREAK 확장팩 제10탄 「초능력의 제왕」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY10/XY10_083.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016020083",
+                "debug": "2"
+            },
+            {
+                "number": "086",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "Eske Yoshinob",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707086",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "cp5-028",
+        "cardID": "게노강110직격000디스090",
+        "name": "게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(강철)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "디스트로이빔",
+                "cost": "(강철)(강철)(강철)",
+                "damage": "90",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "3억 년 전에 있었던 포켓몬. 플라스마단에게 개조당해 등에 대포가 붙여졌다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "Ken Sugimori",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_028.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008028",
+                "debug": "1"
+            },
+            {
+                "number": "029",
+                "prodNumber": "036",
+                "prodCode": "cp5",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp5.png",
+                "prodName": "XY BREAK 확장팩 「환상 전설 드림 컬렉션」",
+                "artist": "PLANETA",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP5/CP5_029.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016008029",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm3plus-010",
+        "cardID": "게노풀130에너가이050",
+        "name": "빛나는 게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "가이블라스터",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "50+",
+                "text": "이 포켓몬에게 붙어 있는 (풀) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "에너지리로드",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 (풀) 에너지를 1개 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "플라스마단에게 개조당한 고대의 벌레포켓몬이다. 등에 있는 대포의 파워가 올라갔다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "072",
+                "prodCode": "sm3plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3plus.png",
+                "prodName": "썬&문 강화 확장팩 「빛나는 전설」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "(빛)",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3+/SM3plus_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017010010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm7a-041",
+        "cardID": "게노강180더블파열130브레190",
+        "name": "게노세크트 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "파열탄",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": ""
+            },
+            {
+                "name": "브레이크 버스터 GX",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "190",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "더블카세트",
+                "text": "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다. (이 특성이 없어졌을 때 자신은 「포켓몬의 도구」를 1장이 되도록 트래쉬한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "041",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7A/SM7A_041.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012041",
+                "debug": "1"
+            },
+            {
+                "number": "064",
+                "prodNumber": "060",
+                "prodCode": "sm7a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7a.png",
+                "prodName": "썬&문 강화 확장팩 「플라스마 스파크」",
+                "artist": "Yoshinobu Saito",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/temp/SM7A_0064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018012064",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm9b-036",
+        "cardID": "게노강130고속스플030",
+        "name": "게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "스플릿빔",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "고속비행 형태",
+                "text": "상대의 필드에 「포켓몬 GX・EX」가 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "플라스마단에게 개조당한 고대의 벌레포켓몬이다. 등에 있는 대포의 파워가 올라갔다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "054",
+                "prodCode": "sm9b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm9b.png",
+                "prodName": "썬&문 강화 확장팩 「풀메탈월」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM9B/SM9b_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019005036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S3a-011",
+        "cardID": "게노풀120직격000테크120",
+        "name": "게노세크트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(풀)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "테크노버스터",
+                "cost": "(풀)(풀)(무색)",
+                "damage": "120",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "3억 년 전에 있었던 포켓몬. 플라스마단에게 개조당해 등에 대포가 붙여졌다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "076",
+                "prodCode": "S3a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3a.png",
+                "prodName": "소드&실드 강화 확장팩 「전설의 고동」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3a/S3a_011.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020012011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S12a-102",
+        "cardID": "게노강190퓨전테크210",
+        "name": "게노세크트 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V",
+            "퓨전"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "게노세크트",
+                "pokedexNumber": 649
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "테크노버스터",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "210",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "퓨전시스템",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패의 장수가 자신의 필드의 「퓨전」의 포켓몬의 수와 같은 장수가 되도록 덱을 뽑는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "069",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_069.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018069",
+                "debug": "2"
+            },
+            {
+                "number": "108",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018108",
+                "debug": "2"
+            },
+            {
+                "number": "109",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Akira Komayama",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_109.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018109",
+                "debug": "2"
+            },
+            {
+                "number": "102",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Tsuji",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_102.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001102",
+                "debug": "1"
+            }
+        ]
+    }
+]

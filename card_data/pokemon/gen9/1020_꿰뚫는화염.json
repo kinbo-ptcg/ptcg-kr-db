@@ -1,0 +1,90 @@
+[
+    {
+        "id": "SV5K-012",
+        "cardID": "꿰뚫불230히트060열화260",
+        "name": "꿰뚫는화염 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "꿰뚫는화염",
+                "pokedexNumber": 1020
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "히트블라스트",
+                "cost": "(불꽃)(무색)",
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "열화맥진",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "260",
+                "text": "이 기술을 사용하면 이 포켓몬은 배틀필드를 떠날 때까지 「열화맥진」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004012",
+                "debug": "3"
+            },
+            {
+                "number": "085",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004085",
+                "debug": "2"
+            },
+            {
+                "number": "093",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Teeziro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_093.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004093",
+                "debug": "2"
+            }
+        ]
+    }
+]

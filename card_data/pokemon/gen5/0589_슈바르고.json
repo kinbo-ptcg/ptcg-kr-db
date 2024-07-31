@@ -1,0 +1,483 @@
+[
+    {
+        "id": "bw2-053",
+        "cardID": "슈바강090가드040더블070",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "가드프레스",
+                "cost": "(강철)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다."
+            },
+            {
+                "name": "더블니들",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "70×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "쪼마리의 껍질을 입고 진화한 포켓몬이다. 강철의 갑옷이 전신을 보호한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_053.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003053",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw4-052",
+        "cardID": "슈바강090노려030기병070",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "노려떨구기",
+                "cost": "(강철)",
+                "damage": "30",
+                "text": "데미지를 주기 전에 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다."
+            },
+            {
+                "name": "기병의창",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "70",
+                "text": "상대의 다음 차례에 이 포켓몬의 약점은 없어진다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "고속으로 날아다니며 날카로운 창으로 상대를 찌른다. 불리한 상대일지라도 용감히 맞선다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "069",
+                "prodCode": "bw4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw4.png",
+                "prodName": "BW 확장팩 제4탄 「다크러시」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw4_052.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012003052",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw9-052",
+        "cardID": "슈바강100관통040슬래080",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "관통하기",
+                "cost": "(강철)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 20데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "슬래시다운",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "자신의 다음 차례에 이 포켓몬은 「슬래시다운」을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "쪼마리에게서 뺏은 껍질로 몸을 에워싸 가드하면서 2개의 창으로 찔러온다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "052",
+                "prodNumber": "076",
+                "prodCode": "bw9",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw9.png",
+                "prodName": "BW 확장팩 제9탄 「메갈로캐논」",
+                "artist": "5ban Graphics",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW9/bw9_052.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013005052",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy4-059",
+        "cardID": "슈바강100뚫어020스파060",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "뚫어버리기",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            },
+            {
+                "name": "스파이럴러시",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "60+",
+                "text": "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "쪼마리에게서 뺏은 껍질로몸을 에워싸 가드하면서2개의 창으로 찔러온다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "059",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_059.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004059",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4s-036",
+        "cardID": "슈바강120마구030아이130",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "마구찌르기",
+                "cost": "(강철)",
+                "damage": "30×",
+                "text": "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "아이언 태클",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "쪼마리에게서 뺏은 껍질로 몸을 에워싸 가드하면서 2개의 창으로 찔러온다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "050",
+                "prodCode": "sm4s",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4s.png",
+                "prodName": "썬&문 확장팩 제4탄 「각성의 용사」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4S/SM4S_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017011036",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-031",
+        "cardID": "슈바강130판별080아이090",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "판별의창",
+                "cost": "(강철)",
+                "damage": "80",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있지 않다면 이 기술은 실패한다."
+            },
+            {
+                "name": "아이언랜스",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "쪼마리에게서 뺏은 껍질로 몸을 에워싸 가드하면서 2개의 창으로 찔러온다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "031",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Satoshi Shirai",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_031.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010031",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S2a-054",
+        "cardID": "슈바강120연속010셸어060",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "연속자르기",
+                "cost": "(강철)",
+                "damage": "10+",
+                "text": "동전을 3번 던진다. 앞면이 1번 나오면 20데미지를 추가한다. 앞면이 2번 나오면 70데미지를 추가한다. 모두 앞면이 나오면 140데미지를 추가한다."
+            },
+            {
+                "name": "셸어택",
+                "cost": "(강철)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "쪼마리의 껍질을 빼앗아 완전히 무장했다. 가라르지방에서는 매우 인기가 높다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "054",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_054.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010054",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-305",
+        "cardID": "슈바강120기적롱스090",
+        "name": "슈바르고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "슈바르고",
+                "pokedexNumber": 589
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "롱스피어",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "기적의 갑옷",
+                "text": "이 포켓몬이 상대의 「포켓몬 V」로부터 받는 기술의 데미지는 「-100」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "쪼마리의 껍질을 빼앗아 완전히 무장했다. 가라르지방에서는 매우 인기가 높다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "305",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Nurikabe",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_305.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003305",
+                "debug": "1"
+            }
+        ]
+    }
+]

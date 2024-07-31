@@ -1,0 +1,773 @@
+[
+    {
+        "id": "bw5e-011",
+        "cardID": "밀로물110클리000물의060",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "클리어서치",
+                "cost": "(물)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 3장 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "물의파동",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무지개색이라고 전해지는 아름다운 비늘은 보는 방향을 바꾸면 여러 가지 색으로 변화한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "011",
+                "prodNumber": "050",
+                "prodCode": "bw5e",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5e.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블레이드」",
+                "artist": "Mizue",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blade_011.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012006011",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy2-018",
+        "cardID": "밀로물100에너폭포060",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "폭포오르기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "에너지 그레이스",
+                "text": "이 특성은 자신의 차례에 한 번 사용할 수 있으며, 사용하면 이 포켓몬을 기절시킨다. 자신의 트레쉬에서 기본 에너지를 3장 선택해서 자신의 포켓몬(「포켓몬EX」는 제외) 한 마리에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "밀로틱의 아름다운 모습을 본 이는 싸우려던 마음가짐을 잊어버린다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "018",
+                "prodNumber": "080",
+                "prodCode": "xy2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy2.png",
+                "prodName": "XY 확장팩 제2탄 「와일드 블레이즈」",
+                "artist": "Shin Nagasawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY2/XY2_018.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014002018",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy5t-023",
+        "cardID": "밀로물110반짝아쿠060",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아스월",
+                "cost": "(물)(무색)(무색)",
+                "damage": "60",
+                "text": "원한다면 상대의 배틀 포켓몬을 벤치 포켓몬과 교체해도 좋다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반짝이는 파문",
+                "text": "이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 트래쉬에서 원하는 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "세계에서 제일 아름다운 포켓몬이다. 밀로틱을 모델로 한 회화나 조각이 많이 있다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "070",
+                "prodCode": "xy5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy5t.png",
+                "prodName": "XY 확장팩 제5탄 「타이달스톰」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY5/XY5_TS_023.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015002023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm4a-013",
+        "cardID": "밀로물120자비000오션080",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "자비베풀기",
+                "cost": "(물)",
+                "damage": "",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 1마리와 붙어 있는 모든 카드를 덱으로 되돌리고 섞는다."
+            },
+            {
+                "name": "오션사이클론",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "80",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가장 아름다운 포켓몬으로 불리며 많은 예술가에게 영감을 주고 있다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "013",
+                "prodNumber": "050",
+                "prodCode": "sm4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm4a.png",
+                "prodName": "썬&문 확장팩 제4탄 「초차원의 침략자」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM4A/SM4A_013.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017012013",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "sm6a-022",
+        "cardID": "밀로물120오로030아쿠040",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "오로라웨이브",
+                "cost": "(물)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            },
+            {
+                "name": "아쿠아스플릿",
+                "cost": "(물)(물)(물)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "맑은 호수 바닥에 산다. 전쟁이 일어날 때 나타나 사람들의 마음을 치유한다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "hatachu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005022",
+                "debug": "1"
+            },
+            {
+                "number": "022",
+                "prodNumber": "053",
+                "prodCode": "sm6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm6a.png",
+                "prodName": "썬&문 강화 확장팩 「드래곤스톰」",
+                "artist": "hatachu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM6A/SM6A_085.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018005085",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2-022",
+        "cardID": "밀로물210아쿠010히프150",
+        "name": "밀로틱 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아임팩트",
+                "cost": "(물)(무색)(무색)",
+                "damage": "10+",
+                "text": "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 50데미지를 추가한다."
+            },
+            {
+                "name": "히프노 스플래시",
+                "cost": "(물)(무색)(무색)(무색)",
+                "damage": "150",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_022.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005022",
+                "debug": "1"
+            },
+            {
+                "number": "099",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Ayaka Yoshida",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005099",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4a-035",
+        "cardID": "밀로물120브라파도080",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "브라이트힐",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원의 HP를 각각 「20」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가장 아름다운 포켓몬으로 불리며 많은 예술가에게 영감을 주고 있다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_021.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010021",
+                "debug": "2"
+            },
+            {
+                "number": "035",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_035.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S6a-023",
+        "cardID": "밀로물120물방더블070",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "더블스매시",
+                "cost": "(물)(무색)",
+                "damage": "70×",
+                "text": "동전을 2번 던져서 앞면이 나온 수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "물방울의 수호",
+                "text": "이 포켓몬이 있는 한, 이 카드의 주인과 그 패는 상대가 패에서 서포트를 꺼내서 사용했을 때 그 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "밀로틱의 아름다운 모습을 본 자는 황폐해진 마음이 치유된다고 한다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "023",
+                "prodNumber": "069",
+                "prodCode": "S6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6a.png",
+                "prodName": "소드&실드 강화 확장팩 「이브이 히어로즈」",
+                "artist": "sui",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6a/S6a_023.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021007023",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11a-028",
+        "cardID": "밀로물130워터000멜로060",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "워터애로",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "멜로우웨이브",
+                "cost": "(물)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "가장 아름다운 포켓몬으로 불리며 많은 예술가에게 영감을 주고 있다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016028",
+                "debug": "1"
+            },
+            {
+                "number": "070",
+                "prodNumber": "068",
+                "prodCode": "S11a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11a.png",
+                "prodName": "소드&실드 강화 확장팩 「백열의 아르카나」",
+                "artist": "chibi",
+                "rarity": "CHR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11a/S11a_070.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022016070",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV4M-014",
+        "cardID": "밀로물120구조히프060",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "히프노 스플래시",
+                "cost": "(물)(무색)",
+                "damage": "60",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "구조선",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 자신의 트래쉬에서 기본 포켓몬을 1장 선택해서 자신의 벤치로 내보낸다. (벤치로 내보내는 것은 상대부터 한다.)",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "밀로틱의 아름다운 모습을 본 자는 황폐해진 마음이 치유된다고 한다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "014",
+                "prodNumber": "066",
+                "prodCode": "SV4M",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4M.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「미래의 일섬」",
+                "artist": "Atsuya Uki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4M/SV4M_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023022014",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV6-030",
+        "cardID": "밀로물120잔잔하이100",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 스플래시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "잔잔함의 경지",
+                "text": "이 포켓몬이 있는 한, 상대 필드의 포켓몬과 그 포켓몬에게 붙어 있는 모든 카드는 패로 되돌릴 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "맑은 호수 바닥에 산다. 전쟁이 일어날 때 나타나 사람들의 마음을 치유한다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Taira Akitsu",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008030",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs10-12",
+        "cardID": "밀로물090이상회오050",
+        "name": "밀로틱",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "밀로틱",
+                "pokedexNumber": 350
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "회오리",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50",
+                "text": "동전을 두 번 던져서 앞면이 나온 수만큼의 에너지를 상대로부터 트래쉬한다. 모두 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이상한 비늘",
+                "text": "이 포켓몬은 상대의 「포켓몬 LV.X」로부터의 기술의 데미지나 효과를 받지 않는다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "사람들이 싸움을 시작하면 호수 깊은 곳에서 나타나 거칠어진 마음을 가라앉힌다고 한다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "12",
+                "prodNumber": "40",
+                "prodCode": "bs10",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs10.png",
+                "prodName": "DP 확장팩 고대의 수호자",
+                "artist": "Suwama Chiaki",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS10/bs10_ko_12.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010010012",
+                "debug": "1"
+            }
+        ]
+    }
+]

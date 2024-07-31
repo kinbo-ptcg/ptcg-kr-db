@@ -1,0 +1,659 @@
+[
+    {
+        "id": "rbd-000",
+        "cardID": "기본 번개 에너지",
+        "name": "기본 번개 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004018"
+    },
+    {
+        "id": "rbd-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "000",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004019"
+    },
+    {
+        "id": "rbd-001",
+        "cardID": "피카번060갉기010고속010",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(번개)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "고속이동",
+                "cost": "(무색)(무색)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
+        "number": "001",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004001"
+    },
+    {
+        "id": "rbd-002",
+        "cardID": "라이번090천둥000일렉070",
+        "name": "라이츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "천둥번개탄",
+                "cost": "(번개)(무색)",
+                "damage": "",
+                "text": "상대의 「포켓몬 EX」 전원에게 각각 50데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "일렉트릭 스매시",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "70+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "전기의 충격은 10만 볼트다. 자신보다 몇 배나 큰 상대를 일격에 기절시킨다.",
+        "number": "002",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004002"
+    },
+    {
+        "id": "rbd-003",
+        "cardID": "라이번130그랜170",
+        "name": "라이츄 BREAK",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "BREAK진화"
+        ],
+        "rules": [
+            "BREAK진화 전의 라이츄가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "라이츄",
+                "pokedexNumber": 26
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "그랜드볼트",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "170",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "003",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004003"
+    },
+    {
+        "id": "rbd-004",
+        "cardID": "메더번110리벤020썬더080",
+        "name": "메더",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "메더",
+                "pokedexNumber": 618
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "리벤지",
+                "cost": "(번개)(무색)",
+                "damage": "20＋",
+                "text": "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 80데미지를 추가한다."
+            },
+            {
+                "name": "썬더블라스트",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(강철)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "바닷가 펄 속에 묻혀 먹이를 기다린다. 먹이가 몸에 닿으면 전기를 써서 마비시킨다.",
+        "number": "004",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Naoki Saito",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004004"
+    },
+    {
+        "id": "rbd-005",
+        "cardID": "탕구격070변덕050",
+        "name": "탕구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "탕구리",
+                "pokedexNumber": 104
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "변덕 태클",
+                "cost": "(격투)(무색)",
+                "damage": "50",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "죽은 어미의 해골을 항상 뒤집어쓰고 있어서 얼굴이 어떻게 생겼는지 모른다.",
+        "number": "005",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004005"
+    },
+    {
+        "id": "rbd-006",
+        "cardID": "꾸꾸격060눈싸000진흙040",
+        "name": "꾸꾸리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꾸꾸리",
+                "pokedexNumber": 220
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "눈싸라기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 잠듦으로 만든다."
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "좋은 냄새를 맡으면 뒷일을 생각하지 않고 냄새 나는 방향으로 대시해버린다.",
+        "number": "006",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Atsuko Nishida",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004006"
+    },
+    {
+        "id": "rbd-007",
+        "cardID": "메꾸격100들이030무리030",
+        "name": "메꾸리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "메꾸리",
+                "pokedexNumber": 221
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "들이밀치기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "무리의발소리",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 필드에 있는 「꾸꾸리」「메꾸리」「맘모꾸리」의 후퇴에 필요한 에너지를 합한 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "긴 털로 덮여 있어서 눈앞의 상태를 모르고 한결같이 돌진만을 반복한다.",
+        "number": "007",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "MAHOU",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004007"
+    },
+    {
+        "id": "rbd-008",
+        "cardID": "레벨볼",
+        "name": "레벨볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 HP가 「90」이하인 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "008",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004008"
+    },
+    {
+        "id": "rbd-009",
+        "cardID": "박사의편지",
+        "name": "박사의편지",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 기본 에너지를 2장까지 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "009",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004009"
+    },
+    {
+        "id": "rbd-010",
+        "cardID": "버디버디 레스큐",
+        "name": "버디버디 레스큐",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 자신의 트래쉬에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "(선택은 상대부터 한다.)"
+        ],
+        "number": "010",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004010"
+    },
+    {
+        "id": "rbd-011",
+        "cardID": "상처약",
+        "name": "상처약",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다."
+        ],
+        "number": "011",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004011"
+    },
+    {
+        "id": "rbd-012",
+        "cardID": "크래시 해머",
+        "name": "크래시 해머",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 상대 필드의 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+        ],
+        "number": "012",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004012"
+    },
+    {
+        "id": "rbd-013",
+        "cardID": "타운맵",
+        "name": "타운맵",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 프라이즈를 모두 앞면으로 한다.",
+            "(대전이 종료될 때까지 그 프라이즈는 앞면을 향하게 한 채로 둔다.)"
+        ],
+        "number": "013",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Toyste Beach",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004013"
+    },
+    {
+        "id": "rbd-014",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "014",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004014"
+    },
+    {
+        "id": "rbd-015",
+        "cardID": "낚시꾼",
+        "name": "낚시꾼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 기본 에너지를 4장 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "015",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004015"
+    },
+    {
+        "id": "rbd-016",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 덱을 섞는다.",
+            "그 뒤 덱을 5장 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004016"
+    },
+    {
+        "id": "rbd-017",
+        "cardID": "풍란",
+        "name": "풍란",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "017",
+        "prodNumber": "017",
+        "prodCode": "rbd",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/rbd.png",
+        "prodName": "XY BREAK 30장 덱 「라이츄 BREAK」",
+        "artist": "Yusuke Ohmura",
+        "rarity": "N",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/RBD/RBD_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2015004017"
+    }
+]

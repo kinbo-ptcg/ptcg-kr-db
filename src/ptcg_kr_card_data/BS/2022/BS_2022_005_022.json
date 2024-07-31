@@ -1,0 +1,826 @@
+[
+    {
+        "id": "SLL-001",
+        "cardID": "스라풀090고속020",
+        "name": "스라크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "스라크",
+                "pokedexNumber": 123
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "고속낫",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "팔에 달린 커다란 낫은 아주 예리하여 실로 무서운 무기가 된다. 움직임이 날래어 먹이를 놓치는 법이 없다.",
+        "number": "001",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005001"
+    },
+    {
+        "id": "SLL-002",
+        "cardID": "요가격070기합030",
+        "name": "요가랑",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "요가랑",
+                "pokedexNumber": 307
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "기합찌르기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "하루에 하나만 나무열매를 먹는다. 배고픔을 참는 것으로 마음을 갈고 닦아간다.",
+        "number": "002",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "0313",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005002"
+    },
+    {
+        "id": "SLL-003",
+        "cardID": "요가격110배틀050",
+        "name": "요가램",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "요가램",
+                "pokedexNumber": 308
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "배틀스텝",
+                "cost": "(격투)",
+                "damage": "50",
+                "text": "자신의 덱에서 (격투) 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "요가 수행으로 단련된 사이코파워로 상대의 움직임을 예상할 수 있다.",
+        "number": "003",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005003"
+    },
+    {
+        "id": "SLL-004",
+        "cardID": "루카격210크래050선풍120",
+        "name": "루카리오 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "크래시펀치",
+                "cost": "(무색)(무색)",
+                "damage": "50",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 선택해서 트래쉬한다."
+            },
+            {
+                "name": "선풍각",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "004",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "takuyoa",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005004"
+    },
+    {
+        "id": "SLL-005",
+        "cardID": "루카격270파이120파동070",
+        "name": "루카리오 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "루카리오",
+                "pokedexNumber": 448
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파이팅너클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "120+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 120데미지를 추가한다."
+            },
+            {
+                "name": "파동스타",
+                "cost": "(격투)(무색)",
+                "damage": "70×",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 70데미지를 준다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "005",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "aky CG Works",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005005"
+    },
+    {
+        "id": "SLL-006",
+        "cardID": "랜드격120뺨때020스매130",
+        "name": "랜드로스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "랜드로스",
+                "pokedexNumber": 645
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "뺨때리기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "스매시에지",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "130",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "바람이나 번개를 거둬들여 바꾼 에너지가 흙에 영양을 주어 대지를 풍족하게 한다.",
+        "number": "006",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005006"
+    },
+    {
+        "id": "SLL-007",
+        "cardID": "암멍격060더블000뒤로030",
+        "name": "암멍이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "암멍이",
+                "pokedexNumber": 744
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "더블드로",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 덱을 2장 뽑는다."
+            },
+            {
+                "name": "뒤로 차기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "잘 따르지만 무는 버릇이 있어 계속 기르기에는 상당한 노력이 필요하다.",
+        "number": "007",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Miki Tanaka",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005007"
+    },
+    {
+        "id": "SLL-008",
+        "cardID": "대여격100투지010제트080",
+        "name": "대여르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "대여르",
+                "pokedexNumber": 870
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "투지의박치기",
+                "cost": "(격투)",
+                "damage": "10+",
+                "text": "상대의 배틀 포켓몬이 「포켓몬 V」라면 50데미지를 추가한다. 이 기술의 데미지는 약점 계산을 하지 않는다."
+            },
+            {
+                "name": "제트헤드",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "리더라고 불리는 1마리와 멤버라고 불리는 5마리로 이루어져 있다. 리더의 명령은 절대적이다.",
+        "number": "008",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "sowsow",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005008"
+    },
+    {
+        "id": "SLL-009",
+        "cardID": "사마격140차서010암석150",
+        "name": "사마자르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "사마자르",
+                "pokedexNumber": 900
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "차서흩뜨리기",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "상대의 벤치 포켓몬의 수 × 30데미지를 추가한다."
+            },
+            {
+                "name": "암석태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "150",
+                "text": "이 포켓몬에게도 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘긴다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없다.",
+        "number": "009",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Shin Nagasawa",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005009"
+    },
+    {
+        "id": "SLL-010",
+        "cardID": "크로악180나이독이070",
+        "name": "크로뱃 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "크로뱃",
+                "pokedexNumber": 169
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독이빨",
+                "cost": "(악)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 독으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "나이트애셋",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다. 이 차례에 이미 다른 「나이트애셋」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "010",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005010"
+    },
+    {
+        "id": "SLL-011",
+        "cardID": "근성의 곡괭이",
+        "name": "근성의 곡괭이",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 위에서부터 1장 앞면으로 해서 그 카드가 (격투) 에너지라면 자신의 벤치 포켓몬에게 붙인다.",
+            "(격투) 에너지가 아니라면 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "011",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Eske Yoshinob",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005011"
+    },
+    {
+        "id": "SLL-012",
+        "cardID": "퀵볼",
+        "name": "퀵볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 1장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 기본 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "012",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Ryo Ueda",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005012"
+    },
+    {
+        "id": "SLL-013",
+        "cardID": "포켓몬 교체",
+        "name": "포켓몬 교체",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
+        ],
+        "number": "013",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005013"
+    },
+    {
+        "id": "SLL-014",
+        "cardID": "하이퍼볼",
+        "name": "하이퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드는 자신의 패를 2장 트래쉬하지 않으면 사용할 수 없다.",
+            "자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "014",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "sadaji",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005014"
+    },
+    {
+        "id": "SLL-015",
+        "cardID": "구애벨트",
+        "name": "구애벨트",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 V」에게 주는 데미지는 「+30」이 된다."
+        ],
+        "number": "015",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Studio Bora Inc.",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005015"
+    },
+    {
+        "id": "SLL-016",
+        "cardID": "난천의 패기",
+        "name": "난천의 패기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패가 5장이 되도록 덱을 뽑는다.",
+            "상대의 이전 차례에 자신의 포켓몬이 기절했다면 8장이 되도록 뽑는다."
+        ],
+        "number": "016",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Megumi Mizutani",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005016"
+    },
+    {
+        "id": "SLL-017",
+        "cardID": "박사의 연구(마박사)",
+        "name": "박사의 연구(마박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "017",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005017"
+    },
+    {
+        "id": "SLL-018",
+        "cardID": "보스의 지령(태홍)",
+        "name": "보스의 지령(태홍)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
+        ],
+        "number": "018",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "GIDORA",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005018"
+    },
+    {
+        "id": "SLL-019",
+        "cardID": "사나",
+        "name": "사나",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 덱으로 되돌리고 섞는다.",
+            "그 뒤, 덱을 5장 뽑는다."
+        ],
+        "number": "019",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005019"
+    },
+    {
+        "id": "SLL-020",
+        "cardID": "용식",
+        "name": "용식",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱을 3장 뽑는다."
+        ],
+        "number": "020",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "artist": "Ken Sugimori",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005020"
+    },
+    {
+        "id": "SLL-021",
+        "cardID": "더블 터보 에너지",
+        "name": "더블 터보 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 포켓몬에게 붙어 있는 한, (무색) 에너지 2개분으로 작용한다.",
+            "이 카드를 붙이고 있는 포켓몬이 사용하는 기술이 상대의 포켓몬에게 주는 데미지는 「-20」이 된다."
+        ],
+        "number": "021",
+        "prodNumber": "021",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "rarity": "N",
+        "regulationMark": "F",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005021"
+    },
+    {
+        "id": "SLL-000",
+        "cardID": "기본 격투 에너지",
+        "name": "기본 격투 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "기본 에너지"
+        ],
+        "rules": [],
+        "texts": [],
+        "number": "000",
+        "prodNumber": "FIG",
+        "prodCode": "SLL",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SLL.png",
+        "prodName": "소드&실드 스타터 세트 VSTAR 「루카리오」",
+        "rarity": "N",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SL/SLL_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022005022"
+    }
+]

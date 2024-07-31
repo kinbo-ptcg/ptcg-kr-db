@@ -1,0 +1,1470 @@
+[
+    {
+        "id": "cp1-001",
+        "cardID": "둔타불070불꽃030",
+        "name": "마그마단의 둔타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "둔타",
+                "pokedexNumber": 322
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "불꽃세례",
+                "cost": "(불꽃)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "아무리 무거운 짐이라도 둔타의 도움으로 편하게 목적지까지 옮길 수 있어.",
+        "number": "001",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_001.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003001"
+    },
+    {
+        "id": "cp1-002",
+        "cardID": "폭타불110번드화염060",
+        "name": "마그마단의 폭타",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "폭타",
+                "pokedexNumber": 323
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "화염구슬",
+                "cost": "(불꽃)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "번드래프트",
+                "text": "자신의 트래쉬에서 (불꽃)  또는 (격투) 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "불꽃에 강한 폭타는 마그마 단원을 구출할 때도 대활약 했었어.",
+        "number": "002",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Shin Nagasawa",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_002.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003002"
+    },
+    {
+        "id": "cp1-003",
+        "cardID": "대굴물060물대010",
+        "name": "아쿠아단의 대굴레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "대굴레오",
+                "pokedexNumber": 363
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물대포",
+                "cost": "(물)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "대굴레오의 물대포는 어떤 불이라도 끌 수 있지. 적이 사용하는 불꽃따위 효과가 없다고!",
+        "number": "003",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_003.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003003"
+    },
+    {
+        "id": "cp1-004",
+        "cardID": "씨레물090물튀000듀얼000",
+        "name": "아쿠아단의 씨레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "씨레오",
+                "pokedexNumber": 364
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "물튀기기",
+                "cost": "(물)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "듀얼블리자드",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 2개 트래쉬하고 상대의 포켓몬을 2마리 선택해서 각각 80데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "얼음의 길을 만들어 서포트 해주지. 얼음 위에서라면 어떤 배틀이라도 이길 수 있어.",
+        "number": "004",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Naoki Saito",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_004.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003004"
+    },
+    {
+        "id": "cp1-005",
+        "cardID": "씨카물140파워030듀얼000",
+        "name": "아쿠아단의 씨카이저",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "씨카이저",
+                "pokedexNumber": 365
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "파워블로",
+                "cost": "(무색)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다."
+            },
+            {
+                "name": "듀얼블리자드",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지를 2개 트래쉬하고 상대의 포켓몬을 2마리 선택해서 각각 80데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "강력한 냉기로 얼려버리는 기술이 특기야. 얼린 후에는 강력한 어금니로 가루로 만들어 버리지!",
+        "number": "005",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_005.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003005"
+    },
+    {
+        "id": "cp1-006",
+        "cardID": "가이물190파워아쿠080",
+        "name": "아쿠아단의 가이오가 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아임팩트",
+                "cost": "(물)(물)(물)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워세이버",
+                "text": "서로의 필드에 있는 「아쿠아단」의 포켓몬의 합이 4마리 이하라면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "006",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "nagimiso",
+        "rarity": "RR",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_006.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003006"
+    },
+    {
+        "id": "cp1-007",
+        "cardID": "질퍽초070막치010진흙030",
+        "name": "아쿠아단의 질퍽이",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "질퍽이",
+                "pokedexNumber": 88
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "막치기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "진흙뿌리기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "어떤 틈이라도 파고들어갈 수 있는 유연한 몸은 적의 아지트에 친입할 때 도움이 되지!",
+        "number": "007",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "kawayoo",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_007.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003007"
+    },
+    {
+        "id": "cp1-008",
+        "cardID": "질뻐초110오물추격060",
+        "name": "아쿠아단의 질뻐기",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "질뻐기",
+                "pokedexNumber": 89
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "추격",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 60데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "오물잔치",
+                "text": "이 포켓몬이 있는 한 서로의 포켓몬 전원(「아쿠아단」은 제외)의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "독을 두른 거대한 체구로 적을 감싸 움직일 수 없게 만들지. 너도 뭉개버려 주겠어!",
+        "number": "008",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_008.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003008"
+    },
+    {
+        "id": "cp1-009",
+        "cardID": "세비초090독이010베놈030",
+        "name": "아쿠아단의 세비퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "세비퍼",
+                "pokedexNumber": 336
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "독이빨",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "베놈테일",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 그 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "세비퍼의 꼬리는 날카로운 검으로 되어있어. 꼬리에 독을 바르는 것도 가능하지!",
+        "number": "009",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Naoki Saito",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_009.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003009"
+    },
+    {
+        "id": "cp1-010",
+        "cardID": "오뚝초050텔레000",
+        "name": "마그마단의 오뚝군",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "오뚝군",
+                "pokedexNumber": 343
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "텔레키네시스",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬을 1마리 선택해서 20데미지를 준다. 이 기술의 데미지는 약점 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "적을 발견하면 일제히 울음소리를 내서 알려줘서 도움이 되지!",
+        "number": "010",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_010.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003010"
+    },
+    {
+        "id": "cp1-011",
+        "cardID": "점토초090마그파워070",
+        "name": "마그마단의 점토도리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "점토도리",
+                "pokedexNumber": 344
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "파워빔",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "마그마스위치",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 자신의 다른 「마그마단」의 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "점토도리가 내보내는 빔은 확실히 적을 잡을 수 있어. 원거리 공격은 맡겨달라고!",
+        "number": "011",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_011.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003011"
+    },
+    {
+        "id": "cp1-012",
+        "cardID": "가보격060갉기010",
+        "name": "마그마단의 가보리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "가보리",
+                "pokedexNumber": 304
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "철도 먹어버리는 가보리는 적의 배도 순식간에 먹어서 부숴버릴 수 있어!",
+        "number": "012",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Akira Komayama",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_012.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003012"
+    },
+    {
+        "id": "cp1-013",
+        "cardID": "갱도격090갉기030돌진060",
+        "name": "마그마단의 갱도라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "갱도라",
+                "pokedexNumber": 305
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "돌진",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60",
+                "text": "이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "갱도라의 단단한 몸으로 주는 돌진 공격은 콘크리트도 파괴한다고!",
+        "number": "013",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_013.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003013"
+    },
+    {
+        "id": "cp1-014",
+        "cardID": "보스격140록스040암석120",
+        "name": "마그마단의 보스로라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "보스로라",
+                "pokedexNumber": 306
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "록스탬프",
+                "cost": "(격투)(무색)",
+                "damage": "40×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 (격투) 에너지를 원하는 만큼 트래쉬하고 트래쉬한 (격투) 에너지의 장수 × 40데미지를 준다."
+            },
+            {
+                "name": "암석바람",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "120",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 전원에게도 각각 20데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "보스로라의 강철 뿔은 어떤 두꺼운 방벽이라도 뚫어버릴 수 있어!",
+        "number": "014",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "TOKIYA",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_014.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003014"
+    },
+    {
+        "id": "cp1-015",
+        "cardID": "그란격190파워마그080",
+        "name": "마그마단의 그란돈 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "그란돈",
+                "pokedexNumber": 383
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마그마퀘이크",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "80+",
+                "text": "데미지를 줄 때 이미 상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "파워세이버",
+                "text": "서로의 필드에 있는 「마그마단」의 포켓몬의 합이 4마리 이하면 이 포켓몬은 기술을 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "015",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "nagimiso",
+        "rarity": "RR",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_015.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003015"
+    },
+    {
+        "id": "cp1-016",
+        "cardID": "포챠악060잠입000물기020",
+        "name": "마그마단의 포챠나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "포챠나",
+                "pokedexNumber": 261
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "잠입",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 패를 본다."
+            },
+            {
+                "name": "물기",
+                "cost": "(격투)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "포챠나의 코는 어떤 냄새도 구분할 수 있어서 정찰할 때 매우 도움이 되지!",
+        "number": "016",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "TOKIYA",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_016.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003016"
+    },
+    {
+        "id": "cp1-017",
+        "cardID": "포챠악060울부000물기020",
+        "name": "아쿠아단의 포챠나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "포챠나",
+                "pokedexNumber": 261
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "울부짖기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
+            },
+            {
+                "name": "물기",
+                "cost": "(물)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "포챠나의 예리한 후각은 적의 침입을 바로 눈치채지. 매우 뛰어난 파수꾼이지!",
+        "number": "017",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_017.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003017"
+    },
+    {
+        "id": "cp1-018",
+        "cardID": "그라악100물기030적대080",
+        "name": "마그마단의 그라에나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "그라에나",
+                "pokedexNumber": 262
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물기",
+                "cost": "(격투)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "적대적이빨",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80+",
+                "text": "상대의 배틀 포켓몬이 「아쿠아단」의 포켓몬이라면 40데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "주인에게 충실한 포켓몬이다. 어떤 상처를 입었더라도 트레이너를 지켜내지!",
+        "number": "018",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Hitoshi Ariga",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_018.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003018"
+    },
+    {
+        "id": "cp1-019",
+        "cardID": "그라악100팀임030깨물080",
+        "name": "아쿠아단의 그라에나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "그라에나",
+                "pokedexNumber": 262
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "팀임팩트",
+                "cost": "(물)(무색)",
+                "damage": "30×",
+                "text": "자신의 필드에 있는 「아쿠아단」의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
+            },
+            {
+                "name": "깨물어부수기",
+                "cost": "(물)(물)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "통솔력이 뛰어난 콤비네이션 공격이 특기다! 습격당하면 손도 발도 움직일 수 없어!",
+        "number": "019",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_019.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003019"
+    },
+    {
+        "id": "cp1-020",
+        "cardID": "샤프악050지느010",
+        "name": "아쿠아단의 샤프니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "샤프니아",
+                "pokedexNumber": 318
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "지느러미뺨치기",
+                "cost": "(악)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "물 속에서 이 녀석의 움직임을 따라올 수 있을까? 이 소용돌이에 휩쓸리면 탈출할 수 없다!",
+        "number": "020",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_020.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003020"
+    },
+    {
+        "id": "cp1-021",
+        "cardID": "샤크악090아쿠예리070",
+        "name": "아쿠아단의 샤크니아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "샤크니아",
+                "pokedexNumber": 319
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "예리한이빨",
+                "cost": "(악)(무색)(무색)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아쿠아서치",
+                "text": "자신의 덱에서 「아쿠아단」의 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "자랑하는 어금니는 일격필살의 위력! 방심한 적을 확실하게 꼼짝못하게 한다고!",
+        "number": "021",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "kawayoo",
+        "rarity": "R",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_021.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003021"
+    },
+    {
+        "id": "cp1-022",
+        "cardID": "쟝고무090동료000팀플020",
+        "name": "마그마단의 쟝고",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "쟝고",
+                "pokedexNumber": 335
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "동료부르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「마그마단」의 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "팀플레이",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "20×",
+                "text": "자신의 벤치에 있는 「마그마단」의 포켓몬의 수 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "두려움을 모르는 쟝고들의 포메이션 공격을 과연 끝까지 지켜볼 수 있겠어?",
+        "number": "022",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Shin Nagasawa",
+        "rarity": "C",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_022.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003022"
+    },
+    {
+        "id": "cp1-023",
+        "cardID": "마그마단의 수퍼볼",
+        "name": "마그마단의 수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「마그마단」의 기본 포켓몬과 기본 (격투) 에너지를 각각 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "023",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_023.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003023"
+    },
+    {
+        "id": "cp1-024",
+        "cardID": "아쿠아단의 수퍼볼",
+        "name": "아쿠아단의 수퍼볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱에서 「아쿠아단」의 기본 포켓몬과 기본 (물) 에너지를 각각 1장씩 선택해서 상대에게 보여주고 패로 가져온다.",
+            "그리고 덱을 섞는다."
+        ],
+        "number": "024",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_024.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003024"
+    },
+    {
+        "id": "cp1-025",
+        "cardID": "마그마포인터",
+        "name": "마그마포인터",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「마그마단」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "attack": {
+            "name": "마그마포인터",
+            "cost": "(불꽃)",
+            "damage": "",
+            "text": "상대의 포켓몬을 1마리 선택해서 20데미지를 준다.(벤치는 약점 저항력 계산을 하지 않는다.)"
+        },
+        "number": "025",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_025.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003025"
+    },
+    {
+        "id": "cp1-026",
+        "cardID": "아쿠아디퓨저",
+        "name": "아쿠아디퓨저",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "포켓몬의 도구"
+        ],
+        "rules": [
+            "포켓몬의 도구는 자신의 포켓몬에게 붙여서 사용한다.",
+            "포켓몬 1마리에게 1장만 붙일 수 있고 붙인 채로 둔다.",
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "이 카드를 붙이고 있는 「아쿠아단」의 포켓몬은 이 카드에 적혀 있는 기술을 사용할 수 있다.",
+            "(기술을 사용하기 위한 에너지는 필요하다.)"
+        ],
+        "attack": {
+            "name": "아쿠아디퓨저",
+            "cost": "(물)",
+            "damage": "",
+            "text": "상대의 배틀 포켓몬을 독과 혼란으로 만든다."
+        },
+        "number": "026",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Toyste Beach",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_026.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003026"
+    },
+    {
+        "id": "cp1-027",
+        "cardID": "마그마단의 간부",
+        "name": "마그마단의 간부",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 「마그마단」의 포켓몬을 3장 선택해서 상대에게 보여주고 패로 가져온다."
+        ],
+        "number": "027",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "GAME FREAK inc.",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_027.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003027"
+    },
+    {
+        "id": "cp1-028",
+        "cardID": "마그마단의 조무래기",
+        "name": "마그마단의 조무래기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 선택해서 트래쉬한다.",
+            "그 뒤 자신의 덱을 3장 뽑는다.",
+            "트래쉬한 카드가 「마그마단」의 포켓몬이라면 1장 더 뽑는다."
+        ],
+        "number": "028",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "GAME FREAK inc.",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_028.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003028"
+    },
+    {
+        "id": "cp1-029",
+        "cardID": "아쿠아단의 간부",
+        "name": "아쿠아단의 간부",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 트래쉬에서 기본 에너지를 1장 선택해서 자신의 배틀필드에 있는 「아쿠아단」의 포켓몬에게 붙인다."
+        ],
+        "number": "029",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "GAME FREAK inc.",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_029.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003029"
+    },
+    {
+        "id": "cp1-030",
+        "cardID": "아쿠아단의 조무래기",
+        "name": "아쿠아단의 조무래기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 1장 선택해서 트래쉬한다.",
+            "그 뒤 자신의 덱을 3장 뽑는다.",
+            "트래쉬한 카드가 「아쿠아단」의 포켓몬이라면 1장 더 뽑는다."
+        ],
+        "number": "030",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "GAME FREAK inc.",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_030.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003030"
+    },
+    {
+        "id": "cp1-031",
+        "cardID": "마그마단의 비밀기지",
+        "name": "마그마단의 비밀기지",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 플레이어는 각각 패에서 기본 포켓몬(「마그마단」은 제외)을 벤치로 내보낼 때마다 그 포켓몬에게 데미지 카운터를 2개 올린다."
+        ],
+        "number": "031",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_031.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003031"
+    },
+    {
+        "id": "cp1-032",
+        "cardID": "아쿠아단의 비밀기지",
+        "name": "아쿠아단의 비밀기지",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "스타디움"
+        ],
+        "rules": [
+            "스타디움은 자신의 차례에 1장 배틀필드 옆에 내놓을 수 있다.",
+            "다른 스타디움이 필드에 나오면 이 카드를 트래쉬한다.",
+            "같은 이름의 스타디움은 필드에 내보낼 수 없다."
+        ],
+        "texts": [
+            "서로의 포켓몬 전원(「아쿠아단」은 제외)의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다."
+        ],
+        "number": "032",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_032.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003032"
+    },
+    {
+        "id": "cp1-033",
+        "cardID": "더블 마그마 에너지",
+        "name": "더블 마그마 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 「마그마단」의 포켓몬에게만 붙일 수 있으며 붙인 차례의 마지막에 트래쉬한다.",
+            "이 카드는 포켓몬에게 붙어 있는 한 (격투) 에너지 2개분으로 작용한다.",
+            "(이 카드가 「마그마단」의 포켓몬 이외에 붙어 있다면 트래쉬한다.)"
+        ],
+        "number": "033",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_033.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003033"
+    },
+    {
+        "id": "cp1-034",
+        "cardID": "더블 아쿠아 에너지",
+        "name": "더블 아쿠아 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "이 카드는 「아쿠아단」의 포켓몬에게만 붙일 수 있으며 붙인 차례의 마지막에 트래쉬한다.",
+            "이 카드는 포켓몬에게 붙어 있는 한 (물) 에너지 2개분으로 작용한다.",
+            "(이 카드가 「아쿠아단」의 포켓몬 이외에 붙어 있다면 트래쉬한다.)"
+        ],
+        "number": "034",
+        "prodNumber": "034",
+        "prodCode": "cp1",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp1.png",
+        "prodName": "XY 확장팩 「마그마단vs아쿠아단 더블크라이시스」",
+        "rarity": "U",
+        "regulationMark": "XY",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP1/XY_CP1_034.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015003034"
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "id": "sma-004",
+        "cardID": "모크풀240페더잎날090할로000",
+        "name": "모크나이퍼 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            },
+            {
+                "name": "할로우헌트 GX",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "페더애로",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "004",
+                "prodNumber": "051",
+                "prodCode": "sma",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sma.png",
+                "prodName": "썬&문 스타터세트",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMA/SMA_004.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2017001004",
+                "debug": "3"
+            },
+            {
+                "number": "052",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003052",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "sm1plus-003",
+        "cardID": "모크풀240페더잎날090",
+        "name": "모크나이퍼 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "GX"
+        ],
+        "rules": [
+            "자신의 트래쉬에 있는 원하는 카드를 3장 상대에게 보여주고 패로 가져온다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
+            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "잎날가르기",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "페더애로",
+                "text": "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "051",
+                "prodCode": "sm1plus",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm1plus.png",
+                "prodName": "썬&문 강화 확장팩 「썬&문」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM1+/SM1plus_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017003003",
+                "debug": "1"
+            },
+            {
+                "number": "207",
+                "prodNumber": "150",
+                "prodCode": "sm8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm8b.png",
+                "prodName": "썬&문 하이클래스팩 「GX 울트라샤이니」",
+                "artist": "5ban Graphics",
+                "rarity": "SSR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM8B/SM8b_207.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019002207",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SM12-010",
+        "cardID": "모크풀140직격000트래080",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "직격비행",
+                "cost": "(풀)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "트래킹슛",
+                "cost": "(무색)(무색)",
+                "damage": "80",
+                "text": "데미지 카운터가 올려져 있는 상대의 벤치 포켓몬 1마리에게도 80데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "살깃을 시위에 메겨서 상대에게 날린다. 반드시 명중시켜야 할 때는 머리의 시위를 당겨 집중한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "010",
+                "prodNumber": "095",
+                "prodCode": "SM12",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12.png",
+                "prodName": "썬&문 확장팩 제12탄 「얼터제네시스」",
+                "artist": "kawayoo",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12/SM12_010.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019016010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S4a-003",
+        "cardID": "모크풀140밀림스플090",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "스플릿애로",
+                "cost": "(풀)(무색)",
+                "damage": "90",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "밀림위장",
+                "text": "이 포켓몬은 상대의 「포켓몬 V・GX」로부터 기술의 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "날개에 숨겨진 살깃을 활과 화살처럼 이용해서 쏜다. 노린 표적은 빗나가지 않는다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "100",
+                "prodCode": "S3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S3.png",
+                "prodName": "소드&실드 확장팩 「무한존」",
+                "artist": "Ryota Murayama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S3/S3_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020011008",
+                "debug": "2"
+            },
+            {
+                "number": "003",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_003.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016003",
+                "debug": "1"
+            },
+            {
+                "number": "202",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "nagimiso",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_202.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016202",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9a-044",
+        "cardID": "모크격220산사000근접100",
+        "name": "히스이 모크나이퍼 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724,
+                "region": "히스이"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "산사냥",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "근접사격",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "100",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "044",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "Shin Nagasawa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_044.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004073",
+                "debug": "1"
+            },
+            {
+                "number": "077",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_077.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004122",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S9a-045",
+        "cardID": "모크격270풍운서머160",
+        "name": "히스이 모크나이퍼 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724,
+                "region": "히스이"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "서머솔트페더",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "160+",
+                "text": "원한다면 자신의 패에서 에너지를 3장까지 트래쉬하고 그 장수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "풍운스타",
+                "text": "자신의 차례에 사용할 수 있다. 자신의 패가 8장이 되도록 덱을 뽑는다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "type": "특성",
+                "special": "VSTAR"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004074",
+                "debug": "1"
+            },
+            {
+                "number": "086",
+                "prodNumber": "067",
+                "prodCode": "S9a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S9a.png",
+                "prodName": "소드&실드 강화 확장팩 「배틀리전」",
+                "artist": "5ban Graphics",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S9a/S9a_086.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022004131",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S10P-039",
+        "cardID": "모크격160파고030다이000",
+        "name": "히스이 모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724,
+                "region": "히스이"
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "파고드는 갈고리손톱",
+                "cost": "(0코)",
+                "damage": "30×",
+                "text": "상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "다이렉트애로",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 80데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다.",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "067",
+                "prodCode": "S10P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S10P.png",
+                "prodName": "소드&실드 확장팩 「스페이스 저글러」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S10/S10P_039.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022008039",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SVD-008",
+        "cardID": "모크풀320종횡헌팅130",
+        "name": "모크나이퍼 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 320,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "헌팅애로",
+                "cost": "(풀)(무색)",
+                "damage": "130",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "종횡무진",
+                "text": "자신의 차례에 1번 사용할 수 있다. 벤치에 있는 이 포켓몬을 배틀 포켓몬과 교체한다. 또는 배틀필드에 있는 이 포켓몬을 벤치 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "139",
+                "prodCode": "SVD",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SVD.png",
+                "prodName": "스칼렛&바이올렛 ex 스타트 덱",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVD/SVD_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023016008",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM-P-008",
+        "cardID": "모크풀140리프030브레120",
+        "name": "모크나이퍼",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "모크나이퍼",
+                "pokedexNumber": 724
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "리프블레이드",
+                "cost": "(풀)",
+                "damage": "30+",
+                "text": "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
+            },
+            {
+                "name": "브레이브버드",
+                "cost": "(풀)(무색)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게도 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개에 숨겨진 살깃을 시위에 메겨서 날린다. 100앞의 작은 돌도 관통하는 정밀함이다.",
+        "regulationMark": [
+            "A"
+        ],
+        "version_infos": [
+            {
+                "number": "008",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 카드 게임 썬&문 프로모 팩 제1탄",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_008.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000008",
+                "debug": "1"
+            },
+            {
+                "number": "019",
+                "prodNumber": "SM-P",
+                "prodCode": "SM-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/promo.png",
+                "prodName": "썬&문 프로모 카드 포켓몬 월드챔피언십2017 대한민국 대표 선발전 개최 기념 프로모 팩",
+                "artist": "Kouki Saitou",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/PROMO/SMP_019.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/SMP0000000019",
+                "debug": "2"
+            }
+        ]
+    }
+]

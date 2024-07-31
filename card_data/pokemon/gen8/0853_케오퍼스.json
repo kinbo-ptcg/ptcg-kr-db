@@ -1,0 +1,413 @@
+[
+    {
+        "id": "S1W-033",
+        "cardID": "케오격130문어000하드130",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "문어굳히기",
+                "cost": "(격투)(격투)",
+                "damage": "",
+                "text": "이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지가 (무색) 에너지 2개만큼 많아지고 후퇴할 수 없다. 이 효과는 이 「케오퍼스」가 배틀필드를 떠날 때까지 계속되며 중복되지 않는다."
+            },
+            {
+                "name": "하드스윙",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "130",
+                "text": "이 기술의 데미지는 저항력 계산을 하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "온몸이 근육덩어리다. 촉수를 사용해서 펼치는 조르기 기술의 위력은 무시무시하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "033",
+                "prodNumber": "060",
+                "prodCode": "S1W",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S1W.png",
+                "prodName": "소드&실드 확장팩 「소드」",
+                "artist": "Shin Nagasawa",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S1W/S1W_033.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020002033",
+                "debug": "1"
+            },
+            {
+                "number": "100",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016100",
+                "debug": "2"
+            },
+            {
+                "number": "272",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_272.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016272",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S2a-045",
+        "cardID": "케오격210얽어020문설120",
+        "name": "케오퍼스 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "얽어매기",
+                "cost": "(격투)",
+                "damage": "20",
+                "text": "상대의 다음 차례에 이 기술을 받은 기본 포켓몬은 기술을 사용할 수 없다."
+            },
+            {
+                "name": "문설트프레스",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120+",
+                "text": "동전을 1번 던져서 앞면이 나오면 100데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "045",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_045.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010045",
+                "debug": "1"
+            },
+            {
+                "number": "075",
+                "prodNumber": "070",
+                "prodCode": "S2a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2a.png",
+                "prodName": "소드&실드 강화 확장팩 「폭염워커」",
+                "artist": "PLANETA Igarashi",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2a/S2a_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020010075",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4-064",
+        "cardID": "케오격130머리030텐타050",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "머리죄기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
+            },
+            {
+                "name": "텐타클버스터",
+                "cost": "(격투)(무색)",
+                "damage": "50+",
+                "text": "자신의 이전 차례에 이 포켓몬이 「머리죄기」를 사용했다면 120데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "온몸이 근육덩어리다. 촉수를 사용해서 펼치는 조르기 기술의 위력은 무시무시하다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Hitoshi Ariga",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014064",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SI-244",
+        "cardID": "케오격140조르싱크080",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "싱크로버스터",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "80+",
+                "text": "자신의 패와 상대의 패가 같은 장수라면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "조르기의 달인",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대 배틀 포켓몬의 후퇴에 필요한 에너지는 2개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "자신의 실력을 시험하기 위해 육지로 올라가 대전 상대를 찾는다. 싸움이 끝나면 바다로 돌아간다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "070",
+                "prodCode": "S6K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S6K.png",
+                "prodName": "소드&실드 확장팩 「칠흑의 가이스트」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S6/S6K_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021005043",
+                "debug": "2"
+            },
+            {
+                "number": "244",
+                "prodNumber": "414",
+                "prodCode": "SI",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SI.png",
+                "prodName": "소드&실드 「스타트 덱 100」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SI/SI_244.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022003244",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SH-029",
+        "cardID": "케오격130넘어040매그090",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "넘어뜨리기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "매그넘펀치",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자신의 실력을 시험하기 위해 육지로 올라가 대전 상대를 찾는다. 싸움이 끝나면 바다로 돌아간다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "029",
+                "prodNumber": "053",
+                "prodCode": "SH",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SH.png",
+                "prodName": "소드&실드 「패밀리 포켓몬 카드 게임」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/SH/SH_005_D.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021013057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SV4K-036",
+        "cardID": "케오격120서서030마하120",
+        "name": "케오퍼스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "케오퍼스",
+                "pokedexNumber": 853
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "서서히떨구기",
+                "cost": "(격투)",
+                "damage": "30",
+                "text": "상대의 다음 차례 마지막에 이 기술을 받은 포켓몬은 기절한다."
+            },
+            {
+                "name": "마하스트레이트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "자신의 실력을 시험하기 위해 육지로 올라가 대전 상대를 찾는다. 싸움이 끝나면 바다로 돌아간다.",
+        "regulationMark": [
+            "G"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "066",
+                "prodCode": "SV4K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV4K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「고대의 포효」",
+                "artist": "Sanosuke Sakuma",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV4K/SV4K_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023021036",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2945 @@
+[
+    {
+        "id": "bs3-01",
+        "cardID": "펄기물090공간010트랜040",
+        "name": "펄기아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "공간절단",
+                "cost": "(물)",
+                "damage": "10",
+                "text": "자신의 덱에 있는 「스타디움」을 1장 상대 플레이어에게 보여주고 패로 가져온 뒤 덱을 섞는다. 그 경우 필드의 「스타디움」을 트래쉬한다."
+            },
+            {
+                "name": "트랜스백",
+                "cost": "(물)(물)(무색)",
+                "damage": "40",
+                "text": "원한다면 동전을 한 번 던져도 좋다. 앞면이 나오면 자신의 에너지를 모두 트래쉬하고 상대와 상대에게 붙어 있는 모든 카드를 상대의 덱으로 되돌린 뒤 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "평행으로 늘어선 공간의 틈새에 산다고 전해진다. 신화에 등장하는 포켓몬이다.",
+        "number": "01",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Nakaoka",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_1.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003001"
+    },
+    {
+        "id": "bs3-02",
+        "cardID": "펄기물120리컨하이060",
+        "name": "펄기아 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 펄기아에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로 리플렉트",
+                "cost": "(물)(물)(물)",
+                "damage": "60",
+                "text": "원한다면 자신의 에너지를 모두 자신의 벤치 포켓몬에게 원하는 대로 붙여도 좋다. (자신의 벤치 포켓몬이 없다면 이 효과는 없어진다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "리컨스트럭션",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 벤치 포켓몬 1마리를 상대 플레이어가 선택하고 상대의 벤치 포켓몬 1마리를 자신이 선택한다. 그 뒤 선택된 포켓몬을 각각 배틀 포켓몬과 교체한다(벤치 포켓몬이 없는 플레이어는 교체하지 않는다). 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "02",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_2.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003002"
+    },
+    {
+        "id": "bs3-03",
+        "cardID": "고오초050아픔000",
+        "name": "고오스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "고오스",
+                "pokedexNumber": 92
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "아픔반환",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 데미지 카운터를 1개 제거해서 상대의 포켓몬 1마리에게 올린다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "몸의 95퍼센트가 가스로 이루어진 포켓몬이다. 강풍에 날려가 버린다.",
+        "number": "03",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_3.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003003"
+    },
+    {
+        "id": "bs3-04",
+        "cardID": "고우초070최면000꿈먹060",
+        "name": "고우스트",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "고우스트",
+                "pokedexNumber": 93
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "최면술",
+                "cost": "(초)",
+                "damage": "",
+                "text": "상대를 잠듦으로 만든다."
+            },
+            {
+                "name": "꿈먹기",
+                "cost": "(초)(초)",
+                "damage": "60",
+                "text": "상대가 잠듦이 아니라면 이 기술은 실패한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "어떤 장애물도 빠져나갈 수 있다. 벽 속에 숨어들어 상대의 모습을 관찰한다.",
+        "number": "04",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Naoyo Kimura",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_4.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003004"
+    },
+    {
+        "id": "bs3-05",
+        "cardID": "팬텀초110라이000그림000",
+        "name": "팬텀",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "팬텀",
+                "pokedexNumber": 94
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "라이프다운",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 남은 HP가 「10」이 되도록 상대에게 데미지 카운터를 올린다."
+            },
+            {
+                "name": "그림자춤",
+                "cost": "(초)(초)(무색)",
+                "damage": "",
+                "text": "데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다. 그 뒤 자신을 자신의 벤치 포켓몬과 교체한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "그림자에 모습을 숨긴다. 팬텀이 숨어 있는 방은 온도가 5도 내려간다고 전해진다.",
+        "number": "05",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_5.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003005"
+    },
+    {
+        "id": "bs3-06",
+        "cardID": "뽀뽀초050베이사이000",
+        "name": "뽀뽀라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "뽀뽀라",
+                "pokedexNumber": 238
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코키스",
+                "cost": "(0코)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 필드에 있는 특수 에너지를 1개 선택해서 상대의 덱으로 되돌리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "베이비진화",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 자신의 패에 있는 「루주라」를 1장 이 포켓몬 위에 올려서 진화시킨다. 그 때 이 포켓몬의 데미지 카운터를 모두 제거한다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "무엇이든 입술로 건드려보고 확인한다. 좋아하는 것도 싫어하는 것도 입술이 기억하고 있다.",
+        "number": "06",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_6.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003006"
+    },
+    {
+        "id": "bs3-07",
+        "cardID": "루주초070얼음030악마000",
+        "name": "루주라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "루주라",
+                "pokedexNumber": 124
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "얼음의 키스",
+                "cost": "(물)(무색)",
+                "damage": "30",
+                "text": "상대의 이전 차례에 자신이 기술에 의한 데미지를 받았다면 상대를 마비로 만든다."
+            },
+            {
+                "name": "악마의키스",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "자신의 데미지 카운터를 2개 선택해서 상대에게 올린다. 자신의 진화 전에 「뽀뽀라」카드가 있다면 선택하는 데미지 카운터의 수는 4개가 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "울음소리는 마치 인간의 말처럼 들리지만 의미는 전혀 이해할 수 없다.",
+        "number": "07",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kagemaru Himeno",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_7.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003007"
+    },
+    {
+        "id": "bs3-08",
+        "cardID": "무우초060놀래000이상020",
+        "name": "무우마",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "무우마",
+                "pokedexNumber": 200
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "놀래키기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 카드를 1장 선택한다. 그 뒤 그 카드를 보고나서 상대의 덱으로 되돌리고 덱을 섞는다."
+            },
+            {
+                "name": "이상한빛",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 혼란으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "한밤중 등 뒤에서 다가와 울부짖는 울음소리를 내어 놀라게 하고는 즐거워하는 포켓몬이다.",
+        "number": "08",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_8.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003008"
+    },
+    {
+        "id": "bs3-09",
+        "cardID": "무우초090원한000사이030",
+        "name": "무우마직",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "무우마직",
+                "pokedexNumber": 429
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "원한풀기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 필드의 데미지 카운터가 올려져 있는 포켓몬의 수만큼 데미지 카운터를 상대에게 올린다."
+            },
+            {
+                "name": "사이코웨이브",
+                "cost": "(초)(초)(무색)",
+                "damage": "30+",
+                "text": "상대의 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "주문 같은 울음소리를 내어 소리를 들은 상대를 두통이나 환각으로 괴롭힌다.",
+        "number": "09",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mikiko Takeda",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_9.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003009"
+    },
+    {
+        "id": "bs3-10",
+        "cardID": "흔들초050사이010바람020",
+        "name": "흔들풍손",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "흔들풍손",
+                "pokedexNumber": 425
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코트립",
+                "cost": "(초)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 혼란으로 만든다."
+            },
+            {
+                "name": "바람일으키기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사람이나 포켓몬의 영혼이 한데 모여 태어난 포켓몬이다. 습기 많은 계절을 매우 좋아한다.",
+        "number": "10",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_10.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003010"
+    },
+    {
+        "id": "bs3-11",
+        "cardID": "둥실초090부풀030날려060",
+        "name": "둥실라이드",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "둥실라이드",
+                "pokedexNumber": 426
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "부풀기",
+                "cost": "(초)",
+                "damage": "30",
+                "text": "상대의 다음 차례에 자신이 받는 기술의 데미지는 「-10」이 된다."
+            },
+            {
+                "name": "날려버리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60",
+                "text": "상대를 상대의 벤치 포켓몬과 교체한다. 교체하는 벤치 포켓몬은 상대 플레이어가 선택한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "낮에는 잠이 덜 깨어 떠 있지만 저녁 무렵에는 큰 무리를 지어 날아간다. 목적지는 아무도 모른다.",
+        "number": "11",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_11.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003011"
+    },
+    {
+        "id": "bs3-12",
+        "cardID": "스콜초060독침000바늘010",
+        "name": "스콜피",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "스콜피",
+                "pokedexNumber": 451
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "독침",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 독으로 만든다."
+            },
+            {
+                "name": "바늘미사일",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "동전을 네 번 던져서 앞면 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "건조한 땅에 서식한다. 모래땅에 구멍을 파고들어 숨어서 먹이를 계속 기다린다.",
+        "number": "12",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_12.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003012"
+    },
+    {
+        "id": "bs3-13",
+        "cardID": "삐딱초060치기010독침000",
+        "name": "삐딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "삐딱구리",
+                "pokedexNumber": 453
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "독침",
+                "cost": "(초)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 독으로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "볼에 독주머니를 가지고 있다. 상대의 틈을 노려 맹독이 배인 손가락을 꿰찌른다.",
+        "number": "13",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kent Konetsuna",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_13.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003013"
+    },
+    {
+        "id": "bs3-14",
+        "cardID": "독개초090저리020베어060",
+        "name": "독개굴",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "독개굴",
+                "pokedexNumber": 454
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "저리독",
+                "cost": "(초)",
+                "damage": "20",
+                "text": "상대를 독으로 만든다. 동전을 한 번 던져서 앞면이 나오면 상대를 마비로도 만든다."
+            },
+            {
+                "name": "베어가르기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "주먹의 가시는 긁히기만 해도 생명을 잃을 정도의 맹독을 분비하고 있다.",
+        "number": "14",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kent Konetsuna",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_14.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003014"
+    },
+    {
+        "id": "bs3-15",
+        "cardID": "기라초100섀도000잔혹050",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도다이브",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 20데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "잔혹한 칼날",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "이 세상의 이면에 있는 세상에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.",
+        "number": "15",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kazuaki Aihara",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_15.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003015"
+    },
+    {
+        "id": "bs3-16",
+        "cardID": "망키격050치기010분노010",
+        "name": "망키",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "망키",
+                "pokedexNumber": 56
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "치기",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "분노",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "자신의 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "나무 위에서 생활하고 있다. 무리 중 1마리가 화내기 시작하면 모두 아무 의미도 없이 난동부린다.",
+        "number": "16",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_16.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003016"
+    },
+    {
+        "id": "bs3-17",
+        "cardID": "성원격090분노때려050",
+        "name": "성원숭",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "성원숭",
+                "pokedexNumber": 57
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "때려눕히기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "50",
+                "text": "자신을 혼란으로 만든다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 기술을 받은 상대는 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "분노의경혈",
+                "text": "이 포켓몬에게 데미지 카운터가 올려져 있다면 이 포켓몬이 사용하는 기술이 배틀 포켓몬에게 주는 데미지는 모두 「+40」이 된다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "시선을 마주치기만 해도 화내고 도망치면 또 화내고 때려눕혀도 계속 화를 낸다.",
+        "number": "17",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kagemaru Himeno",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_17.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003017"
+    },
+    {
+        "id": "bs3-18",
+        "cardID": "꼬마격060돌던000",
+        "name": "꼬마돌",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "꼬마돌",
+                "pokedexNumber": 74
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "돌던지기",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 2마리에게 각각 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "산길에 많이 서식한다. 몸의 절반을 땅에 묻고 등산하는 사람들의 상황을 바라본다.",
+        "number": "18",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_18.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003018"
+    },
+    {
+        "id": "bs3-19",
+        "cardID": "데구격090연속030스톤040",
+        "name": "데구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "데구리",
+                "pokedexNumber": 75
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "연속 바위던지기",
+                "cost": "(격투)(무색)",
+                "damage": "30×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 30데미지를 준다."
+            },
+            {
+                "name": "스톤샤워",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬 2마리에게도 각각 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "험한 절벽의 중턱에 몇 개의 구멍이 보인다면 그곳은 데구리의 거처이다.",
+        "number": "19",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_19.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003019"
+    },
+    {
+        "id": "bs3-20",
+        "cardID": "딱구격130동시000메가080",
+        "name": "딱구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "딱구리",
+                "pokedexNumber": 76
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "동시던지기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 2마리에게 각각 30데미지를 준다."
+            },
+            {
+                "name": "메가톤록",
+                "cost": "(격투)(격투)(격투)(무색)",
+                "damage": "80",
+                "text": "원한다면 이 기술의 데미지를 「40」으로 해도 좋다. 그 경우 상대의 다음 차례에 자신이 받는 기술에 의한 데미지는 「-40」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "1년에 1번 탈피한다. 암석 같은 단단한 몸은 다이너마이트로도 상처를 입힐 수 없다.",
+        "number": "20",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Naoyo Kimura",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_20.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003020"
+    },
+    {
+        "id": "bs3-21",
+        "cardID": "롱스격090단단000조이030",
+        "name": "롱스톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "롱스톤",
+                "pokedexNumber": 95
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "단단해지기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 다음 차례에 자신이 받는 기술의 데미지가 「40」이하라면 자신은 그 데미지를 받지 않는다."
+            },
+            {
+                "name": "조이기",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "30",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "롱스톤이 땅속을 뚫고 나아가면 땅울림이 들리며 땅이 흔들린다. 이동 속도는 시속 80km.",
+        "number": "21",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kyoko Umemoto",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_21.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003021"
+    },
+    {
+        "id": "bs3-22",
+        "cardID": "탕구격060박치010뼈다020",
+        "name": "탕구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "탕구리",
+                "pokedexNumber": 104
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "뼈다귀부메랑",
+                "cost": "(격투)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사별한 어머니를 생각하며 울 때에는 머리에 쓴 뼈가 달각달각 소리를 낸다.",
+        "number": "22",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kagemaru Himeno",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_22.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003022"
+    },
+    {
+        "id": "bs3-23",
+        "cardID": "텅구격090무거040본러050",
+        "name": "텅구리",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "텅구리",
+                "pokedexNumber": 105
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "무거운 뼈다귀",
+                "cost": "(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 자신의 다음 차례에 자신은 「무거운 뼈다귀」를 사용할 수 없다."
+            },
+            {
+                "name": "본러쉬",
+                "cost": "(격투)(격투)",
+                "damage": "50×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 50데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "태어날 때부터 항상 지니고 있는 뼈를 자유로이 사용한다. 성격은 난폭하다.",
+        "number": "23",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_23.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003023"
+    },
+    {
+        "id": "bs3-24",
+        "cardID": "애버격050마운010한방020",
+        "name": "애버라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "애버라스",
+                "pokedexNumber": 246
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마운틴바이트",
+                "cost": "(격투)",
+                "damage": "10+",
+                "text": "원한다면 자신의 덱을 1장 트래쉬해도 좋다. 그 경우 10데미지를 추가하고 자신을 잠듦으로 만든다."
+            },
+            {
+                "name": "한방 먹이기",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "흙을 먹는 포켓몬이다. 큰 산을 다 먹어치우면 성장을 위해 잠자기 시작한다.",
+        "number": "24",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Masakazu Fukuda",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_24.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003024"
+    },
+    {
+        "id": "bs3-25",
+        "cardID": "데기격070압축000로켓050",
+        "name": "데기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "데기라스",
+                "pokedexNumber": 247
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "압축가스",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다."
+            },
+            {
+                "name": "로켓태클",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "50",
+                "text": "자신에게도 10데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술에 의한 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 0,
+        "flavorText": "암반 같은 단단한 몸이다. 압축한 가스를 분사해서 마치 로켓같이 날아간다.",
+        "number": "25",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Midori Harada",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_25.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003025"
+    },
+    {
+        "id": "bs3-26",
+        "cardID": "마크격060펀치010손바040",
+        "name": "마크탕",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마크탕",
+                "pokedexNumber": 296
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "펀치",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "손바닥치기",
+                "cost": "(격투)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "굵은 나무줄기에 부딪혀 몸을 단련한다. 거처 주변에는 꺾여버린 나무가 많이 있다.",
+        "number": "26",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Atsuko Nishida",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_26.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003026"
+    },
+    {
+        "id": "bs3-27",
+        "cardID": "하리격100손바020기합050",
+        "name": "하리뭉",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "하리뭉",
+                "pokedexNumber": 297
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "손바닥치기 한방",
+                "cost": "(격투)(무색)",
+                "damage": "20+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 40데미지를 추가한다."
+            },
+            {
+                "name": "기합던지기",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "50",
+                "text": "상대의 남은 HP가 자신의 남은 HP보다 많으면 이 기술의 데미지는 「80」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸집이 큰 포켓몬들과 힘겨루는 것을 매우 좋아한다. 손바닥치기로 트럭을 멀리 날려 버린다.",
+        "number": "27",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_27.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003027"
+    },
+    {
+        "id": "bs3-28",
+        "cardID": "톱치격050구멍000모래010",
+        "name": "톱치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "톱치",
+                "pokedexNumber": 328
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "구멍유인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체한다."
+            },
+            {
+                "name": "모래지옥",
+                "cost": "(격투)",
+                "damage": "10",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대는 후퇴를 할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "사막에 만든 원뿔형의 구멍 밑바닥에서 먹이가 빠져 떨어지는 것을 계속 기다린다.",
+        "number": "28",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Sumiyoshi Kizuki",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_28.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003028"
+    },
+    {
+        "id": "bs3-29",
+        "cardID": "비브격080샌드000파괴040",
+        "name": "비브라바",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "비브라바",
+                "pokedexNumber": 329
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "샌드윈드",
+                "cost": "(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다."
+            },
+            {
+                "name": "파괴광선",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "날개를 격하게 진동시켜서 초음파를 낸다. 사람도 두통을 일으킬 정도로 강력하다.",
+        "number": "29",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_29.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003029"
+    },
+    {
+        "id": "bs3-30",
+        "cardID": "플라격120싫은샌드060",
+        "name": "플라이곤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "플라이곤",
+                "pokedexNumber": 330
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "샌드소닉",
+                "cost": "(격투)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 차례에 패에서 (격투) 에너지를 꺼내서 자신에게 붙였다면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "싫은 날개소리",
+                "text": "이 포켓몬이 배틀필드에 있는 한 포켓몬 체크 때마다 상대의 배틀 포켓몬이 (격투) 포켓몬이 아니라면 그 포켓몬에게 데미지 카운터를 1개 올린다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(물)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(번개)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "강렬한 날개를 쳐서 모래바람을 일으킨다. 사막의 정령이라고 불린다.",
+        "number": "30",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Daisuke Ito",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_30.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003030"
+    },
+    {
+        "id": "bs3-31",
+        "cardID": "포푸악060연속010속여000",
+        "name": "포푸니",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "포푸니",
+                "pokedexNumber": 215
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "연속뺨치기",
+                "cost": "(무색)",
+                "damage": "10×",
+                "text": "동전을 두 번 던져서 앞면 × 10데미지를 준다."
+            },
+            {
+                "name": "속여때리기",
+                "cost": "(악)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 그 포켓몬의 약점 저항력 모든 효과에 관계없이 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "거처에서 알을 가로채어 먹어 버린다. 날카로운 갈고리 손톱이 상대의 급소를 베어 가른다.",
+        "number": "31",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_31.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003031"
+    },
+    {
+        "id": "bs3-32",
+        "cardID": "포푸악080나쁜000악의010",
+        "name": "포푸니라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 80,
+        "pokemons": [
+            {
+                "name": "포푸니라",
+                "pokedexNumber": 461
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "나쁜음모",
+                "cost": "(악)",
+                "damage": "",
+                "text": "자신의 덱에서 원하는 카드를 1장 패로 가져온다. 그 뒤 덱을 섞는다."
+            },
+            {
+                "name": "악의파동",
+                "cost": "(악)(악)(악)",
+                "damage": "10×",
+                "text": "자신의 필드에 있는 (악) 에너지를 합한 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "추운 지역에서 사는 포켓몬이다. 4 5마리의 그룹은 훌륭한 연계작전으로 먹이를 몰아넣는다.",
+        "number": "32",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Naoyo Kimura",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_32.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003032"
+    },
+    {
+        "id": "bs3-33",
+        "cardID": "마기악140보복040그라080",
+        "name": "마기라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "마기라스",
+                "pokedexNumber": 248
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "보복",
+                "cost": "(악)(무색)",
+                "damage": "40+",
+                "text": "상대의 프라이즈 장수가 1장이라면 40데미지를 추가하고 상대의 덱의 카드를 위에서부터 3장 트래쉬한다."
+            },
+            {
+                "name": "그라운드번",
+                "cost": "(격투)(격투)(악)(악)",
+                "damage": "80+",
+                "text": "서로의 덱의 카드를 위에서부터 각각 1장씩 트래쉬하고 그 중의 에너지의 장수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "마기라스가 난동부리면 산이 무너지고 강이 메워지므로 지도를 다시 그려야 한다.",
+        "number": "33",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Masakazu Fukuda",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_33.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003033"
+    },
+    {
+        "id": "bs3-34",
+        "cardID": "포챠악050몰아000덮치010",
+        "name": "포챠나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "포챠나",
+                "pokedexNumber": 261
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "몰아붙이기",
+                "cost": "(악)",
+                "damage": "",
+                "text": "상대의 다음 차례에 이 기술을 받은 상대는 후퇴를 할 수 없다."
+            },
+            {
+                "name": "덮치기",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "집요한 성격의 포켓몬이다. 점찍은 먹이가 기진맥진 지칠 때까지 뒤쫓아간다.",
+        "number": "34",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_34.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003034"
+    },
+    {
+        "id": "bs3-35",
+        "cardID": "그라악090물어030못살010",
+        "name": "그라에나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "그라에나",
+                "pokedexNumber": 262
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "물어버리기",
+                "cost": "(악)",
+                "damage": "30",
+                "text": "상대가 진화하지 않았다면 상대의 다음 차례에 이 기술을 받은 상대는 기술 포켓파워를 사용할 수도 후퇴를 할 수도 없다."
+            },
+            {
+                "name": "못살게굴기",
+                "cost": "(무색)(무색)",
+                "damage": "10×",
+                "text": "자신의 필드에 있는 포켓몬의 수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "무리를 이루어 먹이를 바싹 몰아넣는다. 우수한 트레이너의 명령에는 절대로 거역하지 않는다.",
+        "number": "35",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Masakazu Fukuda",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_35.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003035"
+    },
+    {
+        "id": "bs3-36",
+        "cardID": "스컹악060갉고010더블020",
+        "name": "스컹뿡",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "스컹뿡",
+                "pokedexNumber": 434
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "갉고 도망가기",
+                "cost": "(악)",
+                "damage": "10",
+                "text": "자신을 자신의 벤치 포켓몬과 교체한다."
+            },
+            {
+                "name": "더블할퀴기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "코를 틀어막을 정도로 심한 냄새가 나는 액체를 엉덩이에서 뿜어내어 습격해온 적을 쫓아 버린다.",
+        "number": "36",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Tomokazu Komiya",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_36.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003036"
+    },
+    {
+        "id": "bs3-37",
+        "cardID": "스컹악100진화독발020강탈060",
+        "name": "스컹탱크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "스컹탱크",
+                "pokedexNumber": 435
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "독발톱",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "상대를 독으로 만든다."
+            },
+            {
+                "name": "강탈",
+                "cost": "(악)(무색)(무색)",
+                "damage": "60",
+                "text": "데미지를 주기 전에 상대에게 붙어 있는 「트레이너」를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "진화가스",
+                "text": "자신의 차례에 이 카드를 패에서 꺼내서 배틀 포켓몬을 진화시켰을 때 한 번 상대의 배틀 포켓몬에게 사용할 수 있다. 상대의 다음 차례에 그 포켓몬이 사용하는 기술은 실패한다. (그 포켓몬이 배틀필드를 떠나면 이 효과는 없어진다.)",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "37",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_37.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003037"
+    },
+    {
+        "id": "bs3-38",
+        "cardID": "드래악110샤프010크로020뒤엎060",
+        "name": "드래피온",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "드래피온",
+                "pokedexNumber": 452
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "샤프슈터",
+                "cost": "(0코)",
+                "damage": "10",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다. 뒷면이 나오면 상대의 다음 차례에 상대는 후퇴를 할 수 없다."
+            },
+            {
+                "name": "크로스포이즌",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 네 번 던져서 앞면 × 20데미지를 준다. 앞면이 두 번 이상 나오면 상대를 독으로 만든다."
+            },
+            {
+                "name": "뒤엎기",
+                "cost": "(악)(악)(무색)",
+                "damage": "60",
+                "text": "상대의 특수 에너지를 모두 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(초)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "number": "38",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kent Konetsuna",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_38.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003038"
+    },
+    {
+        "id": "bs3-39",
+        "cardID": "코일강050금속000공진020",
+        "name": "코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "코일",
+                "pokedexNumber": 81
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "금속음",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 혼란으로 만든다."
+            },
+            {
+                "name": "공진",
+                "cost": "(강철)(무색)",
+                "damage": "20+",
+                "text": "상대가 혼란이라면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "좌우의 유닛에서 전기자석파를 내어 공중을 이동한다. 전기를 먹는 포켓몬이다.",
+        "number": "39",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_39.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003039"
+    },
+    {
+        "id": "bs3-40",
+        "cardID": "레어강070트라020자력040",
+        "name": "레어코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "레어코일",
+                "pokedexNumber": 82
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "트라이어택",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 세 번 던져서 앞면 × 20데미지를 준다."
+            },
+            {
+                "name": "자력광선",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "40",
+                "text": "원한다면 데미지를 주기 전에 에너지가 붙어 있는 상대의 벤치 포켓몬을 1마리 선택해서 상대의 배틀 포켓몬과 교체해도 좋다(새로 나온 포켓몬에게 데미지를 준다)."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "3마리의 코일이 자기력으로 연결된 포켓몬이다. 레어코일이 늘어나면 자기 폭풍이 일어난다.",
+        "number": "40",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Kouki Saitou",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_40.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003040"
+    },
+    {
+        "id": "bs3-41",
+        "cardID": "자포강120전기메탈050",
+        "name": "자포코일",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈블라스트",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "50+",
+                "text": "자신의 (강철) 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전기장",
+                "text": "자신의 배틀 포켓몬에게 (강철) 에너지가 붙어 있다면 그 포켓몬의 후퇴 에너지는 모두 없어진다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "특수한 자기장의 영향으로 레어코일이 진화했다. 3개의 유닛에서 자력을 발산한다.",
+        "number": "41",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Nakaoka",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_41.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003041"
+    },
+    {
+        "id": "bs3-42",
+        "cardID": "자포강140전자사이080",
+        "name": "자포코일 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 자포코일에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "자포코일",
+                "pokedexNumber": 462
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "사이버쇼크",
+                "cost": "(번개)(강철)",
+                "damage": "80",
+                "text": "자신의 (번개) 에너지와 (강철) 에너지를 각각 1개씩 트래쉬하고 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "전자트랜스",
+                "text": "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 포켓몬의 (번개) 에너지 혹은 (강철) 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "",
+        "number": "42",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_42.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003042"
+    },
+    {
+        "id": "bs3-43",
+        "cardID": "강철강130힘휘000아이100",
+        "name": "강철톤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "강철톤",
+                "pokedexNumber": 208
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "힘휘두르기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 에너지의 수만큼 상대의 포켓몬을 선택한다. 그 뒤 선택한 포켓몬 전원에게 각각 20데미지를 준다.(같은 포켓몬을 여러번 선택해도 주는 데미지는 20데미지이다.)"
+            },
+            {
+                "name": "아이언테일",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "100×",
+                "text": "뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 100데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 4,
+        "flavorText": "땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.",
+        "number": "43",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Naoyo Kimura",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_43.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003043"
+    },
+    {
+        "id": "bs3-44",
+        "cardID": "무장강070에어020강철040",
+        "name": "무장조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "무장조",
+                "pokedexNumber": 227
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "에어 크래시",
+                "cost": "(강철)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "강철날개",
+                "cost": "(강철)(무색)(무색)",
+                "damage": "40",
+                "text": "상대의 다음 차례에 자신이 받는 기술의 데미지는 「-20」이 된다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "철 같은 단단한 갑옷으로 덮여 있다. 시속 300km의 스피드로 넓은 하늘을 날아다닌다.",
+        "number": "44",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_44.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003044"
+    },
+    {
+        "id": "bs3-45",
+        "cardID": "디아강090시간010러스040",
+        "name": "디아루가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "시간의 외침",
+                "cost": "(강철)",
+                "damage": "10",
+                "text": "자신의 덱에서 카드를 1장 뽑는다."
+            },
+            {
+                "name": "러스터캐논",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "40",
+                "text": "원한다면 자신의 에너지를 모두 패로 되돌려도 좋다. 그 경우 상대를 1진화만큼 퇴화시킨다. 퇴화를 위해 떼어낸 「포켓몬 카드」는 상대 플레이어의 덱으로 되돌리고 덱을 섞는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "디아루가가 태어남으로써 시간이 움직이기 시작했다는 전설이 내려오는 포켓몬이다.",
+        "number": "45",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Nakaoka",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_45.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003045"
+    },
+    {
+        "id": "bs3-46",
+        "cardID": "디아강110타임메탈080",
+        "name": "디아루가 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 디아루가에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "메탈플래시",
+                "cost": "(강철)(강철)(무색)(무색)",
+                "damage": "80",
+                "text": "자신의 다음 차례에 자신은 「메탈플래시」를 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "타임스킵",
+                "text": "자신의 차례에 한 번 사용할 수 있다. 상대 플레이어는 동전을 두 번 던진다. 모두 앞면이 나오면 이 차례는 끝난다. 모두 뒷면이 나오면 상대의 다음 차례의 처음에 상대 플레이어가 덱에서 카드를 1장 뽑은 뒤 바로 그 차례는 끝난다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.",
+                "type": "포켓파워"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(초)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "46",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "HR",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_46.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003046"
+    },
+    {
+        "id": "bs3-47",
+        "cardID": "꼬렛무030꼬리000물기020",
+        "name": "꼬렛",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 30,
+        "pokemons": [
+            {
+                "name": "꼬렛",
+                "pokedexNumber": 19
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꼬리흔들기",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 기술을 받은 상대는 기술을 사용할 수 없다."
+            },
+            {
+                "name": "물기",
+                "cost": "(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "어떤 장소에도 정착하여 살아갈 수 있는 생명력이 있다. 경계심이 매우 강하다.",
+        "number": "47",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_47.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003047"
+    },
+    {
+        "id": "bs3-48",
+        "cardID": "레트무070갉아010기습020",
+        "name": "레트라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "레트라",
+                "pokedexNumber": 20
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "갉아먹기",
+                "cost": "(무색)",
+                "damage": "10+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 60데미지를 추가한다."
+            },
+            {
+                "name": "기습",
+                "cost": "(무색)",
+                "damage": "20+",
+                "text": "자신에게 (악) 에너지가 붙어 있다면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 0,
+        "flavorText": "계속 자라는 앞니를 갈아내려고 딱딱한 것을 갉는 습성이 있다. 벽돌로 된 벽도 갉아서 부순다.",
+        "number": "48",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "R",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_48.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003048"
+    },
+    {
+        "id": "bs3-49",
+        "cardID": "미뇽무040꼬리010힘껏020",
+        "name": "미뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 40,
+        "pokemons": [
+            {
+                "name": "미뇽",
+                "pokedexNumber": 147
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "꼬리로 때리기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "힘껏치기",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "동전을 두 번 던져서 앞면 × 20데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(무색)",
+            "value": "10"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "목격자가 적기 때문에 환상의 포켓몬이라고 불리고 있다. 탈피한 껍질이 발견되고 있다.",
+        "number": "49",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "C",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_49.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003049"
+    },
+    {
+        "id": "bs3-50",
+        "cardID": "신뇽무070김밥020밀어030",
+        "name": "신뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 70,
+        "pokemons": [
+            {
+                "name": "신뇽",
+                "pokedexNumber": 148
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "김밥말이",
+                "cost": "(무색)(무색)",
+                "damage": "20",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다."
+            },
+            {
+                "name": "밀어올리기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "30+",
+                "text": "동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(무색)",
+            "value": "20"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "전신이 오라에 둘러싸일 때는 주위 날씨가 완전히 바뀐다. 바다나 호수에서 산다고 한다.",
+        "number": "50",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Suwama Chiaki",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_50.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003050"
+    },
+    {
+        "id": "bs3-51",
+        "cardID": "망나무140파괴040용성000",
+        "name": "망나뇽",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 140,
+        "pokemons": [
+            {
+                "name": "망나뇽",
+                "pokedexNumber": 149
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "파괴광선",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 에너지를 1개 트래쉬한다."
+            },
+            {
+                "name": "용성군",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 필드에 있는 포켓몬 전원을 대상으로 각각 한 번씩 동전을 던져서 앞면이 나온 포켓몬 전원에게 각각 50 데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(무색)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "넓은 바다의 어딘가에 거처가 있다고 전해진다. 난파한 배를 육지까지 이끌어 준다.",
+        "number": "51",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "H",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_51.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003051"
+    },
+    {
+        "id": "bs3-52",
+        "cardID": "다크볼",
+        "name": "다크볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱의 카드를 아래에서부터 7장 보고 포켓몬을 1장 선택해서 상대 플레이어에게 보여주고 패로 가져온다.",
+            "그 뒤 덱을 섞는다."
+        ],
+        "number": "52",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_52.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003052"
+    },
+    {
+        "id": "bs3-53",
+        "cardID": "몬스터볼",
+        "name": "몬스터볼",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 덱에 있는 포켓몬을 1장 상대 플레이어에게 보여주고 패로 가져온다.",
+            "그 뒤 덱을 섞는다."
+        ],
+        "number": "53",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_53.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003053"
+    },
+    {
+        "id": "bs3-54",
+        "cardID": "부활초",
+        "name": "부활초",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "동전을 한 번 던져서 앞면이 나오면 자신의 포켓몬 1마리로부터 데미지 카운터를 6개 제거하고 특수 상태를 모두 회복시킨다."
+        ],
+        "number": "54",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_54.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003054"
+    },
+    {
+        "id": "bs3-55",
+        "cardID": "에너지 갈아 달기",
+        "name": "에너지 갈아 달기",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 포켓몬의 기본 에너지를 1개 자신의 다른 포켓몬에게 붙인다."
+        ],
+        "number": "55",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_55.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003055"
+    },
+    {
+        "id": "bs3-56",
+        "cardID": "포켓몬 도감 HANDY910is",
+        "name": "포켓몬 도감 HANDY910is",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 덱의 카드를 위에서부터 2장 보고 그 중 1장을 패로 가져온다.",
+            "그 뒤 남은 1장을 덱의 가장 밑으로 되돌린다."
+        ],
+        "number": "56",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ryo Ueda",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_56.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003056"
+    },
+    {
+        "id": "bs3-57",
+        "cardID": "마박사",
+        "name": "마박사",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서포터는 자신의 차례에 한 번만 사용할 수 있다.",
+            "사용하면 자신의 배틀필드 옆에 두고 자신의 차례의 마지막에 트래쉬한다.",
+            "자신의 패를 1장 선택하고 남은 패를 모두 덱으로 되돌린다.",
+            "그 뒤 덱을 섞고나서 덱에서 카드를 4장 뽑는다.",
+            "(자신의 패가 이 카드 1장 뿐이라면 이 카드는 사용할 수 없다.)"
+        ],
+        "number": "57",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_57.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003057"
+    },
+    {
+        "id": "bs3-58",
+        "cardID": "오박사의 방문",
+        "name": "오박사의 방문",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "아이템"
+        ],
+        "rules": [
+            "아이템은 자신의 차례에 몇 장이라도 사용할 수 있다."
+        ],
+        "texts": [
+            "서포터는 자신의 차례에 한 번만 사용할 수 있다.",
+            "사용하면 자신의 배틀필드 옆에 두고 자신의 차례의 마지막에 트래쉬한다.",
+            "자신의 덱에서 카드를 3장 뽑는다.",
+            "그 뒤 자신의 패를 1장 선택해서 덱의 가장 밑으로 되돌린다."
+        ],
+        "number": "58",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "artist": "Ken Sugimori",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_58.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003058"
+    },
+    {
+        "id": "bs3-59",
+        "cardID": "특수 악 에너지",
+        "name": "특수 악 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "(악) 에너지 1개분으로 작용한다.",
+            "이 카드를 붙이고 있는 (악) 포켓몬이 배틀 포켓몬에게 주는 기술의 데미지는 모두 「+10」이 된다.",
+            "(악) 포켓몬에게 붙어 있지 않다면 이 효과는 없어진다."
+        ],
+        "number": "59",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "rarity": "U",
+        "regulationMark": "DP",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_59.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003059"
+    },
+    {
+        "id": "bs3-60",
+        "cardID": "기본 강철 에너지",
+        "name": "기본 강철 에너지",
+        "supertype": "에너지",
+        "subtypes": [
+            "특수 에너지"
+        ],
+        "rules": [],
+        "texts": [
+            "(강철) 에너지 1개분으로 작용한다.",
+            "이 카드를 붙이고 있는 (강철) 포켓몬이 받는 기술의 데미지는 「-10」이 된다.",
+            "(강철) 포켓몬에게 붙어 있지 않다면 이 효과는 없어진다.",
+            "특수 강철 에너지."
+        ],
+        "number": "60",
+        "prodNumber": "60",
+        "prodCode": "bs3",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+        "prodName": "DP 확장팩 시공의 격돌",
+        "rarity": "U",
+        "regulationMark": "BE",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_60.jpg?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003060"
+    }
+]

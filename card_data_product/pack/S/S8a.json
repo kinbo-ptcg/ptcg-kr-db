@@ -1,0 +1,1299 @@
+[
+    {
+        "id": "S8a-001",
+        "cardID": "피카번060갉기010전격03025",
+        "name": "피카츄",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "갉기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "전격",
+                "cost": "(번개)(무색)",
+                "damage": "30",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
+        "number": "001",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_001.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015001"
+    },
+    {
+        "id": "S8a-002",
+        "cardID": "뮤우초060이상사이030",
+        "name": "뮤",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "뮤",
+                "pokedexNumber": 151
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "사이코숏",
+                "cost": "(초)(무색)",
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "이상한 꼬리",
+                "text": "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 6장 본다. 그 중에서 아이템을 1장 선택해서 상대에게 보여주고 패로 가져온다. 남은 카드는 덱으로 되돌리고 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "유전자에는 모든 포켓몬의 정보가 담겨 있기 때문에 모든 기술을 쓸 수 있다고 전해진다.",
+        "number": "002",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Yuu Nishida",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_002.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015002"
+    },
+    {
+        "id": "S8a-003",
+        "cardID": "박사의 연구(오박사)",
+        "name": "박사의 연구(오박사)",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 패를 모두 트래쉬하고 덱을 7장 뽑는다."
+        ],
+        "number": "003",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "N",
+        "regulationMark": "D",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_003.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015003"
+    },
+    {
+        "id": "S8a-004",
+        "cardID": "칠색불130성스000불대120",
+        "name": "칠색조",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "칠색조",
+                "pokedexNumber": 250
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "성스러운불꽃",
+                "cost": "(불꽃)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 50데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "불대문자",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "120",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "마음이 올바른 트레이너의 앞에 무지개색의 날개를 빛내며 모습을 드러낸다고 전해진다.",
+        "number": "004",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_004.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015004"
+    },
+    {
+        "id": "S8a-005",
+        "cardID": "루기무130에어020딥크160",
+        "name": "루기아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "루기아",
+                "pokedexNumber": 249
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "에어로볼",
+                "cost": "(무색)(무색)",
+                "damage": "20×",
+                "text": "서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 20데미지를 준다."
+            },
+            {
+                "name": "딥크래시",
+                "cost": "(무색)(무색)(무색)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "바다의 신이라고 전해지는 포켓몬이다. 폭풍 치는 밤에 모습을 봤다는 이야기가 전해져온다.",
+        "number": "005",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Kouki Saitou",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_005.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015005"
+    },
+    {
+        "id": "S8a-006",
+        "cardID": "그란격130마그080대절120",
+        "name": "그란돈",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "그란돈",
+                "pokedexNumber": 383
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "마그마 볼케이노",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "80×",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 에너지의 장수 × 80데미지를 준다."
+            },
+            {
+                "name": "대절단",
+                "cost": "(격투)(격투)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "가이오가와 사투 끝에 긴 잠에 들었다. 대지의 화신이라 불리는 전설의 포켓몬이다.",
+        "number": "006",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_006.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015006"
+    },
+    {
+        "id": "S8a-007",
+        "cardID": "가이물130아쿠000파도120",
+        "name": "가이오가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "가이오가",
+                "pokedexNumber": 382
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아스톰",
+                "cost": "(물)(물)(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 에너지의 장수 × 50데미지를 상대의 벤치 포켓몬 2마리에게 각각 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(무색)(무색)",
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.",
+        "number": "007",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Ryuta Fuse",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_007.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015007"
+    },
+    {
+        "id": "S8a-008",
+        "cardID": "디아강130시간000메탈060",
+        "name": "디아루가",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "디아루가",
+                "pokedexNumber": 483
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "시간의역류",
+                "cost": "(강철)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 원하는 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다."
+            },
+            {
+                "name": "메탈블라스트",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (강철) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "시간을 조종하는 힘을 가지고 있다. 신오지방에서는 신이라고 불리며 신화에 등장한다.",
+        "number": "008",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_008.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015008"
+    },
+    {
+        "id": "S8a-009",
+        "cardID": "펄기물130절대오버080",
+        "name": "펄기아",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "펄기아",
+                "pokedexNumber": 484
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "오버스매시",
+                "cost": "(물)(무색)(무색)",
+                "damage": "80+",
+                "text": "자신의 다음 차례에 이 포켓몬의 「오버스매시」의 데미지는 「+80」이 된다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "절대공간",
+                "text": "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 스타디움을 꺼낼 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "공간을 뒤틀리게 하는 능력을 가졌으며 신오지방의 신화에서는 신으로 묘사되고 있다.",
+        "number": "009",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "5ban Graphics",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_009.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015009"
+    },
+    {
+        "id": "S8a-010",
+        "cardID": "레시불130작열000블랙080",
+        "name": "레시라무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "레시라무",
+                "pokedexNumber": 643
+            }
+        ],
+        "type": "(불꽃)",
+        "attacks": [
+            {
+                "name": "작열하는바람",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 전원에게 각각 20데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "블랙플레임",
+                "cost": "(불꽃)(불꽃)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치에 「제크로무」가 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(물)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "레시라무의 꼬리가 불타면 열에너지로 대기가 움직여서 세계의 날씨가 변화된다.",
+        "number": "010",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Aya Kusube",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_010.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015010"
+    },
+    {
+        "id": "S8a-011",
+        "cardID": "제크번130필드030화이080",
+        "name": "제크로무",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "제크로무",
+                "pokedexNumber": 644
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "필드크래시",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": "필드에 나와 있는 상대의 스타디움을 트래쉬한다."
+            },
+            {
+                "name": "화이트썬더",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "80+",
+                "text": "자신의 벤치에 「레시라무」가 있다면 80데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "꼬리로 전기를 만들어 낸다. 전신을 번개 구름에 숨기고 하나지방의 하늘을 난다.",
+        "number": "011",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Aya Kusube",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_011.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015011"
+    },
+    {
+        "id": "S8a-012",
+        "cardID": "제르초120생명000오로100",
+        "name": "제르네아스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "제르네아스",
+                "pokedexNumber": 716
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "생명의숨결",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 각각 다른 타입의 기본 에너지를 3장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그리고 덱을 섞는다. "
+            },
+            {
+                "name": "오로라호른",
+                "cost": "(초)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "머리의 뿔이 일곱 빛깔로 빛날 때 영원한 생명을 나눠준다고 전해진다.",
+        "number": "012",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_012.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015012"
+    },
+    {
+        "id": "S8a-013",
+        "cardID": "이벨악120파괴000다크100",
+        "name": "이벨타르",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "이벨타르",
+                "pokedexNumber": 717
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "파괴의외침",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대 필드의 포켓몬에게 붙어 있는 특수 에너지를 3장까지 선택해서 트래쉬한다."
+            },
+            {
+                "name": "다크페더",
+                "cost": "(악)(무색)(무색)",
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+        "number": "013",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "AKIRA EGAWA",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_013.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015013"
+    },
+    {
+        "id": "S8a-014",
+        "cardID": "코스초060별의000",
+        "name": "코스모그",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "코스모그",
+                "pokedexNumber": 789
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "별의수호",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 1,
+        "flavorText": "이 세계의 포켓몬인지는 의문이다. 위험해지면 워프를 사용해서 안전한 장소에 몸을 숨긴다.",
+        "number": "014",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_014.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015014"
+    },
+    {
+        "id": "S8a-015",
+        "cardID": "코스초090별의000",
+        "name": "코스모움",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 90,
+        "pokemons": [
+            {
+                "name": "코스모움",
+                "pokedexNumber": 790
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "별의수호",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 3,
+        "flavorText": "빛을 흡수하면서 성장을 계속하고 있다. 금색의 껍질은 놀라울 정도로 튼튼하다.",
+        "number": "015",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_015.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015015"
+    },
+    {
+        "id": "S8a-016",
+        "cardID": "솔가강170달려솔라100",
+        "name": "솔가레오",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "솔가레오",
+                "pokedexNumber": 791
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "솔라가이저",
+                "cost": "(무색)(무색)",
+                "damage": "100",
+                "text": "자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "달려나가기",
+                "text": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬을 자신의 배틀 포켓몬과 교체한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "아득히 먼 옛날의 문헌에 태양을 삼키는 짐승이라는 이름으로 기록이 남아 있다.",
+        "number": "016",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_016.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015016"
+    },
+    {
+        "id": "S8a-017",
+        "cardID": "루나초160루나000사이130",
+        "name": "루나아라",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "루나아라",
+                "pokedexNumber": 792
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "루나틱페인",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 올려져 있는 데미지 카운터의 수가 2배가 되도록 데미지 카운터를 올린다. "
+            },
+            {
+                "name": "사이코불릿",
+                "cost": "(초)(무색)(무색)",
+                "damage": "130",
+                "text": "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "다른 세계로 통하는 구멍을 통해 미지의 힘이나 생명을 이 세계로 불러들이는 경우도 있다.",
+        "number": "017",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "kirisAki",
+        "rarity": "N",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_017.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015017"
+    },
+    {
+        "id": "S8a-018",
+        "cardID": "자시초220검의스톰060",
+        "name": "자시안 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자시안",
+                "pokedexNumber": 888
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "스톰슬래시",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "60+",
+                "text": "이 포켓몬에게 붙어 있는 (초) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "검의 포효",
+                "text": "자신의 차례에 1번 사용할 수 있으며, 사용하면 자신의 차례는 끝난다. 자신의 덱에서 (초) 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "018",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_018.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015018"
+    },
+    {
+        "id": "S8a-019",
+        "cardID": "자마격220방패헤비150",
+        "name": "자마젠타 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "자마젠타",
+                "pokedexNumber": 889
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "헤비임팩트",
+                "cost": "(격투)(격투)(무색)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "방패의 울림",
+                "text": "이 포켓몬이 있는 한, 자신의 (격투) 포켓몬 전원이 상대의 「포켓몬 VMAX」로부터 받는 기술의 데미지는 「-20」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "019",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_019.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015019"
+    },
+    {
+        "id": "S8a-020",
+        "cardID": "피카번190볼트210",
+        "name": "피카츄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "볼트태클",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "210",
+                "text": "이 포켓몬에게도 30데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "020",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "HYOGONOSUKE",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_020.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015020"
+    },
+    {
+        "id": "S8a-021",
+        "cardID": "피카번190전기020공중120",
+        "name": "공중날기 피카츄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 190,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "전기쇼크",
+                "cost": "(번개)",
+                "damage": "20",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "공중날기",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "021",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "aky CG Works",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_021.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015021"
+    },
+    {
+        "id": "S8a-022",
+        "cardID": "피카번310다이벌160",
+        "name": "공중날기 피카츄 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "다이벌룬",
+                "cost": "(번개)(무색)(무색)",
+                "damage": "160",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-30"
+        },
+        "retreatCost": 0,
+        "flavorText": "",
+        "number": "022",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "aky CG Works",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_022.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015022"
+    },
+    {
+        "id": "S8a-023",
+        "cardID": "피카번200파도150",
+        "name": "파도타기 피카츄 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 200,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "파도타기",
+                "cost": "(물)(물)(물)",
+                "damage": "150",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "023",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "aky CG Works",
+        "rarity": "RR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_023.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015023"
+    },
+    {
+        "id": "S8a-024",
+        "cardID": "피카번310다이서160",
+        "name": "파도타기 피카츄 VMAX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VMAX"
+        ],
+        "rules": [
+            "포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 310,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "다이서핑",
+                "cost": "(물)(물)(물)",
+                "damage": "160",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "number": "024",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "aky CG Works",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_024.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015024"
+    },
+    {
+        "id": "S8a-025",
+        "cardID": "피카번300유니000찌릿120전자150다함250",
+        "name": "피카츄 V-UNION",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V-UNION"
+        ],
+        "rules": [
+            "포켓몬 V-UNION이 기절한 경우 상대는 프라이즈를 3장 가져간다.",
+            "대전 중에 1번 자신의 차례에 자신의 트래쉬에 있는 4종류의 피카츄 V-UNION을 조합하여 벤치로 내보낸다."
+        ],
+        "hp": 300,
+        "pokemons": [
+            {
+                "name": "피카츄",
+                "pokedexNumber": 25
+            }
+        ],
+        "type": "(번개)",
+        "attacks": [
+            {
+                "name": "유니온게인",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 트래쉬에서 (번개) 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다."
+            },
+            {
+                "name": "찌릿찌릿쇼크",
+                "cost": "(번개)(무색)",
+                "damage": "120",
+                "text": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
+            },
+            {
+                "name": "전자장해",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "150",
+                "text": "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
+            },
+            {
+                "name": "다함께 일렉트릭볼",
+                "cost": "(번개)(번개)(무색)",
+                "damage": "250",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "number": "025",
+        "prodNumber": "028",
+        "prodCode": "S8a",
+        "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8a.png",
+        "prodName": "소드&실드 확장팩 「25th ANNIVERSARY COLLECTION」",
+        "artist": "5ban Graphics 외 24인",
+        "rarity": "RRR",
+        "regulationMark": "E",
+        "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8a/S8a_025.png?w=512",
+        "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021015025"
+    }
+]

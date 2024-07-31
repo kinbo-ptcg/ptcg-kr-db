@@ -1,0 +1,357 @@
+[
+    {
+        "id": "bw2-022",
+        "cardID": "탱탱물110저주하이010",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "하이드로펌프",
+                "cost": "(무색)(무색)",
+                "damage": "10+",
+                "text": "이 포켓몬에게 붙어 있는 (물) 에너지의 개수 × 20데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "저주받은바디",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "탱탱겔의 거처로 길을 잃고 들어간 배는 가라앉으며 승무원의 생명이 흡수되어 버린다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "066",
+                "prodCode": "bw2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw2.png",
+                "prodName": "BW 확장팩 제2탄 「레드 컬렉션」",
+                "artist": "Kagemaru Himeno",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW2/bw2_red_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2011003022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw3p-020",
+        "cardID": "탱탱물120원한000생명030",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "원한의마음",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 이전 차례에 이 포켓몬이 받은 기술의 데미지와 같은 데미지를 상대의 배틀 포켓몬에게 준다."
+            },
+            {
+                "name": "생명흡수",
+                "cost": "(물)(물)(무색)",
+                "damage": "30",
+                "text": "이 포켓몬의 HP를 「30」회복한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸에 빨아들인 바닷물을 기운차게 뿜어내며 전진한다. 생명 에너지를 매우 좋아한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "020",
+                "prodNumber": "052",
+                "prodCode": "bw3p",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw3p.png",
+                "prodName": "BW 확장팩 제3탄 「사이코 드라이브」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGR/bw3_pd_020.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012002020",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bw6f-022",
+        "cardID": "탱탱물100점착괴상040",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "괴상한빛",
+                "cost": "(물)(무색)(무색)",
+                "damage": "40",
+                "text": "동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "점착력",
+                "text": "이 포켓몬이 있는 한 상대의 포켓몬 전원의 후퇴에 필요한 에너지는 각각 1개만큼 많아진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸 대부분이 해수다. 해저에는 탱탱겔이 가라앉힌 배로 만들어진 성이 있다고 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "022",
+                "prodNumber": "059",
+                "prodCode": "bw6f",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw6f.png",
+                "prodName": "BW 확장팩 제6탄 「프리즈볼트」",
+                "artist": "Kouki Saitou",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW6/bw6_freezevolt_022.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012008022",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bgb-003",
+        "cardID": "탱탱물100원한아쿠040",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "아쿠아불릿",
+                "cost": "(물)(무색)",
+                "damage": "40",
+                "text": "상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에게도 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "원한구슬",
+                "text": "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 기술을 사용한 포켓몬을 독과 혼란으로 만든다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "몸 대부분이 해수다. 해저에는 탱탱겔이 가라앉힌 배로 만들어진 성이 있다고 한다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "003",
+                "prodNumber": "018",
+                "prodCode": "bgb",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bgb.png",
+                "prodName": "BW 「배틀 강화 60장 덱 - 블랙큐레무 EX」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BGB/bgb_003.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013002003",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "xy4-021",
+        "cardID": "탱탱물100참견000휘감050",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "참견",
+                "cost": "(물)",
+                "damage": "",
+                "text": "상대의 트래쉬에서 에너지를 3장 선택해서 상대의 포켓몬에게 원하는 대로 붙인다."
+            },
+            {
+                "name": "휘감기는 물보라",
+                "cost": "(물)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(풀)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "몸 대부분이 해수다. 해저에는 탱탱겔이 가라앉힌 배로 만들어진 성이 있다고 한다.",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "021",
+                "prodNumber": "088",
+                "prodCode": "xy4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy4.png",
+                "prodName": "XY 확장팩 제4탄 「팬텀게이트」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY4/XY4_021.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2014004021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S5R-028",
+        "cardID": "탱탱물120세디010",
+        "name": "탱탱겔",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "탱탱겔",
+                "pokedexNumber": 593
+            }
+        ],
+        "type": "(물)",
+        "attacks": [
+            {
+                "name": "세디먼트싱크",
+                "cost": "(물)(물)",
+                "damage": "10×",
+                "text": "자신의 트래쉬에 있는 (물) 에너지의 장수 × 10데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(번개)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "보름달이 뜨면 무리를 거느리고 해수면에 모습을 드러낸다. 먹이가 오기를 기다리는 것이다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "028",
+                "prodNumber": "070",
+                "prodCode": "S5R",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S5R.png",
+                "prodName": "소드&실드 확장팩 「연격마스터」",
+                "artist": "Tomokazu Komiya",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S5/S5R_028.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021002028",
+                "debug": "1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1122 @@
+[
+    {
+        "id": "bw5t-039",
+        "cardID": "기라드180찢기090용의130",
+        "name": "기라티나 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "찢기",
+                "cost": "(풀)(초)(무색)",
+                "damage": "90",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다."
+            },
+            {
+                "name": "용의파동",
+                "cost": "(풀)(초)(무색)(무색)",
+                "damage": "130",
+                "text": "자신의 덱을 위에서부터 3장 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(드래곤)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "039",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "Eske Yoshinob",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_039.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005039",
+                "debug": "1"
+            },
+            {
+                "number": "053",
+                "prodNumber": "050",
+                "prodCode": "bw5t",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw5t.png",
+                "prodName": "BW 확장팩 제5탄 「드래곤 블라스트」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW5/bw5_blast_053.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2012005053",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "bw7-035",
+        "cardID": "기라초130병상050섀도090",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "병상첨병",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 50데미지를 추가한다."
+            },
+            {
+                "name": "섀도크루",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "90",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "난폭하다는 이유로 쫓겨났지만 깨어진 세계라고 전해지는 장소에서 조용히 원래 세계를 보고 있었다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "035",
+                "prodNumber": "070",
+                "prodCode": "bw7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bw7.png",
+                "prodName": "BW 확장팩 제7탄 「플라스마게일」",
+                "artist": "5ban Graphics",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/BW7/bw7_035.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2013001035",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "xy7-057",
+        "cardID": "기라드170반골카오100",
+        "name": "기라티나 EX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "EX"
+        ],
+        "rules": [
+            "포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 170,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "카오스휠",
+                "cost": "(풀)(초)(무색)(무색)",
+                "damage": "100",
+                "text": "상대의 다음 차례에 상대는 패에서 「포켓몬의 도구」「특수 에너지」를 꺼내서 붙일 수 없으며 「스타디움」도 내려놓을 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "반골의파동",
+                "text": "이 포켓몬은 상대의 [M진화] 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "057",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "PLANETA",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_057.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005057",
+                "debug": "1"
+            },
+            {
+                "number": "091",
+                "prodNumber": "081",
+                "prodCode": "xy7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/xy7.png",
+                "prodName": "XY 확장팩 제7탄 「밴디트링」",
+                "artist": "Ryo Ueda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/XY7/XY7_091.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2015005091",
+                "debug": "2"
+            },
+            {
+                "number": "091",
+                "prodNumber": "131",
+                "prodCode": "cp4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/cp4.png",
+                "prodName": "XY BREAK 확장팩 「프리미엄 챔피언팩」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/CP4/CP4_091.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2016004091",
+                "debug": "2"
+            },
+            {
+                "number": "098",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "PLANETA",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_098.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707098",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "smxy-048",
+        "cardID": "기라초130빛삼섀도110",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도크루",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "110",
+                "text": "상대의 벤치 포켓몬 전원에게도 각각 후퇴에 필요한 에너지의 개수× 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "빛삼키기",
+                "text": "M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "XY"
+        ],
+        "version_infos": [
+            {
+                "number": "048",
+                "prodNumber": "171",
+                "prodCode": "smxy",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/smxy.png",
+                "prodName": "하이클래스팩 「THE BEST OF XY」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SMXY/SMXY_048.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS201707048",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-058",
+        "cardID": "기라초160카오크라160",
+        "name": "기라티나 ◇",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "프리즘스타"
+        ],
+        "rules": [
+            "같은 이름의 (프리즘스타) (프리즘스타)의 카드는 덱에 1장만 넣을 수 있다. 트래쉬가 아닌 로스트존에 둔다."
+        ],
+        "hp": 160,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "크라이시스 다이브",
+                "cost": "(초)(초)(초)(초)",
+                "damage": "160",
+                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "카오틱스타",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 자신의 패에 있는 (초) 에너지를 2장 이 포켓몬에게 붙인다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "난폭하다는 이유로 쫓겨났지만 깨어진 세계라고 전해지는 장소에서 조용히 원래 세계를 보고 있었다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "030",
+                "prodNumber": "066",
+                "prodCode": "sm5m",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm5m.png",
+                "prodName": "썬&문 확장팩 제5탄 「울트라문」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM5M/SM5M_030.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018002030",
+                "debug": "2"
+            },
+            {
+                "number": "058",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Masakazu Fukuda",
+                "rarity": "PR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_058.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017058",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-057",
+        "cardID": "기라초130깨어섀도130",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도임팩트",
+                "cost": "(초)(초)(무색)",
+                "damage": "130",
+                "text": "자신의 포켓몬 1마리에게 데미지 카운터를 4개 올린다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "깨어진 문",
+                "text": "이 카드가 트래쉬에 있다면 자신의 차례에 1번 사용할 수 있다. 이 카드를 벤치로 내보낸다. 그 뒤, 상대의 벤치 포켓몬 2마리에게 각각 데미지 카운터를 1개 올린다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "난폭하다는 이유로 쫓겨났지만 깨어진 세계라고 전해지는 장소에서 조용히 원래 세계를 보고 있었다.",
+        "regulationMark": [
+            "B"
+        ],
+        "version_infos": [
+            {
+                "number": "017",
+                "prodNumber": "050",
+                "prodCode": "sm7b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm7b.png",
+                "prodName": "썬&문 강화 확장팩 「페어리라이즈」",
+                "artist": "Hasuno",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM7B/SM7B_017.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2018009017",
+                "debug": "2"
+            },
+            {
+                "number": "057",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Shin Nagasawa",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_057.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017057",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM12a-099",
+        "cardID": "한카드270직격000컬래160GG000",
+        "name": "한카리아스&기라티나 GX",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "TAG TEAM"
+        ],
+        "rules": [
+            "TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다."
+        ],
+        "hp": 270,
+        "pokemons": [
+            {
+                "name": "한카리아스",
+                "pokedexNumber": 445
+            },
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "직격탄",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "컬래머티에지",
+                "cost": "(초)(격투)(무색)",
+                "damage": "160+",
+                "text": "상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 80데미지를 추가한다."
+            },
+            {
+                "name": "GG엔드GX",
+                "cost": "(초)(초)(격투)(플러스)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리와 붙어 있는 모든 카드를 트래쉬한다. (격투) 에너지 3개가 추가로 붙어 있다면 트래쉬하는 포켓몬의 수는 2마리가 된다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(페어리)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "032",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_032.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010032",
+                "debug": "2"
+            },
+            {
+                "number": "059",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_059.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010059",
+                "debug": "2"
+            },
+            {
+                "number": "060",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Anesaki Dynamic",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_060.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010060",
+                "debug": "2"
+            },
+            {
+                "number": "099",
+                "prodNumber": "173",
+                "prodCode": "SM12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM12a.png",
+                "prodName": "썬&문 하이클래스팩 「TAG TEAM GX 태그올스타즈」",
+                "artist": "Mitsuhiro Arita",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM12a/SM12a_099.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019017099",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "SM10a-016",
+        "cardID": "기라초130차원암흑070",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "암흑",
+                "cost": "(초)(무색)(무색)",
+                "damage": "70",
+                "text": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "차원의 갈고리손톱",
+                "text": "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(격투)",
+            "value": "-20"
+        },
+        "retreatCost": 1,
+        "flavorText": "상식이 통하지 않는 이 세상의 이면에 있다고 불리는 깨어진 세계에 서식한다.",
+        "regulationMark": [
+            "C"
+        ],
+        "version_infos": [
+            {
+                "number": "016",
+                "prodNumber": "054",
+                "prodCode": "SM10a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SM10a.png",
+                "prodName": "썬&문 강화 확장팩 「GG엔드」",
+                "artist": "Misa Tsutsui",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM10a/SM10a_016.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019010016",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S11-080",
+        "cardID": "기라드220어비000찢기160",
+        "name": "기라티나 V",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "V"
+        ],
+        "rules": [
+            "포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 220,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "어비스시크",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱을 위에서부터 4장 보고 그 중에서 카드를 2장 선택해서 패로 가져온다. 남은 카드는 로스트존에 둔다."
+            },
+            {
+                "name": "찢기",
+                "cost": "(풀)(초)(무색)",
+                "damage": "160",
+                "text": "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "080",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014080",
+                "debug": "1"
+            },
+            {
+                "number": "110",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "N-DESIGN Inc.",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014109",
+                "debug": "2"
+            },
+            {
+                "number": "111",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "Shinji Kanda",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_111.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014110",
+                "debug": "2"
+            },
+            {
+                "number": "110",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "PLANETA Mochizuki",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001110",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S11-081",
+        "cardID": "기라드280로스280스타000",
+        "name": "기라티나 VSTAR",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "V진화",
+            "VSTAR"
+        ],
+        "rules": [
+            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 280,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "로스트임팩트",
+                "cost": "(풀)(초)(무색)",
+                "damage": "280",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 2개 선택해서 로스트존에 둔다."
+            },
+            {
+                "name": "스타레퀴엠",
+                "cost": "(풀)(초)",
+                "damage": "",
+                "text": "이 기술은 자신의 로스트존에 카드가 10장 이상 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬을 기절시킨다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "special": "VSTAR"
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "F"
+        ],
+        "version_infos": [
+            {
+                "number": "081",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014081",
+                "debug": "1"
+            },
+            {
+                "number": "120",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_120.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014119",
+                "debug": "2"
+            },
+            {
+                "number": "125",
+                "prodNumber": "100",
+                "prodCode": "S11",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S11.png",
+                "prodName": "소드&실드 확장팩 「로스트어비스」",
+                "artist": "5ban Graphics",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S11/S11_125.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014124",
+                "debug": "2"
+            },
+            {
+                "number": "111",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_111.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001111",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "pss-002",
+        "cardID": "기라초130병상050섀도000",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "플라스마단"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "병상첨병",
+                "cost": "(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 배틀 포켓몬이 특수 상태라면 50데미지를 추가한다."
+            },
+            {
+                "name": "섀도크루",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "난폭하다는 이유로 쫓겨났지만 깨어진 세계라고 전해지는 장소에서 조용히 원래 세계를 보고 있었다.",
+        "regulationMark": [
+            "BW"
+        ],
+        "version_infos": [
+            {
+                "number": "002",
+                "prodNumber": "016",
+                "prodCode": "pss",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/pss.png",
+                "prodName": "BW 「플라스마단 덱」",
+                "artist": "5ban Graphics",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/BW/PSS/pss_002.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/ST2013004002",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "DP-P-10",
+        "cardID": "기라초100오버000검은020두들060",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "오버슬래시",
+                "cost": "(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 10데미지를 준다."
+            },
+            {
+                "name": "검은날갯짓",
+                "cost": "(초)(초)",
+                "damage": "20",
+                "text": "상대의 패에서 앞면을 보지 않고 카드를 1장 선택한다. 그 뒤 그 카드를 보고나서 상대의 덱으로 되돌리고 덱을 섞는다."
+            },
+            {
+                "name": "두들겨 부수기",
+                "cost": "(초)(무색)(무색)",
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "10",
+                "prodNumber": "DP-P",
+                "prodCode": "DP-P",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/dppromo.png",
+                "prodName": "DP 프로모 카드",
+                "artist": "Hajime Kusajima",
+                "rarity": "P",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/PROMO/pr_kr_10.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/PR2010001010",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs3-15",
+        "cardID": "기라초100섀도000잔혹050",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 100,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "섀도다이브",
+                "cost": "(초)(무색)",
+                "damage": "",
+                "text": "상대의 벤치 포켓몬 1마리에게 20데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술의 데미지나 효과를 받지 않는다."
+            },
+            {
+                "name": "잔혹한 칼날",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "50+",
+                "text": "상대의 데미지 카운터의 수 × 10데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "이 세상의 이면에 있는 세상에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "15",
+                "prodNumber": "60",
+                "prodCode": "bs3",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs3.png",
+                "prodName": "DP 확장팩 시공의 격돌",
+                "artist": "Kazuaki Aihara",
+                "rarity": "H",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS3/bs3_ko_15.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010003015",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs4-21",
+        "cardID": "기라초110드래030용의080",
+        "name": "기라티나",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 110,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "드래곤크루",
+                "cost": "(무색)(무색)",
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "용의숨결",
+                "cost": "(초)(초)(무색)",
+                "damage": "80",
+                "text": "동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대를 마비로 만든다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(악)",
+            "value": "30"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 2,
+        "flavorText": "이 세상의 이면에 있는 세상에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "21",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Yusuke Ishikawa",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_21.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004021",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "bs4-22",
+        "cardID": "기라초130보이다크000",
+        "name": "기라티나 LV.X",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "레벨업"
+        ],
+        "rules": [
+            "이 카드는 배틀필드의 기라티나에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다."
+        ],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "기라티나",
+                "pokedexNumber": 487
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "다크로스트",
+                "cost": "(초)(초)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 전원에게 각각 30데미지를 준다. 이 기술의 데미지로 상대의 포켓몬을 기절시켰다면 그 포켓몬과 그 포켓몬에게 붙어 있는 모든 카드는 트래쉬가 아닌 상대의 로스트존에 둔다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "보이지않는 촉수",
+                "text": "상대의 포켓몬은 기술을 사용할 때 상대 플레이어가 패를 1장 트래쉬해야만 기술을 사용할 수 있다. 자신의 필드에서 이미 다른 「보이지않는 촉수」가 작용하고 있다면 이 포켓바디는 작용하지 않는다.",
+                "type": "포켓바디"
+            }
+        ],
+        "weakness": {
+            "type": "(악)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(무색)",
+            "value": "-20"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "DP"
+        ],
+        "version_infos": [
+            {
+                "number": "22",
+                "prodNumber": "40",
+                "prodCode": "bs4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/bs4.png",
+                "prodName": "DP 확장팩 또 다른 세계",
+                "artist": "Shizurow",
+                "rarity": "HR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/DP/BS4/bs4_ko_22.jpg?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2010004022",
+                "debug": "1"
+            }
+        ]
+    }
+]
