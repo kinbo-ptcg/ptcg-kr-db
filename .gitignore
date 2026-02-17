@@ -1,3 +1,6 @@
 **/__pycache__/
 card_img/img/
 card_img/*.py
+
+# Generated SQLite database (rebuild with: python database/import_data.py)
+database/*.db

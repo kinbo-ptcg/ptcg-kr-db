@@ -1,6 +1,7 @@
 import json
 import time
 import os
+from datetime import datetime
 
 import do_scraping
 
@@ -545,7 +546,7 @@ def parse_Night():
 # prodNum이 50넘는걸 팩이라 간주하고 이것들의 끝번호부터 시작해서 파싱
 def parse_SV_Rares():
     url_head_ori = 'https://pokemoncard.co.kr/cards/detail/BS'
-    years = ['2023','2024']
+    years = [str(y) for y in range(2023, datetime.now().year + 1)]
     vers = list(range(1,24))
     
     for year in years:

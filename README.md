@@ -1,44 +1,45 @@
-# 개요
+# Overview
 
-본 레포지토리는 한국 포켓몬 카드 게임 공식 홈페이지의 [카드검색 페이지](https://pokemoncard.co.kr/cards)를 스크래핑하고, 이 정보를 가공하는 것을 목적으로 합니다.
-이를 자유롭게 서비스나 어플리케이션 개발에 이용해주세요.
+This repository scrapes the [card search page](https://pokemoncard.co.kr/cards) from the official Korean Pokémon Trading Card Game website and processes the collected data.
+Feel free to use this for your services or application development.
 
-내용에 오류가 있다면 kinkyuboard@gmail.com 으로 연락주시면 감사하겠습니다.
+If you find any errors in the data, please contact kinkyuboard@gmail.com.
 
-## 갱신내역
-(2024-07-29 ver0.0) DP 모험의 시작 ~ SV 배틀마스터 덱 리자몽 ex, 파오젠 ex 파싱완료
+## Changelog
 
-(2024-08-17 ver1.0) 나이트 원더러 카드정보 추가, 누락 데이터 추가
+(2024-07-29 ver0.0) Parsing completed from DP Adventure Start through SV Battle Master Deck Charizard ex, Ting-Lu ex
 
-(2024-08-22 ver1.1) 누락 고레어 카드 데이터 추가
+(2024-08-17 ver1.0) Added Night Wanderer card data, added missing data
 
-(2024-09-26 ver2.0) 스텔라미라클 카드정보 추가, 나이트 원더러 고레어 카드 추가, 누락 데이터 추가, card_data의 versions_info의 각 항목에도 레귤레이션 정보 추가, 각종 통계를 볼수있는 코드 추가(./src/ptcg_kr_re_classify/stats/), 그외 업데이트 편의성을 위한 수정 들어감.
+(2024-08-22 ver1.1) Added missing high-rarity card data
 
-(2024-09-26 ver2.1) 울트라비스트 subtype 도입
+(2024-09-26 ver2.0) Added Stellar Miracle card data, added Night Wanderer high-rarity cards, added missing data, added regulation info to each entry in versions_info in card_data, added code for viewing various statistics (./src/ptcg_kr_re_classify/stats/), and other updates for improved maintainability.
 
-# 디렉토리 설명
+(2024-09-26 ver2.1) Introduced Ultra Beast subtype
 
-각 디렉토리는 다음과 같은 정보를 가지고 있습니다.
+# Directory Description
 
-- card_data : 포켓몬별, 트레이너즈 종류별, 에너지별 카드의 상세정보
-- card_data_product : 각 상품에 들어있는 카드의 상세정보
-- product_data : 각 상품의 상세정보 (출시일, 가격, 카드리스트 등)
-- supply_data : 공식 서플라이의 상세정보
-- src : 이를 얻기위해 사용한 코드와 raw데이터들
+Each directory contains the following information:
 
-각 디렉토리의 root에 있는 README에 더욱 상세한 설명이 적혀있습니다.
+- card_data : Detailed card information organized by Pokémon, Trainer type, and Energy
+- card_data_product : Detailed card information organized by product/set
+- product_data : Detailed product information (release dates, prices, card lists, etc.)
+- supply_data : Detailed information on official supply products
+- src : Source code and raw data used to generate the above
 
-!!! 주의 : 코드를 다시 정리했기 때문에 작동이 안되는 경우가 있을 수 있습니다.
+See the README in each directory root for more detailed explanations.
 
-# cardID　에 대해
+!!! Warning: Some scripts may not work correctly as the code has been reorganized.
 
-일러스트, 수록팩이 다르지만 카드의 성능이 완전히 동일한 카드를 키워드로 묶기위해
-cardID라는 것을 도입했다.
+# About cardID
 
-기본적으로 포켓몬카드가 아닌 카드의 cardID는 카드의 이름과 동일하다.
-포켓몬카드의 경우에는 {포켓몬이름2자}{타입1자}{체력3자}(첫번째특수능력이름2자)({i번째기술이름2자}{데미지3자})_{i=1~len}
-라는 룰로 정해진다.
+To group cards that have different illustrations and set prints but are functionally identical, a `cardID` system has been introduced.
 
-간혹, 이 룰을 지키지 않는 카드가 존재하는데 이는 다음과 같은 이유에서이다
-- 저 방법으로도 구분이 되지 않는 카드의 경우, 첫번째기술의 이름을 3글자까지 사용한다
-- 완전히 같은데 레귤레이션만 다른 포켓몬의 카드가 A,B,C레규레이션에 20여장 존재한다. 이때는 가장 마지막에 레귤레이션마크를 추가했다.
+For non-Pokémon cards, the cardID is simply the card's name.
+
+For Pokémon cards, the rule is:
+`{first 2 chars of Pokémon name}{first char of type}{HP (3 digits)}{first 2 chars of first ability name}{first 2 chars of i-th attack name}{damage (3 digits)}` for i = 1 to len(attacks)
+
+There are some cards that do not follow this rule, for the following reasons:
+- If cards still cannot be distinguished using the above method, the first 3 characters of the first attack name are used instead.
+- There are approximately 20 cards whose stats are completely identical but have different regulation marks in the A, B, and C regulations. For these, the regulation mark is appended at the end.
